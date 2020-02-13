@@ -95,18 +95,18 @@
 			$membersText = $members->next_sibling()->plaintext;
 
 			//Type I Classification
-			$type_I = $content->find('h2')[8];
-			$type_I_Title = $content->find('h2')[8]->plaintext;
+			$type_I = $content->find('h2')[9];
+			$type_I_Title = $content->find('h2')[9]->plaintext;
 			$type_I_Text = $type_I->next_sibling()->plaintext;
 
 			//Type II Classification
-			$type_II = $content->find('h2')[8];
-			$type_II_Title = $content->find('h2')[8]->plaintext;
+			$type_II = $content->find('h2')[10];
+			$type_II_Title = $content->find('h2')[10]->plaintext;
 			$type_II_Text = $type_II->next_sibling()->plaintext;
 
 			//Type III Classification
-			$type_III = $content->find('h2')[8];
-			$type_III_Title = $content->find('h2')[8]->plaintext;
+			$type_III = $content->find('h2')[11];
+			$type_III_Title = $content->find('h2')[11]->plaintext;
 			$type_III_Text = $type_III->next_sibling()->plaintext;
 
 			echo $title . "<br>";
