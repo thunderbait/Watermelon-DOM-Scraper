@@ -84,6 +84,11 @@
 			$consultativeTitle = $content->find('h2')[6]->plaintext;
 			$consultativeText = $consultative->next_sibling()->plaintext;
 
+			//Relationships with NGO's
+			$ngo = $content->find('h2')[7];
+			$ngoTitle = $content->find('h2')[7]->plaintext;
+			$ngoText = $ngo->next_sibling()->plaintext;
+
 
 
 			echo $title . "<br>";
@@ -97,6 +102,9 @@
 			echo $financingText . "<br>";
 			echo $consultative . "<br>";
 			echo $consultativeText . "<br>";
+			echo $ngo . "<br>";
+			echo $ngoText . "<br>";
+
 
 
 			?>
