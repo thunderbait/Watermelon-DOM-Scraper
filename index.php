@@ -124,8 +124,6 @@
 			echo $ngoText . "<br>";
 			echo $members ;
 			echo $membersText . "<br>";
-			echo $type ;
-			echo $typeText . "<br>";
 			echo $type_I ;
 			echo $type_I_Text . "<br>";
 			echo $type_II ;
