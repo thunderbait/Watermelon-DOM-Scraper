@@ -89,21 +89,50 @@
 			$ngoTitle = $content->find('h2')[7]->plaintext;
 			$ngoText = $ngo->next_sibling()->plaintext;
 
+			//Members
+			$members = $content->find('h2')[8];
+			$membersTitle = $content->find('h2')[8]->plaintext;
+			$membersText = $members->next_sibling()->plaintext;
 
+			//Type I Classification
+			$type_I = $content->find('h2')[8];
+			$type_I_Title = $content->find('h2')[8]->plaintext;
+			$type_I_Text = $type_I->next_sibling()->plaintext;
+
+			//Type II Classification
+			$type_II = $content->find('h2')[8];
+			$type_II_Title = $content->find('h2')[8]->plaintext;
+			$type_II_Text = $type_II->next_sibling()->plaintext;
+
+			//Type III Classification
+			$type_III = $content->find('h2')[8];
+			$type_III_Title = $content->find('h2')[8]->plaintext;
+			$type_III_Text = $type_III->next_sibling()->plaintext;
 
 			echo $title . "<br>";
-			echo $history . "<br>";
+			echo $history ;
 			echo $historyText . "<br>";
-			echo $aims . "<br>";
+			echo $aims ;
 			echo $aimsText . "<br>";
-			echo $events . "<br>";
+			echo $events; 
 			echo $eventsText . "<br>";
-			echo $financing . "<br>";
+			echo $financing;
 			echo $financingText . "<br>";
-			echo $consultative . "<br>";
+			echo $consultative;
 			echo $consultativeText . "<br>";
-			echo $ngo . "<br>";
+			echo $ngo ;
 			echo $ngoText . "<br>";
+			echo $members ;
+			echo $membersText . "<br>";
+			echo $type ;
+			echo $typeText . "<br>";
+			echo $type_I ;
+			echo $type_I_Text . "<br>";
+			echo $type_II ;
+			echo $type_II_Text . "<br>";
+			echo $type_III ;
+			echo $type_III_Text . "<br>";
+
 
 
 
