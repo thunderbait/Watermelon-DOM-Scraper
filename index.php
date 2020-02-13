@@ -79,6 +79,10 @@
 			$financingTitle = $content->find('h2')[5]->plaintext;
 			$financingText = $financing->next_sibling()->plaintext;
 
+			//Consultative Status
+			$consultative = $content->find('h2')[6];
+			$consultativeTitle = $content->find('h2')[6]->plaintext;
+			$consultativeText = $consultative->next_sibling()->plaintext;
 
 
 
@@ -91,6 +95,8 @@
 			echo $eventsText . "<br>";
 			echo $financing . "<br>";
 			echo $financingText . "<br>";
+			echo $consultative . "<br>";
+			echo $consultativeText . "<br>";
 
 
 			?>
