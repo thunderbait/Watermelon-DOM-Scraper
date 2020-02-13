@@ -50,13 +50,35 @@
 
 			$dom = str_get_html($html);
 
-			$main = $dom->find('#main')[0];
+			$content = $dom->find('#content')[0];
 
-			$events = $main->find('p')[7];
+			$title = $content->find('.title')[0]->plaintext;
+			$history = $content->find('h2')[1];
+			$historyTitle = $content->find('h2')[1]->plaintext;
+			$historyText = $history->next_sibling()->plaintext;
 
-			echo $events;
+			$aims = $content->find('h2')[2];
+			$aimsTitle = $content->find('h2')[2]->plaintext;
+			$aimsText = $aims->next_sibling()->plaintext;
+
+			$events = $content->find('h2')[3];
+			$eventsTitle = $content->find('h2')[3]->plaintext;
+			$eventsText = $events->next_sibling()->plaintext;
+
+			$structure = $content->find('h2')[4];
+			$structureTitle = $content->find('h2')[4]->plaintext;
+			$structureText = $structure->next_sibling()->plaintext;
 
 
+
+
+			echo $title . "<br>";
+			echo $history . "<br>";
+			echo $historyText . "<br>";
+			echo $aims . "<br>";
+			echo $aimsText . "<br>";
+			echo $events . "<br>";
+			echo $eventsText . "<br>";
 
 
 			?>
