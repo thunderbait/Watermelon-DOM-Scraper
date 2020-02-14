@@ -93,9 +93,9 @@
         $type_II_Text = $type_II->next_sibling()->plaintext;
 
         //Type III Classification
-        $type_III = $content->find('h2')[11];
+        /*$type_III = $content->find('h2')[11];
         $type_III_Title = $content->find('h2')[11]->plaintext;
-        $type_III_Text = $type_III->next_sibling()->plaintext;
+        $type_III_Text = $type_III->next_sibling()->plaintext;*/
 
         echo $title . "<br>";
         echo $history;
@@ -116,8 +116,8 @@
         echo $type_I_Text . "<br>";
         echo $type_II;
         echo $type_II_Text . "<br>";
-        echo $type_III;
-        echo $type_III_Text . "<br>";
+        /*echo $type_III;
+        echo $type_III_Text . "<br>";*/
 
     }
 
