@@ -40,6 +40,11 @@
 
         $content = $dom->find('#content')[0];
 
+        $contactDetailsDiv = $content->find('div[style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;"]')[0];
+        $contactDetailsTitle = $contactDetailsDiv->find('h2')[0]->plaintext;
+        $contactDetailsText = $contactDetailsDiv->find('p')[0]->plaintext;
+        $websiteURL = $contactDetailsDiv->find('a[href*]')[0]->plaintext;
+
         $title = $content->find('.title')[0]->plaintext;
 
         // History
@@ -98,6 +103,9 @@
         $type_III_Text = $type_III->next_sibling()->plaintext;*/
 
         echo "<h1>" . $title . "</h1><br>";
+        echo $contactDetailsTitle;
+        echo $contactDetailsText . "<br>";
+        echo $websiteURL . "<br>";
         echo $history;
         echo $historyText . "<br>";
         echo $aims;
