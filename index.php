@@ -43,7 +43,7 @@
         $contactDetailsDiv = $content->find('div[style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;"]')[0];
         $contactDetailsTitle = $contactDetailsDiv->find('h2')[0]->plaintext;
         $contactDetailsText = $contactDetailsDiv->find('p')[0]->plaintext;
-        $websiteURL = $contactDetailsDiv->find('a[href*]')[0]->plaintext;
+        $websiteURL = $contactDetailsDiv->find('a[title*="Click to access page"]')[0]->plaintext;
 
         $title = $content->find('.title')[0]->plaintext;
 
@@ -102,24 +102,24 @@
         $type_III_Title = $content->find('h2')[11]->plaintext;
         $type_III_Text = $type_III->next_sibling()->plaintext;*/
 
-        echo "<h1>" . $title . "</h1><br>";
-        echo $contactDetailsTitle;
+        echo "<h1>" . $title . "</h1>";
+        echo "<h2>" . $contactDetailsTitle . "</h2>";
         echo $contactDetailsText . "<br>";
         echo $websiteURL . "<br>";
         echo $history;
-        echo $historyText . "<br>";
+        echo $historyText;
         echo $aims;
-        echo $aimsText . "<br>";
+        echo $aimsText;
         echo $events;
-        echo $eventsText . "<br>";
+        echo $eventsText;
         echo $financing;
-        echo $financingText . "<br>";
+        echo $financingText;
         echo $consultative;
-        echo $consultativeText . "<br>";
+        echo $consultativeText;
         echo $ngo;
-        echo $ngoText . "<br>";
+        echo $ngoText;
         echo $members;
-        echo $membersText . "<br>";
+        echo $membersText;
         /*echo $type_I;
         echo $type_I_Text . "<br>";
         echo $type_II;
