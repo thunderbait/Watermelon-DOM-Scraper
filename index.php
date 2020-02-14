@@ -27,16 +27,15 @@
     }
 
     $profiles = [];
-    $filename = 'uia_testing_real.csv';
 
     $file = fopen('uia_testing_real.csv', 'r');
     while (($data = fgetcsv($file)) !== FALSE) {
-        $profiles[] = $data;
+        array_push($profiles, $data);
     }
     fclose($file);
 
-    foreach ($profiles as $profile) {
-        $html = curl_download($profile);
+    for ($i = 0; $i < sizeof($profiles); $i++) {
+        $html = curl_download($profiles[$i][0]);
         $dom = str_get_html($html);
 
         $content = $dom->find('#content')[0];
