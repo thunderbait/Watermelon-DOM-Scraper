@@ -1,5 +1,5 @@
 <?php
-    include('simple_html_dom.php');
+include('simple_html_dom.php');
 ?>
 <!DOCTYPE html>
 <html>
@@ -41,11 +41,28 @@
         $content = $dom->find('#content')[0];
 
         $contactDetailsDiv = $content->find('div[style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;"]')[0];
-        $contactDetailsTitle = $contactDetailsDiv->find('h2')[0]->plaintext;
-        $contactDetailsText = $contactDetailsDiv->find('p')[0]->plaintext;
+        //$contactDetailsTitle = $contactDetailsDiv->find('h2')[0]->plaintext;
+        //$contactDetailsText = $contactDetailsDiv->find('p')[0]->plaintext;
         $websiteURL = $contactDetailsDiv->find('a[title*="Click to access page"]')[0]->plaintext;
 
         $title = $content->find('.title')[0]->plaintext;
+        echo "<h1>" . $title . "</h1>";
+        //echo "<h2>" . $contactDetailsTitle . "</h2>";
+        //echo $contactDetailsText . "<br>";
+        echo $websiteURL . "<br>";
+
+        /*for ($i = 0; $i < count($content->find('h2')); $i++) {
+            $item = $content->find('h2')[$i];
+            $itemTitle = $content->find('h2')[$i]->plaintext;
+            $itemText = $item->next_sibling()->plaintext;
+                echo $item;
+                echo $itemText . "<br>";
+        }*/
+
+        // Contact Details
+        $contactDetails = $content->find('h2')[0];
+        $contactDetailsTitle = $content->find('h2')[0]->plaintext;
+        $contactDetailsText = $contactDetails->next_sibling()->plaintext;
 
         // History
         $history = $content->find('h2')[1];
@@ -86,8 +103,8 @@
         $members = $content->find('h2')[8];
         $membersTitle = $content->find('h2')[8]->plaintext;
         $membersText = $members->next_sibling()->plaintext;
-
-        /*//Type I Classification
+/*
+        //Type I Classification
         $type_I = $content->find('h2')[9];
         $type_I_Title = $content->find('h2')[9]->plaintext;
         $type_I_Text = $type_I->next_sibling()->plaintext;
@@ -95,14 +112,14 @@
         //Type II Classification
         $type_II = $content->find('h2')[10];
         $type_II_Title = $content->find('h2')[10]->plaintext;
-        $type_II_Text = $type_II->next_sibling()->plaintext;*/
+        $type_II_Text = $type_II->next_sibling()->plaintext;
 
         //Type III Classification
-        /*$type_III = $content->find('h2')[11];
+        $type_III = $content->find('h2')[11];
         $type_III_Title = $content->find('h2')[11]->plaintext;
         $type_III_Text = $type_III->next_sibling()->plaintext;*/
 
-        echo "<h1>" . $title . "</h1>";
+        //echo "<h1>" . $title . "</h1>";
         echo "<h2>" . $contactDetailsTitle . "</h2>";
         echo $contactDetailsText . "<br>";
         echo $websiteURL . "<br>";
@@ -120,11 +137,11 @@
         echo $ngoText;
         echo $members;
         echo $membersText;
-        /*echo $type_I;
+/*        echo $type_I;
         echo $type_I_Text . "<br>";
         echo $type_II;
-        echo $type_II_Text . "<br>";*/
-        /*echo $type_III;
+        echo $type_II_Text . "<br>";
+        echo $type_III;
         echo $type_III_Text . "<br>";*/
 
     }
