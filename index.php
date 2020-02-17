@@ -280,6 +280,45 @@ include('simple_html_dom.php');
                 echo 'null';
             }
         }
+
+        if ($content->find('h2')[16] !== null) {
+            $item16 = $content->find('h2')[16];
+            $itemTitle16 = $content->find('h2')[16]->plaintext;
+            echo $item16;
+
+            if ($item16->next_sibling() !== null) {
+                $itemText16 = $item16->next_sibling()->plaintext;
+                echo $itemText16 . "<br>";
+            } else {
+                echo 'null';
+            }
+        }
+
+        if ($content->find('h2')[17] !== null) {
+            $item17 = $content->find('h2')[17];
+            $itemTitle17 = $content->find('h2')[17]->plaintext;
+            echo $item17;
+
+            if ($item17->next_sibling() !== null) {
+                $itemText17 = $item17->next_sibling()->plaintext;
+                echo $itemText17 . "<br>";
+            } else {
+                echo 'null';
+            }
+        }
+
+        if ($content->find('h2')[18] !== null) {
+            $item18 = $content->find('h2')[18];
+            $itemTitle18 = $content->find('h2')[18]->plaintext;
+            echo $item18;
+
+            if ($item18->next_sibling() !== null) {
+                $itemText18 = $item18->next_sibling()->plaintext;
+                echo $itemText18 . "<br>";
+            } else {
+                echo 'null';
+            }
+        }
     }
 
     ?>
