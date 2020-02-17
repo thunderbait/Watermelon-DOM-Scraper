@@ -37,7 +37,7 @@ include('simple_html_dom.php');
     }
     fclose($file);
 
-    for ($i = 87; $i < sizeof($profiles); $i++) {
+    for ($i = 0; $i < sizeof($profiles); $i++) {
         $html = curl_download($profiles[$i][0]);
         $dom = str_get_html($html);
         echo $i;
