@@ -14,6 +14,8 @@ include('simple_html_dom.php');
 <div class="page">
     <?php
 
+    ini_set('max_execution_time', 600);
+
     function curl_download($Url)
     {
         if (!function_exists('curl_init')) {
@@ -35,7 +37,7 @@ include('simple_html_dom.php');
     }
     fclose($file);
 
-    for ($i = 57; $i < sizeof($profiles); $i++) {
+    for ($i = 87; $i < sizeof($profiles); $i++) {
         $html = curl_download($profiles[$i][0]);
         $dom = str_get_html($html);
         echo $i;
@@ -347,7 +349,7 @@ include('simple_html_dom.php');
 		$financingText = $financingTitle. '-' . $financingText;
 		$ngoText = $ngoTitle. '-' . $ngoText;
 		$membersText = $membersTitle. '-' . $membersText;
-		$contactDetailsText = $consultativeTitle. '-' . $contactDetailsText;
+        $consultativeText = $consultativeTitle. '-' . $consultativeText;
 		$type_I_Text = $type_I_Title. '-' . $type_I_Text;
 		$type_II_Text = $type_II_Title. '-' . $type_II_Text;
 		$type_III_Text = $type_III_Title. '-' . $type_III_Text;
