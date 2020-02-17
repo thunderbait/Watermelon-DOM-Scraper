@@ -31,7 +31,7 @@ include('simple_html_dom.php');
 
     $profiles = [];
 
-    $file = fopen('uia_testing_real.csv', 'r');
+    $file = fopen('uia_cluster4.csv', 'r');
     while (($data = fgetcsv($file)) !== FALSE) {
         array_push($profiles, $data);
     }
