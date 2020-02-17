@@ -14,7 +14,7 @@ include('simple_html_dom.php');
 <div class="page">
     <?php
 
-    ini_set('max_execution_time', 600);
+    ini_set('max_execution_time', 59000);
 
     function curl_download($Url)
     {
