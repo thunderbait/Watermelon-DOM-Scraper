@@ -55,7 +55,7 @@ include('simple_html_dom.php');
         //echo "<h2>" . $contactDetailsTitle . "</h2>";
         //echo $contactDetailsText . "<br>";
 
-        // echo count($content->find('h2'));
+        echo count($content->find('h2'));
 
         /*for ($i = 0; $i < count($content->find('h2')); $i++) {
             if ($content->find('h2')[$i] !== null) {
@@ -73,7 +73,6 @@ include('simple_html_dom.php');
 
         }*/
 
-        // Contact Details
         if ($content->find('h2')[0] !== null) {
             $contactDetails = $content->find('h2')[0];
             $contactDetailsTitle = $content->find('h2')[0]->plaintext;
@@ -87,7 +86,6 @@ include('simple_html_dom.php');
             }
         }
 
-        // History
         if ($content->find('h2')[1] !== null) {
             $history = $content->find('h2')[1];
             $historyTitle = $content->find('h2')[1]->plaintext;
@@ -101,7 +99,6 @@ include('simple_html_dom.php');
             }
         }
 
-        //aims
         if ($content->find('h2')[2] !== null) {
             $aims = $content->find('h2')[2];
             $aimsTitle = $content->find('h2')[2]->plaintext;
@@ -115,7 +112,6 @@ include('simple_html_dom.php');
             }
         }
 
-        //events
         if ($content->find('h2')[3] !== null) {
             $events = $content->find('h2')[3];
             $eventsTitle = $content->find('h2')[3]->plaintext;
@@ -128,7 +124,6 @@ include('simple_html_dom.php');
             }
         }
 
-        // structure
         if ($content->find('h2')[4] !== null) {
             $structure = $content->find('h2')[4];
             $structureTitle = $content->find('h2')[4]->plaintext;
@@ -143,7 +138,6 @@ include('simple_html_dom.php');
 
         }
 
-        //financing
         if ($content->find('h2')[5] !== null) {
             $financing = $content->find('h2')[5];
             $financingTitle = $content->find('h2')[5]->plaintext;
@@ -157,7 +151,6 @@ include('simple_html_dom.php');
             }
         }
 
-        //Consultative Status
         if ($content->find('h2')[6] !== null) {
             $consultative = $content->find('h2')[6];
             $consultativeTitle = $content->find('h2')[6]->plaintext;
@@ -171,7 +164,6 @@ include('simple_html_dom.php');
             }
         }
 
-        //Relationships with NGOs
         if ($content->find('h2')[7] !== null) {
             $ngo = $content->find('h2')[7];
             $ngoTitle = $content->find('h2')[7]->plaintext;
@@ -185,7 +177,6 @@ include('simple_html_dom.php');
             }
         }
 
-        //Members
         if ($content->find('h2')[8] !== null) {
             $members = $content->find('h2')[8];
             $membersTitle = $content->find('h2')[8]->plaintext;
@@ -199,7 +190,6 @@ include('simple_html_dom.php');
             }
         }
 
-        //Type I Classification
         if ($content->find('h2')[9] !== null) {
             $type_I = $content->find('h2')[9];
             $type_I_Title = $content->find('h2')[9]->plaintext;
@@ -213,7 +203,6 @@ include('simple_html_dom.php');
             }
         }
 
-        //Type II Classification
         if ($content->find('h2')[10] !== null) {
             $type_II = $content->find('h2')[10];
             $type_II_Title = $content->find('h2')[10]->plaintext;
@@ -227,7 +216,6 @@ include('simple_html_dom.php');
             }
         }
 
-        //Type III Classification
         if ($content->find('h2')[11] !== null) {
             $type_III = $content->find('h2')[11];
             $type_III_Title = $content->find('h2')[11]->plaintext;
@@ -236,6 +224,58 @@ include('simple_html_dom.php');
             if ($type_III->next_sibling() !== null) {
                 $type_III_Text = $type_III->next_sibling()->plaintext;
                 echo $type_III_Text . "<br>";
+            } else {
+                echo 'null';
+            }
+        }
+
+        if ($content->find('h2')[12] !== null) {
+            $item12 = $content->find('h2')[12];
+            $itemTitle12 = $content->find('h2')[12]->plaintext;
+            echo $item12;
+
+            if ($item12->next_sibling() !== null) {
+                $itemText12 = $item12->next_sibling()->plaintext;
+                echo $itemText12 . "<br>";
+            } else {
+                echo 'null';
+            }
+        }
+
+        if ($content->find('h2')[13] !== null) {
+            $item13 = $content->find('h2')[13];
+            $itemTitle13 = $content->find('h2')[13]->plaintext;
+            echo $item13;
+
+            if ($item13->next_sibling() !== null) {
+                $itemText13 = $item13->next_sibling()->plaintext;
+                echo $itemText13 . "<br>";
+            } else {
+                echo 'null';
+            }
+        }
+
+        if ($content->find('h2')[14] !== null) {
+            $item14 = $content->find('h2')[14];
+            $itemTitle14 = $content->find('h2')[14]->plaintext;
+            echo $item14;
+
+            if ($item14->next_sibling() !== null) {
+                $itemText14 = $item14->next_sibling()->plaintext;
+                echo $itemText14 . "<br>";
+            } else {
+                echo 'null';
+            }
+        }
+
+        if ($content->find('h2')[15] !== null) {
+            $item15 = $content->find('h2')[15];
+            $itemTitle15 = $content->find('h2')[15]->plaintext;
+            echo $item15;
+
+            if ($item15->next_sibling() !== null) {
+                $itemText15 = $item15->next_sibling()->plaintext;
+                echo $itemText15 . "<br>";
             } else {
                 echo 'null';
             }
