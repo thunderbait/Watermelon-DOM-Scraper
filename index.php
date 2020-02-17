@@ -338,6 +338,27 @@ include('simple_html_dom.php');
             }
         }
 
+        
+
+		$contactDetailsText = $contactDetailsTitle. '-' . $contactDetailsText;
+		$aimsText= $aimsTitle. '-' .  $aimsText;
+		$historyText = $historyTitle. '-' . $historyText;
+		$eventsText = $eventsTitle. '-' . $eventsText;
+		$financingText = $financingTitle. '-' . $financingText;
+		$ngoText = $ngoTitle. '-' . $ngoText;
+		$membersText = $membersTitle. '-' . $membersText;
+		$contactDetailsText = $consultativeTitle. '-' . $contactDetailsText;
+		$type_I_Text = $type_I_Title. '-' . $type_I_Text;
+		$type_II_Text = $type_II_Title. '-' . $type_II_Text;
+		$type_III_Text = $type_III_Title. '-' . $type_III_Text;
+		$itemText12 = $itemTitle12. '-' . $itemText12;
+		$itemText13 = $itemTitle13. '-' . $itemText13;
+		$itemText14 = $itemTitle14. '-' . $itemText14;
+		$itemText15 = $itemTitle15. '-' . $itemText15;
+		$itemText16 = $itemTitle16. '-' . $itemText16;
+		$itemText17 = $itemTitle17. '-' . $itemText17;
+		$itemText18 = $itemTitle18. '-' . $itemText18;
+
         $servername = "localhost";
         $username = "root";
         $password = "";
