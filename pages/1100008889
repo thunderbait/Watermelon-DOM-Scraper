@@ -1,0 +1,536 @@
+ 
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://brill.uia.org/sites/all/themes/Brill2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Profile of Commonwealth Secretariat from the Yearbook of International Organizations, a service of the UIA." />
+  <title>Commonwealth Secretariat | Yearbook Profile | Union of International Associations</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+    ga('create', 'UA-27369964-11', 'auto');
+    ga('send', 'pageview');
+ 
+  </script>
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRC33X"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KRC33X');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- Set the PlatformAPI key (COUNTER4) -->
+  <meta name="ST.PlatformAPIKey" content="bc8208710447dc2a" />
+
+  <!-- Set the customerID value (as provided by SAMS / SGK)  (COUNTER4) -->
+  <meta name="ST.customerId" content="14968" />
+
+  <style>
+@import url("https://brill.uia.org/modules/system/system.base.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.messages.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.theme.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/misc/ui/jquery.ui.core.css?q4261c");
+@import url("https://brill.uia.org/misc/ui/jquery.ui.theme.css?q4261c");
+</style>
+<style media="screen">
+@import url("https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/modules/book/book.css?q4261c");
+@import url("https://brill.uia.org/modules/comment/comment.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_api/date.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/fences/field.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/logintoboggan/logintoboggan.css?q4261c");
+@import url("https://brill.uia.org/modules/node/node.css?q4261c");
+@import url("https://brill.uia.org/modules/search/search.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/simpleads/simpleads.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_order/uc_order.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_product/uc_product.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/uc_product_minmax/uc_product_minmax.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_store/uc_store.css?q4261c");
+@import url("https://brill.uia.org/modules/user/user.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/views/css/views.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ctools/css/ctools.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.filter.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/panels/css/panels.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu-skins.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/normalize.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/wireframes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/tabs.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/pages.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/blocks.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/navigation.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/views-styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nodes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/comments.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/forms.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/fields.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/print.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nice_menus.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/common.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/font-awesome.min.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/buttons.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/uia2013.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/layout.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rdstyle.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/static_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/qtip.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/jquery.ui.autocomplete.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rbstyle.css?q4261c");
+</style>
+  <script src="https://brill.uia.org/misc/jquery.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://brill.uia.org/misc/drupal.js?q4261c"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/js/qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/admin_menu/admin_devel/admin_devel.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/simpleads.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/modules/simpleads_campaigns/simpleads_campaigns.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_load.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_inline.js?q4261c"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://brill.uia.org/sites/all/modules/megamenu/megamenu.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/google_analytics/googleanalytics.js?q4261c"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-506851-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#moremeet" ).click(function() {
+	  		  jQuery( "#morecal" ).show( "slow" );
+			  jQuery( "#moremeet" ).hide( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#lessmeet" ).click(function() {
+	  		  jQuery( "#morecal" ).hide( "slow" );
+			  jQuery( "#moremeet" ).show( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script src="https://use.typekit.com/yse7wxb.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script src="https://brill.uia.org/sites/all/themes/Brill2014/js/bootstrap.min.js?q4261c"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"Brill2014","theme_token":"wQ6aa_SDmG82Ls7Z_Agc-Zaph66OG6BA_3zK8gj4NMs","js":{"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.js":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.filter.js":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/simpleads\/modules\/simpleads_campaigns\/simpleads_campaigns.js":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/megamenu\/megamenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"3":1,"https:\/\/use.typekit.com\/yse7wxb.js":1,"4":1,"sites\/all\/themes\/Brill2014\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/simpleads\/simpleads.css":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/uc_product_minmax\/uc_product_minmax.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.filter.css":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/megamenu\/megamenu.css":1,"sites\/all\/modules\/megamenu\/megamenu-skins.css":1,"sites\/all\/themes\/Brill2014\/system.menus.css":1,"sites\/all\/themes\/Brill2014\/css\/normalize.css":1,"sites\/all\/themes\/Brill2014\/css\/wireframes.css":1,"sites\/all\/themes\/Brill2014\/css\/page-backgrounds.css":1,"sites\/all\/themes\/Brill2014\/css\/tabs.css":1,"sites\/all\/themes\/Brill2014\/css\/pages.css":1,"sites\/all\/themes\/Brill2014\/css\/blocks.css":1,"sites\/all\/themes\/Brill2014\/css\/navigation.css":1,"sites\/all\/themes\/Brill2014\/css\/views-styles.css":1,"sites\/all\/themes\/Brill2014\/css\/nodes.css":1,"sites\/all\/themes\/Brill2014\/css\/comments.css":1,"sites\/all\/themes\/Brill2014\/css\/forms.css":1,"sites\/all\/themes\/Brill2014\/css\/fields.css":1,"sites\/all\/themes\/Brill2014\/css\/print.css":1,"sites\/all\/themes\/Brill2014\/css\/nice_menus.css":1,"sites\/all\/themes\/Brill2014\/css\/common.css":1,"sites\/all\/themes\/Brill2014\/css\/font-awesome.min.css":1,"sites\/all\/themes\/Brill2014\/css\/buttons.css":1,"sites\/all\/themes\/Brill2014\/css\/uia2013.css":1,"sites\/all\/themes\/Brill2014\/css\/layout.css":1,"sites\/all\/themes\/Brill2014\/css\/styles.css":1,"sites\/all\/themes\/Brill2014\/css\/rdstyle.css":1,"sites\/all\/themes\/Brill2014\/css\/static_style.css":1,"sites\/all\/themes\/Brill2014\/css\/calendar.css":1,"sites\/all\/themes\/Brill2014\/css\/pubspages.css":1,"sites\/all\/themes\/Brill2014\/css\/qtip.css":1,"sites\/all\/themes\/Brill2014\/css\/jquery.ui.autocomplete.css":1,"sites\/all\/themes\/Brill2014\/css\/rbstyle.css":1,"sites\/brill.uia.org\/files\/fontyourface\/wysiwyg.css":1,"public:\/\/fontyourface\/local_fonts\/FontAwesome-normal-normal\/stylesheet.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jquery_ui_multiselect_widget":{"module_path":"sites\/all\/modules\/jquery_ui_multiselect_widget","multiple":1,"filter":1,"subselector":"","selectedlist":"4","autoOpen":0,"header":1,"height":"300","classes":"","filter_auto_reset":0,"filter_width":"100","jquery_ui_multiselect_widget_path_match_exclude":""},"qtip":{"target_position":"right_center","tooltip_position":"left_center","show_speech_bubble_tip":1,"show_speech_bubble_tip_side":0,"speech_bubble_size":"12","show_speech_bubble_tip_solid":1,"show_shadow":0,"rounded_corners":1,"color":"ui-tooltip-blue","custom_color":"","show_event_type":"mouseenter","hide_event_type":"mouseleave","show_webform_descriptions":0,"additional_elements":""},"megamenu":{"timeout":"500","sizewait":"250","hoverwait":"400"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-s page-s-or page-s-or-en page-s-or-en- page-s-or-en-1100008889 section-s" >
+	<script>
+	   var _$tarQ = _$tarQ || []; // Access the STAR JavaScript API's global queue
+	</script>
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+  
+  
+  
+
+
+
+
+
+
+<div id="page" style="clear:both;margin-top: 10px;">
+
+
+
+
+<div id="container">
+
+
+
+<div id="nav-1">
+    <div class="region region-navigation">
+    <!-- .block -->
+<div id="block-megamenu-main-menu" class="block block-megamenu first last odd">
+
+      
+  <ul id="megamenu-main-menu" class="megamenu-menu columnar megamenu-skin-minimal"><li id="megamenu-mlid-221" class="megamenu-parent megamenu-parent-0 odd half-1 leaf-0 first menu-221  first"><h2 class="megamenu-parent-title"><a href="/">Home</a></h2></li>
+<li id="megamenu-mlid-511" class="megamenu-parent megamenu-parent-1 even half-1 leaf-1 menu-511 "><h2 class="megamenu-parent-title"><a href="/about-ybio">About The Yearbook</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11476" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><a href="/ybguide/contribute" title="">How to Contribute Information</a></h3></li>
+<li id="megamenu-mlid-11477" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last  last"><h3 class="megamenu-slot-title"><a href="/ybguide/more-data" title="">Need Different Data?</a></h3></li>
+</ul></li>
+<li id="megamenu-mlid-11322" class="megamenu-parent megamenu-parent-2 odd half-1 leaf-2 menu-11322 "><h2 class="megamenu-parent-title"><a href="/ybguide">User Guide</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11324" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><span title="" class="nolink">Organizations</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11330" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/organizations">The Interface</a></li>
+<li id="megamenu-mlid-11331" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/contents">Contents of Profiles</a></li>
+<li id="megamenu-mlid-11332" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/abbrev">Abbreviations Used</a></li>
+<li id="megamenu-mlid-11334" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/inclusion">Criteria for Inclusion</a></li>
+<li id="megamenu-mlid-11335" class="megamenu-item megamenu-item-4 odd half-1 leaf-4 "><a href="/ybguide/editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11336" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/sources">Information Sources</a></li>
+<li id="megamenu-mlid-11337" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 "><a href="/ybguide/type1">Type 1 Codes</a></li>
+<li id="megamenu-mlid-11338" class="megamenu-item megamenu-item-7 even half-2 leaf-7 "><a href="/ybguide/type2">Type 2 Codes</a></li>
+<li id="megamenu-mlid-11361" class="megamenu-item megamenu-item-8 odd half-2 leaf-8 "><a href="/ybguide/type3">Type 3 Codes</a></li>
+<li id="megamenu-mlid-11339" class="megamenu-item megamenu-item-9 even half-2 leaf-9 last  last"><a href="/ybguide/continuity">Continuity Between Editions</a></li>
+</ul></li>
+<li id="megamenu-mlid-11325" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Geography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11340" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/geography">The Interface</a></li>
+<li id="megamenu-mlid-11333" class="megamenu-item megamenu-item-1 even half-2 leaf-1 last  last"><a href="/ybguide/geo-names">Geographical Names</a></li>
+</ul></li>
+<li id="megamenu-mlid-11326" class="megamenu-slot megamenu-slot-2 odd half-1 leaf-2 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Subjects</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11341" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/subjects">The Interface</a></li>
+<li id="megamenu-mlid-11342" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/subjects-intro">Introduction</a></li>
+<li id="megamenu-mlid-11359" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/subject-matrix">Subject Matrix</a></li>
+<li id="megamenu-mlid-11360" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/subject-categories">Subject Categories</a></li>
+</ul></li>
+<li id="megamenu-mlid-11327" class="megamenu-slot megamenu-slot-3 even half-2 leaf-3 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Bibliography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11343" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/bibliography">The Interface</a></li>
+<li id="megamenu-mlid-11344" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/biblio-comments">Comments</a></li>
+<li id="megamenu-mlid-11345" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/biblio-contents">Contents of Entries</a></li>
+<li id="megamenu-mlid-11346" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/biblio-method">Research Methodology</a></li>
+<li id="megamenu-mlid-11347" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/biblio-errors">Errors and Corrections</a></li>
+<li id="megamenu-mlid-11348" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/biblio-selection">Research Topics on INGOs</a></li>
+<li id="megamenu-mlid-11349" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 last  last"><a href="/ybguide/biblio-table">Number of Publications by Type</a></li>
+</ul></li>
+<li id="megamenu-mlid-11328" class="megamenu-slot megamenu-slot-4 odd half-2 leaf-4 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Statistics</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11350" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/statistics" title="">The Interface</a></li>
+<li id="megamenu-mlid-11351" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/stats-intro">Introduction</a></li>
+<li id="megamenu-mlid-11352" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/stats-features">Features</a></li>
+<li id="megamenu-mlid-11353" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/stats-method">Methodological Issues</a></li>
+</ul></li>
+<li id="megamenu-mlid-11329" class="megamenu-slot megamenu-slot-5 even half-2 leaf-5 last  last"><h3 class="megamenu-slot-title"><span title="" class="nolink"> Whoâ€™s Who</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11354" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/whoswho" title="">The Interface</a></li>
+<li id="megamenu-mlid-11355" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/bio-intro">Introduction</a></li>
+<li id="megamenu-mlid-11357" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/bio-sources">Information Sources</a></li>
+<li id="megamenu-mlid-11358" class="megamenu-item megamenu-item-3 even half-2 leaf-3 "><a href="/ybguide/bio-editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11356" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/bio-contents">Biographical Information</a></li>
+<li id="megamenu-mlid-11366" class="megamenu-item megamenu-item-5 even half-2 leaf-5 last  last"><a href="/ybguide/bio-stats" title="">Statistical Tables</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-11323" class="megamenu-parent megamenu-parent-3 even half-2 leaf-3 menu-11323 "><h2 class="megamenu-parent-title"><a href="/ybguide/history">Publication History</a></h2></li>
+<li id="megamenu-mlid-510" class="megamenu-parent megamenu-parent-4 odd half-2 leaf-4 menu-510 "><h2 class="megamenu-parent-title"><a href="/ybguide/editors">About UIA (The Editors)</a></h2></li>
+<li id="megamenu-mlid-499" class="megamenu-parent megamenu-parent-5 even half-2 leaf-5 last menu-499  last"><h2 class="megamenu-parent-title"><a href="/" title="">Login</a></h2></li>
+</ul>
+</div><!-- /.block -->
+  </div>
+ 
+
+</div>
+
+
+<div id="utility-bar">
+
+<nav id="secondary-menu" role="navigation">
+
+</nav>	
+</div>
+ 
+	  <header id="header" role="banner" style="margin-top:1px !important;">
+    <!--      <a href="/" title="Home" rel="home" id="logo"><img src="https://brill.uia.org/sites/all/themes/Brill2014/logo.png" alt="Home" /></a>-->
+        
+    <div id="logoleft"><a href="/" title="Brill"  class="uialogo">BRILL</a></div>
+
+         <hgroup id="name-and-slogan">
+        
+
+		<h1 id="site-name"> 
+      <a href="/ybio/" title="Home" rel="home" id="homelink">YEARBOOK OF INTERNATIONAL ORGANIZATIONS</a></h1>
+	        <div id="ybio-vols"><a href="https://ybio.brillonline.com/ybio/">Organizations</a> | <a href="https://ybio.brillonline.com/ybio/v2/">Geography</a> | <a href="https://ybio.brillonline.com/ybio/v3/">Subjects</a> | <a href="https://ybio.brillonline.com/ybio/v4">Bibliography</a> | <a href="https://ybio.brillonline.com/ybio/v5">Statistics</a> | <a href="https://ybio.brillonline.com/s/sdg/en">UN SDGs</a></div>  
+	
+
+
+
+
+
+        <div id="uiashort"><a href="/"><span>Yearbook of International Organizations</span></a></div>
+
+      
+          </hgroup><!-- /#name-and-slogan -->
+  
+  
+		<div id="uia_logo_brill">
+				<a href="https://uia.org" title="Union of International Associations"><img src="/sites/all/themes/Brill2014/images/design/uia_logo_brill.png" alt="Brill Logo"/></a>
+		</div>
+
+
+</header>
+
+  
+
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+		
+		
+		<div style="width:300px;float:right;font-size:11px;color:#999;text-align:right;padding-top:10px;">You are logged in as <em><script type="text/javascript">
+			var userid = "Alacrity Foundation";
+	        document.write(userid)
+	      </script></em></div>    
+    	
+    
+      
+ 	                      
+      
+      <a id="main-content"></a>
+                              
+      	
+      	
+      
+
+	 
+
+
+
+     
+
+
+<div style="float:right;width:150px;">
+<img src="https://www.uia.org/sites/uia.org/files/or_logotypes/c0376.png"  id="ybp_logo" style="max-width:150px;border:0;" alt="logo for Commonwealth Secretariat"/>	
+	
+</div>	
+
+
+
+        <h1 id="page-title" class="title">
+Commonwealth Secretariat
+
+
+
+
+
+
+
+        	
+        </h1>
+
+
+<p style="font-style:italic;color:#666;margin-top:-20px;">Secrétariat pour les pays du Commonwealth<br />Secretaria del Commonwealth<br /></p>
+         
+         <div style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;">
+          	
+         <iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;key=AIzaSyDSecKDTYLGmGVJj3bjqciTn48sZkHCEps&amp;hl=en&amp;geocode=&amp;q=London,+UK&amp;z=9&amp;iwloc=A&amp;output=embed"></iframe>
+<h2>Contact Details</h2>
+
+
+
+		
+
+	
+	<p>Main address: SG: <br />Marlborough House, Pall Mall SW1Y 5HX, <a href="/ybio?addcity_1_en=London" title="London (click to perform a search)">London</a>, <a href="/ybio?addpays_1_en=UK" title="UK (click to perform a search)">UK</a><br />Tel: (44 20) 7747 6500<br />Fax: (44 20) 7930 0827<br />Email: <a title='Click to send an e-mail to this address (from your default e-mail client)' href="/cdn-cgi/l/email-protection#1432372524213237252524323725242632372525253237222032372d2d3237252525323725242d323725242d32372525253237252524323725252d323725242532372d23323725242c3237252522323725242032372022323725242132372525243237252522" target=_blank>info (at) commonwealth.int</a><br /></p><p>URL: <br /><a title="Click to access page >http://www.thecommonwealth.org/<" href="http://www.thecommonwealth.org/" target="_blank">http://www.thecommonwealth.org/</a><br /></p>		
+		
+<div style="clear:both;"><p> </p><p></p></div><p> </p>
+</div>
+         
+<h2 style="margin-top:30px;">History</h2>
+<p>1965, London (UK), by decision of Commonwealth Heads of Government. The Commonwealth Secretariat, previously also referred by the initials <i>CS</i>, operates as an international organization at the service of all Commonwealth countries. Internally referred to as <i>ComSec</i>.<p> Origins lie in 'London Declaration' of Apr 1949, which leaders from Australia, Canada, India, New Zealand, Pakistan, South Africa, Ceylon and UK adopted and through which member countries no longer owed allegiance to the British Crown, but recognized British head as the symbol of their 'free and equal' association. It marked the end of colonial 'British Commonwealth' and the start of the 'modern Commonwealth', an association of independent countries without a written constitution. Practice is for new members to be admitted only by the consent of all other members, and after showing their commitment for the association's core values.<p> Having no formal charter, the Commonwealth has, instead, a series of declarations, largely emanating from Commonwealth Heads of Government Meetings (CHOGMs), to which all member countries voluntarily subscribe. Key declarations are: Declaration of Commonwealth Principles, 1971, Singapore (Singapore); Harare Commonwealth Declaration, 1991; Millbrook Action Programme on the Harare Declaration, 1995 (New Zealand), when <i>'Commonwealth Ministerial Action Group'</i>, was set up to address serious or persistent violations of the Commonwealth's fundamental values; Trinidad and Tobago Affirmation on Commonwealth Values and Principles, Nov 2009. Other pioneering commitments include: commitment to the 'separation of powers' between legislature, judiciary and executive' - known as Latimer House Principles, 2003; extension of democratic principles to local government and grassroots civil society organizations, known as Aberdeen Principles, 2003. Other key declaration issued at CHOGMs, include: Langkawi Declaration on Environment, 1989; Valletta Statement on Multilateral Trade, 2005; Gozo Statement on Vulnerable Small States, 2005; Lake Victoria Commonwealth Climate Change Action Plan, 2007; Investing in Young People - A Declaration on young people by Commonwealth Heads of Government, 2009.</p>
+<h2 style="margin-top:20px;">Aims</h2>
+<p>As an informal grouping, the Commonwealth has no statutory objectives. However, the Declaration of Commonwealth Principles, agreed 1971, Singapore (Singapore) and reaffirmed in the Harare (Zimbabwe) Commonwealth Declaration, 1991, sets out the fundamental political values underpinning the Commonwealth: democracy and good <i>governance</i>; respect for human rights and gender equality; the rule of law; sustainable economic and social development. Mission statement: work as a trusted partner for all Commonwealth people as: a force for peace, democracy, equality and good governance; a catalyst for global consensus-building; a source of assistance for sustainable development and poverty eradication. In general, aims are to: act as a bridge between races and religions and between rich and poor, enabling them to discuss common problems and work together for solutions; promote international peace and order, equal rights for all citizens and the liberty of the individual; oppose colonial domination and racial oppression; help to achieve a fairer global society. The common heritage shared by member states in many fields, including a common language, enables them to work together in an atmosphere of cooperation and understanding. The aims of the Secretariat are to: facilitate joint consultation and cooperation among member countries and collect and disseminate information for their use; organize meetings and conferences in areas of common concern and put into effect decisions for collective Commonwealth action.</p>
+
+
+
+	<div></div>
+
+		<h2 style="margin-top:20px;">Events</h2><p>2021 Kenya – <em>Conference of Commonwealth Education Ministers and General Meeting</em> <br />2018 Bali, Indonesia – <em>Annual Finance Ministers Meeting</em> <br />2018 Geneva, Switzerland – <em>Commonwealth Health Ministers Meeting</em> <br />2018 Nadi, Fiji – <em>Conference of Commonwealth Education Ministers and General Meeting</em> <br />2017 Nassau, Bahamas – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />2017 Geneva, Switzerland – <em>Commonwealth Health Ministers Meeting</em> <br />2016 Washington DC, USA – <em>Annual Finance Ministers Meeting</em> <br />2016 Edmonton AB, Canada – <em>Commonwealth Sport Summit</em> <br />2016 London, UK – <em>Senior Officials of Law Ministries Meeting</em> <br />2016 Rio de Janeiro, Brazil – <em>Commonwealth Sports Ministers Meeting</em> <br />2016 Geneva, Switzerland – <em>Commonwealth Health Ministers Meeting</em> <br />2015 St Julian's, Malta – <em>Women's Forum</em> <br />2015 Qawra, Malta – <em>Youth Forum</em> <br />2015 Lima, Peru – <em>Annual Finance Ministers Meeting</em> <br />2015 Paradise Is, Bahamas – <em>Conference of Commonwealth Education Ministers and General Meeting</em> <br /></p><p><a class="btn btn-small" id="moremeet"><i class="icon-th-list"></i> View More Events (324)</i></a></p><p><div id="morecal" style="display:none;margin-top:0;"><p style="margin-top:-5px;">2015 Le Grand Saconnex, Switzerland – <em>Commonwealth Health Ministers Meeting</em> <br />2015 Mauritius – <em>Biennial Commonwealth heads of government meeting</em> <br />2014 Washington DC, USA – <em>Annual Finance Ministers Meeting</em> <br />2014 Geneva, Switzerland – <em>Commonwealth Health Ministers Meeting</em> <br />2014 Gaborone, Botswana – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />2014 Malta – <em>Triennial Conference of Commonwealth Auditors-General</em> <br />2013 Washington DC, USA – <em>Annual Finance Ministers Meeting</em> <br />2013 London, UK – <em>Senior Officials of Law Ministries Meeting</em> <br />2013 Geneva, Switzerland – <em>Commonwealth Health Ministers Meeting</em> <br />2013 Sri Lanka – <em>Biennial Commonwealth heads of government meeting</em> <br />2012 Tokyo, Japan – <em>Annual Finance Ministers Meeting</em> <br />2012 Pailles, Mauritius – <em>Conference of Commonwealth Education Ministers and General Meeting</em> <br />2012 Geneva, Switzerland – <em>Commonwealth Health Ministers Meeting</em> <br />2012 London, UK – <em>Extraordinary Senior Officials of Law Ministries Meeting</em> <br />2011 Perth, Australia – <em>Biennial Commonwealth heads of government meeting</em> <br />2011 Washington DC, USA – <em>Annual Finance Ministers Meeting</em> <br />2011 Sydney, Australia – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />2011 Geneva, Switzerland – <em>Commonwealth Health Ministers Meeting</em> <br />2010 Washington DC, USA – <em>Annual Finance Ministers Meeting</em> <br />2010 Barbados – <em>Triennial meeting of Commonwealth ministers responsible for women's affairs</em> <br />2010 Geneva, Switzerland – <em>Commonwealth Health Ministers Meeting</em> <br />2010 New York NY, USA – <em>Commonwealth national women's machineries meeting</em> <br />2010 Bali, Indonesia – <em>Session</em> <br />2010 Port Moresby, Papua New Guinea – <em>Pacific colloquium on gender, culture and the law</em> <br />2009 Port-of-Spain, Trinidad-Tobago – <em>Commonwealth youth forum / Biennial Commonwealth Heads of Government Meeting</em> <br />2009 Limassol, Cyprus – <em>Annual Finance Ministers Meeting</em> <br />2009 Putrajaya, Malaysia – <em>Conference of Commonwealth education ministers and general meeting</em> <br />2009 Geneva, Switzerland – <em>Commonwealth Health Ministers Meeting</em> <br />2009 Kampala, Uganda – <em>Biennial Commonwealth heads of government meeting</em> <br />2009 Nairobi, Kenya – <em>Session</em> <br />2008 Castries, St Lucia – <em>Annual finance ministers meeting</em> <br />2008 Edinburgh, UK – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />2008 Edinburgh, UK – <em>Commonwealth Health Ministers Meeting</em> <br />2008 Monaco, Monaco – <em>Session</em> <br />2007 Kampala, Uganda – <em>Commonwealth people's forum</em> <br />2007 Entebbe, Uganda – <em>Commonwealth youth forum</em> <br />2007 Georgetown, Guyana – <em>Annual Finance Ministers Meeting</em> <br />2007 Kampala, Uganda – <em>Triennial meeting of Commonwealth ministers responsible for women's affairs / Biennial Commonwealth Heads of Government Meeting</em> <br />2007 Geneva, Switzerland – <em>Triennial Commonwealth Health Ministers Meeting</em> <br />2007 Putrajaya, Malaysia – <em>eAsia conference</em> <br />2007 Nairobi, Kenya – <em>Session</em> <br />2007 Kampala, Uganda – <em>Biennial Commonwealth heads of government meeting</em> <br />2006 Cape Town, South Africa – <em>Conference of Commonwealth education ministers and general meeting / Conference and General Meeting</em> <br />2006 Malta – <em>Meeting on port operations and management</em> <br />2006 Malta – <em>Meeting on management of coastal recreational tourism</em> <br />2006  – <em>Women's affairs ministerial meeting</em> <br />2006 London, UK – <em>Migration conference</em> <br />2006 Dubai, United Arab Emirates – <em>Session</em> <br />2006 Singapore, Singapore – <em>Meeting on developing e-government and e-business strategies</em> <br />2006 Lahore, Pakistan – <em>South Asian conference on education</em> <br />2006 Canberra, Australia – <em>Asia-Pacific regional conference on museums and communities, safeguarding heritage, safeguarding cultural diversity</em> <br />2006 Ocho Rios, Jamaica – <em>Regional workshop on gender, trade policy and export promotion</em> <br />2005 Pakistan – <em>Regional seminar on emerging issues in performance audit</em> <br />2005 Valletta, Malta – <em>Commonwealth youth forum / Biennial Commonwealth Heads of Government Meeting</em> <br />2005 New York NY, USA – <em>Session</em> <br />2005 Wellington, New Zealand – <em>Triennial conference of Commonwealth auditors general</em> <br />2005 Valletta, Malta – <em>Biennial Commonwealth heads of government meeting</em> <br />2005 Accra, Ghana – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />2004 Nadi, Fiji – <em>Triennial meeting of Commonwealth ministers responsible for women's affairs</em> <br />2004 Singapore, Singapore – <em>Law and technology workshop</em> <br />2004 Jeju, Korea Rep – <em>Session</em> <br />2004 Namibia – <em>Regional workshop on capacity-building in counter-terrorism</em> <br />2003 Abuja, Nigeria – <em>Commonwealth youth forum</em> <br />2003 Fiji – <em>Workshop on law and technology</em> <br />2003 Jamaica – <em>Workshop on law and technology</em> <br />2003 Nairobi, Kenya – <em>Session</em> <br />2003 Abuja, Nigeria – <em>Biennial Commonwealth heads of government meeting</em> <br />2002 Kingstown, St Vincent-Grenadines – <em>Senior Officials of Law Ministries Meeting</em> <br />2002 Kingstown, St Vincent-Grenadines – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />2002 Kuala Lumpur, Malaysia – <em>Triennial conference of Commonwealth auditors general</em> <br />2002 Paphos, Cyprus – <em>Workshop on partnerships and innovation in technology transfer</em> <br />2002 Singapore, Singapore – <em>Workshop on enterprise competitiveness and public policies</em> <br />2002 Apia, Samoa – <em>Pacific regional workshop on the implementation of the Rome statute for the international criminal court</em> <br />2002 South Africa – <em>Citizenship education framework meeting</em> <br />2002 Botswana – <em>Regional forum on education policy</em> <br />2002 Coolum, Australia – <em>Biennial Commonwealth heads of government meeting</em> <br />2002 Coolum, Australia – <em>Commonwealth youth forum / Biennial Commonwealth Heads of Government Meeting</em> <br />2002 Cartagena de Indias, Colombia – <em>Session</em> <br />2001 Christchurch, New Zealand – <em>Commonwealth Health Ministers Meeting</em> <br />2001 London, UK – <em>Senior Officials of Law Ministries Meeting</em> <br />2001 Canberra, Australia – <em>Deepening democracy workshop</em> <br />2001 Singapore, Singapore – <em>Workshop on enterprise competitiveness and public policies in commonwealth countries</em> <br />2001 Toronto ON, Canada – <em>Workshop on broadcasting and democracy</em> <br />2001 Bridgetown, Barbados – <em>High-level consultaiton on harmful tax competition</em> <br />2001 Nairobi, Kenya – <em>Session</em> <br />2000 Halifax NS, Canada – <em>Triennial conference of Commonwealth education ministers</em> <br />2000 Halifax NS, Canada – <em>International symposium of Commonwealth educators</em> <br />2000 Apia, Samoa – <em>Meeting of Commonwealth senior officials</em> <br />2000  – <em>Annual finance ministers meeting</em> <br />2000 London, UK – <em>Workshop on strengthening national human rights institutions</em> <br />2000 Honiara, Solomon Is – <em>Meeting of Commonwealth youth ministers</em> <br />2000 Singapore, Singapore – <em>Workshop on enterprise competitiveness and public policies</em> <br />2000 Delhi, India – <em>Triennial meeting of commonwealth ministers responsible for women's affairs</em> <br />2000 London, UK – <em>Workshop on debt management in a liberalising economic environment</em> <br />2000 Windhoek, Namibia – <em>Workshop on gender and democracy</em> <br />2000 Yaoundé, Cameroon – <em>Joint colloquium on democracy in pluralistic societies</em> <br />1999 Durban, South Africa – <em>Commonwealth youth forum</em> <br />1999 Trinidad-Tobago – <em>Conference on Commonwealth correctional administrators</em> <br />1999 London, UK – <em>Meeting on the role of the ombudsman in improving public services</em> <br />1999 Port-of-Spain, Trinidad-Tobago – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />1999 New York NY, USA – <em>Session</em> <br />1999 Paris, France – <em>Towards a constructive pluralism workshop</em> <br />1999 South Africa – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1998 Durham, UK – <em>Convention on economic and social rights</em> <br />1998 Cape Town, South Africa – <em>Workshop on governance structures and the democratic process</em> <br />1998 Bridgetown, Barbados – <em>Triennial Commonwealth Health Ministers Meeting</em> <br />1998 Nairobi, Kenya – <em>African regional workshop on trade-related aspects of intellectual property rights</em> <br />1998 Pretoria, South Africa – <em>Commonwealth convention on benchmarking</em> <br />1998 Ottawa ON, Canada – <em>Annual finance ministers meeting</em> <br />1998 Port-of-Spain, Trinidad-Tobago – <em>Caribbean regional workshop on the implementation of the provisions of the UN convention on the law of the sea</em> <br />1998 Colombo, Sri Lanka – <em>Asia regional workshop on legal implementation of the WTO agreement</em> <br />1998 Suva, Fiji – <em>Regional workshop on the use of criminal law in international environmental conventions</em> <br />1998 Suva, Fiji – <em>Pacific regional workshop on cultural aspects of human rights</em> <br />1998 London, UK – <em>Senior Officials of Law Ministries Meeting</em> <br />1998 Dhaka, Bangladesh – <em>Asia regional workshop on institutions and mechanisms for the implementation of the rights of the child</em> <br />1998 Barbados – <em>Caribbean regional workshop on cybercurrency, money laundering and related issues</em> <br />1998 New York NY, USA – <em>Session</em> <br />1998 Apia, Samoa – <em>Regional workshop on implementation of the law of the sea convention</em> <br />1998 Malta – <em>Pan-Commonwealth workshop on gender mainstreaming</em> <br />1998 Colombo, Sri Lanka – <em>Workshop on engendering national budgetary processes</em> <br />1998 Kingston, Jamaica – <em>Pan-Commonwealth symposium on elimination of discrimination against minority groups in law and practice</em> <br />1998 Port-of-Spain, Trinidad-Tobago – <em>Workshop to develop national action plans for mainstreaming gender in the health sector</em> <br />1998 Vancouver BC, Canada – <em>Meeting on Commonwealth electronic network for school education</em> <br />1998 Pondicherry, India – <em>Workshop on land rehabilitation</em> <br />1998 St John's, Antigua-Barbuda – <em>Regional workshop on strengthening national human rights institutions in the Caribbean</em> <br />1998 Port-of-Spain, Trinidad-Tobago – <em>Workshop on integrating economic and environmental policy in the Commonwealth Caribbean</em> <br />1998 Nairobi, Kenya – <em>Africa regional workshop on effective domestic debt management</em> <br />1998 Brighton, UK – <em>Asian/European regional symposium on gender, politics, peace, conflict prevention and resolution</em> <br />1998 Suva, Fiji – <em>Asia/Pacific regional workshop on youth and conflict resolution</em> <br />1998 Dhaka, Bangladesh – <em>Workshop on the rights of the child</em> <br />1998 Islamabad, Pakistan – <em>Asian symposium on gender, politics, peace, conflict prevention and resolution</em> <br />1997 Cyprus – <em>Pan-Commonwealth symposium on gender, politics, peace, conflict prevention and resolution</em> <br />1997 New Providence, Bahamas – <em>Workshop for the training of trainers on development of sustainable tourism in the Bahamas</em> <br />1997  – <em>Regional workshop for the South Pacific</em> <br />1997 Dhaka, Bangladesh – <em>Workshop on the rights of the child</em> <br />1997 Edinburgh, UK – <em>Commonwealth youth forum</em> <br />1997 Port Louis, Mauritius – <em>Annual finance ministers meeting</em> <br />1997 Johannesburg, South Africa – <em>Workshop on policy instruments for the promotion of quality and competitiveness</em> <br />1997 Gaborone, Botswana – <em>Triennial conference of Commonwealth education ministers</em> <br />1997 Port Vila, Vanuatu – <em>South Pacific regional workshop on human rights</em> <br />1997 New York NY, USA – <em>Session</em> <br />1997 Steyning, UK – <em>African regional symposium on women's role in democratisation, peace and conflict resolution</em> <br />1997 Delhi, India – <em>Round table conference on administrative reform</em> <br />1997 Islamabad, Pakistan – <em>Round table conference on good government and sustainable development at the local level</em> <br />1997 Pretoria, South Africa – <em>Pan-Commonwealth seminar on democratic structures in public service improvement</em> <br />1997 Kuala Lumpur, Malaysia – <em>Seminar on trade promotion in the context of the emerging multilateral trading system</em> <br />1997 London, UK – <em>Workshop on commercialisation of public services</em> <br />1997 Guyana – <em>Judicial colloquium for the Caribbean</em> <br />1997 Langkawi, Malaysia – <em>Workshop on linking higher education to basic education</em> <br />1997 Cape Town, South Africa – <em>African regional workshop for law enforcement officials</em> <br />1997 Malaysia – <em>Workshop on assessment in primary science</em> <br />1997 Kasane, Botswana – <em>Summit of Commonwealth African leaders</em> <br />1997 Nairobi, Kenya – <em>Workshop on designing appropriate health programmes for women</em> <br />1997 London, UK – <em>Meeting</em> <br />1997 Lesotho – <em>Judicial colloquium for the Southern Africa region</em> <br />1997 Colombo, Sri Lanka – <em>Asian regional workshop for women managers in higher education</em> <br />1997 Edinburgh, UK – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1996 Brisbane, Australia – <em>Conference of Commonwealth correctional administrators</em> <br />1996 Kingston, Jamaica – <em>Caribbean regional workshop on human rights reporting</em> <br />1996 Papua New Guinea – <em>Workshop on administrative law</em> <br />1996 Trinidad-Tobago – <em>Triennial meeting of Commonwealth ministers responsible for women's affairs</em> <br />1996 Trinidad-Tobago – <em>Regional meeting on trade and environment</em> <br />1996 London, UK – <em>Meeting</em> <br />1996 Hamilton, Bermuda – <em>Annual finance ministers meeting</em> <br />1996 New York NY, USA – <em>Session</em> <br />1996 Kuala Lumpur, Malaysia – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />1995 Cape Town, South Africa – <em>Triennial Commonwealth Health Ministers Meeting</em> <br />1995 Oxford, UK – <em>Conference on human rights education</em> <br />1995 Malta – <em>Senior Officials of Law Ministries Meeting</em> <br />1995 Malta – <em>Pan-Commonwealth workshop on strategies to strengthen national women machineries</em> <br />1995 Guyana – <em>Workshop on women and environment management</em> <br />1995 New York NY, USA – <em>Session</em> <br />1995 Kuala Lumpur, Malaysia – <em>Conference on commonwealth youth in a changing world</em> <br />1995 Lusaka, Zambia – <em>Workshop on development of an urban sanitation strategy</em> <br />1995 Mona, Jamaica – <em>Workshop on management of local enterprise development</em> <br />1995 Auckland, New Zealand – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1995 Valletta, Malta – <em>Meeting of senior law officials from the Commonwealth</em> <br />1994 Islamabad, Pakistan – <em>Triennial conference of Commonwealth education ministers</em> <br />1994 Oxford, UK – <em>Conference on international and white collar crime</em> <br />1994 Oxford, UK – <em>Oxford conference on mutual legal assistance</em> <br />1994 Fiji – <em>Workshop on women in higher education management</em> <br />1994 Lagos, Nigeria – <em>Regional workshop for trainers in drug demand reduction</em> <br />1994 Botswana – <em>Workshop on scientific and technological literacy for development</em> <br />1994 Jamaica – <em>Workshop on policy systems procedures for improved human resource management in service commissions of the Caribbean</em> <br />1994 Mona, Jamaica – <em>Workshop on management development for deans of faculties and heads of academic departments</em> <br />1994 London, UK – <em>Meeting</em> <br />1994 Port-of-Spain, Trinidad-Tobago – <em>Workshop on money laundering dealing with legal and financial policy issues</em> <br />1994 Banjul, Gambia – <em>Workshop on improving decision-making skills for women in West Africa</em> <br />1994 Mombasa, Kenya – <em>Workshop on women coping with the AIDS epidemic in Eastern Africa</em> <br />1994 Manzini, Swaziland – <em>Round table for African members of CUSAC</em> <br />1994 Bridgetown, Barbados – <em>Workshop on women and sustainable development in small island developing states</em> <br />1994 St Augustine, Trinidad-Tobago – <em>Workshop on use of computers in agricultural technology</em> <br />1994 Uganda – <em>Workshop for the African region to introduce the expanded programme on immunisation</em> <br />1994 St Vincent-Grenadines – <em>Workshop on agro-environmental damage in the Caribbean</em> <br />1994 Malta – <em>Annual finance ministers meeting</em> <br />1993 Port Louis, Mauritius – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />1993 Oxford, UK – <em>Conference on international white collar crime</em> <br />1993 Nicosia, Cyprus – <em>Triennial meeting of Commonwealth ministers responsible for women's affairs</em> <br />1993  – <em>Workshop on information systems for food security policies and programmes in the SADC region</em> <br />1993 New York NY, USA – <em>Session</em> <br />1993 Barbados – <em>Regional meeting on educational responses to structural adjustment</em> <br />1993 Lagos, Nigeria – <em>Workshop on training of trainers in science, technology and mathematics education</em> <br />1993 Woburn, UK – <em>Workshop on new directions in African range management and policy</em> <br />1993 Gaborone, Botswana – <em>Investment promotion conference on new opportunities in a changing South Africa</em> <br />1993 London, UK – <em>Workshop for mobilising resources</em> <br />1993 Banjul, Gambia – <em>Workshop on reporting procedures under the African charter</em> <br />1993 Limassol, Cyprus – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1993 Zimbabwe – <em>Triennial conference of Commonwealth auditors general</em> <br />1993 Reading, UK – <em>Quadrennial conference of Commonwealth meteorologists</em> <br />1993 Nassau, Bahamas – <em>Annual finance ministers meeting</em> <br />1992 Barbados – <em>Seminar on strategic planning for institutional strengthening in the Caribbean</em> <br />1992 Bridgetown, Barbados – <em>Workshop for the Caribbean and the Americas on combating crime and abuse in the financial sector</em> <br />1992 Papua New Guinea – <em>Regional workshop on public enterprise reform</em> <br />1992 Nicosia, Cyprus – <em>Commonwealth Health Ministers Meeting</em> <br />1992 Kampala, Uganda – <em>Regional round table on public enterprise reform and divestiture</em> <br />1992 Colombo, Sri Lanka – <em>Policy workshop on rural poverty alleviation</em> <br />1992 Oxford, UK – <em>Conference on international and white collar crime</em> <br />1992 New York NY, USA – <em>Annual finance ministers meeting</em> <br />1992 Qwara, Malta – <em>Meeting of Commonwealth chief nursing officers</em> <br />1992 Colombo, Sri Lanka – <em>Regional workshop on women, the family and drugs</em> <br />1992 Kaduna, Nigeria – <em>Workshop on headteacher training and support</em> <br />1992 Bulawayo, Zimbabwe – <em>Workshop on human rights training for public officials from the Southern Africa region</em> <br />1992 Kabwe, Zambia – <em>Seminar on strategic investment planning and financial management</em> <br />1992 Singapore, Singapore – <em>Workshop on academic interchange and institution building</em> <br />1992 Harare, Zimbabwe – <em>Seminar on adjustment problems in Africa</em> <br />1992 Antigua-Barbuda – <em>Workshop for the Caribbean region on the convention on the elimination of all forms of discrimination against women</em> <br />1992 Singapore, Singapore – <em>Senior Officials of Law Ministries Meeting</em> <br />1992 Vanuatu – <em>Pan-Commonwealth workshop on educational consultancy in small states</em> <br />1992 Glasgow, UK – <em>Seminar on senior education management</em> <br />1992 Pakistan – <em>Seminar on privatisation management</em> <br />1992 Australia – <em>Seminar on public policy management and the changing role of government</em> <br />1992 Dominica – <em>Senior policy seminar on educational responses to structural adjustment</em> <br />1992 Matopos, Zimbabwe – <em>Workshop on new directions in African range management policy</em> <br />1992 Delhi, India – <em>International seminar on globalisation of business</em> <br />1991 Entebbe, Uganda – <em>Workshop on community-based management and control of AIDS</em> <br />1991 Oxford, UK – <em>Conference on international and white collar crime</em> <br />1991 Arusha, Tanzania UR – <em>Workshop on dairy development in Africa</em> <br />1991 Nairobi, Kenya – <em>Regional consultation on safe blood and blood products</em> <br />1991 Hawkesbury, Australia – <em>Workshop on bioresources diversity, ethnobiology, development and sustainability</em> <br />1991 Douglas, UK – <em>Conference on Commonwealth postal administrations</em> <br />1991 Uganda – <em>Workshop on extension services</em> <br />1991 London, UK – <em>Seminar on mobility and the European single market</em> <br />1991 Windsor Great Park, UK – <em>Seminar on human rights and development</em> <br />1991 London, UK – <em>Round table on public policy management and the changing role of government</em> <br />1991 Nassau, Bahamas – <em>Workshop on development of entrepreneurial skills for young women</em> <br />1991 Delhi, India – <em>Seminar on efficiency through competition in utilities</em> <br />1991 Hamilton, Bermuda – <em>Seminar on strategic management</em> <br />1991 Harare, Zimbabwe – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1990 Mumbai, India – <em>Symposium on stock market development and privatisation</em> <br />1990 Toronto ON, Canada – <em>Conference for Commonwealth countries on commercial representation</em> <br />1990 Barbados – <em>Conference of Commonwealth education ministers</em> <br />1990 London, UK – <em>Triennial conference of Commonwealth auditors general</em> <br />1990 Ottawa ON, Canada – <em>Triennial meeting of Commonwealth ministers responsible for women's affairs</em> <br />1990 Ottawa ON, Canada – <em>Workshop on the convention on the elimination of all forms of discrimination against women</em> <br />1990 Trinidad-Tobago – <em>Workshop on agricultural statistical collection in the Caribbean with particular reference to non-traditional food crops</em> <br />1990 Port-of-Spain, Trinidad-Tobago – <em>Annual finance ministers meeting</em> <br />1990 Malta – <em>Workshop for Commonwealth South Pacific countries on young people, enterprise and employment</em> <br />1990 Botswana – <em>Workshop on science roadshow</em> <br />1990 Zaria, Nigeria – <em>Workshop on agricultural mechanisation in Africa</em> <br />1990 Kuala Lumpur, Malaysia – <em>Workshop on women, the family and drugs</em> <br />1990 Christchurch, New Zealand – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />1990 London, UK – <em>Round table on international strategies for developing countries in the nineties</em> <br />1990 Delhi, India – <em>Asian regional seminar on the popularisation of science</em> <br />1990 Lusaka, Zambia – <em>Commonwealth Africa judicial conference</em> <br />1989 Barbados – <em>Symposium on financing development in the Caribbean</em> <br />1989 Maldives – <em>Small states conference on sea-level rise</em> <br />1989 Melbourne, Australia – <em>Triennial Commonwealth Health Ministers Meeting</em> <br />1989 Bermuda – <em>Conference of Commonwealth postal administrations</em> <br />1989 Rome, Italy – <em>Meeting of Commonwealth ministers of agriculture</em> <br />1989 Jamaica – <em>Annual finance ministers meeting</em> <br />1989 Geneva, Switzerland – <em>Meeting of Commonwealth employment/labour ministers</em> <br />1988 Cyprus – <em>Annual finance ministers meeting</em> <br />1988 Arusha, Tanzania UR – <em>Commonwealth Africa judicial conference</em> <br />1988 Ottawa ON, Canada – <em>Meeting of the Commonwealth scholarship and fellowship plan</em> <br />1988 St Lucia – <em>Workshop on educational developments in small states of the Commonwealth</em> <br />1988 Nigeria – <em>Workshop for aquaculture extension workers in Africa</em> <br />1988 Australia – <em>Seminar on private-foreign investment for the Pacific region</em> <br />1988 Lusaka, Zambia – <em>Meeting</em> <br />1987 Christ Church, Barbados – <em>Annual finance ministers meeting</em> <br />1987 Bridgetown, Barbados – <em>Workshop on primary science teacher training</em> <br />1987 Sierra Leone – <em>Joint workshop on mechanisms for collaboration between governments and NGOs in health</em> <br />1987 Kingston, Jamaica – <em>Workshop on executive development for senior women managers and training of trainers</em> <br />1987 Montserrat – <em>Caribbean workshop on small farmer organisation</em> <br />1987 Kenya – <em>Workshop on food supply information systems in Africa</em> <br />1987 Harare, Zimbabwe – <em>Triennial meeting of ministers responsible for women's affairs</em> <br />1987 Nairobi, Kenya – <em>Conference of education ministers</em> <br />1987 Canberra, Australia – <em>Regional workshop on managerial aspects of drug supply systems</em> <br />1987 London, UK – <em>Commonwealth conference on commercial representation</em> <br />1987 Dominica – <em>Workshop on extension services for policy development on women's affairs</em> <br />1987 Harare, Zimbabwe – <em>Joint workshop on management of technological change</em> <br />1987 Banjul, Gambia – <em>Workshop on extension services for policy development on women's affairs</em> <br />1987 Geneva, Switzerland – <em>Employment and labour ministers meeting</em> <br />1987 Nairobi, Kenya – <em>Joint workshop on community health materials, especially for women</em> <br />1987 Nicosia, Cyprus – <em>Seminar on emerging issues in management of public enterprises</em> <br />1987 Embu, Kenya – <em>Joint workshop on integrated crop protection for small scale farms in East Africa</em> <br />1987 London, UK – <em>Meeting of ministries of health and donor agencies</em> <br />1987 Comilla, Bangladesh – <em>Workshop on small farmer development for Africa</em> <br />1987 Zimbabwe – <em>Workshop on agricultural credit and extension services for rural women in Africa</em> <br />1987  – <em>Workshop on technology use and transfer for small farmer development in the Caribbean</em> <br />1987 Nairobi, Kenya – <em>Workshop on economics of dryland degradation and rehabilitation</em> <br />1987 Accra, Ghana – <em>Regional workshop on gender stereotyping in secondary schools science examinations</em> <br />1987 Vancouver BC, Canada – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1986 Castries, St Lucia – <em>Annual finance ministers meeting</em> <br />1986 Harare, Zimbabwe – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />1986 Harare, Zimbabwe – <em>Colloquium on agricultural policies in Commonwealth Africa</em> <br />1986 Port-of-Spain, Trinidad-Tobago – <em>Seminar/workshop on the implications of new technology for Caribbean development</em> <br />1986  – <em>Regional workshop on health planning and management</em> <br />1986 Grenada – <em>Workshop on policies and programmes for small farmers in the Caribbean</em> <br />1986 London, UK – <em>Meeting of law senior officials</em> <br />1986 Canberra, Australia – <em>Conference on the economies of dryland degradation and rehabilitation</em> <br />1986 Nassau, Bahamas – <em>Triennial Commonwealth Health Ministers Meeting</em> <br />1985 Nassau, Bahamas – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1983 Colombo, Sri Lanka – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />1983 Delhi, India – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1981 Melbourne, Australia – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1980 Bridgetown, Barbados – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />1979 Lusaka, Zambia – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1977 Winnipeg MB, Canada – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />1977 London, UK – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1975 Lagos, Nigeria – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />1975 Kingston, Jamaica – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1973 London, UK – <em>Triennial Commonwealth Law Ministers Meeting</em> <br />1973 Ottawa ON, Canada – <em>Biennial Commonwealth Heads of Government Meeting</em> <br />1971 Singapore, Singapore – <em>Biennial Commonwealth Heads of Government Meeting</em> <br /><p><a class="btn btn-small" id="lessmeet"><i class="icon-th-list"></i> View Less Events (324)</i></a></p><p></p></div>
+
+
+
+
+
+<h2 style="margin-top:20px;">Activities</h2>
+<p>Projects.</p>
+
+
+<h2 style="margin-top:20px;" id="ybp_structure">Structure</h2>
+<p>Head is HM Queen Elizabeth II, with choice of successive Heads made collectively by Commonwealth leaders. <a href="/s/or/en/1100058947" title="Commonwealth Heads of Government Meeting (CHOGM)">Commonwealth Heads of Government Meeting (CHOGM)</a> (every 2 years). Secretary-General; Deputy Secretary-General. Ministerial Action Group (CMAG); Board of Governors; Chair-in-Office. Secretariat. Divisions and Units (10): Communications and Public Affairs (CPAD); Corporate Services (CSD); Economic Affairs (EAD); Human Rights (HRU); Legal and Constitutional Affairs (LCAD); Political Affairs; Special Advisory Services (SASD); Strategic Planning and Evaluation (SPED); Social Transformation Programmes (STPD); Youth Affairs (YAD) - <a href="/s/or/en/1100014298" title="Commonwealth Youth Programme (CYP)">Commonwealth Youth Programme (CYP)</a>, including: <a href="/s/or/en/1100014497" title="Commonwealth Youth Programme South Pacific Regional Centre (CYP-SPRC)">Commonwealth Youth Programme South Pacific Regional Centre (CYP-SPRC)</a>; <a href="/s/or/en/1100049957" title="Commonwealth Youth Programme - Caribbean Centre (CYPCC)">Commonwealth Youth Programme - Caribbean Centre (CYPCC)</a>; <a href="/s/or/en/1100059027" title="African Centre of the Commonwealth Youth Programme">African Centre of the Commonwealth Youth Programme</a>; <a href="/s/or/en/1100032540" title="Asia Centre of the Commonwealth Youth Programme (CYP Asia Centre)">Asia Centre of the Commonwealth Youth Programme (CYP Asia Centre)</a>. Regular conferences include: <a href="/s/or/en/1100053485" title="Commonwealth Law Ministers' Meeting (CLMM)">Commonwealth Law Ministers' Meeting (CLMM)</a>; <a href="/s/or/en/1100063937" title="Conference of Commonwealth Education Ministers (CCEM)">Conference of Commonwealth Education Ministers (CCEM)</a>; <a href="/s/or/en/1100001555" title="Meeting of Commonwealth Ministers Responsible for Women's Affairs">Meeting of Commonwealth Ministers Responsible for Women's Affairs</a>; <a href="/s/or/en/1100018323" title="Commonwealth Youth Ministers Meeting (CYMM)">Commonwealth Youth Ministers Meeting (CYMM)</a>.</p>
+	
+
+<h2 style="margin-top:20px;">Languages</h2>
+<p>English.</p>
+
+
+<h2 style="margin-top:20px;">Staff</h2>
+<p>At 30 June 2013: 380 paid.</p>
+
+<h2 style="margin-top:20px;">Financing</h2>
+<p>Contributions are made to general Secretariat budget on an agreed scale from member governments.</p>
+
+
+
+<h2 style="margin-top:20px;">Relations with Inter-Governmental Organizations</h2>
+<p>Active Strategic Relationships with a large number of international and regional (integration) partners, including: <a href="/s/or/en/1100033436" title="African Union (AU)">African Union (AU)</a>, and especially African Union Commission; <a href="/s/or/en/1100057610" title="Caribbean Community (CARICOM)">Caribbean Community (CARICOM)</a>; <a href="/s/or/en/1100036510" title="Commonwealth Telecommunications Organisation (CTO)">Commonwealth Telecommunications Organisation (CTO)</a>; <a href="/s/or/en/1100055821" title="European Union (EU)">European Union (EU)</a> and especially <a href="/s/or/en/1100013222" title="European Commission (EC)">European Commission (EC)</a>; <a href="/s/or/en/1100043584" title="Pacific Community (SPC)">Pacific Community (SPC)</a>; <a href="/s/or/en/1100057394" title="United Nations (UN)">United Nations (UN)</a> General Assembly and UN agencies; <a href="/s/or/en/1100040595" title="World Trade Organization (WTO)">World Trade Organization (WTO)</a>. Sister organizations: <a href="/s/or/en/1100001219" title="Commonwealth Foundation (CF)">Commonwealth Foundation (CF)</a>; <a href="/s/or/en/1100048685" title="Commonwealth of Learning (COL)">Commonwealth of Learning (COL)</a>. Non-accredited organizations: <a href="/s/or/en/1100030158" title="Commonwealth Conference of Postal Administrations (CCPA)">Commonwealth Conference of Postal Administrations (CCPA)</a>; <a href="/s/or/en/1100019236" title="Conference of Commonwealth Auditors General">Conference of Commonwealth Auditors General</a>. Links with: <a href="/s/or/en/1100001219" title="Commonwealth Foundation (CF)">Commonwealth Foundation (CF)</a>; <a href="/s/or/en/1100058842" title="Commonwealth Fund for Technical Cooperation (CFTC)">Commonwealth Fund for Technical Cooperation (CFTC)</a>.</p>
+
+<h2 style="margin-top:20px;">Relations with Non-Governmental Organizations</h2>
+<p>The Commonwealth has a network of over 90 civil society organizations (CSOs), ranging from professional associations to business organizations, trade unions, and organizations of elected bodies such as parliamentarians and local government authorities. Civil society relations with the Commonwealth have grown in breadth and depth over time, following, part, from the recommendations of the 2002 High Level Review Group, presenting its report at the Coolum (Australia) CHOGM and recommending strengthening links with the non-governmental Commonwealth. Additional strengthening and continued development of relations occurred following decision to grant CSOs Commonwealth accreditation, 2003. Minimum criteria for accreditation include: commitment to the Commonwealth's fundamental values; representation of the diversity of Commonwealth countries; principles of transparency and openness to all members. Accreditation provides CSOs with 'observer status' enabling them to attend Commonwealth Ministerial and other meetings.<p> Accredited civil society organizations associated with the Commonwealth:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100011901" title="Association of Commonwealth Archivists and Records Managers (ACARM)">Association of Commonwealth Archivists and Records Managers (ACARM)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100016251" title="Association for Commonwealth Literature and Language Studies (ACLALS)">Association for Commonwealth Literature and Language Studies (ACLALS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100026566" title="Association of Commonwealth Universities, The (ACU)">Association of Commonwealth Universities, The (ACU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100067742" title="ComHabitat">ComHabitat</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100068039" title="The Commonwealth Association">The Commonwealth Association</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100044467" title="Commonwealth Association of Architects (CAA)">Commonwealth Association of Architects (CAA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100002852" title="Commonwealth Association for Health and Disability (COMHAD)">Commonwealth Association for Health and Disability (COMHAD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100039283" title="Commonwealth Association of Law Reform Agencies (CALRAs)">Commonwealth Association of Law Reform Agencies (CALRAs)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100032356" title="Commonwealth Association of Museums (CAM)">Commonwealth Association of Museums (CAM)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100035171" title="Commonwealth Association of Paediatric Gastroenterology and Nutrition (CAPGAN)">Commonwealth Association of Paediatric Gastroenterology and Nutrition (CAPGAN)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100037482" title="Commonwealth Association of Planners (CAP)">Commonwealth Association of Planners (CAP)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100003701" title="Commonwealth Association for Public Administration and Management (CAPAM)">Commonwealth Association for Public Administration and Management (CAPAM)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100011409" title="Commonwealth Association of Science, Technology and Mathematics Educators (CASTME)">Commonwealth Association of Science, Technology and Mathematics Educators (CASTME)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100025678" title="Commonwealth Association of Tax Administrators (CATA)">Commonwealth Association of Tax Administrators (CATA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100018759" title="Commonwealth Business Council (CBC)">Commonwealth Business Council (CBC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100001565" title="Commonwealth Consortium for Education (CCfE)">Commonwealth Consortium for Education (CCfE)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100022158" title="Commonwealth Council for Educational Administration and Management (CCEAM)">Commonwealth Council for Educational Administration and Management (CCEAM)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100060633" title="Commonwealth Countries League (CCL)">Commonwealth Countries League (CCL)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100048029" title="Commonwealth Dental Association (CDA)">Commonwealth Dental Association (CDA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100040298" title="Commonwealth Education Trust (CET)">Commonwealth Education Trust (CET)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100029504" title="Commonwealth Engineers Council (CEC)">Commonwealth Engineers Council (CEC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100019877" title="Commonwealth Forestry Association (CFA)">Commonwealth Forestry Association (CFA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100034046" title="Commonwealth Games Federation (CGF)">Commonwealth Games Federation (CGF)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100065259" title="Commonwealth Geographical Bureau (CGB)">Commonwealth Geographical Bureau (CGB)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100026709" title="Commonwealth Human Ecology Council (CHEC)">Commonwealth Human Ecology Council (CHEC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100045209" title="Commonwealth Human Rights Initiative (CHRI)">Commonwealth Human Rights Initiative (CHRI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100005305" title="Commonwealth Journalists Association (CJA)">Commonwealth Journalists Association (CJA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100066809" title="Commonwealth Judicial Education Institute (CJEI)">Commonwealth Judicial Education Institute (CJEI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100016226" title="Commonwealth Lawyers' Association (CLA)">Commonwealth Lawyers' Association (CLA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100064616" title="Commonwealth Legal Education Association (CLEA)">Commonwealth Legal Education Association (CLEA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100049983" title="Commonwealth Local Government Forum (CLGF)">Commonwealth Local Government Forum (CLGF)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100066973" title="Commonwealth Magistrates' and Judges' Association (CMJA)">Commonwealth Magistrates' and Judges' Association (CMJA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100024483" title="Commonwealth Medical Association (CMA)">Commonwealth Medical Association (CMA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100010169" title="Commonwealth Medical Trust (Commat)">Commonwealth Medical Trust (Commat)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100062302" title="Commonwealth Nurses and Midwives Federation (CNMF)">Commonwealth Nurses and Midwives Federation (CNMF)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100032003" title="Commonwealth Organisation for Social Work (COSW)">Commonwealth Organisation for Social Work (COSW)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100043611" title="Commonwealth Parliamentary Association (CPA)">Commonwealth Parliamentary Association (CPA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100037554" title="Commonwealth Pharmacists Association (CPA)">Commonwealth Pharmacists Association (CPA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100018802" title="Commonwealth Policy Studies Unit (CPSU)">Commonwealth Policy Studies Unit (CPSU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100032262" title="Commonwealth Youth Exchange Council (CYEC)">Commonwealth Youth Exchange Council (CYEC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100061592" title="Conference of Commonwealth Meteorologists">Conference of Commonwealth Meteorologists</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100000733" title="Council for Education in the Commonwealth (CEC)">Council for Education in the Commonwealth (CEC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100061173" title="Institute of Commonwealth Studies, London (ICWS)">Institute of Commonwealth Studies, London (ICWS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100007614" title="NGO Commonwealth Women's Network (CWN)">NGO Commonwealth Women's Network (CWN)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100014124" title="Public Media Alliance (PMA)">Public Media Alliance (PMA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100029257" title="Royal Agricultural Society of the Commonwealth (RASC)">Royal Agricultural Society of the Commonwealth (RASC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100067315" title="Royal Commonwealth Ex-Services League (RCEL)">Royal Commonwealth Ex-Services League (RCEL)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100045854" title="Royal Commonwealth Society (RCS)">Royal Commonwealth Society (RCS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100008883" title="Royal Over-Seas League (ROSL)">Royal Over-Seas League (ROSL)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100042351" title="Sightsavers International">Sightsavers International</a>.<p> Other Accredited CSOs:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100065697" title="African Centre for Democracy and Human Rights Studies (ACDHRS)">African Centre for Democracy and Human Rights Studies (ACDHRS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100068088" title="BasicNeeds">BasicNeeds</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100068170" title="Building Understanding through International Links for Development (BUILD)">Building Understanding through International Links for Development (BUILD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100056226" title="CIVICUS: World Alliance for Citizen Participation">CIVICUS: World Alliance for Citizen Participation</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100068203" title="Commonwealth HIV and AIDS Action Group (Para55)">Commonwealth HIV and AIDS Action Group (Para55)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100048772" title="Corona Worldwide">Corona Worldwide</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100049328" title="Forum of Federations">Forum of Federations</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100043834" title="International Council on Social Welfare (ICSW)">International Council on Social Welfare (ICSW)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100046517" title="International Federation of Human Rights Leagues (IFHR)">International Federation of Human Rights Leagues (IFHR)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100033985" title="International Trade Union Confederation (ITUC)">International Trade Union Confederation (ITUC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100015498" title="Pacific Foundation for the Advancement of Women (PACFAW)">Pacific Foundation for the Advancement of Women (PACFAW)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100046738" title="Pacific Islands Association of Non-Governmental Organizations (PIANGO)">Pacific Islands Association of Non-Governmental Organizations (PIANGO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100012906" title="Soroptimist International (SI)">Soroptimist International (SI)</a> Commonwealth Group;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100011938" title="Transparency International (TI)">Transparency International (TI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100014736" title="World Vision International (WVI)">World Vision International (WVI)</a>.<p> Non-accredited organizations:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100068108" title="Commonwealth Association of Indigenous Peoples (CAIP)">Commonwealth Association of Indigenous Peoples (CAIP)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100024469" title="Commonwealth Association of Professional Centres (CAPC)">Commonwealth Association of Professional Centres (CAPC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100011221" title="Commonwealth Association of Scientific Agricultural Societies (CASAS)">Commonwealth Association of Scientific Agricultural Societies (CASAS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100007940" title="Commonwealth Jewish Council">Commonwealth Jewish Council</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100024839" title="Commonwealth Library Association (COMLA)">Commonwealth Library Association (COMLA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100048277" title="Commonwealth Partnership for Technology Management (CPTM)">Commonwealth Partnership for Technology Management (CPTM)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100001562" title="Commonwealth Relations Trust">Commonwealth Relations Trust</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100048119" title="Commonwealth Society for the Deaf (Sound Seekers)">Commonwealth Society for the Deaf (Sound Seekers)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100037101" title="Commonwealth Veterinary Association (CVA)">Commonwealth Veterinary Association (CVA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100041222" title="CPU Media Trust">CPU Media Trust</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100068081" title="Eastern Africa Centre for Constitutional Development (Kituo Cha Katiba)">Eastern Africa Centre for Constitutional Development (Kituo Cha Katiba)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100043364" title="English-Speaking Union (ESU)">English-Speaking Union (ESU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100043088" title="Victoria League for Commonwealth Friendship">Victoria League for Commonwealth Friendship</a>.</p>
+
+<h2 style="margin-top:20px;">Publications</h2>
+<p><i>Commonwealth Law Bulletin</i> (4 a year); <i>Report of the Commonwealth Fund for Technical Cooperation</i> (annual); <i>Report of the Commonwealth Secretary-General</i> (every 2 years). <i>Commonwealth Discussion Papers</i>; <i>Commonwealth Secretariat Trade Hot Topics</i> - pamphlet series. Secretariat publishes about 25 freestanding priced publications annually.</p>
+
+<h2 style="margin-top:20px;">Information Services</h2>
+<p>Communications and Public Affairs Division: <i>Commonwealth News</i> - in-depth coverage of Commonwealth activities; <i>Commonwealth Secretariat Archives</i> - about 1,800 records in the public domain dating from 1965; <i>Commonwealth Secretariat Online Picture Library</i> - contemporary and historical photographs; <i>Commonwealth Secretariat Reference Library</i> - 35,000 books and official publications.</p>
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Members</h2><div>Heads of Government meeting in 2007, Kampala (Uganda), reviewed core criteria for Commonwealth membership. Applicant countries: should have had a historic constitutional association with an existing Commonwealth member, with applications to be considered on a case-by-case basis for exceptional circumstances; should accept and comply with the Commonwealth's fundamental values and principles set out in Declarations; must demonstrate commitment to: democracy and democratic processes, including free and fair elections and representative legislatures; rule of law and independence of the judiciary; good governance, including a well-trained public service and transparent public accounts; protection of human rights, freedom of expression and equality of opportunity; should accept Commonwealth norms and conventions, such as use of English language and acknowledgement of Queen Elizabeth II as Head of the Commonwealth. New members: should be encouraged to joint Commonwealth Foundation and promote civil society and business organizations with their countries; are required to augment the existing budget of the Secretariat. Existing members do not need re-apply for Commonwealth membership following changing its formal constitutional status, provided continuation to meet all membership criteria.<p> Current members are the governments of 53 countries, representing over 2,000 million people. Through Commonwealth Ministerial Action Group (CMAG): Zimbabwe was suspended, Mar 2002 and withdrew Dec 2003; Fiji was suspended from the Councils of the Commonwealth, Dec 2006, and fully suspended from membership, Sep 2009; Gambia withdrew in 2013. Governments (53):<p>&nbsp;&bull; <u>Africa</u>: <a href="/ybio?memb_en_fm=Botswana" title="Botswana (click to perform a search)">Botswana</a>, <a href="/ybio?memb_en_fm=Cameroon" title="Cameroon (click to perform a search)">Cameroon</a>, <a href="/ybio?memb_en_fm=Eswatini" title="Eswatini (click to perform a search)">Eswatini</a>, <a href="/ybio?memb_en_fm=Ghana" title="Ghana (click to perform a search)">Ghana</a>, <a href="/ybio?memb_en_fm=Kenya" title="Kenya (click to perform a search)">Kenya</a>, <a href="/ybio?memb_en_fm=Lesotho" title="Lesotho (click to perform a search)">Lesotho</a>, <a href="/ybio?memb_en_fm=Malawi" title="Malawi (click to perform a search)">Malawi</a>, <a href="/ybio?memb_en_fm=Mauritius" title="Mauritius (click to perform a search)">Mauritius</a>, <a href="/ybio?memb_en_fm=Mozambique" title="Mozambique (click to perform a search)">Mozambique</a>, <a href="/ybio?memb_en_fm=Namibia" title="Namibia (click to perform a search)">Namibia</a>, <a href="/ybio?memb_en_fm=Nigeria" title="Nigeria (click to perform a search)">Nigeria</a>, <a href="/ybio?memb_en_fm=Rwanda" title="Rwanda (click to perform a search)">Rwanda</a>, <a href="/ybio?memb_en_fm=Seychelles" title="Seychelles (click to perform a search)">Seychelles</a>, <a href="/ybio?memb_en_fm=Sierra Leone" title="Sierra Leone (click to perform a search)">Sierra Leone</a>, <a href="/ybio?memb_en_fm=South Africa" title="South Africa (click to perform a search)">South Africa</a>, <a href="/ybio?memb_en_fm=Tanzania UR" title="Tanzania UR (click to perform a search)">Tanzania UR</a>, <a href="/ybio?memb_en_fm=Uganda" title="Uganda (click to perform a search)">Uganda</a>, <a href="/ybio?memb_en_fm=Zambia" title="Zambia (click to perform a search)">Zambia</a>. <p>&nbsp;&bull; <u>Americas</u>: <a href="/ybio?memb_en_fm=Antigua-Barbuda" title="Antigua-Barbuda (click to perform a search)">Antigua-Barbuda</a>, <a href="/ybio?memb_en_fm=Bahamas" title="Bahamas (click to perform a search)">Bahamas</a>, <a href="/ybio?memb_en_fm=Barbados" title="Barbados (click to perform a search)">Barbados</a>, <a href="/ybio?memb_en_fm=Belize" title="Belize (click to perform a search)">Belize</a>, <a href="/ybio?memb_en_fm=Canada" title="Canada (click to perform a search)">Canada</a>, <a href="/ybio?memb_en_fm=Dominica" title="Dominica (click to perform a search)">Dominica</a>, <a href="/ybio?memb_en_fm=Grenada" title="Grenada (click to perform a search)">Grenada</a>, <a href="/ybio?memb_en_fm=Guyana" title="Guyana (click to perform a search)">Guyana</a>, <a href="/ybio?memb_en_fm=Jamaica" title="Jamaica (click to perform a search)">Jamaica</a>, <a href="/ybio?memb_en_fm=St Kitts-Nevis" title="St Kitts-Nevis (click to perform a search)">St Kitts-Nevis</a>, <a href="/ybio?memb_en_fm=St Lucia" title="St Lucia (click to perform a search)">St Lucia</a>, <a href="/ybio?memb_en_fm=St Vincent-Grenadines" title="St Vincent-Grenadines (click to perform a search)">St Vincent-Grenadines</a>, <a href="/ybio?memb_en_fm=Trinidad-Tobago" title="Trinidad-Tobago (click to perform a search)">Trinidad-Tobago</a>. <p>&nbsp;&bull; <u>Asia</u>: <a href="/ybio?memb_en_fm=Bangladesh" title="Bangladesh (click to perform a search)">Bangladesh</a>, <a href="/ybio?memb_en_fm=Brunei Darussalam" title="Brunei Darussalam (click to perform a search)">Brunei Darussalam</a>, <a href="/ybio?memb_en_fm=India" title="India (click to perform a search)">India</a>, <a href="/ybio?memb_en_fm=Malaysia" title="Malaysia (click to perform a search)">Malaysia</a>, <a href="/ybio?memb_en_fm=Maldives" title="Maldives (click to perform a search)">Maldives</a>, <a href="/ybio?memb_en_fm=Pakistan" title="Pakistan (click to perform a search)">Pakistan</a>, <a href="/ybio?memb_en_fm=Singapore" title="Singapore (click to perform a search)">Singapore</a>, <a href="/ybio?memb_en_fm=Sri Lanka" title="Sri Lanka (click to perform a search)">Sri Lanka</a>. <p>&nbsp;&bull; <u>Australia</u>: <a href="/ybio?memb_en_fm=Australia" title="Australia (click to perform a search)">Australia</a>, <a href="/ybio?memb_en_fm=Fiji" title="Fiji (click to perform a search)">Fiji</a> (suspended), <a href="/ybio?memb_en_fm=Kiribati" title="Kiribati (click to perform a search)">Kiribati</a>, <a href="/ybio?memb_en_fm=Nauru" title="Nauru (click to perform a search)">Nauru</a>, <a href="/ybio?memb_en_fm=New Zealand" title="New Zealand (click to perform a search)">New Zealand</a>, <a href="/ybio?memb_en_fm=Papua New Guinea" title="Papua New Guinea (click to perform a search)">Papua New Guinea</a>, <a href="/ybio?memb_en_fm=Samoa" title="Samoa (click to perform a search)">Samoa</a>, <a href="/ybio?memb_en_fm=Solomon Is" title="Solomon Is (click to perform a search)">Solomon Is</a>, <a href="/ybio?memb_en_fm=Tonga" title="Tonga (click to perform a search)">Tonga</a>, <a href="/ybio?memb_en_fm=Tuvalu" title="Tuvalu (click to perform a search)">Tuvalu</a>, <a href="/ybio?memb_en_fm=Vanuatu" title="Vanuatu (click to perform a search)">Vanuatu</a>. <p>&nbsp;&bull; <u>Europe</u>: <a href="/ybio?memb_en_fm=Cyprus" title="Cyprus (click to perform a search)">Cyprus</a>, <a href="/ybio?memb_en_fm=Malta" title="Malta (click to perform a search)">Malta</a>, <a href="/ybio?memb_en_fm=UK" title="UK (click to perform a search)">UK</a>.<p> Associated states and overseas territories:<p> ['Australian External Territories']: Ashmore and Cartier Islands; Australian Antarctic Territory; Christmas Is; Cocos-Keeling Is; Coral Sea Islands Territory; Heard Is; McDonald Is; Norfolk Is.<p> ['New Zealand Self-governing countries']: Cooks Is; Niue.<p> ['New Zealand External Territories']: Ross Dependency; Tokelau.<p> ['UK Overseas Territories']: Anguilla; Bermuda; British Antarctic Territory; British Indian Ocean Territory; Virgin Is UK; Cayman Is; Falklands; Gibraltar; Montserrat; Pitcairn; St Helena and dependencies (Ascension; Tristan da Cunha); South Georgia; South Sandwich Islands; Turks-Caicos.</div><p>Members in 53 countries<br /></p>
+ <h2 style="margin-top:20px;">Type I Classification</h2>
+<p>C: Intercontinental membership organizations</p>
+ <h2 style="margin-top:20px;">Type II Classification</h2>
+<div>g: Intergovernmental<br /></div>
+
+
+ <h2 style="margin-top:20px;clear:left;">Subjects <sup>*</sup></h2><ul><li><a href="/ybio?wcodes=Government" title="Government:  (click to perform a search)">Government</a></li><ul><li><a href="/ybio?wcodes=Intergovernmental Communities" title="Intergovernmental Communities:  (click to perform a search)">Intergovernmental Communities</a></li><li><a href="/ybio?wcodes=Government" title="Government:  (click to perform a search)">Government</a></li></ul></ul> 
+ 
+ 	<h2 style="margin-top:20px;">UN Sustainable Development Goals <sup>**</sup></h2><p><a href="/s/sdg/en/UN04" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-04.png" class="sdgimg" alt="GOAL 4: Quality Education" /></a><a href="/s/sdg/en/UN08" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-08.png" class="sdgimg" alt="GOAL 8: Decent Work and Economic Growth" /></a><a href="/s/sdg/en/UN10" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-10.png" class="sdgimg" alt="GOAL 10: Reduced Inequality" /></a><a href="/s/sdg/en/UN13" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-13.png" class="sdgimg" alt="GOAL 13: Climate Action" /></a><a href="/s/sdg/en/UN16" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-16.png" class="sdgimg" alt="GOAL 16: Peace and Justice Strong Institutions" /></a></p> 
+<h2 style="margin-top:20px;">UIA Org ID</h2>
+<p>C0376</p>
+<!--  -->
+
+<h2 style="margin-top:20px;">Last News Received</h2><div>2017</div><div style="color:#999;margin-top:20px;"><sup>*</sup> Subject classification is derived from the organization names and aims.  <br />
+  <sup>**</sup> UN SDGs are linked to the subject classification.<br /><br />
+
+
+
+
+<div style="clear:both;color:#999;margin-top:30px;line-height:140%;"><div style="float:right;width:250px;text-align:right;margin-left:30px;"><a class="btn btw-med" href="https://www.uia.org/node/add/new-org-submission" target="_blank"><i class="icon-th-list"></i> Add A New Organization</a></div>You are viewing an organization profile from the <span style="color:#333;"><a href="/ybio/">Yearbook of International Organizations Online</a></span>. <br /><a href="javascript: history.go(-1)">&larr; return to your search page</a> to see additional profiles.</div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+                
+    
+<div style="clear:both;height:10px;"> </div>
+
+
+
+
+<div style="clear:both;">
+    <footer id="footer" class="region region-footer">
+    <!-- .block -->
+<div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div id="copy-footer">
+<div id="logout" style="width:100px;float:right;"><form action="/LOGOUT" method="post">
+    <input type="submit" value="Logout" /></form></div>
+© 2020 <a href="https://www.uia.org" style="color:#bfccd9;">Union of International Associations</a> &amp; <a href="https://www.brill.com" style="color:#bfccd9;">Koninklijke Brill NV</a>.<br /> 
+For more information please visit <a href="http://www.brill.com/ybio" style="color:#bfccd9;">brill.com</a> | <a href="http://www.brill.com/standard-conditions-sale" style="color:#bfccd9;">Terms and Conditions</a> | <a href="http://www.brill.com/about/policies/privacy-statement" style="color:#bfccd9;">Privacy Statement</a> | <a href="http://www.brill.com/about/policies/rights-permissions" style="color:#bfccd9;">Copyright &amp; Permissions</a></div>
+</div><!-- /.block -->
+  </footer>
+</div>  
+
+</div><!-- /#container -->
+
+</div><!-- /#page -->
+
+<div id="devel">
+</div>  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.filter.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.js?q4261c"></script>
+<script>jQuery(document).ready(function () 
+{   
+	
+	
+	
+	var x = document.getElementsByTagName("META");
+	    var txt = "";
+	    var i;
+	    for (i = 0; i < x.length; i++) {
+	        if (x[i].name=="ST.PlatformAPIKey")
+	        {
+	          var platformKey = x[i].content;
+	         }
+ 	        if (x[i].name=="ST.customerId")
+ 	        {
+ 	          var customerKey = x[i].content;
+ 	         }
+	    }
+	
+	var substatus = "valid";
+	if(customerKey == "") 
+	{
+		substatus = "not subscribed";
+	}
+	
+
+
+	var refer = document.referrer;
+	 var refcheck = refer.indexOf("name");
+	 
+
+ 	if(refcheck > 10) {
+ 	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RESULT_CLICK'}]);
+ 	}
+	 
+	 if(substatus == "valid") {
+	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RECORD_VIEW'}]);
+	}
+
+
+});</script>
+  
+  <script type="text/javascript">
+    (function () {
+      var stars = document.createElement('script');
+      stars.type = 'text/javascript';
+      stars.async = true;
+      stars.src = 'https://receiver.star.saas.semcs.net/star.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(stars, s);
+  })();
+  </script>
+  
+</body>
+
+</html>
