@@ -67,7 +67,7 @@ include('simple_html_dom.php');
 
         $count = count($content->find('h2'));
 
-        /*try {
+        try {
 
             //for ($i = 0; $i < count($content->find('h2')); $i++) {
             while ($i < $count) {
@@ -90,7 +90,7 @@ include('simple_html_dom.php');
 
         } catch (Exception $e) {
             echo $e->getMessage();
-        }*/
+        }
 
 
         if ($content->find('h2')[0] !== null) {
