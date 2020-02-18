@@ -47,5 +47,36 @@ class PagesParser
     private function handlePageInfo($pageInfo)
     {
         echo $pageInfo->title . " -- " . $pageInfo->acronym . "\n";
+        $servername = "localhost";
+        $username = "root";
+        $password = "";
+        $database = "uia_research";
+        // Create connection
+        $conn = new mysqli($servername, $username, $password, $database);
+        // Check connection
+        if ($conn->connect_error) {
+            die("Connection failed: " . $conn->connect_error);
+        }
+        echo "Connected successfully" . "<br>";
+
+
+        $sql =  $conn->prepare( "INSERT INTO assocs (name, contact_det, websiteURL, aims, history, events, financing, consultative_status, ngo_relations, members, type1, 
+            type2, activities, structure, languages, staff, igo_relations, subjects, last_news_received)
+            VALUES (  ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+
+        $sql->bind_param('ssssssssssssssssss',$title, $contactDetailsText, $websiteURL, $aimsText, $historyText, $eventsText,$financingText, $consultativeText,
+            $ngoText, $membersText, $type_I_Text, $type_II_Text, $itemText12, $itemText13, $itemText14, $itemText15,
+             $itemText16, $itemText17, $itemText18);
+
+        $sql->execute();
+
+        if (mysqli_query($conn, $sql)) {
+            echo "New record created successfully";
+        } else {
+            echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+        }
+        mysqli_close($conn);
+
+
     }
 }
