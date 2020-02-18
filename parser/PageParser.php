@@ -40,14 +40,8 @@ class PageParser
                 },
 
                 'events' => function($contentElement) {
-                    $lines = $contentElement->find('p', 0);
-                    $events = [];
-                    if ($lines)
-                    {
-                        $eventCounter = count($lines->find('br'));
-                        $event = splitEventsForEvent($lines, $eventCounter);
-                        $events[] = $event;
-                    }
+                    $eventCounter = count($contentElement->find('br'));
+                    $events = splitEventsForEvent($contentElement, $eventCounter);
                     return $events;
                 },
 
@@ -140,7 +134,7 @@ class PageParser
         }
     }
 
-    private function splitEventsForEvent(PageInfo $pageInfo, $counter)
+    public function splitEventsForEvent(PageInfo $pageInfo, $counter)
     {
         if ($pageInfo->events)
         {
@@ -152,11 +146,12 @@ class PageParser
                     $endPos = strpos($pageInfo->events, '</em>');
                     if ($endPos)
                     {
-                        $pageInfo->events[] = substr($pageInfo->events, $startPos, $endPos - $startPos);
+                        $event = substr($pageInfo->events, $startPos, $endPos - $startPos);
+                        $pageInfo->events[] = $event;
                     }
                 }
             }
-
+            return $pageInfo->events;
         }
     }
 
