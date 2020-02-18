@@ -360,7 +360,59 @@ ARTDO International
 
 	<div></div>
 
-		<h2 style="margin-top:20px;">Events</h2><p>2018 Taipei, Taiwan – <em>Annual Conference</em> <br />2017 George Town, Malaysia – <em>Annual Conference</em> <br />2017 Malaysia – <em>Conference</em> <br />2015 Cairo, Egypt – <em>Annual Conference</em> <br />2014 Yogyakarta, Indonesia – <em>Annual Conference</em> <br />2013 Melbourne, Australia – <em>Annual conference</em> <br />2012 Cebu City, Philippines – <em>Annual Conference</em> <br />2012 Manila, Philippines – <em>Annual Conference</em> <br />2012 Edinburgh, UK – <em>World conference</em> <br />2011 Taipei, Taiwan – <em>Annual conference</em> <br />2010 Kuala Lumpur, Malaysia – <em>Annual conference</em> <br />2009 Penang, Malaysia – <em>Annual conference</em> <br />2008 Cairo, Egypt – <em>Annual conference</em> <br />2007 Bali, Indonesia – <em>Annual conference</em> <br />2007 Yogyakarta, Indonesia – <em>Annual Conference</em> <br /></p><p><a class="btn btn-small" id="moremeet"><i class="icon-th-list"></i> View More Events (34)</i></a></p><p><div id="morecal" style="display:none;margin-top:0;"><p style="margin-top:-5px;">2006 Manama, Bahrain – <em>Annual conference</em> <br />2005 Manila, Philippines – <em>Annual conference</em> <br />2004 Penang, Malaysia – <em>Annual conference</em> <br />2003 Macau, Macau – <em>Annual conference</em> <br />2003 Macau – <em>Annual Conference</em> <br />2002 Taipei, Taiwan – <em>Annual conference</em> <br />2001 Melbourne, Australia – <em>Annual conference</em> <br />2000 Penang, Malaysia – <em>Annual conference</em> <br />1999 Bali, Indonesia – <em>Annual conference</em> <br />1998 Delhi, India – <em>Annual conference</em> <br />1997 Kuching, Malaysia – <em>Annual conference</em> <br />1996 Manila, Philippines – <em>Annual conference</em> <br />1995 Melbourne, Australia – <em>Annual conference</em> <br />1994 Penang, Malaysia – <em>Annual conference</em> <br />1993 Jakarta, Indonesia – <em>Annual conference</em> <br />1992 Taipei, Taiwan – <em>Annual conference</em> <br />1991 Manila, Philippines – <em>Annual conference</em> <br />1990 Penang, Malaysia – <em>Annual conference</em> <br />1989 Bangkok, Thailand – <em>Annual conference</em> <br />1988 Macau – <em>Annual conference</em> <br />1987 Singapore, Singapore – <em>Annual conference</em> <br />1986 Jakarta, Indonesia – <em>Annual conference</em> <br />1985 Kuala Lumpur, Malaysia – <em>Annual Conference</em> <br />1984 Australia – <em>Annual Conference</em> <br />1983 Taipei, Taiwan – <em>Annual Conference</em> <br />1982 Hong Kong, Hong Kong – <em>Annual Conference</em> <br />1981 Kuala Lumpur, Malaysia – <em>Annual Conference</em> <br />1980 Palmerston North, New Zealand – <em>Annual Conference</em> <br />1979 Manila, Philippines – <em>Annual Conference</em> <br />1978 Ranchi, India – <em>Annual Conference</em> <br />1977 Suva, Fiji – <em>Annual Conference</em> <br />1976 Canberra, Australia – <em>Annual Conference</em> <br />1975 Delhi, India – <em>Annual Conference</em> <br />1974 Manila, Philippines – <em>Annual Conference</em> <br /><p><a class="btn btn-small" id="lessmeet"><i class="icon-th-list"></i> View Less Events (34)</i></a></p><p></p></div>
+		<h2 style="margin-top:20px;">Events</h2>
+		<p>2018 Taipei, Taiwan – <em>Annual Conference</em> <br />
+            2017 George Town, Malaysia – <em>Annual Conference</em> <br />
+            2017 Malaysia – <em>Conference</em> <br />
+            2015 Cairo, Egypt – <em>Annual Conference</em> <br />
+            2014 Yogyakarta, Indonesia – <em>Annual Conference</em> <br />
+            2013 Melbourne, Australia – <em>Annual conference</em> <br />
+            2012 Cebu City, Philippines – <em>Annual Conference</em> <br />
+            2012 Manila, Philippines – <em>Annual Conference</em> <br />
+            2012 Edinburgh, UK – <em>World conference</em> <br />
+            2011 Taipei, Taiwan – <em>Annual conference</em> <br />
+            2010 Kuala Lumpur, Malaysia – <em>Annual conference</em> <br />
+            2009 Penang, Malaysia – <em>Annual conference</em> <br />
+            2008 Cairo, Egypt – <em>Annual conference</em> <br />
+            2007 Bali, Indonesia – <em>Annual conference</em> <br />
+            2007 Yogyakarta, Indonesia – <em>Annual Conference</em> <br /></p>
+		<p><a class="btn btn-small" id="moremeet"><i class="icon-th-list"></i> View More Events (34)</i></a></p>
+		<p><div id="morecal" style="display:none;margin-top:0;">
+		<p style="margin-top:-5px;">2006 Manama, Bahrain – <em>Annual conference</em> <br />
+            2005 Manila, Philippines – <em>Annual conference</em> <br />
+            2004 Penang, Malaysia – <em>Annual conference</em> <br />
+            2003 Macau, Macau – <em>Annual conference</em> <br />
+            2003 Macau – <em>Annual Conference</em> <br />
+            2002 Taipei, Taiwan – <em>Annual conference</em> <br />
+            2001 Melbourne, Australia – <em>Annual conference</em> <br />
+            2000 Penang, Malaysia – <em>Annual conference</em> <br />
+            1999 Bali, Indonesia – <em>Annual conference</em> <br />
+            1998 Delhi, India – <em>Annual conference</em> <br />
+            1997 Kuching, Malaysia – <em>Annual conference</em> <br />
+            1996 Manila, Philippines – <em>Annual conference</em> <br />
+            1995 Melbourne, Australia – <em>Annual conference</em> <br />
+            1994 Penang, Malaysia – <em>Annual conference</em> <br />
+            1993 Jakarta, Indonesia – <em>Annual conference</em> <br />
+            1992 Taipei, Taiwan – <em>Annual conference</em> <br />
+            1991 Manila, Philippines – <em>Annual conference</em> <br />
+            1990 Penang, Malaysia – <em>Annual conference</em> <br />
+            1989 Bangkok, Thailand – <em>Annual conference</em> <br />
+            1988 Macau – <em>Annual conference</em> <br />
+            1987 Singapore, Singapore – <em>Annual conference</em> <br />
+            1986 Jakarta, Indonesia – <em>Annual conference</em> <br />
+            1985 Kuala Lumpur, Malaysia – <em>Annual Conference</em> <br />
+            1984 Australia – <em>Annual Conference</em> <br />
+            1983 Taipei, Taiwan – <em>Annual Conference</em> <br />
+            1982 Hong Kong, Hong Kong – <em>Annual Conference</em> <br />
+            1981 Kuala Lumpur, Malaysia – <em>Annual Conference</em> <br />
+            1980 Palmerston North, New Zealand – <em>Annual Conference</em> <br />
+            1979 Manila, Philippines – <em>Annual Conference</em> <br />
+            1978 Ranchi, India – <em>Annual Conference</em> <br />
+            1977 Suva, Fiji – <em>Annual Conference</em> <br />
+            1976 Canberra, Australia – <em>Annual Conference</em> <br />
+            1975 Delhi, India – <em>Annual Conference</em> <br />
+            1974 Manila, Philippines – <em>Annual Conference</em> <br />
+		<p><a class="btn btn-small" id="lessmeet"><i class="icon-th-list"></i> View Less Events (34)</i></a></p><p></p></div>
 
 
 

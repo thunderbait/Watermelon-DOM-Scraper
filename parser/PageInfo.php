@@ -5,19 +5,38 @@ class PageInfo
 {
     public $title;
     public $acronym;
-    public $contactDetails;
+    public $websiteURL;
     public $history;
     public $aims;
     public $orgId;
     public $structure;
+    public $languages;
+    public $staff;
+    public $financing;
+    public $consultativeStatus;
+    public $ngoRelations;
+    public $igoRelations;
+    public $type1;
+    public $type2;
+    public $lastNewsReceived;
 
     // Collections
     public $events = [];
     public $goals = [];
+    public $subjects = [];
+    public $members = [];
+    public $contactDetails = [];
+    public $activities = [];
 
     private static $nameMappings = [
         'UN Sustainable Development Goals **' => 'goals',
         'UIA Org ID' => 'orgId',
+        'Relations with Non-Governmental Organizations' => 'ngoRelations',
+        'Relations with Inter-Governmental Organizations' => 'igoRelations',
+        'Type I Classification' => 'type1',
+        'Type II Classification' => 'type2',
+        'Subjects *' => 'subjects',
+        'Last News Received' => 'lastNewsReceived'
     ];
 
     public static function getPropertyFromHeading($headingText)

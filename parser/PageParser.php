@@ -36,8 +36,19 @@ class PageParser
                                 $goals[] = $num;
                         }
                     }
-
                     return $goals;
+                },
+
+                'events' => function($contentElement) {
+                    $lines = $contentElement->find('p', 0);
+                    $events = [];
+                    if ($lines)
+                    {
+                        $eventCounter = count($lines->find('br'));
+                        $event = splitEventsForEvent($lines, $eventCounter);
+                        $events[] = $event;
+                    }
+                    return $events;
                 },
 
                 // the generic simple extractor
@@ -126,6 +137,26 @@ class PageParser
                     $pageInfo->title = trim(substr($pageInfo->title, 0, $startPos - 1));
                 }
             }
+        }
+    }
+
+    private function splitEventsForEvent(PageInfo $pageInfo, $counter)
+    {
+        if ($pageInfo->events)
+        {
+            for ($i = 0; $i <= $counter; $i++)
+            {
+                $startPos = strpos($pageInfo->events, '2');
+                if ($startPos)
+                {
+                    $endPos = strpos($pageInfo->events, '</em>');
+                    if ($endPos)
+                    {
+                        $pageInfo->events[] = substr($pageInfo->events, $startPos, $endPos - $startPos);
+                    }
+                }
+            }
+
         }
     }
 

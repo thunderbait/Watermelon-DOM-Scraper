@@ -60,13 +60,14 @@ class PagesParser
         echo "Connected successfully" . "<br>";
 
 
-        $sql =  $conn->prepare( "INSERT INTO assocs (name, contact_det, websiteURL, aims, history, events, financing, consultative_status, ngo_relations, members, type1, 
-            type2, activities, structure, languages, staff, igo_relations, subjects, last_news_received)
-            VALUES (  ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+        $sql =  $conn->prepare( "INSERT INTO assocs (name, contact_det, websiteURL, aims, history, events, 
+            financing, consultative_status, ngo_relations, members, type1, type2, activities, structure, 
+            languages, staff, igo_relations, subjects, last_news_received, other)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
 
-        $sql->bind_param('ssssssssssssssssss',$title, $contactDetailsText, $websiteURL, $aimsText, $historyText, $eventsText,$financingText, $consultativeText,
-            $ngoText, $membersText, $type_I_Text, $type_II_Text, $itemText12, $itemText13, $itemText14, $itemText15,
-             $itemText16, $itemText17, $itemText18);
+        $sql->bind_param('ssssssssssssssssssss',$title, $contactDetails, $websiteURL, $aims,
+            $history, $events, $financing, $consultativeStatus, $ngoRelations, $members, $type1, $type2, $activities,
+            $structure, $languages, $staff, $igoRelations, $subjects, $lastNewsReceived, $goals );
 
         $sql->execute();
 
