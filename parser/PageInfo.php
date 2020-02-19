@@ -21,12 +21,12 @@ class PageInfo
     public $lastNewsReceived;
 
     // Collections
-    public $events = [];
     public $goals = [];
     public $subjects = [];
-    public $members = [];
-    public $contactDetails = [];
     public $activities = [];
+    public $contactDetails = [];
+    public $events = [];
+    public $members = [];
 
     private static $nameMappings = [
         'UN Sustainable Development Goals **' => 'goals',

@@ -47,6 +47,7 @@ class PagesParser
     private function handlePageInfo($pageInfo)
     {
         echo $pageInfo->title . " (" . $pageInfo->acronym . ") \n";
+        var_dump($pageInfo->events);
         $servername = "localhost";
         $username = "root";
         $password = "";

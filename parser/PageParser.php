@@ -50,28 +50,21 @@ class PageParser
                 },
 
                 'activities' => function ($contentElement) {
+                    $activitiesContent = $contentElement->innertext;
                     $activities = [];
                     $delimiters = [";", ",", "."];
 
-                    // split paragraph using ';'
-                    $activity = explode($delimiters[0], $contentElement)->plaintext;
-                    if (count($activity) >= 2)
+                    if ($activitiesContent)
                     {
-                        $activities[] = $activity;
-                    }
-
-                    // split paragraph using ','
-                    $activity = explode($delimiters[1], $contentElement)->plaintext;
-                    if (count($activity) >= 2)
-                    {
-                        $activities[] = $activity;
-                    }
-
-                    // split paragraph using '.'
-                    $activity = explode($delimiters[2], $contentElement)->plaintext;
-                    if (count($activity) >= 2)
-                    {
-                        $activities[] = $activity;
+                        for ($i = 0; $i <= 2; $i++)
+                        {
+                            $activityItems = explode($delimiters[$i], $activitiesContent);
+                            if (count($activityItems) >= 2)
+                            {
+                                for ($i = 0; $i < count($activityItems); $i++)
+                                $activities[] = $activityItems[$i];
+                            }
+                        }
                     }
                     return $activities;
                 },
@@ -79,8 +72,49 @@ class PageParser
                 'contactDetails' => function ($contentElement)
                 {
                     $contactDetails = [];
-
+                    $contactContent = $contentElement->innertext;
+                    if ($contactContent)
+                    {
+                        $contactItems = explode('<br />', $contactContent);
+                        for ($i = 0; $i < count($contactItems) - 1; $i++)
+                        {
+                            $contactDetails[] = $contactItems[$i];
+                        }
+                    }
                     return $contactDetails;
+                },
+
+                'events' => function ($contentElement)
+                {
+                    $events = [];
+                    $eventsContent = $contentElement->innertext;
+                    if ($eventsContent)
+                    {
+                        $eventItems = explode('<br />', $eventsContent);
+                        for ($i = 0; $i < count($eventItems); $i++)
+                        {
+                            $events[] = $eventItems[$i];
+                        }
+                    }
+                    return $events;
+                },
+
+                'members' => function ($contentElement)
+                {
+                    $members = [];
+                    $membersItems = $contentElement->find('a')->plaintext;
+                    foreach ($membersItems as $membersItem)
+                    {
+                        $members[] = $membersItem;
+                    }
+                    return $members;
+                },
+
+                // TODO: Finish Implementation
+                'websiteURL' => function ($contentElement)
+                {
+                    $websiteURL = "";
+                    return websiteURL;
                 },
 
                 // the generic simple extractor
