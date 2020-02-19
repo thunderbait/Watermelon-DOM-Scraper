@@ -46,7 +46,7 @@ class PagesParser
      */
     private function handlePageInfo($pageInfo)
     {
-        echo $pageInfo->title . " -- " . $pageInfo->acronym . "\n";
+        echo $pageInfo->title . " (" . $pageInfo->acronym . ") \n";
         $servername = "localhost";
         $username = "root";
         $password = "";
@@ -65,9 +65,11 @@ class PagesParser
             languages, staff, igo_relations, subjects, last_news_received, other)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
 
-        $sql->bind_param('ssssssssssssssssssss',$title, $contactDetails, $websiteURL, $aims,
-            $history, $events, $financing, $consultativeStatus, $ngoRelations, $members, $type1, $type2, $activities,
-            $structure, $languages, $staff, $igoRelations, $subjects, $lastNewsReceived, $goals );
+        $sql->bind_param('ssssssssssssssssssss',$pageInfo->title, $pageInfo->contactDetails, $pageInfo->websiteURL,
+            $pageInfo->aims, $pageInfo->history, $pageInfo->events, $pageInfo->financing, $pageInfo->consultativeStatus,
+            $pageInfo->ngoRelations, $pageInfo->members, $pageInfo->type1, $pageInfo->type2, $pageInfo->activities,
+            $pageInfo->structure, $pageInfo->languages, $pageInfo->staff, $pageInfo->igoRelations, $pageInfo->subjects,
+            $pageInfo->lastNewsReceived, $pageInfo->goals );
 
         $sql->execute();
 

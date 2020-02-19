@@ -24,12 +24,10 @@ class PageParser
                 'goals' => function ($contentElement) {
                     $links = $contentElement->find('a');
                     $goals = [];
-                    foreach($links as $link)
-                    {
+                    foreach ($links as $link) {
                         $href = $link->href;
                         $token = 'UN';
-                        if ($pos = strrpos($href, $token))
-                        {
+                        if ($pos = strrpos($href, $token)) {
                             $numString = substr($href, $pos + strlen($token));
                             $num = intval($numString);
                             if ($num)
@@ -39,14 +37,54 @@ class PageParser
                     return $goals;
                 },
 
-                'events' => function($contentElement) {
-                    $eventCounter = count($contentElement->find('br'));
-                    $events = splitEventsForEvent($contentElement, $eventCounter);
-                    return $events;
+                'subjects' => function ($contentElement) {
+                    $unorderedLists = $contentElement->find('ul');
+                    $listItems = $unorderedLists->find('li');
+                    $subjects = [];
+                    foreach ($listItems as $listItem) {
+                        $subject = $listItem->plaintext;
+                        if ($subject)
+                            $subjects[] = $subject;
+                    }
+                    return $subjects;
+                },
+
+                'activities' => function ($contentElement) {
+                    $activities = [];
+                    $delimiters = [";", ",", "."];
+
+                    // split paragraph using ';'
+                    $activity = explode($delimiters[0], $contentElement)->plaintext;
+                    if (count($activity) >= 2)
+                    {
+                        $activities[] = $activity;
+                    }
+
+                    // split paragraph using ','
+                    $activity = explode($delimiters[1], $contentElement)->plaintext;
+                    if (count($activity) >= 2)
+                    {
+                        $activities[] = $activity;
+                    }
+
+                    // split paragraph using '.'
+                    $activity = explode($delimiters[2], $contentElement)->plaintext;
+                    if (count($activity) >= 2)
+                    {
+                        $activities[] = $activity;
+                    }
+                    return $activities;
+                },
+
+                'contactDetails' => function ($contentElement)
+                {
+                    $contactDetails = [];
+
+                    return $contactDetails;
                 },
 
                 // the generic simple extractor
-                '_default' => function($contentElement) {
+                '_default' => function ($contentElement) {
                     return trim($contentElement->plaintext);
                 }
             ];
@@ -81,8 +119,7 @@ class PageParser
         /** @var simple_html_dom $dom */
         $dom = str_get_html($this->html);
         /** @var simple_html_dom_node $content */
-        if ($content = $this->getContentNode($dom))
-        {
+        if ($content = $this->getContentNode($dom)) {
             $this->pageInfo->title = $this->getTitle($content);
             $this->splitTitleForAcronym($this->pageInfo);
 
@@ -94,7 +131,6 @@ class PageParser
         }
         return $result;
     }
-
 
 
     private function getContentNode($dom)
@@ -112,46 +148,21 @@ class PageParser
 
     private function infoIsOk(PageInfo $pageInfo)
     {
-        return
-            $pageInfo->title;
+        return $pageInfo->title;
     }
 
     private function splitTitleForAcronym(PageInfo $pageInfo)
     {
-        if ($pageInfo->title)
-        {
+        if ($pageInfo->title) {
             $startPos = strrpos($pageInfo->title, '(');
-            if ($startPos)
-            {
+            if ($startPos) {
                 $startPos = $startPos + 1;
                 $endPos = strpos($pageInfo->title, ')', $startPos);
-                if ($endPos)
-                {
+                if ($endPos) {
                     $pageInfo->acronym = substr($pageInfo->title, $startPos, $endPos - $startPos);
                     $pageInfo->title = trim(substr($pageInfo->title, 0, $startPos - 1));
                 }
             }
-        }
-    }
-
-    public function splitEventsForEvent(PageInfo $pageInfo, $counter)
-    {
-        if ($pageInfo->events)
-        {
-            for ($i = 0; $i <= $counter; $i++)
-            {
-                $startPos = strpos($pageInfo->events, '2');
-                if ($startPos)
-                {
-                    $endPos = strpos($pageInfo->events, '</em>');
-                    if ($endPos)
-                    {
-                        $event = substr($pageInfo->events, $startPos, $endPos - $startPos);
-                        $pageInfo->events[] = $event;
-                    }
-                }
-            }
-            return $pageInfo->events;
         }
     }
 
@@ -164,12 +175,10 @@ class PageParser
         $sections = [];
         $sectionHeadings = $content->find('h2');
         /** @var simple_html_dom_node $sectionHeading */
-        foreach ($sectionHeadings as $sectionHeading)
-        {
+        foreach ($sectionHeadings as $sectionHeading) {
             /** @var simple_html_dom_node $sectionContent */
             $sectionContent = $sectionHeading->nextSibling();
-            if ($sectionContent && $sectionContent->tag == 'p')
-            {
+            if ($sectionContent && $sectionContent->tag == 'p') {
                 $heading = trim($sectionHeading->plaintext);
                 $content = $this->extractContent($heading, $sectionContent);
 
@@ -184,11 +193,9 @@ class PageParser
     }
 
 
-
     private function loadSectionData(array $sections, PageInfo $pageInfo)
     {
-        foreach($sections as $section)
-        {
+        foreach ($sections as $section) {
             $pageInfo->setPropertyFromSection($section);
         }
     }

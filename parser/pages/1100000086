@@ -402,7 +402,20 @@ Asia-Pacific Researchers in Organization Studies
 <div>v: Individual members only<br /></div>
 
 
- <h2 style="margin-top:20px;clear:left;">Subjects <sup>*</sup></h2><ul><li><a href="/ybio?wcodes=Research, Standards" title="Research, Standards:  (click to perform a search)">Research, Standards</a></li><ul><li><a href="/ybio?wcodes=Study" title="Study:  (click to perform a search)">Study</a></li><li><a href="/ybio?wcodes=Research" title="Research:  (click to perform a search)">Research</a></li></ul></ul> 
+ <h2 style="margin-top:20px;clear:left;">Subjects <sup>*</sup></h2>
+    <ul>
+        <li>
+            <a href="/ybio?wcodes=Research, Standards" title="Research, Standards:  (click to perform a search)">Research, Standards</a>
+        </li>
+        <ul>
+            <li>
+                <a href="/ybio?wcodes=Study" title="Study:  (click to perform a search)">Study</a>
+            </li>
+            <li>
+                <a href="/ybio?wcodes=Research" title="Research:  (click to perform a search)">Research</a>
+            </li>
+        </ul>
+    </ul>
  
  	<h2 style="margin-top:20px;">UN Sustainable Development Goals <sup>**</sup></h2><p><a href="/s/sdg/en/UN04" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-04.png" class="sdgimg" alt="GOAL 4: Quality Education" /></a></p> 
 <h2 style="margin-top:20px;">UIA Org ID</h2>
