@@ -37,32 +37,31 @@ class PageParser
                     return $goals;
                 },
 
+                // TODO: Doesn't work
                 'subjects' => function ($contentElement) {
                     $unorderedLists = $contentElement->find('ul');
                     $listItems = $unorderedLists->find('li');
                     $subjects = [];
                     foreach ($listItems as $listItem) {
-                        $subject = $listItem->plaintext;
+                        $subject = $listItem;
                         if ($subject)
-                            $subjects[] = $subject;
+                            $subjects[] = trim($subject);
                     }
                     return $subjects;
                 },
 
+                // TODO: Works except for 1100000028
                 'activities' => function ($contentElement) {
                     $activitiesContent = $contentElement->innertext;
                     $activities = [];
                     $delimiters = [";", ",", "."];
 
-                    if ($activitiesContent)
-                    {
-                        for ($i = 0; $i <= 2; $i++)
-                        {
+                    if ($activitiesContent) {
+                        for ($i = 0; $i <= 2; $i++) {
                             $activityItems = explode($delimiters[$i], $activitiesContent);
-                            if (count($activityItems) >= 2)
-                            {
+                            if (count($activityItems) >= 2) {
                                 for ($i = 0; $i < count($activityItems); $i++)
-                                $activities[] = $activityItems[$i];
+                                    $activities[] = trim($activityItems[$i]);
                             }
                         }
                     }
@@ -78,7 +77,7 @@ class PageParser
                         $contactItems = explode('<br />', $contactContent);
                         for ($i = 0; $i < count($contactItems) - 1; $i++)
                         {
-                            $contactDetails[] = $contactItems[$i];
+                            $contactDetails[] = trim($contactItems[$i]);
                         }
                     }
                     return $contactDetails;
@@ -91,29 +90,41 @@ class PageParser
                     if ($eventsContent)
                     {
                         $eventItems = explode('<br />', $eventsContent);
-                        for ($i = 0; $i < count($eventItems); $i++)
+                        for ($i = 0; $i < count($eventItems) - 1; $i++)
                         {
-                            $events[] = $eventItems[$i];
+                            $startPos = strrpos($eventItems[$i], '<em>');
+                            if ($startPos)
+                            {
+                                $endPos = strpos($eventItems[$i], '</em>');
+                                if ($endPos)
+                                {
+                                    $eventType = substr($eventItems[$i], $startPos, $endPos - $startPos);
+                                    $eventLocation = trim(substr($eventItems[$i], 0, $startPos));
+                                    $eventItem = $eventLocation . $eventType;
+                                    $events[] = $eventItem;
+                                }
+                            }
                         }
                     }
                     return $events;
                 },
 
-                'members' => function ($contentElement)
-                {
+                // TODO: Doesn't work
+                'members' => function ($contentElement) {
                     $members = [];
-                    $membersItems = $contentElement->find('a')->plaintext;
-                    foreach ($membersItems as $membersItem)
-                    {
-                        $members[] = $membersItem;
+                    $membersContent = $contentElement->find('p', 0);
+                    $membersItems = $membersContent->find('a');
+                    foreach ($membersItems as $membersItem) {
+                        $memberCountry = $membersItem->title;
+                        $members[] = trim($memberCountry);
                     }
                     return $members;
                 },
 
                 // TODO: Finish Implementation
-                'websiteURL' => function ($contentElement)
-                {
+                'websiteURL' => function ($contentElement) {
                     $websiteURL = "";
+
                     return websiteURL;
                 },
 

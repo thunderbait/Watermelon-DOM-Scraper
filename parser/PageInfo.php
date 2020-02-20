@@ -36,7 +36,8 @@ class PageInfo
         'Type I Classification' => 'type1',
         'Type II Classification' => 'type2',
         'Subjects *' => 'subjects',
-        'Last News Received' => 'lastNewsReceived'
+        'Last News Received' => 'lastNewsReceived',
+        'Contact Details' => 'contactDetails'
     ];
 
     public static function getPropertyFromHeading($headingText)

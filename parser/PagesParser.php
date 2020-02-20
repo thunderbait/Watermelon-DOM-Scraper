@@ -48,6 +48,11 @@ class PagesParser
     {
         echo $pageInfo->title . " (" . $pageInfo->acronym . ") \n";
         var_dump($pageInfo->events);
+        var_dump($pageInfo->goals);
+        var_dump($pageInfo->subjects);
+        var_dump($pageInfo->activities);
+        var_dump($pageInfo->contactDetails);
+        var_dump($pageInfo->members);
         $servername = "localhost";
         $username = "root";
         $password = "";
@@ -74,11 +79,11 @@ class PagesParser
 
         $sql->execute();
 
-        if (mysqli_query($conn, $sql)) {
+        /*if (mysqli_query($conn, $sql)) {
             echo "New record created successfully";
         } else {
             echo "Error: " . $sql . "<br>" . mysqli_error($conn);
-        }
+        }*/
         mysqli_close($conn);
 
 
