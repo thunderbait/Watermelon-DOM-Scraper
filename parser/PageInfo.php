@@ -5,7 +5,6 @@ class PageInfo
 {
     public $title;
     public $acronym;
-    public $websiteURL;
     public $history;
     public $aims;
     public $orgId;

@@ -16,6 +16,11 @@ class PageParser
     protected $pageInfo;
 
     protected static $EXTRACTORS;
+    protected static $CONTENT_TAGS = [
+        'div',
+        'ul',
+        'p'
+    ];
 
     public static function getExtractors()
     {
@@ -37,16 +42,53 @@ class PageParser
                     return $goals;
                 },
 
-                // TODO: Doesn't work
                 'subjects' => function ($contentElement) {
-                    $unorderedLists = $contentElement->find('ul');
-                    $listItems = $unorderedLists->find('li');
-                    $subjects = [];
-                    foreach ($listItems as $listItem) {
-                        $subject = $listItem;
-                        if ($subject)
-                            $subjects[] = trim($subject);
+
+                    if( !function_exists('findCategoryNodes') ) {
+                        function findCategoryNodes($element)
+                        {
+                            $categoryNodes = [];
+
+                            foreach ($element->children as $child)
+                                if ($child->tag == 'li')
+                                    $categoryNodes[] = $child;
+
+                            return $categoryNodes;
+                        };
                     }
+
+                    if( !function_exists('buildSubCategories') ) {
+                        function buildSubCategories($categoryElement)
+                        {
+                            $subCategories = [];
+                            $subCatUl = $categoryElement->nextSibling();
+                            if ($subCatUl && $subCatUl->tag == 'ul') {
+                                foreach ($subCatUl->find('li') as $subCatLi)
+                                    $subCategories[] = trim($subCatLi->plaintext);
+                            }
+
+                            return $subCategories;
+                        }
+                    }
+
+                    if( !function_exists('buildSubjectCategoryHierachy') ) {
+                        function buildSubjectCategoryHierachy(array $categoryElements)
+                        {
+                            $categories = [];
+                            foreach ($categoryElements as $category) {
+                                $catName = trim($category->plaintext);
+                                $subcategories = buildSubCategories($category);
+
+                                $categories[$catName] = $subcategories;
+                            }
+
+                            return $categories;
+                        }
+                    }
+
+                    $categories = findCategoryNodes($contentElement);
+                    $subjects = buildSubjectCategoryHierachy($categories);
+
                     return $subjects;
                 },
 
@@ -70,17 +112,30 @@ class PageParser
 
                 'contactDetails' => function ($contentElement)
                 {
-                    $contactDetails = [];
+                    $address = [];
                     $contactContent = $contentElement->innertext;
                     if ($contactContent)
                     {
                         $contactItems = explode('<br />', $contactContent);
                         for ($i = 0; $i < count($contactItems) - 1; $i++)
                         {
-                            $contactDetails[] = trim($contactItems[$i]);
+                            $address[] = trim(strip_tags($contactItems[$i]));
                         }
                     }
-                    return $contactDetails;
+
+                    $url = null;
+                    $urlContainer = $contentElement->nextSibling();
+                    if ($urlContainer && $urlContainer->tag == 'p')
+                    {
+                        $linkElem = $urlContainer->find('a', 0);
+                        if ($linkElem)
+                            $url = trim ($linkElem->href);
+                    }
+
+                    return [
+                        'address' => $address,
+                        'url' => $url
+                    ];
                 },
 
                 'events' => function ($contentElement)
@@ -92,40 +147,26 @@ class PageParser
                         $eventItems = explode('<br />', $eventsContent);
                         for ($i = 0; $i < count($eventItems) - 1; $i++)
                         {
-                            $startPos = strrpos($eventItems[$i], '<em>');
-                            if ($startPos)
-                            {
-                                $endPos = strpos($eventItems[$i], '</em>');
-                                if ($endPos)
-                                {
-                                    $eventType = substr($eventItems[$i], $startPos, $endPos - $startPos);
-                                    $eventLocation = trim(substr($eventItems[$i], 0, $startPos));
-                                    $eventItem = $eventLocation . $eventType;
-                                    $events[] = $eventItem;
-                                }
-                            }
+                            $eventItem = $eventItems[$i];
+                            $eventItem = str_replace('<em>', '', $eventItem);
+                            $eventItem = str_replace('</em>', '', $eventItem);
+                            $events[] = trim($eventItem);
                         }
                     }
                     return $events;
                 },
 
-                // TODO: Doesn't work
                 'members' => function ($contentElement) {
                     $members = [];
                     $membersContent = $contentElement->find('p', 0);
-                    $membersItems = $membersContent->find('a');
-                    foreach ($membersItems as $membersItem) {
-                        $memberCountry = $membersItem->title;
-                        $members[] = trim($memberCountry);
+                    if ($membersContent){
+                        $membersItems = $membersContent->find('a');
+                        foreach ($membersItems as $membersItem) {
+
+                            $members[] = trim($membersItem->plaintext);
+                        }
                     }
                     return $members;
-                },
-
-                // TODO: Finish Implementation
-                'websiteURL' => function ($contentElement) {
-                    $websiteURL = "";
-
-                    return websiteURL;
                 },
 
                 // the generic simple extractor
@@ -223,7 +264,7 @@ class PageParser
         foreach ($sectionHeadings as $sectionHeading) {
             /** @var simple_html_dom_node $sectionContent */
             $sectionContent = $sectionHeading->nextSibling();
-            if ($sectionContent && $sectionContent->tag == 'p') {
+            if ($sectionContent && $this->tagCanHoldContent($sectionContent->tag)) {
                 $heading = trim($sectionHeading->plaintext);
                 $content = $this->extractContent($heading, $sectionContent);
 
@@ -250,5 +291,16 @@ class PageParser
         $propertyName = PageInfo::getPropertyFromHeading($sectionHeading);
         $extractor = static::getExtractorForProperty($propertyName);
         return $extractor($sectionContent);
+    }
+
+    /**
+     * Determines if the given tag is an acceptable holder for content in the page
+     *
+     * @param string $tag
+     * @return bool
+     */
+    private function tagCanHoldContent($tag)
+    {
+        return in_array($tag, static::$CONTENT_TAGS);
     }
 }
