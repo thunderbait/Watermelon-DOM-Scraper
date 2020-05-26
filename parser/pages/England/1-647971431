@@ -1,0 +1,944 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr"><!--<![endif]-->
+<head>
+  <title>Waterbeach Lodge</title>
+  <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XA8GU1JVGwYEXVhXAAI=",licenseKey:"d52b82a2db",applicationID:"5499573"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),c.xhrWrappable&&t(10),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(9),s=t(8),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=y.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,y.now()])}),a.on(m,function(t,n,e){this.bstStart=y.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){function r(t,n,e){var r=t[n];"function"==typeof r&&(t[n]=function(){var t=i(arguments),n={};o.emit(e+"before-start",[t],n);var a;n[m]&&n[m].dt&&(a=n[m].dt);var s=r.apply(this,t);return o.emit(e+"start",[t,a],s),s.then(function(t){return o.emit(e+"end",[null,t],s),t},function(t){throw o.emit(e+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(22),a=t(21);n.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,l=s.Response,p=s.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,n){r(d[h],n,f),r(l[h],n,f)}),r(s,"fetch",c),o.on(c+"end",function(t,n){var e=this;if(n){var r=n.headers.get("content-length");null!==r&&(e.rxSize=r),o.emit(c+"done",[null,n],e)}else o.emit(c+"done",[t],e)}))},{}],7:[function(t,n,e){var r=t("ee").get("history"),o=t("wrap-function")(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,n,e){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],9:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],10:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,n,e){function r(t){if(!i(t))return null;var n=window.NREUM;if(!n.loader_config)return null;var e=(n.loader_config.accountID||"").toString()||null,r=(n.loader_config.agentID||"").toString()||null,s=(n.loader_config.trustKey||"").toString()||null;if(!e||!r)return null;var c=a.generateCatId(),f=a.generateCatId(),u=Date.now(),d=o(c,f,u,e,r,s);return{header:d,guid:c,traceId:f,timestamp:u}}function o(t,n,e,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:n,ti:e}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function i(t){var n=!1,e=!1,r={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=NREUM.init.distributed_tracing,e=!!r.enabled),e)if(t.sameOrigin)n=!0;else if(r.allowed_origins instanceof Array)for(var o=0;o<r.allowed_origins.length;o++){var i=s(r.allowed_origins[o]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){n=!0;break}}return e&&n}var a=t(19),s=t(13);n.exports={generateTracePayload:r,shouldGenerateTrace:i}},{}],12:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);n.aborted||(e.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):i(this,t),e.cbTime=this.cbTime,u.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime]))}}function o(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.parsedOrigin=c(n),t.sameOrigin=t.parsedOrigin.sameOrigin}function i(t,n){t.params.status=n.status;var e=w(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){i(n,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=f(this.parsedOrigin);e&&e.header&&(n.setRequestHeader("newrelic",e.header),this.dt=e)}),u.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=m(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<l;s++)n.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),u.on("xhr-load-added",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],n)}),u.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],n)}),u.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,n){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)}),u.on("fetch-before-start",function(t){var n,e=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=f(this.parsedOrigin);if(r&&r.header){var o=r.header;if("string"==typeof t[0]){var i={};for(var a in e)i[a]=e[a];i.headers=new Headers(e.headers||{}),i.headers.set("newrelic",o),this.dt=r,t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",o),this.dt=r)}})}},{}],13:[function(t,n,e){var r={};n.exports=function(t){if(t in r)return r[t];var n=document.createElement("a"),e=window.location,o={};n.href=t,o.port=n.port;var i=n.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=n.hostname||e.hostname,o.pathname=n.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!n.protocol||":"===n.protocol||n.protocol===e.protocol,s=n.hostname===document.domain&&n.port===e.port;return o.sameOrigin=a&&(!n.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],14:[function(t,n,e){function r(t,n){var e=t.responseType;return"json"===e&&null!==n?n:"arraybuffer"===e||"blob"===e||"json"===e?o(t.response):"text"===e||"document"===e||""===e||void 0===e?o(t.responseText):void 0}var o=t(16);n.exports=r},{}],15:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],16:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],17:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],18:[function(t,n,e){function r(t,n){var e=t.getEntries();e.forEach(function(t){"first-paint"===t.name?c("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&c("timing",["fcp",Math.floor(t.startTime)])})}function o(t,n){var e=t.getEntries();e.length>0&&c("lcp",[e[e.length-1]])}function i(t){if(t instanceof u&&!l){var n,e=Math.round(t.timeStamp);n=e>1e12?Date.now()-e:f.now()-e,l=!0,c("timing",["fi",e,{type:t.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,s,c=t("handle"),f=t("loader"),u=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),s=new PerformanceObserver(o);try{a.observe({entryTypes:["paint"]}),s.observe({entryTypes:["largest-contentful-paint"]})}catch(d){}}if("addEventListener"in document){var l=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(t){document.addEventListener(t,i,!1)})}}},{}],19:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],20:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],21:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],22:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],23:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){g[t]=m(t).concat(n)}function h(t,n){var e=g[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(15),t(18),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}],"wrap-function":[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}]},{},["loader",2,12,4,3]);</script>
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+<link rel="apple-touch-icon-precomposed" href="https://www.cqc.org.uk/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://www.cqc.org.uk/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="https://www.cqc.org.uk/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="https://www.cqc.org.uk/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<link rel="shortcut icon" href="https://www.cqc.org.uk/sites/all/themes/cqc/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="viewport" content="width=device-width" />
+<link rel="canonical" href="https://www.cqc.org.uk/location/1-647971431" />
+<link rel="shortlink" href="https://www.cqc.org.uk/location/1-647971431" />
+  <link type="text/css" rel="stylesheet" href="https://www.cqc.org.uk/sites/default/files/css/css_jidNJv3KTBuzBslhi34e0HTsekQnG2Trgn_BhZcdESI.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.cqc.org.uk/sites/default/files/css/css_eIwmf84vhhakB1756M1PbfM_tweGCcAsj0eFwwNZ-Y0.css" media="screen" />
+<style media="screen">#sliding-popup.sliding-popup-top{background:#E5EAF1;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#0b0c0c !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.cqc.org.uk/sites/default/files/css/css_tUC3pNuqf-EtOPrroqjg3M-5-yO0mMOtWDZ8AH5vBSk.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.cqc.org.uk/sites/default/files/css/css_LJ5ujdXV4OkrZUELdRVGTXb2dn106jK9cDIdUcPI1ME.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.cqc.org.uk/sites/default/files/css/css_InPUBIEVu699BB1qza7dSB0xFIiAVizkEPmlgexAHKQ.css" media="print" />
+  <script src="https://www.cqc.org.uk/sites/default/files/google_tag/google_tag.script.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script src="https://www.cqc.org.uk/misc/jquery-extend-3.4.0.js?v=1.7.2"></script>
+<script src="https://www.cqc.org.uk/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.cqc.org.uk/misc/drupal.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/themes/omega/omega/js/no-js.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js?v=1.10.2"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/contrib/admin_menu/admin_devel/admin_devel.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/custom/cqc_social/cqc_social.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/contrib/environment_indicator/tinycon.min.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/contrib/environment_indicator/environment_indicator.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/contrib/environment_indicator/color.js?q83wff"></script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="https://www.cqc.org.uk/sites/all/themes/cqc/libraries/html5shiv/html5shiv.min.js?q83wff"></script>
+<![endif]-->
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="https://www.cqc.org.uk/sites/all/themes/cqc/libraries/html5shiv/html5shiv-printshiv.min.js?q83wff"></script>
+<![endif]-->
+<script src="https://www.cqc.org.uk/sites/all/themes/cqc/js/jquery.hoverIntent.minified.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/custom/cqc_latest_news/js/jquery.ticker.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/custom/cqc_latest_news/js/cqc_latest_news.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/modules/contrib/google_analytics/googleanalytics.js?q83wff"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-25077144-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://www.cqc.org.uk/sites/all/modules/custom/cqc_search/scripts/cqc_search_panel.js?q83wff"></script>
+<script src="https://platform.twitter.com/widgets.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/themes/cqc/js/cqc.behaviors.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/themes/cqc/js/cqc_mega_menu.js?q83wff"></script>
+<script src="https://www.cqc.org.uk/sites/all/themes/cqc/js/cqc_ui_components.js?q83wff"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":1,"popup_clicking_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EWe use cookies to improve the site and make it easier to use. By continuing to use the site, you agree to our use of cookies. \u003Cspan id=\u0022cookie-accept\u0022\u003EAccept cookies\u003C\/span\u003E or \u003Cspan id=\u0022cookie-reject\u0022\u003EFind out more about cookies\u003C\/span\u003E\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EAccept cookies\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003EFind out more about cookies\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"http:\/\/www.cqc.org.uk\/content\/cookies","popup_link_new_window":1,"popup_position":1,"popup_language":"en","domain":""},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xlsx?|xml|z|zip"},"cqc_search":{"drop_down_options":{"3962":["Service name or keywords","Town, city or postcode"],"3963":["Care home name or keywords","Town, city or postcode"],"3970":["Service name or keywords","Town, city or postcode"],"3967":["Practice name or keywords","Town, city or postcode"],"3968":["Hospital name or keywords","Town, city or postcode"],"3966":["Dentist name or keywords","Town, city or postcode"],"3965":["Community service name or keywords","Town, city or postcode"],"3969":["Mental health service name or keywords","Town, city or postcode"],"3964":["Clinic name or keywords","Town, city or postcode"],"3980":["Provider name","Town, city or postcode"],"3972":["Keywords"],"3976":["Keywords"],"3978":["Keywords"],"3977":["Keywords"],"3979":["Keywords"],"3973":["Keywords"],"6839":["Service name or keywords","Town, city or postcode"],"6840":["Name or keyword","Town, city or postcode"]},"google_places_url":"https:\/\/maps.googleapis.com\/maps\/api\/js?key=AIzaSyCNsimDxCvgJq-_baw8o9IYBQ_fnnPaOaY\u0026libraries=places\u0026v=quarterly"},"urlIsAjaxTrusted":{"\/location\/1-647971431":true}});</script>
+</head>
+<body class="html not-front not-logged-in page-location page-location-1-647971431 section-location">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KPP248R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <div class="l-page has-no-sidebars">
+
+  <!-- Header -->
+  <div id="header" class="l-header" role="banner">
+    <div class="l-branding">
+      <div id="cqc_print_header">
+        <img alt="Care Quality Commission Logo" width="222" height="74" src="/sites/all/themes/cqc/images/cqc_print_logo.gif" />
+      </div>
+
+              <p id="logo"><a href="/" title="Home page" rel="home" class="site-logo"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/logo.png" alt="Care Quality Commission (CQC)" /></a></p>
+      
+              
+                  <p id="mission">The independent regulator of health and social care in England</p>
+                  </div>
+    <ul>
+      <li><a href="/give-feedback-on-care">Give feedback on care</a>      <li><ul id="online-services-menu"><li><a href="https://services.cqc.org.uk" id="online-services-login">Provider portal</a><div class="item-list"><ul><li class="first last"><a href="/guidance-providers/all-services/cqc-provider-portal">About provider portal</a></li>
+</ul></div></li>
+</ul>    </ul>
+
+      </div>
+  <!-- End Header -->
+  <!-- Navigation Menu -->
+    <div id="menu" class="l-region l-region--menu">
+    <nav id="block-system-main-menu" role="navigation" class="block block--system block--menu block--system-main-menu">
+      
+  <ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="collapsed"><a href="/about-us">About us</a></li>
+<li class="collapsed"><a href="/news">News</a></li>
+<li class="collapsed"><a href="/what-we-do">What we do</a></li>
+<li class="collapsed"><a href="/publications">Publications</a></li>
+<li class="collapsed"><a href="/help-advice">Help &amp; advice</a></li>
+<li class="collapsed"><a href="/get-involved">Get involved</a></li>
+<li class="collapsed"><a href="/guidance-providers">Guidance for providers</a></li>
+<li class="last collapsed"><a href="/contact-us">Contact</a></li>
+</ul></nav>
+  </div>
+
+  <div class="l-main">
+    <div class="l-content" role="main">
+        <div id="search" class="l-region l-region--search">
+    <div id="block-cqc-search-cqc-front-page-search-panel" class="block block--cqc-search block--cqc-search-cqc-front-page-search-panel">
+        <div class="block__content">
+    <form class="cqc-solr-search-theme-form" action="/location/1-647971431" method="post" id="cqc-solr-search-theme-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-container"><div class="form-item form-type-select form-item-service-type">
+  <label for="service-type">Information type <span class="form-required" title="This field is required.">*</span></label>
+ <select id="service-type" name="service_type" class="form-select required"><optgroup label=""><option value="Search whole website">Search whole website</option></optgroup><optgroup label="Search for care services"><option value="3962">All Services</option><option value="3963">Care Homes</option><option value="3970">Services in your home</option><option value="3967">GP services</option><option value="3968">Hospitals</option><option value="3966">Dentist services</option><option value="3965">Community services</option><option value="3969">Mental health services</option><option value="3964">Clinics</option><option value="3980">Service providers</option></optgroup><optgroup label="Search for other information"><option value="3972">All information</option><option value="3976">Guidance for providers</option><option value="3978">Press releases</option><option value="3977">News</option><option value="3979">Publications</option><option value="3973">Documents</option></optgroup><optgroup label="Search for archived services"><option value="6839">Archived services</option><option value="6840">Archived providers</option></optgroup></select>
+</div>
+<div class="form-item form-type-textfield form-item-keys">
+  <label for="all-name-of-service">Keywords or service name </label>
+ <input id="all-name-of-service" placeholder="Keywords or service name" autocomplete="off" type="text" name="keys" value="" size="20" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-location">
+  <label for="edit-location">Location e.g Town, city or postcode </label>
+ <input id="edit-location" placeholder="Town, city or postcode" type="text" name="location" value="" size="20" maxlength="128" class="form-text" />
+</div>
+<input id="latitude" type="hidden" name="latitude" value="" />
+<input id="longitude" type="hidden" name="longitude" value="" />
+<input id="all-location" type="submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-c-38dPyh6b4NhoY1fYlK8OKeX-ev5mLXaa22Krjax3E" />
+<input type="hidden" name="form_id" value="cqc_search_search_form" />
+</div></form>  </div>
+</div>
+  </div>
+        <div id="breadcrumb" class="l-region l-region--breadcrumb">
+    <div id="block-cqc-social-social-icons-top" class="block block--cqc-social block--cqc-social-social-icons-top">
+        <div class="block__content">
+    <!-- Social Links, Top -->
+<ul class="social"><li class="print"><a href="/" title="Print this page"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/icon-print.png" width="25" height="25" alt="Print this page" /></a></li>
+<li><a href="http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.cqc.org.uk%2Flocation%2F1-647971431&amp;t=Check+out+this+web+page" title="CQC on Facebook"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/icon-facebook.png" width="25" height="25" alt="CQC on Facebook" /></a></li>
+<li><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.cqc.org.uk%2Flocation%2F1-647971431&amp;text=Check+out+this+web+page" title="CQC on Twitter"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/icon-twitter.png" width="25" height="25" alt="CQC on Twitter" /></a></li>
+</ul><!-- End Social Links, Top -->  </div>
+</div>
+  </div>
+      <h2 class="element-invisible">You are here</h2><ul class="breadcrumb"><li><a href="/">Home</a></li>
+<li><a href="/providers">Providers</a></li>
+<li><a href="/provider/1-101641701">Scimitar Care Hotels plc</a></li>
+<li>Waterbeach Lodge</li>
+</ul>      <div id="content-wrapper">
+                <a id="main-content"></a>
+        <div class="main-title">
+                                <h1>  <div class="cqc-data-icons service-types icon-count-1"><span class="icon-care-home"></span></div>  
+<span class="facility-name">
+  Waterbeach Lodge        <span class="facility-overall good">
+    Good</span>
+  </span>
+</h1>
+                                <div id="title-foot" class="l-region l-region--title-foot">
+    <div id="block-cqc-data-cqc-data-action-links-block" class="block block--cqc-data block--cqc-data-cqc-data-action-links-block">
+        <div class="block__content">
+    <ul class="facility-action-links"><li><a href="/location/1-647971431/subscribe" class="alerts">Sign up for alerts</a></li>
+<li><a href="/give-feedback-on-care/1-647971431/1-101641701/Waterbeach%20Lodge" class="share-experience">Give feedback on this service</a></li>
+</ul>  </div>
+</div>
+  </div>
+        </div>
+                                                
+<div class='tab-links type2'>
+    <ul class="links links--inline"><li class="0 first active"><a href="/location/1-647971431" class="active">Overview</a></li>
+<li class="1"><a href="/location/1-647971431/inspection-summary">Inspection Summary</a></li>
+<li class="2"><a href="/location/1-647971431/reports">Reports</a></li>
+<li class="3"><a href="/location/1-647971431/registration-info">Registration Info</a></li>
+<li class="4 last"><a href="/location/1-647971431/contact">Contact</a></li>
+</ul></div>
+<div class="tab-content clearfix location location-tabset location-overview">
+    
+  
+  
+  <div class="header-wrapper">
+        
+  <h2>Overview and CQC Inspections</h2>
+  <div class="modal-link"><a href="#icon-keys" id="modal-icon-keys-both">Click for key <img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/status_ticks/green_tick_small.png" alt="Green Tick" title="Green Tick" /><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/status_ticks/grey_cross_small.png" alt="Grey Cross" title="Grey Cross" /><img class="red-cross" src="https://www.cqc.org.uk/sites/all/themes/cqc/images/status_ticks/red_cross_small.png" alt="Red Cross" title="Red Cross" /><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/smarties/star.png" alt="Star" title="Star" /><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/smarties/green.png" alt="Green smartie" title="Green smartie" /><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/smarties/yellow.png" alt="Yellow smartie" title="Yellow smartie" /><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/smarties/red.png" alt="Red smartie" title="Red smartie" /><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/smarties/grey.png" alt="Grey smartie" title="Grey smartie" /></a></div></div>
+<hr class="divider">
+
+  
+<div class="">
+  	<h3 class='rg_report_title'>	  	</h3>
+	<div class='rg_report_subtitle' >
+					</div>
+  </div>
+
+<div class= "overview-inspections">
+  <div class="overview-inspections-wrapper">
+          
+<div class="">
+  	<h3 class='rg_report_title'>	  	</h3>
+	<div class='rg_report_subtitle' >
+					</div>
+  </div>
+<div class="overall-ranking good"><h3>Overall<br><strong>Good</strong></h3><a href="/location/1-647971431/inspection-summary#overall">Read overall summary</a></div><ul class="inspection-results new-inspection"><li><a href="/location/1-647971431/inspection-summary#safe">Safe</a><span class="new_report_rating good">Good</span></li>
+<li><a href="/location/1-647971431/inspection-summary#effective">Effective</a><span class="new_report_rating good">Good</span></li>
+<li><a href="/location/1-647971431/inspection-summary#caring">Caring</a><span class="new_report_rating good">Good</span></li>
+<li><a href="/location/1-647971431/inspection-summary#responsive">Responsive</a><span class="new_report_rating good">Good</span></li>
+<li><a href="/location/1-647971431/inspection-summary#wellLed">Well-led</a><span class="new_report_rating good">Good</span></li>
+</ul>          </div>
+
+      <div class="overview-inner latest-report accordion-large featured" id="accordion-1">
+      <h3 class="accordion-title">Our inspector's description of this service</h3>
+      <div class="accordion-wrapper">
+        <strong>Last updated 10 May 2019</strong><br />
+        The inspection:<p>We carried out this inspection under Section 60 of the Health and Social Care Act 2008 (the Act) as part of our regulatory functions. This inspection was planned to check whether the provider was meeting the legal requirements and regulations associated with the Act, to look at the overall quality of the service, and to provide a rating for the service under the Care Act 2014.<p>Inspection team: <p>The inspection was carried out by one inspector, an assistant inspector and an expert-by-experience. An expert-by-experience is a person who has personal experience of using or caring for someone who uses this type of care service.<p>Service and service type: <p>Waterbeach Lodge is a ‘care home’. People in care homes receive accommodation and personal care as a single package under one contractual agreement. CQC regulates both the premises and the care provided, and both were looked at during this inspection. Waterbeach Lodge accommodates 46 older people in one adapted building. One of the floors specialises in providing care to people living with dementia.<p>The service had a manager registered with the Care Quality Commission. This means that they and the provider are legally responsible for how the service is run and for the quality and safety of the care provided.<p>Notice of inspection: <p>This was an unannounced inspection.<p>What we did: <p>Prior to the inspection we reviewed information we held about the service to aid with our inspection planning. This included notifications. Notifications are incidents that the registered manager must notify us of. The provider also completed and sent CQC a Provider Information Return (PIR) in June 2018. Providers are required to send us key information about their service, what they do well and improvements they plan to make. This information helps support our inspection. We also contacted other health and social care organisations such as representatives from local authority contracting and quality improvements teams and safeguarding team. We also contacted Healthwatch (an independent organisation for people who use health and social care services). This was to ask their views about the service provided.<p>During the inspection we spoke with five people and five relatives of people who used the service. We also spoke with the registered manager, the deputy manager, two senior care staff, a care worker, one domestic worker and a chef. We looked at two people’s care records and corresponding risk assessments, and monitoring records. We also looked at records used in the management of the service.      </div>
+    </div>
+  
+    <!---Start new inspection report-->
+          <div class="overview-inner latest-report">
+        
+                  <h3>Latest inspection: 15 April 2019</h3>
+          <h3>Report published: 10 May 2019</h3>
+    <ul class="arrow">
+    <li>
+        </li>
+        <li>
+      <a href="https://www.cqc.org.uk/sites/default/files/new_reports/INS2-2977646942.pdf" rel="nofollow" target="_blank">Download CQC inspection report PDF</a> 82.18 KB (opens in a new tab)    </li>
+        
+    <li>
+      <a href="/location/1-647971431/reports">All reports</a>    </li>
+    </ul>
+    
+  
+      </div>
+    
+    
+    <div class="overview-inner">
+      <h3>Who runs this service</h3>
+      <p>Waterbeach Lodge is run by <a href="/provider/1-101641701">Scimitar Care Hotels plc</a></p>
+
+              <div class="overview-inner accountable-person">
+          <ul><li>Mrs Beverley Karen Murray</li>
+<li>Registered Manager</li>
+</ul><ul><li>Mr Luke Sargeant</li>
+<li>Nominated individual</li>
+</ul>        </div>
+          </div>
+  <!-- End overview-inspections -->
+  </div>
+
+  <div class="right-blocks new-inspection">
+                  <div class="overview-inner type-of-service">
+        <h3>Type of service</h3>
+        <p>Residential homes</p>
+      </div>
+              <div class="overview-inner specialisms">
+        <h3>Specialisms/services</h3>
+        <p>Accommodation for persons who require nursing or personal care, Dementia, Learning disabilities, Mental health conditions, Physical disabilities, Sensory impairments, Caring for adults under 65 yrs, Caring for adults over 65 yrs</p>
+      </div>
+          </div>
+  <!---End new inspection report-->
+  
+  
+
+
+
+
+  </div>
+<div class="tab-footer">
+  
+<div class="if-provider">If you're the provider who runs this service:</div>
+<ul class="arrow">
+<li><a href="/guidance-providers/all-services/about-your-profile-page">About your profile</a></li>
+<li><a class="prototyped" href="/location/1-647971431/widget-email">Put this information on your website</a></li>
+<li><a href="/location/1-647971431/posters">Download ratings poster</a></li>
+</ul>
+</div>
+          <div id="content-foot" class="l-region l-region--content-foot">
+    <div id="block-block-12" class="block block--block block--block-12">
+        <div class="block__content">
+    <article class="both-modal">
+	<p class="modal-top">What our icons mean</p>
+	<div class="modal-wrapper">
+		<div class="two-column old-key">
+			<h2>Inspection ratings</h2>
+			<p>We rate most services according to how safe, effective, caring, responsive and well-led they are, using four levels:</p>
+			<table>
+				<tbody>
+					<tr class="cqc-icon-modal">
+						<td class="icon-image"><img alt="Star" src="https://www.cqc.org.uk/sites/all/themes/cqc/images/smarties/star.png" title="Star"></td>
+						<td><strong><b>Outstanding </b></strong> – the service is performing exceptionally well.</td>
+					</tr>
+					<tr>
+						<td class="icon-image"><img alt="Green smartie" src="https://www.cqc.org.uk/sites/all/themes/cqc/images/smarties/green.png" title="Green smartie"></td>
+						<td><strong>Good</strong> – the service is performing well and meeting our expectations.</td>
+					</tr>
+					<tr>
+						<td class="icon-image"><img alt="Yellow smartie" src="https://www.cqc.org.uk/sites/all/themes/cqc/images/smarties/yellow.png" title="Yellow smartie"></td>
+						<td><strong>Requires improvement</strong> – the service isn't performing as well as it should and we have told the service how it must improve.</td>
+					</tr>
+					<tr>
+						<td class="icon-image"><img alt="Red smartie" src="https://www.cqc.org.uk/sites/all/themes/cqc/images/smarties/red.png" title="Red smartie"></td>
+						<td><strong>Inadequate</strong> – the service is performing badly and we've taken enforcement action against the provider of the service.</td>
+					</tr>
+					<tr class="last">
+						<td class="icon-image"><img alt="Grey smartie" src="https://www.cqc.org.uk/sites/all/themes/cqc/images/smarties/grey.png" title="Grey smartie"></td>
+						<td><strong>No rating/under appeal/rating suspended</strong> – there are some services which we can’t rate, while some might be under appeal from the provider. Suspended ratings are being reviewed by us and will be published soon.</td>
+					</tr>
+				</tbody>
+			</table>
+			<a class="right-arrow" href="https://www.cqc.org.uk/what-we-do/how-we-do-our-job/ratings">More about ratings</a></div>
+		<div class="two-column new-key">
+			<h2>Ticks and crosses</h2>
+			<p>We don't rate every type of service. For services we haven't rated we use ticks and crosses to show whether we've asked them to take further action or taken enforcement action against them.</p>
+			<table>
+				<tbody>
+					<tr class="cqc-icon-modal">
+						<td class="icon-image"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/status_ticks/green_tick_large.png" title="Green Tick"></td>
+						<td><strong>There's no need for the service to take further action.</strong> If this service has not had a CQC inspection since it registered with us, our judgement may be based on our assessment of declarations and evidence supplied by the service.</td>
+					</tr>
+					<tr>
+						<td class="icon-image"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/status_ticks/grey_cross_large.png" title="Dark Cross"></td>
+						<td><strong>The service must make improvements.</strong></td>
+					</tr>
+					<tr class="last">
+						<td class="icon-image"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/status_ticks/red_cross_large.png" title="Red Cross"></td>
+						<td>At least one standard in this area was not being met when we inspected the service and we have taken <strong>enforcement action</strong>.</td>
+					</tr>
+				</tbody>
+			</table>
+			<a class="right-arrow" href="https://www.cqc.org.uk/what-we-do/how-we-do-our-job/services-we-havent-rated">More about services we haven't rated</a></div>
+	</div>
+</article>
+<p>&nbsp;</p>
+  </div>
+</div>
+<div id="block-cqc-search-cqc-facility-similar" class="block block--cqc-search column-1 similar-facilities block--cqc-search-cqc-facility-similar">
+        <h2 class="block__title">Similar services in this area...</h2>
+      <div class="block__content">
+    <ul><li><div class="cqc-data-icons service-types icon-count-1"><span class="icon-care-home"></span></div><a href="/location/1-2964143350">Waterbeach</a><br />In Cambridgeshire, CB25 9JZ</li>
+<li><div class="cqc-data-icons service-types icon-count-1"><span class="icon-care-home"></span></div><a href="/location/1-791563292">Box Tree Cottage Residential Home</a><br />In Cambridgeshire, CB25 9NQ</li>
+<li><div class="cqc-data-icons service-types icon-count-1"><span class="icon-care-home"></span></div><a href="/location/1-2424945414">Hatley Court</a><br />In Cambridgeshire, CB25 9ND</li>
+</ul>  </div>
+</div>
+<div id="block-block-10" class="block block--block column-2 facility-help-links block--block-10">
+        <h2 class="block__title">Help and guidance...</h2>
+      <div class="block__content">
+    <h3>You can find out more about our information and the quality of care on the pages below.</h3>
+<ul class="arrow">
+	<li class="first"><a href="https://www.cqc.org.uk/directory-care/providers/about-locations">About locations</a></li>
+	<li><a href="https://www.cqc.org.uk/help-advice/help-choosing-care-services/using-information-we-provide">More about using the information we provide</a></li>
+	<li><a href="https://www.cqc.org.uk/what-we-do/how-we-do-our-job/inspection-reports">About our inspection reports</a></li>
+	<li class="last"><a href="https://www.cqc.org.uk/node/4177">State of Care report</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+      </div>
+    </div>
+          </div>
+    <div id="promotion" class="l-region l-region--promotion">
+    <div id="block-cqc-promotion-cqc-promotion" class="block block--cqc-promotion block--cqc-promotion-cqc-promotion">
+        <div class="block__content">
+    <h1>Tell us about your care</h1>
+<p>Your information helps us decide when, where and what to inspect. Let's make care better together.</p>
+<p><a class="button" href="https://www.cqc.org.uk/share-your-experience-finder?referer=promoblock">Poor care? Good care?<br>
+	Tell us now...</a></p>
+  </div>
+</div>
+  </div>
+    <div id="menu-blocks" class="l-region l-region--menu-blocks">
+    <div id="block-block-1" class="block block--block mega-menu about-us block--block-1">
+        <div class="block__content">
+    <h2>About us</h2>
+<div class="col span-1of4">
+	<h3>Who we are</h3>
+	<p>We make sure health and social care services provide people with safe, effective, compassionate, high-quality care and we encourage them to improve.</p>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/about-us/our-purpose-role/who-we-are">Our purpose and role</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Achieving our purpose</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/about-us/our-strategy-plans/our-strategy-2016-2021">Our strategy</a></li>
+		<li><a href="https://www.cqc.org.uk/about-us/how-we-are-run/how-we-are-run">How we are run</a></li>
+		<li><a href="https://www.cqc.org.uk/about-us/our-partnerships/partnerships-other-organisations">Who we work with</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Meet our team</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/about-us/meet-our-team/our-board">Our Board</a></li>
+		<li><a href="https://www.cqc.org.uk/about-us/meet-our-team/our-executive-team">Our Executive Team</a></li>
+		<li class="more"><a href="https://www.cqc.org.uk/about-us/transparency/salaries-structure-staff">Our organisational structure</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Don't miss…</h3>
+	<ul class="arrow_bullets">
+		<li><a href="https://www.cqc.org.uk/about-us/transparency/transparency">Openness and transparency</a></li>
+		<li><a href="https://www.cqc.org.uk/about-us/how-we-are-run/board-meetings">Board meetings</a></li>
+		<li><a href="https://cqc.csod.com/ux/ats/careersite/2/home?c=cqc" target="_blank">Job opportunities</a></li>
+		<li><a href="https://www.cqc.org.uk/about-us/events/events">Events</a></li>
+		<li><a href="https://www.cqc.org.uk/about-us/transparency/using-cqc-data">Use our data</a></li>
+	</ul>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+<div id="block-block-2" class="block block--block mega-menu contact block--block-2">
+        <div class="block__content">
+    <h2>Contact</h2>
+<div class="col span-1of4">
+	<h3>General enquiries</h3>
+	<dl>
+		<dt>Telephone</dt>
+		<dd class="contact-num">03000 616161</dd>
+		<dt>Fax</dt>
+		<dd class="contact-num">03000 616171</dd>
+		<dt>Online</dt>
+		<dd><a href="https://www.cqc.org.uk/contact-us/general-enquiries/contact-us-using-our-online-form">Contact form</a></dd>
+	</dl>
+</div>
+<div class="col span-1of4">
+	<h3>Specialist enquiries for…</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/news/our-media-office/our-media-office">Journalist or media</a></li>
+		<li><a href="https://www.cqc.org.uk/contact-us/general-enquiries/request-speaker">Request a speaker</a></li>
+	</ul>
+	<h3>Get in touch</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/contact-us">Contact us</li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Report a serious concern</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/contact-us/report-concern/report-concern-if-you-are-member-public">As a member of the public</a></li>
+		<li><a href="https://www.cqc.org.uk/contact-us/report-concern/report-concern-if-you-are-member-staff">As a member of staff at a service or provider we regulate</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Complaints</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/contact-us/how-complain/complain-about-service-or-provider">Complaints about a service or provider we regulate</a></li>
+		<li><a href="https://www.cqc.org.uk/contact-us/how-complain/complain-about-cqc">Complaints about CQC</a></li>
+	</ul>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+<div id="block-block-3" class="block block--block mega-menu get-involved block--block-3">
+        <div class="block__content">
+    <h2>Get involved</h2>
+<div class="col span-1of4">
+	<h3>How to get involved</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/get-involved/how-we-involve-you/how-we-involve-you">How we involve you</a></li>
+		<li><a href="https://www.cqc.org.uk/get-involved/consultations/consultations">Consultations</a></li>
+		<li><a href="https://www.cqc.org.uk/get-involved/how-we-involve-you/join-our-public-online-community">Public online community</a></li>
+		<li class="share"><a href="https://www.cqc.org.uk/about-us/jobs/experts-experience">Experts by Experience</a></li>
+		<li class="share"><a href="https://www.cqc.org.uk/get-involved/share-your-experience/tell-us-about-your-care-partnerships">Partnerships with national charities</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Public groups</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/get-involved/local-groups/working-local-groups#local-healthwatch">Local Healthwatch</a></li>
+		<li><a href="https://www.cqc.org.uk/get-involved/local-groups/working-local-groups#speakout-network">SpeakOut network</a></li>
+		<li class="more"><a href="https://www.cqc.org.uk/get-involved/local-groups/working-local-groups">About public groups</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Events</h3>
+	<p>We attend a range of events throughout the year.</p>
+	<p><a href="https://www.cqc.org.uk/about-us/events/events">Find out about events where we will be speaking or exhibiting</a>, and see presentations we&#39;ve given at recent events.</p>
+</div>
+<div class="col span-1of4">
+	<h3>Consultations</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/get-involved/consultations/consultations">All current consultations</a></li>
+		<li class="more"><a href="https://www.cqc.org.uk/get-involved/consultations/closed-consultations">Closed consultations</a></li>
+	</ul>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+<div id="block-block-4" class="block block--block mega-menu help-amp-advice block--block-4">
+        <div class="block__content">
+    <h2>Help &amp; advice</h2>
+<div class="col span-1of3">
+	<h3>How we can help</h3>
+	<p>When we inspect health and social care services, we give them ratings and publish reports about them – information you can use when you're choosing care.</p>
+</div>
+<div class="col span-1of3">
+	<h3>About your care</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/help-advice/help-choosing-care-services/help-choosing-care">Getting started: tips about care services</a></li>
+		<li><a href="https://www.cqc.org.uk/help-advice/what-expect-good-care-services/what-expect-good-care-service">What you can expect from a good care service</a></li>
+		<li><a href="https://www.cqc.org.uk/help-advice/help-choosing-care-services/using-information-we-provide">Using our information</a></li>
+		<li><a href="https://www.cqc.org.uk/help-advice/mental-health-capacity/mental-health-mental-capacity-act">Mental health and the Mental Capacity Act</a></li>
+		<li><a href="https://www.cqc.org.uk/news/newsletters-alerts/our-email-alerts">Email alerts</a></li>
+	</ul>
+</div>
+<div class="col span-1of3">
+	<h3>Recent campaigns</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/help-advice/your-stories/declare-your-care">Declare Your Care</a></li>
+		<li><a href="https://www.cqc.org.uk/help-advice/your-stories/care-aware">Care Aware</a></li>
+		<li><a href="https://www.cqc.org.uk/help-advice/your-stories/making-your-birth-plan">Your birth plan</a></li>
+		<li><a href="https://www.cqc.org.uk/help-advice/your-stories/invisible-conditions">Invisible conditions</a></li>
+	</ul>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+<div id="block-block-5" class="block block--block mega-menu how-we-inspect block--block-5">
+        <div class="block__content">
+    <h2>How we inspect</h2>
+<div class="col span-1of4">
+	<h3>The way we inspect is changing</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/content/how-we-regulate-services">How we regulate services</a></li>
+		<li><a href="https://www.cqc.org.uk/node/4495">Responses to our consultation</a></li>
+		<li><a href="https://www.cqc.org.uk/how-we-inspect/case-studies?f%5B0%5D=im_field_audience%3A124">Case studies</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-use-information/monitoring-nhs-acute-hospitals">Hospital intelligent monitoring</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-use-information/monitoring-gp-practices">GP intelligent monitoring</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Our new inspections</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/content/our-new-inspection-model#preparing">Preparing for an inspection</a></li>
+		<li><a href="https://www.cqc.org.uk/content/our-new-inspection-model#inspecting">How we inspect</a></li>
+		<li><a href="https://www.cqc.org.uk/content/our-new-inspection-model#reporting">Reporting our findings</a></li>
+		<li class="more"><a href="https://www.cqc.org.uk/content/our-new-inspection-model">About new inspections</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Old inspection model</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/node/1744">The old national standards</a></li>
+		<li class="more"><a href="https://www.cqc.org.uk/content/our-old-inspection-model">About old inspections</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Services we regulate</h3>
+	<ul class="icons">
+		<li class="icon-care-home"><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-care-home">Care homes</a></li>
+		<li class="icon-hospital"><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-hospital">Hospitals</a></li>
+		<li class="icon-services-in-your-home"><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-services-offering-care-home">Services in your home</a></li>
+		<li class="icon-doctor-gp"><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-family-doctor-gp">Doctors/GPs</a></li>
+		<li class="icon-dentist"><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-dentist">Dentists</a></li>
+		<li class="icon-clinic"><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-healthcare-clinic">Clinics</a></li>
+		<li class="icon-mental-health"><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-mental-health-service">Mental health services</a></li>
+		<li class="icon-community"><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-services-based-community">Community services</a></li>
+	</ul>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+<div id="block-block-6" class="block block--block mega-menu news block--block-6">
+        <div class="block__content">
+    <h2>News</h2>
+<div class="col span-1of4">
+	<h3>Latest news stories</h3>
+	<div class="view view-cqc-latest-content view-id-cqc_latest_content view-display-id-block_news_news_page view-dom-id-b16b0ca130da36075d505c6f2bf88913">
+        
+  
+  
+      <div class="view-content">
+        <dl>
+      
+      <dt>
+  
+    
+      20 May 2020<p></p>
+      </dt>
+  
+
+      <dd>
+  
+    
+      <a href="https://www.cqc.org.uk/news/stories/care-quality-commission-association-directors-adult-social-care-services-joint"> Care Quality Commission and Association of Directors of Adult Social Care Servi...</a>
+      </dd>
+  
+        
+      <dt>
+  
+    
+      19 May 2020<p></p>
+      </dt>
+  
+
+      <dd>
+  
+    
+      <a href="https://www.cqc.org.uk/news/stories/sharing-insight-asking-questions-encouraging-collaboration-cqc-publishes-first-insight-document-on-covid-19-pressures">Sharing insight, asking questions, encouraging collaboration: CQC publishes firs...</a>
+      </dd>
+  
+        
+      <dt>
+  
+    
+      14 May 2020<p></p>
+      </dt>
+  
+
+      <dd>
+  
+    
+      <a href="https://www.cqc.org.uk/news/stories/understanding-impact-coronavirus-autistic-people-people-learning-disability">Understanding the impact of coronavirus on autistic people and people with a lea...</a>
+      </dd>
+  
+    </dl>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/search/site/news">All news stories</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Latest press releases</h3>
+	<div class="view view-cqc-latest-content view-id-cqc_latest_content view-display-id-block_press view-dom-id-ddc4d76bd7050ef3e8a456b0c6a289ec">
+        
+  
+  
+      <div class="view-content">
+        <dl>
+      
+      <dt>
+  
+    
+      20 April 2020<p></p>
+      </dt>
+  
+
+      <dd>
+  
+    
+      <a href="https://www.cqc.org.uk/news/releases/cqc-books-testing-appointments-nearly-12500-care-staff-rolls-out-support-measures">CQC books testing appointments for nearly 12,500 care staff and rolls out suppor...</a>
+      </dd>
+  
+        
+      <dt>
+  
+    
+      16 March 2020<p></p>
+      </dt>
+  
+
+      <dd>
+  
+    
+      <a href="https://www.cqc.org.uk/news/releases/cqc-stop-routine-inspections-focus-supporting-providers-deliver-safe-care-during-cov-0">CQC to stop routine inspections to focus on supporting providers to deliver safe...</a>
+      </dd>
+  
+        
+      <dt>
+  
+    
+      27 February 2020<p></p>
+      </dt>
+  
+
+      <dd>
+  
+    
+      <a href="https://www.cqc.org.uk/news/releases/cqc-calls-culture-openness-support-peoples-sexual-needs-keep-them-safe-sexual-harm">CQC calls for a culture of openness to support people&#039;s sexual needs and ke...</a>
+      </dd>
+  
+    </dl>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/search/site/press-releases">All press releases</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Media office</h3>
+	<p>151 Buckingham Palace Road<br>
+		London SW1W 9SZ</p>
+	<p><a href="mailto:media.team@cqc.org.uk">media.team@cqc.org.uk</a></p>
+	<p><em>020 7448 9401</em></p>
+	<p>Out of hours: <em>07789 876 508</em></p>
+	<ul>
+		<li class="more"><a href="https://www.cqc.org.uk/news/our-media-office/our-media-office">Media contacts</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Quick links</h3>
+	<ul class="arrow_bullets">
+		<li><a href="https://www.cqc.org.uk/news/newsletters-alerts/email-newsletters-cqc">Sign up for our newsletters</a></li>
+		<li><a href="https://www.cqc.org.uk/news/newsletters-alerts/our-email-alerts">Receive alerts when we inspect services</a></li>
+		<li><a href="https://www.cqc.org.uk/about-us/how-we-are-run/board-meetings">Board meetings</a></li>
+		<li><a href="https://www.cqc.org.uk/news/our-media-office/our-media-office">Meet the media team</a></li>
+	</ul>
+	<h3>Our news on social media</h3>
+	<ul class="social">
+		<li><a href="https://www.facebook.com/CareQualityCommission" title="CQC on Facebook"><img alt="CQC on Facebook" height="25" src="https://www.cqc.org.uk/sites/default/files/25x25_facebook.png" width="25"></a></li>
+		<li><a href="https://twitter.com/carequalitycomm" title="CQC on Twitter"><img alt="CQC on Twitter" height="25" src="https://www.cqc.org.uk/sites/default/files/25x25_twitter.png" width="25"></a></li>
+		<li><a href="http://www.youtube.com/user/cqcdigitalcomms" title="CQC on YouTube"><img alt="CQC on YouTube" height="25" src="https://www.cqc.org.uk/sites/default/files/25x25_youtube.png" width="25"></a></li>
+	</ul>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+<div id="block-block-7" class="block block--block mega-menu publications block--block-7">
+        <div class="block__content">
+    <h2>Publications</h2>
+<div class="col span-1of4">
+	<h3>Inspection reports</h3>
+	<ul class="arrow_bullets">
+		<li><a href="#cqc-solr-search-theme-form">Search our inspections of services</a></li>
+	</ul>
+	<h3>Order print publications</h3>
+	<ul class="arrow_bullets">
+		<li><a href="https://www.cqc.org.uk/publications-order" target="_blank">Order online</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Recent publications</h3>
+	<ul class="arrow_bullets">
+		<li><a href="https://www.cqc.org.uk/publications/major-report/promoting-sexual-safety-through-empowerment">Promoting sexual safety through empowerment</a></li>
+		<li><a href="https://www.cqc.org.uk/publications/major-report/monitoring-mental-health-act-201819">Monitoring the Mental Health Act in 2018/19</a></li>
+		<li><a href="https://www.cqc.org.uk/publications/major-report/state-care">State of Care 2018/19</a></li>
+		<li><a href="https://www.cqc.org.uk/publications/major-report/annual-report-accounts-201819">Annual report and accounts 2018/19</a></li>
+		<li><a href="https://www.cqc.org.uk/publications/major-report/mental-health-act-code-practice-2015-evaluation-how-code-being-used">Mental Health Act Code of Practice evaluation</a></li>
+	</ul>
+	<h3>Types of publication</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/search/site/publications?f%5B0%5D=im_field_publication_type%3A49">Major reports</a></li>
+		<li><a href="https://www.cqc.org.uk/publications/themes-care/themes-health-social-care">Themes in health and social care</a></li>
+		<li><a href="https://www.cqc.org.uk/publications/surveys/surveys">Surveys</a></li>
+		<li><a href="https://www.cqc.org.uk/about-us/transparency/external-reports-research">External reports and research</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Highlight</h3>
+	<p><a href="https://www.cqc.org.uk/publications/major-report/state-care"><img alt="State of Care - Our annual assessment of health and social care in England" src="https://www.cqc.org.uk/sites/default/files/210x160-stateofcare1819-megamenu.png" title="State of Care - Our annual assessment of health and social care in England"></a></p>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/publications/major-report/state-care">State of Care 2018/19</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Accessible formats</h3>
+	<ul class="arrow_bullets">
+		<li><a href="https://www.cqc.org.uk/publications/alternative-formats/publications-easy-reads">Easy reads</a></li>
+		<li><a href="https://www.cqc.org.uk/publications/alternative-formats/publications-languages">Languages</a></li>
+		<li><a href="https://www.cqc.org.uk/publications/alternative-formats/publications-large-print">Large print</a></li>
+		<li><a href="https://www.cqc.org.uk/publications/alternative-formats/publications-audio">Audio</a></li>
+		<li><a href="https://www.cqc.org.uk/publications/alternative-formats/publications-british-sign-language">British sign language</a></li>
+		<li><a href="https://www.cqc.org.uk/search/site/publications">All publications</a></li>
+	</ul>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+<div id="block-block-15" class="block block--block mega-menu guidance-for-providers block--block-15">
+        <div class="block__content">
+    <h2>Guidance for providers</h2>
+<div class="col span-1of4">
+	<h3>In this section</h3>
+	<p>Information for care providers, including guidance about regulations, how to register with us, what incidents you must notify us about and what we look at when we carry out inspections.</p>
+</div>
+<div class="col span-1of4">
+	<h3>Choose your sector</h3>
+	<p><img src="https://www.cqc.org.uk/sites/default/files/12x12_carehomes_icon.png"> <a href="https://www.cqc.org.uk/guidance-providers/adult-social-care">Adult social care</a></p>
+	<p><img src="https://www.cqc.org.uk/sites/default/files/12x12_dentists_icon.png"> <a href="https://www.cqc.org.uk/guidance-providers/dentists">Dentists</a></p>
+	<p><img src="https://www.cqc.org.uk/sites/default/files/12x12_gps_icon.png"> <a href="https://www.cqc.org.uk/guidance-providers/gps">GPs</a></p>
+	<p><img src="https://www.cqc.org.uk/sites/default/files/12x12-independent-doctors.png"> <a href="https://www.cqc.org.uk/guidance-providers/independent-doctors">Independent doctors &amp; clinics</a></p>
+</div>
+<div class="col span-1of4">
+	<h3>&nbsp;</h3>
+	<p><img src="https://www.cqc.org.uk/sites/default/files/12x12_nhs111_icon.png"> <a href="https://www.cqc.org.uk/guidance-providers/urgent-care-nhs-111-out-hours">Urgent care, NHS 111 and GP out-of-hours services</a></p>
+	<p><img src="https://www.cqc.org.uk/sites/default/files/12x12_nhs_icon.png"> <a href="https://www.cqc.org.uk/guidance-providers/nhs-trusts">NHS trusts</a></p>
+	<p><img src="https://www.cqc.org.uk/sites/default/files/12x12-online-services-1.png"> <a href="https://www.cqc.org.uk/guidance-providers/online-primary-care">Online primary care</a></p>
+</div>
+<div class="col span-1of4">
+	<h3>&nbsp;</h3>
+	<p><img src="https://www.cqc.org.uk/sites/default/files/12x12_acute_icon.png"> <a href="https://www.cqc.org.uk/guidance-providers/independent-healthcare-services">Independent healthcare services and hospices</a></p>
+	<p><img src="https://www.cqc.org.uk/sites/default/files/12x12_securesettings_icon.png"> <a href="https://www.cqc.org.uk/guidance-providers/criminal-justice-system/health-care-criminal-justice-system">Prisons and secure settings</a></p>
+	<p><img src="https://www.cqc.org.uk/sites/default/files/12x12_childrens_icon.png"> <a href="https://www.cqc.org.uk/guidance-providers/childrens-services/inspecting-childrens-services">Children and young people</a></p>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+<div id="block-block-77" class="block block--block mega-menu what-we-do block--block-77">
+        <div class="block__content">
+    <h2>What we do</h2>
+<div class="col span-1of4">
+	<p>We monitor, inspect and regulate services to make sure they meet fundamental standards of quality and safety and we publish what we find, including performance ratings to help people choose care.</p>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-do-our-job/fundamental-standards">Fundamental standards of care</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-do-our-job/taking-action">Our powers to take action</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>How we work</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-use-information/how-we-use-information">How we use information</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-work-people/how-we-work-people">How we work with people</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Who we regulate</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-hospital">Hospitals</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-family-doctor-gp">GPs and doctors</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/find-care-home">Care homes</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/services-we-regulate/services-we-regulate">Browse the full list of services we regulate</a></li>
+	</ul>
+</div>
+<div class="col span-1of4">
+	<h3>Quick links</h3>
+	<ul>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-do-our-job/five-key-questions-we-ask">The five key questions we ask</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-do-our-job/fundamental-standards">Fundamental standards of care</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-do-our-job/what-we-do-inspection">What we do on an inspection</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-do-our-job/ratings">Ratings</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-use-information/using-data-monitor-services">Using data to monitor services</a></li>
+		<li><a href="https://www.cqc.org.uk/what-we-do/how-we-do-our-job/safeguarding-people">Making sure people are kept safe from harm, abuse and neglect</a></li>
+		<li><a href="https://www.cqc.org.uk/guidance-providers/childrens-services/inspecting-childrens-services">How we inspect children's services</a></li>
+	</ul>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+  </div>
+  <div class="l-footer" role="contentinfo">
+      <div id="explore" class="l-region l-region--explore">
+    <div id="block-cqc-explore-cqc-explore" class="block block--cqc-explore block--cqc-explore-cqc-explore">
+        <div class="block__content">
+    <div class="clearfix"><h1>Explore CQC</h1><div class="col span-1of4"><h2>About us</h2>
+<ul>
+	<li><a href="/node/1879">Who we are</a></li>
+	<li><a href="/node/4184">What we do</a></li>
+	<li><a href="/node/5670">The fundamental standards</a></li>
+	<li><a href="https://www.cqc.org.uk/share-your-experience-finder?referer=CQCExplorecolumn1">Give feedback on care</a></li>
+	<li><a href="/node/1669">Equality and human rights</a></li>
+	<li><a href="/node/4183">Publications</a></li>
+	<li><a href="/node/1573">Press and media</a></li>
+	<li><a href="/node/2120">Board meetings</a></li>
+</ul>
+</div><div class="col span-1of4"><h2>Services we regulate</h2>
+<ul class="services">
+	<li class="icon-care-home"><a href="/node/3919">Care homes</a></li>
+	<li class="icon-hospital"><a href="/node/3914">Hospitals</a></li>
+	<li class="icon-services-in-your-home"><a href="/node/3920">Services in your home</a></li>
+	<li class="icon-doctor-gp"><a href="/node/3917">Doctors/GPs</a></li>
+	<li class="icon-dentist"><a href="/node/3916">Dentists</a></li>
+	<li class="icon-clinic"><a href="/node/3915">Clinics</a></li>
+	<li class="icon-community"><a href="/node/3921">Community services</a></li>
+	<li class="icon-mental-health"><a href="/node/3918">Mental health services</a></li>
+</ul>
+</div><div class="col span-1of4"><h2>Keep up-to-date</h2>
+<ul>
+	<li><a href="/search/services/all?sort=default&amp;mode=html&amp;f[0]=im_field_last_inspection_date%3A3652&amp;f[1]=latest_inspections%3Aweek">This week's checks on services</a></li>
+	<li><a href="/node/1848">Subscribe to our newsletters</a></li>
+	<li><a href="/node/1956">Email alerts on services</a></li>
+	<li><a href="/search/site/news">Latest news</a></li>
+	<li><a href="/search/site/press-releases">Press releases</a></li>
+	<li><a href="/node/6387">Social media</a></li>
+	<li><a href="/node/2073">CQC data</a></li>
+	<li><a href="/node/1822">CQC widget</a></li>
+</ul>
+</div><div class="col span-1of4"><h2>Guidance for providers</h2>
+<ul>
+	<li><a href="/node/1459">What is registration?</a></li>
+	<li><a href="/node/5835">Registering for the first time</a></li>
+	<li><a href="/node/5611">Meeting the regulations</a></li>
+	<li><a href="/node/1809">Fees</a></li>
+	<li><a href="/node/2118">Changes to registration</a></li>
+	<li><a href="/node/5615">Statement of purpose</a></li>
+	<li><a href="/guidance-providers/notifications/notification-finder">Notifications</a></li>
+	<li><a href="/node/1812">Criminal record (DBS) checks</a></li>
+</ul>
+</div></div>  </div>
+</div>
+  </div>
+      <div id="news-feed" class="l-region l-region--news-feed">
+    <div id="block-views-cqc-latest-news-block" class="block block--views block--views-cqc-latest-news-block">
+        <h2 class="block__title">Latest News</h2>
+      <div class="block__content">
+    <div class="view view-cqc-latest-news view-id-cqc_latest_news view-display-id-block view-dom-id-ec0e156c78288c29fc3361194781c212">
+        
+  
+  
+      <div class="view-content">
+      <ul class="js-hidden" id="cqc-latest-news">  <li class="news-item">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/stories/care-quality-commission-association-directors-adult-social-care-services-joint"> Care Quality Commission and Association of Directors of Adult Social Care Services joint statement on CQC&#039;s Emergency support framework</a></span>  </div></li>
+  <li class="news-item">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/stories/sharing-insight-asking-questions-encouraging-collaboration-cqc-publishes-first-insight-document-on-covid-19-pressures">Sharing insight, asking questions, encouraging collaboration: CQC publishes first insight document on COVID-19 pressures</a></span>  </div></li>
+  <li class="news-item">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/stories/understanding-impact-coronavirus-autistic-people-people-learning-disability">Understanding the impact of coronavirus on autistic people and people with a learning disability</a></span>  </div></li>
+  <li class="news-item">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/stories/cqc-has-made-changes-mental-health-act-complaints-process">CQC has made changes to Mental Health Act complaints process </a></span>  </div></li>
+  <li class="news-item">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/stories/our-concerns-about-mental-health-learning-disability-autism-services">Our concerns about mental health, learning disability and autism services </a></span>  </div></li>
+</ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+      <div id="footer" class="l-region l-region--footer">
+    <div id="block-cqc-social-social-icons-footer" class="block block--cqc-social block--cqc-social-social-icons-footer">
+        <div class="block__content">
+    <!-- Social Links, Footer -->
+<ul class="social"><li><a href="/contact-us" title="Contact us"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/icon-footer-contact.png" width="95" height="25" alt="Contact us" /></a></li>
+<li><a href="https://www.facebook.com/CareQualityCommission" title="CQC on Facebook"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/icon-footer-facebook.png" width="25" height="25" alt="CQC on Facebook" /></a></li>
+<li><a href="https://twitter.com/carequalitycomm" title="CQC on Twitter"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/icon-footer-twitter.png" width="25" height="25" alt="CQC on Twitter" /></a></li>
+<li><a href="http://www.youtube.com/user/cqcdigitalcomms" title="CQC on YouTube"><img src="https://www.cqc.org.uk/sites/all/themes/cqc/images/icon-footer-youtube.png" width="25" height="25" alt="CQC on YouTube" /></a></li>
+</ul><!-- End Social Links, Footer -->  </div>
+</div>
+<nav id="block-menu-menu-footer-menu" role="navigation" class="block block--menu block--menu-menu-footer-menu">
+        <h2 class="block__title hidden">Footer Menu</h2>
+    
+  <ul class="menu"><li class="first leaf"><a href="/about-us/our-policies/website-accessibility" title="">Site accessibility</a></li>
+<li class="leaf"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="/sitemap.xml" title="">Site map</a></li>
+<li class="leaf"><a href="/about-us/our-policies/terms-conditions" title="">Terms and conditions</a></li>
+<li class="leaf"><a href="/about-us/our-policies/cookies" title="">Cookies</a></li>
+<li class="leaf"><a href="/about-us/our-policies/freedom-information-data-protection" title="">Freedom of information</a></li>
+<li class="leaf"><a href="/about-us/our-policies/privacy-statement" title="">Privacy</a></li>
+<li class="leaf"><a href="/contact-us/report-concern/report-concern-if-you-are-member-public" title="">Report a concern</a></li>
+<li class="last leaf"><a href="https://cqc.csod.com/ux/ats/careersite/2/home?c=cqc" title="">Job opportunities</a></li>
+</ul></nav>
+<div id="block-cqc-footer-cqc-footer-copyright" class="block block--cqc-footer block--cqc-footer-cqc-footer-copyright">
+        <div class="block__content">
+    <p>&copy; Care Quality Commission 2020</p>  </div>
+</div>
+  </div>
+  </div>
+</div>
+  <script src="https://www.cqc.org.uk/sites/all/modules/contrib/eu-cookie-compliance/js/eu_cookie_compliance.js?q83wff"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d52b82a2db","applicationID":"5499573","transactionName":"Z1VQYEIDDBYEVEdfCV4fc1dECw0LSlRCVTlcX1FVRAsNCzpYRVMURllXQ28SAwIA","queueTime":0,"applicationTime":349,"atts":"SxJTFgoZHxg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+  <script src = 'sites/all/modules/custom/cqc_qualaroo/js/cqc_qualaroo.js'></script></html>
