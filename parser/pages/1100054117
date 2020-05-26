@@ -1,0 +1,530 @@
+ 
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://brill.uia.org/sites/all/themes/Brill2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Profile of Asian Development Bank from the Yearbook of International Organizations, a service of the UIA." />
+  <title>Asian Development Bank | Yearbook Profile | Union of International Associations</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+    ga('create', 'UA-27369964-11', 'auto');
+    ga('send', 'pageview');
+ 
+  </script>
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRC33X"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KRC33X');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- Set the PlatformAPI key (COUNTER4) -->
+  <meta name="ST.PlatformAPIKey" content="bc8208710447dc2a" />
+
+  <!-- Set the customerID value (as provided by SAMS / SGK)  (COUNTER4) -->
+  <meta name="ST.customerId" content="14968" />
+
+  <style>
+@import url("https://brill.uia.org/modules/system/system.base.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.messages.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.theme.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/misc/ui/jquery.ui.core.css?q4261c");
+@import url("https://brill.uia.org/misc/ui/jquery.ui.theme.css?q4261c");
+</style>
+<style media="screen">
+@import url("https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/modules/book/book.css?q4261c");
+@import url("https://brill.uia.org/modules/comment/comment.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_api/date.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/fences/field.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/logintoboggan/logintoboggan.css?q4261c");
+@import url("https://brill.uia.org/modules/node/node.css?q4261c");
+@import url("https://brill.uia.org/modules/search/search.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/simpleads/simpleads.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_order/uc_order.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_product/uc_product.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/uc_product_minmax/uc_product_minmax.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_store/uc_store.css?q4261c");
+@import url("https://brill.uia.org/modules/user/user.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/views/css/views.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ctools/css/ctools.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.filter.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/panels/css/panels.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu-skins.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/normalize.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/wireframes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/tabs.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/pages.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/blocks.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/navigation.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/views-styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nodes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/comments.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/forms.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/fields.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/print.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nice_menus.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/common.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/font-awesome.min.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/buttons.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/uia2013.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/layout.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rdstyle.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/static_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/qtip.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/jquery.ui.autocomplete.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rbstyle.css?q4261c");
+</style>
+  <script src="https://brill.uia.org/misc/jquery.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://brill.uia.org/misc/drupal.js?q4261c"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/js/qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/admin_menu/admin_devel/admin_devel.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/simpleads.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/modules/simpleads_campaigns/simpleads_campaigns.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_load.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_inline.js?q4261c"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://brill.uia.org/sites/all/modules/megamenu/megamenu.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/google_analytics/googleanalytics.js?q4261c"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-506851-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#moremeet" ).click(function() {
+	  		  jQuery( "#morecal" ).show( "slow" );
+			  jQuery( "#moremeet" ).hide( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#lessmeet" ).click(function() {
+	  		  jQuery( "#morecal" ).hide( "slow" );
+			  jQuery( "#moremeet" ).show( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script src="https://use.typekit.com/yse7wxb.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script src="https://brill.uia.org/sites/all/themes/Brill2014/js/bootstrap.min.js?q4261c"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"Brill2014","theme_token":"D6gAz3N3E2p47Rwnz98Mb-gRQFSU1Cj2L24LTvIU2ag","js":{"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.js":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.filter.js":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/simpleads\/modules\/simpleads_campaigns\/simpleads_campaigns.js":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/megamenu\/megamenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"3":1,"https:\/\/use.typekit.com\/yse7wxb.js":1,"4":1,"sites\/all\/themes\/Brill2014\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/simpleads\/simpleads.css":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/uc_product_minmax\/uc_product_minmax.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.filter.css":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/megamenu\/megamenu.css":1,"sites\/all\/modules\/megamenu\/megamenu-skins.css":1,"sites\/all\/themes\/Brill2014\/system.menus.css":1,"sites\/all\/themes\/Brill2014\/css\/normalize.css":1,"sites\/all\/themes\/Brill2014\/css\/wireframes.css":1,"sites\/all\/themes\/Brill2014\/css\/page-backgrounds.css":1,"sites\/all\/themes\/Brill2014\/css\/tabs.css":1,"sites\/all\/themes\/Brill2014\/css\/pages.css":1,"sites\/all\/themes\/Brill2014\/css\/blocks.css":1,"sites\/all\/themes\/Brill2014\/css\/navigation.css":1,"sites\/all\/themes\/Brill2014\/css\/views-styles.css":1,"sites\/all\/themes\/Brill2014\/css\/nodes.css":1,"sites\/all\/themes\/Brill2014\/css\/comments.css":1,"sites\/all\/themes\/Brill2014\/css\/forms.css":1,"sites\/all\/themes\/Brill2014\/css\/fields.css":1,"sites\/all\/themes\/Brill2014\/css\/print.css":1,"sites\/all\/themes\/Brill2014\/css\/nice_menus.css":1,"sites\/all\/themes\/Brill2014\/css\/common.css":1,"sites\/all\/themes\/Brill2014\/css\/font-awesome.min.css":1,"sites\/all\/themes\/Brill2014\/css\/buttons.css":1,"sites\/all\/themes\/Brill2014\/css\/uia2013.css":1,"sites\/all\/themes\/Brill2014\/css\/layout.css":1,"sites\/all\/themes\/Brill2014\/css\/styles.css":1,"sites\/all\/themes\/Brill2014\/css\/rdstyle.css":1,"sites\/all\/themes\/Brill2014\/css\/static_style.css":1,"sites\/all\/themes\/Brill2014\/css\/calendar.css":1,"sites\/all\/themes\/Brill2014\/css\/pubspages.css":1,"sites\/all\/themes\/Brill2014\/css\/qtip.css":1,"sites\/all\/themes\/Brill2014\/css\/jquery.ui.autocomplete.css":1,"sites\/all\/themes\/Brill2014\/css\/rbstyle.css":1,"sites\/brill.uia.org\/files\/fontyourface\/wysiwyg.css":1,"public:\/\/fontyourface\/local_fonts\/FontAwesome-normal-normal\/stylesheet.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jquery_ui_multiselect_widget":{"module_path":"sites\/all\/modules\/jquery_ui_multiselect_widget","multiple":1,"filter":1,"subselector":"","selectedlist":"4","autoOpen":0,"header":1,"height":"300","classes":"","filter_auto_reset":0,"filter_width":"100","jquery_ui_multiselect_widget_path_match_exclude":""},"qtip":{"target_position":"right_center","tooltip_position":"left_center","show_speech_bubble_tip":1,"show_speech_bubble_tip_side":0,"speech_bubble_size":"12","show_speech_bubble_tip_solid":1,"show_shadow":0,"rounded_corners":1,"color":"ui-tooltip-blue","custom_color":"","show_event_type":"mouseenter","hide_event_type":"mouseleave","show_webform_descriptions":0,"additional_elements":""},"megamenu":{"timeout":"500","sizewait":"250","hoverwait":"400"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-s page-s-or page-s-or-en page-s-or-en- page-s-or-en-1100054117 section-s" >
+	<script>
+	   var _$tarQ = _$tarQ || []; // Access the STAR JavaScript API's global queue
+	</script>
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+  
+  
+  
+
+
+
+
+
+
+<div id="page" style="clear:both;margin-top: 10px;">
+
+
+
+
+<div id="container">
+
+
+
+<div id="nav-1">
+    <div class="region region-navigation">
+    <!-- .block -->
+<div id="block-megamenu-main-menu" class="block block-megamenu first last odd">
+
+      
+  <ul id="megamenu-main-menu" class="megamenu-menu columnar megamenu-skin-minimal"><li id="megamenu-mlid-221" class="megamenu-parent megamenu-parent-0 odd half-1 leaf-0 first menu-221  first"><h2 class="megamenu-parent-title"><a href="/">Home</a></h2></li>
+<li id="megamenu-mlid-511" class="megamenu-parent megamenu-parent-1 even half-1 leaf-1 menu-511 "><h2 class="megamenu-parent-title"><a href="/about-ybio">About The Yearbook</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11476" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><a href="/ybguide/contribute" title="">How to Contribute Information</a></h3></li>
+<li id="megamenu-mlid-11477" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last  last"><h3 class="megamenu-slot-title"><a href="/ybguide/more-data" title="">Need Different Data?</a></h3></li>
+</ul></li>
+<li id="megamenu-mlid-11322" class="megamenu-parent megamenu-parent-2 odd half-1 leaf-2 menu-11322 "><h2 class="megamenu-parent-title"><a href="/ybguide">User Guide</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11324" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><span title="" class="nolink">Organizations</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11330" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/organizations">The Interface</a></li>
+<li id="megamenu-mlid-11331" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/contents">Contents of Profiles</a></li>
+<li id="megamenu-mlid-11332" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/abbrev">Abbreviations Used</a></li>
+<li id="megamenu-mlid-11334" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/inclusion">Criteria for Inclusion</a></li>
+<li id="megamenu-mlid-11335" class="megamenu-item megamenu-item-4 odd half-1 leaf-4 "><a href="/ybguide/editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11336" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/sources">Information Sources</a></li>
+<li id="megamenu-mlid-11337" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 "><a href="/ybguide/type1">Type 1 Codes</a></li>
+<li id="megamenu-mlid-11338" class="megamenu-item megamenu-item-7 even half-2 leaf-7 "><a href="/ybguide/type2">Type 2 Codes</a></li>
+<li id="megamenu-mlid-11361" class="megamenu-item megamenu-item-8 odd half-2 leaf-8 "><a href="/ybguide/type3">Type 3 Codes</a></li>
+<li id="megamenu-mlid-11339" class="megamenu-item megamenu-item-9 even half-2 leaf-9 last  last"><a href="/ybguide/continuity">Continuity Between Editions</a></li>
+</ul></li>
+<li id="megamenu-mlid-11325" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Geography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11340" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/geography">The Interface</a></li>
+<li id="megamenu-mlid-11333" class="megamenu-item megamenu-item-1 even half-2 leaf-1 last  last"><a href="/ybguide/geo-names">Geographical Names</a></li>
+</ul></li>
+<li id="megamenu-mlid-11326" class="megamenu-slot megamenu-slot-2 odd half-1 leaf-2 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Subjects</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11341" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/subjects">The Interface</a></li>
+<li id="megamenu-mlid-11342" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/subjects-intro">Introduction</a></li>
+<li id="megamenu-mlid-11359" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/subject-matrix">Subject Matrix</a></li>
+<li id="megamenu-mlid-11360" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/subject-categories">Subject Categories</a></li>
+</ul></li>
+<li id="megamenu-mlid-11327" class="megamenu-slot megamenu-slot-3 even half-2 leaf-3 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Bibliography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11343" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/bibliography">The Interface</a></li>
+<li id="megamenu-mlid-11344" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/biblio-comments">Comments</a></li>
+<li id="megamenu-mlid-11345" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/biblio-contents">Contents of Entries</a></li>
+<li id="megamenu-mlid-11346" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/biblio-method">Research Methodology</a></li>
+<li id="megamenu-mlid-11347" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/biblio-errors">Errors and Corrections</a></li>
+<li id="megamenu-mlid-11348" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/biblio-selection">Research Topics on INGOs</a></li>
+<li id="megamenu-mlid-11349" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 last  last"><a href="/ybguide/biblio-table">Number of Publications by Type</a></li>
+</ul></li>
+<li id="megamenu-mlid-11328" class="megamenu-slot megamenu-slot-4 odd half-2 leaf-4 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Statistics</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11350" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/statistics" title="">The Interface</a></li>
+<li id="megamenu-mlid-11351" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/stats-intro">Introduction</a></li>
+<li id="megamenu-mlid-11352" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/stats-features">Features</a></li>
+<li id="megamenu-mlid-11353" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/stats-method">Methodological Issues</a></li>
+</ul></li>
+<li id="megamenu-mlid-11329" class="megamenu-slot megamenu-slot-5 even half-2 leaf-5 last  last"><h3 class="megamenu-slot-title"><span title="" class="nolink"> Whoâ€™s Who</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11354" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/whoswho" title="">The Interface</a></li>
+<li id="megamenu-mlid-11355" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/bio-intro">Introduction</a></li>
+<li id="megamenu-mlid-11357" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/bio-sources">Information Sources</a></li>
+<li id="megamenu-mlid-11358" class="megamenu-item megamenu-item-3 even half-2 leaf-3 "><a href="/ybguide/bio-editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11356" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/bio-contents">Biographical Information</a></li>
+<li id="megamenu-mlid-11366" class="megamenu-item megamenu-item-5 even half-2 leaf-5 last  last"><a href="/ybguide/bio-stats" title="">Statistical Tables</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-11323" class="megamenu-parent megamenu-parent-3 even half-2 leaf-3 menu-11323 "><h2 class="megamenu-parent-title"><a href="/ybguide/history">Publication History</a></h2></li>
+<li id="megamenu-mlid-510" class="megamenu-parent megamenu-parent-4 odd half-2 leaf-4 menu-510 "><h2 class="megamenu-parent-title"><a href="/ybguide/editors">About UIA (The Editors)</a></h2></li>
+<li id="megamenu-mlid-499" class="megamenu-parent megamenu-parent-5 even half-2 leaf-5 last menu-499  last"><h2 class="megamenu-parent-title"><a href="/" title="">Login</a></h2></li>
+</ul>
+</div><!-- /.block -->
+  </div>
+ 
+
+</div>
+
+
+<div id="utility-bar">
+
+<nav id="secondary-menu" role="navigation">
+
+</nav>	
+</div>
+ 
+	  <header id="header" role="banner" style="margin-top:1px !important;">
+    <!--      <a href="/" title="Home" rel="home" id="logo"><img src="https://brill.uia.org/sites/all/themes/Brill2014/logo.png" alt="Home" /></a>-->
+        
+    <div id="logoleft"><a href="/" title="Brill"  class="uialogo">BRILL</a></div>
+
+         <hgroup id="name-and-slogan">
+        
+
+		<h1 id="site-name"> 
+      <a href="/ybio/" title="Home" rel="home" id="homelink">YEARBOOK OF INTERNATIONAL ORGANIZATIONS</a></h1>
+	        <div id="ybio-vols"><a href="https://ybio.brillonline.com/ybio/">Organizations</a> | <a href="https://ybio.brillonline.com/ybio/v2/">Geography</a> | <a href="https://ybio.brillonline.com/ybio/v3/">Subjects</a> | <a href="https://ybio.brillonline.com/ybio/v4">Bibliography</a> | <a href="https://ybio.brillonline.com/ybio/v5">Statistics</a> | <a href="https://ybio.brillonline.com/s/sdg/en">UN SDGs</a></div>  
+	
+
+
+
+
+
+        <div id="uiashort"><a href="/"><span>Yearbook of International Organizations</span></a></div>
+
+      
+          </hgroup><!-- /#name-and-slogan -->
+  
+  
+		<div id="uia_logo_brill">
+				<a href="https://uia.org" title="Union of International Associations"><img src="/sites/all/themes/Brill2014/images/design/uia_logo_brill.png" alt="Brill Logo"/></a>
+		</div>
+
+
+</header>
+
+  
+
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+		
+		
+		<div style="width:300px;float:right;font-size:11px;color:#999;text-align:right;padding-top:10px;">You are logged in as <em><script type="text/javascript">
+			var userid = "Alacrity Foundation";
+	        document.write(userid)
+	      </script></em></div>    
+    	
+    
+      
+ 	                      
+      
+      <a id="main-content"></a>
+                              
+      	
+      	
+      
+
+	 
+
+
+
+     
+
+
+<div style="float:right;width:150px;">
+<img src="https://www.uia.org/sites/uia.org/files/or_logotypes/f0077.jpg"  id="ybp_logo" style="max-width:150px;border:0;" alt="logo for Asian Development Bank"/>	
+	
+</div>	
+
+
+
+        <h1 id="page-title" class="title">
+Asian Development Bank
+
+
+
+
+
+
+
+        	
+        (ADB)</h1>
+
+
+<p style="font-style:italic;color:#666;margin-top:-20px;">Banque asiatique de développement (BAD)<br />Banco Asiatico de Desarrollo<br />Asiatische Entwicklungsbank (AEB)<br /></p>
+         
+         <div style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;">
+          	
+         <iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;key=AIzaSyDSecKDTYLGmGVJj3bjqciTn48sZkHCEps&amp;hl=en&amp;geocode=&amp;q=Manila,+Philippines&amp;z=9&amp;iwloc=A&amp;output=embed"></iframe>
+<h2>Contact Details</h2>
+
+
+
+		
+
+	
+	<p>Main address: Headquarters: <br />6 ADB Avenue, Mandaluyong City 1550, <a href="/ybio?addcity_1_en=Manila" title="Manila (click to perform a search)">Manila</a>, <a href="/ybio?addpays_1_en=Philippines" title="Philippines (click to perform a search)">Philippines</a><br />Tel: (63 2) 632 4444<br />Fax: (63 2) 636 2444<br /></p><p>URL: <br /><a title="Click to access page >http://www.adb.org/<" href="http://www.adb.org/" target="_blank">http://www.adb.org/</a><br /></p>		
+		
+<div style="clear:both;"><p> </p><p></p></div><p> </p>
+</div>
+         
+<h2 style="margin-top:30px;">History</h2>
+<p>24 Nov 1966, Manila (Philippines), at Inaugural Meeting of the Board of Governors. Establishment followed recommendations of 1st Ministerial Conference on Asian Economic Cooperation, Dec 1963, Manila, under the auspices of the then United Nations Economic Commission for Asia and the Far East (ECAFE), currently <a href="/s/or/en/1100040063" title="United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)">United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)</a>, which set up a Working Group of Experts. A Consultative Committee was set up during 21st Session of ECAFE, Mar 1965, Wellington (New Zealand), to prepare a draft agreement. Articles of Agreement were adopted at 2nd Ministerial Conference on Asian Economic Cooperation, Nov-Dec 1965, Manila, and entered into force with the ratification or acceptance by 15 Signatories on 22 Aug 1966. Bank commenced operations on 19 Dec 1966 in Manila with 31 members.</p>
+<h2 style="margin-top:20px;">Aims</h2>
+<p>Five strategic objectives in the Medium-Term Strategic Framework: catalyzing investment; strengthening inclusiveness; promoting regional cooperation and integration; encouraging effective environmental management; improving governance and preventing corruption.</p>
+
+
+
+	<div></div>
+
+		<h2 style="margin-top:20px;">Events</h2><p>2019 Nadi, Fiji – <em>Annual Meeting</em> <br />2019 Nadi, Fiji – <em>Regional Workshop on Blue Economy, Disaster Risk Financing and Ocean Infrastructure</em> <br />2018 Singapore, Singapore – <em>Energy for All Investor Forum</em> <br />2018 Seoul, Korea Rep – <em>International Seminar</em> <br />2018 Incheon, Korea Rep – <em>Annual Asian Youth Forum</em> <br />2018 Singapore, Singapore – <em>Water Leaders Summit</em> <br />2018 Seoul, Korea Rep – <em>Meeting on Advancing South-South Knowledge Sharin in Asia</em> <br />2018 Singapore, Singapore – <em>Workshop for the Water Insecurity and Sanitation</em> <br />2018 Seoul, Korea Rep – <em>Forum on Governance and Institutions</em> <br />2018 Tokyo, Japan – <em>Meeting on Strategies for Financing Social Protection to Achieve the SDGs</em> <br />2018 Tokyo, Japan – <em>Toward Optimal Provision of Regional Public Goods in Asia and the Pacific Conference</em> <br />2018 Manila, Philippines – <em>Annual Meeting</em> <br />2018 Busan, Korea Rep – <em>Workshop on Implementation of the World Trade Organization Trade Facilitation Agreement</em> <br />2018 Tokyo, Japan – <em>Conference on Behavioral and Experimental Economics for Development Policy</em> <br />2018 Singapore, Singapore – <em>Money 20/20 Asia Summit</em> <br /></p><p><a class="btn btn-small" id="moremeet"><i class="icon-th-list"></i> View More Events (142)</i></a></p><p><div id="morecal" style="display:none;margin-top:0;"><p style="margin-top:-5px;">2018 Tokyo, Japan – <em>Seminar on Research and Capacity Development for Planning, Implementing, and Operating High-Speed Rail in Asia</em> <br />2018 Tokyo, Japan – <em>Seminar on Current Issues in Economics and Finance for Officials of Afghanistan Minstry of Finance</em> <br />2017 Seoul, Korea Rep – <em>Workshop on the Sustainable Energy Industry and Managing Effective Green Technology</em> <br />2017 Seoul, Korea Rep – <em>Workshop on the Sustainable Energy Industry and Managing Effective Green Technology</em> <br />2017 Incheon, Korea Rep – <em>North Asia Seminar on Customs Capacity Cultivation Policy</em> <br />2017 Seoul, Korea Rep – <em>Anti-Corruption Initiative for Asia and the Pacific Conference</em> <br />2017 Seoul, Korea Rep – <em>Asia Super Grid Meeting</em> <br />2017 Seoul, Korea Rep – <em>Forum on Governance and Institutions</em> <br />2017 Seoul, Korea Rep – <em>Regional Seminar on Gender Equality in Climate Change and Disaster Risk Management</em> <br />2017 Seoul, Korea Rep – <em>Workshop on Policies and Governance for Gender Equality and Competitive Female Labor in Asia</em> <br />2017 Tokyo, Japan – <em>Asia Regional Meeting of the Joint Senior Budget and Health Officials Network for Fiscal Sustainability of Health Systems</em> <br />2017 Tokyo, Japan – <em>Annual Meeting</em> <br />2017 Yokohama, Japan – <em>Global Think Tank Forum</em> <br />2017 Yokohama, Japan – <em>Annual Asian Youth Forum</em> <br />2017 Tokyo, Japan – <em>Conference on 20 Years after the Asian Financial Crisis</em> <br />2017 Seoul, Korea Rep – <em>Seminar on Financing the Sustainable Development Goals in Developing Asia</em> <br />2016 Seoul, Korea Rep – <em>Asia PPP Practitioners Network Conference</em> <br />2016 Delhi, India – <em>Annual Forum</em> <br />2016 Seoul, Korea Rep – <em>Workshop on Balancing Tourism Development and Environmental Sustainability through Inclusive Ecotourism Policy</em> <br />2016 Seoul, Korea Rep – <em>East Asia Top Level Officials Meeting on Competition Policy</em> <br />2016 Seoul, Korea Rep – <em>Meeting on Startups and SMEs in Industrializing Asia</em> <br />2016 Seoul, Korea Rep – <em>Annual Think Tank Summit</em> <br />2016 Bangkok, Thailand – <em>Green Freight and Logistics in South Asia Meeting</em> <br />2016 Seoul, Korea Rep – <em>Seminar</em> <br />2016 Frankfurt-Main, Germany – <em>Annual Meeting</em> <br />2016 Singapore, Singapore – <em>Regional Treasury Centers and Shared Service Centers Meeting</em> <br />2016 Seoul, Korea Rep – <em>CSR Workshop</em> <br />2016 Seoul, Korea Rep – <em>Round Table on Enhancing Private Sector Partnerships</em> <br />2016 Singapore, Singapore – <em>Round Table on Enhancing Private Sector Partnerships</em> <br />2015 Chiang Mai, Thailand – <em>Half-Yearly Meeting</em> <br />2015 Kuala Lumpur, Malaysia – <em>Annual Forum</em> <br />2015 Singapore, Singapore – <em>World Engineers Summit on Climate Change</em> <br />2015 Daegu, Korea Rep – <em>Networking Session on Small Wind</em> <br />2014 Tokyo, Japan – <em>Joint Policy Dialogue on ASEAN Community 2015</em> <br />2014 Singapore, Singapore – <em>Asian Bond Markets Summit</em> <br />2014 Seoul, Korea Rep – <em>Annual Forum</em> <br />2014 Tokyo, Japan – <em>East Asia Top Level Officials Meeting on Competition Policy</em> <br />2014 Tokyo, Japan – <em>Asian Enforces Round Table</em> <br />2014 Seoul, Korea Rep – <em>Public Funds General Assembly</em> <br />2014 Manila, Philippines – <em>Asia Clean Energy Forum</em> <br />2014 Tokyo, Japan – <em>Asia Think Tank Summit on Promoting Regional Economic Cooperation and Integration</em> <br />2014 Astana, Kazakhstan – <em>Annual Meeting</em> <br />2014 Tokyo, Japan – <em>Conference on Regional Cooperation and Integration</em> <br />2014 Seoul, Korea Rep – <em>Asia Economy Cooperation International Seminar</em> <br />2013 Beijing, China – <em>Annual Forum</em> <br />2013 Tokyo, Japan – <em>Seminar on Bond Financing for Infrastructure</em> <br />2013 Singapore, Singapore – <em>Low Carbon Technology Marketplace Forum</em> <br />2013 Singapore, Singapore – <em>Asia-Pacific Cleantech Cluster Gateway Meeting</em> <br />2013 Singapore, Singapore – <em>Cleantech Marketplace Forum</em> <br />2013 Singapore, Singapore – <em>Joint Global Unions - TUSSOs/Partners Strategy Workshop on the Asian Development Bank Engagement</em> <br />2013 Seoul, Korea Rep – <em>Financial Supervisory Service International Conference</em> <br />2013 Singapore, Singapore – <em>Asian Congress on Citizen and Environment Safety and Security</em> <br />2012 Singapore, Singapore – <em>Forum for Emerging Leaders of Emerging Markets</em> <br />2012 Seoul, Korea Rep – <em>Financial Supervisory Service International Conference</em> <br />2012 Manila, Philippines – <em>Annual Meeting</em> <br />2012 Jeju, Korea Rep – <em>International Workshop on Small Wind Power for Off-Grid Electrification in Asian Developing Countries</em> <br />2011 Seoul, Korea Rep – <em>Meeting on Strenghtening Bond Markets in Asia</em> <br />2011 Tokyo, Japan – <em>Emerging Markets Forum</em> <br />2011 Tokyo, Japan – <em>Business Opportunities Seminar</em> <br />2011 Singapore, Singapore – <em>Singapore international water week</em> <br />2011 Tokyo, Japan – <em>Uzbekistan Country Seminar</em> <br />2011 Singapore, Singapore – <em>Session on Governance and Finance</em> <br />2011 Seoul, Korea Rep – <em>KoreaAsia Green Business Partnership Forum</em> <br />2011 Seoul, Korea Rep – <em>Meeting on International Monetary System</em> <br />2011 Tokyo, Japan – <em>Vietnam Seminar</em> <br />2010 Singapore, Singapore – <em>Annual global social innovators forum</em> <br />2010 Manila, Philippines – <em>Meeting on the Asian Development Bank and the future of water in Asia</em> <br />2010 Seoul, Korea Rep – <em>Mekong development forum</em> <br />2010 Singapore, Singapore – <em>Meeting</em> <br />2010 Singapore, Singapore – <em>Singapore international water week</em> <br />2010 Tokyo, Japan – <em>Panel discussion meeting</em> <br />2010 Tashkent, Uzbekistan – <em>Annual meeting</em> <br />2010 Tokyo, Japan – <em>Joint seminar on Asian economy</em> <br />2010 Tokyo, Japan – <em>Asia Europe economic forum</em> <br />2010 Tokyo, Japan – <em>Follow-up conference of the international year of sanitation</em> <br />2009 Seoul, Korea Rep – <em>Korea-Central Asia cooperation forum</em> <br />2009 Singapore, Singapore – <em>Annual Asian bond markets summit</em> <br />2009 Singapore, Singapore – <em>Seminar on China as an engine of recovery and growth for Asia</em> <br />2009 Singapore, Singapore – <em>World road conference</em> <br />2009 Kuala Lumpur, Malaysia – <em>Conference on how the structure of growth in Asia and Europe will change in the aftermath of the global recession and the policy challenges that lie ahead</em> <br />2009 Singapore, Singapore – <em>Annual global social innovators forum</em> <br />2009 Singapore, Singapore – <em>World sugar trade meeting</em> <br />2009 Singapore, Singapore – <em>Singapore international water week</em> <br />2009 Singapore, Singapore – <em>City rail Asia conference</em> <br />2009 Seoul, Korea Rep – <em>Conference on knowledge sharing on infrastructure public-private partnerships</em> <br />2009 Nusa Dua, Indonesia – <em>Annual Meeting</em> <br />2009 Tokyo, Japan – <em>Conference on FTA impacts studies</em> <br />2008 Singapore, Singapore – <em>Meeting on anti-corruption initiative for Asia and the Pacific</em> <br />2008 Singapore, Singapore – <em>Singapore international water week</em> <br />2008 Madrid, Spain – <em>Annual Meeting</em> <br />2008 Tokyo, Japan – <em>Symposium on environmental finance for greenhouse gas reduction</em> <br />2007 Tokyo, Japan – <em>Investing in Asia bonds conference</em> <br />2007 Kyoto, Japan – <em>Annual Meeting</em> <br />2006 Hyderabad, India – <em>Annual Meeting</em> <br />2006 Singapore, Singapore – <em>Mekong development forum</em> <br />2005 Istanbul, Turkey – <em>Annual Meeting</em> <br />2004 Jeju, Korea Rep – <em>Annual Meeting</em> <br />2003 Mandaluyong, Philippines – <em>Annual Meeting</em> <br />2002 Dhaka, Bangladesh – <em>Asia and Pacific workshop on water and poverty</em> <br />2002 Shanghai, China – <em>Annual Meeting</em> <br />2001 Bangkok, Thailand – <em>Asia Development forum</em> <br />2001 Honolulu HI, USA – <em>Annual meeting</em> <br />2000 Paris, France – <em>International forum on Asian perspectives</em> <br />2000 Chiang Mai, Thailand – <em>Annual meeting</em> <br />1999 Mandaluyong, Philippines – <em>Annual Meeting</em> <br />1998 Geneva, Switzerland – <em>Annual Meeting</em> <br />1997 Fukuoka, Japan – <em>Annual Meeting</em> <br />1997  – <em>Ministerial conference on subregional economic cooperation</em> <br />1996 Brunei Darussalam – <em>Conference on study of the emerging trading environment and developing Asia</em> <br />1996 Kunming, China – <em>Ministerial conference on subregional economic cooperation</em> <br />1996 Manila, Philippines – <em>Annual Meeting</em> <br />1996 Manila, Philippines – <em>NGO regional consultation on ADB policies and issues</em> <br />1995 Manila, Philippines – <em>Regional seminar on megacities management</em> <br />1995 Manila, Philippines – <em>International conference on tropical conservation farming and forestry</em> <br />1995 Auckland, New Zealand – <em>Annual Meeting</em> <br />1994 Nice, France – <em>Annual Meeting</em> <br />1993 Mandaluyong, Philippines – <em>Annual meeting</em> <br />1992 Hong Kong, Hong Kong – <em>Annual meeting</em> <br />1991 Vancouver BC, Canada – <em>Annual Meeting</em> <br />1990 Delhi, India – <em>Annual Meeting</em> <br />1989 Beijing, China – <em>Annual Meeting</em> <br />1988 Manila, Philippines – <em>Annual Meeting</em> <br />1987 Osaka, Japan – <em>Annual Meeting</em> <br />1986 Manila, Philippines – <em>Annual Meeting</em> <br />1985 Bangkok, Thailand – <em>Annual Meeting</em> <br />1984 Amsterdam, Netherlands – <em>Annual Meeting</em> <br />1983 Manila, Philippines – <em>Annual Meeting</em> <br />1982 Manila, Philippines – <em>Annual Meeting</em> <br />1981 Honolulu HI, USA – <em>Annual Meeting</em> <br />1980 Manila, Philippines – <em>Annual Meeting</em> <br />1979 Manila, Philippines – <em>Annual Meeting</em> <br />1978 Vienna, Austria – <em>Annual Meeting</em> <br />1977 Manila, Philippines – <em>Annual Meeting</em> <br />1976 Jakarta, Indonesia – <em>Annual Meeting</em> <br />1975 Manila, Philippines – <em>Annual Meeting</em> <br />1974 Kuala Lumpur, Malaysia – <em>Annual Meeting</em> <br />1973 Manila, Philippines – <em>Annual Meeting</em> <br />1972 Vienna, Austria – <em>Annual Meeting</em> <br />1971 Singapore, Singapore – <em>Annual Meeting</em> <br />1970 Seoul, Korea Rep – <em>Annual Meeting</em> <br />1969 Sydney, Australia – <em>Annual Meeting</em> <br />1968 Manila, Philippines – <em>Annual Meeting</em> <br /><p><a class="btn btn-small" id="lessmeet"><i class="icon-th-list"></i> View Less Events (142)</i></a></p><p></p></div>
+
+
+
+
+
+<h2 style="margin-top:20px;">Activities</h2>
+<p>are dedicated to poverty reduction in Asia and the Pacific, a region that is home to two thirds of the world's poor. ADB is owned and financed by its 67 member countries, of which 48 are from the region and 19 are from other parts of the globe. Contributes low interest loans, guarantees, grants, private sector investments and knowledge and advice to help build infrastructure and improve essential services such as health and education to boost quality of life, particularly for the nearly 1.9 billion people in the region still living on US$ 2 or less a day. Focus is on encouraging economic growth, social development and good governance, while promoting regional cooperation and integration in partnership with governments, the private sector, and nongovernment and international organizations. Although most lending is in the public sector - and to governments - ADB also provides direct assistance to private enterprises of developing countries through equity investments, and loans. In addition, its triple-A credit rating helps mobilize funds for development.<p> ADB approved 80 loans (67 projects) for US$ 7,400 million, 14 equity investments for US$ 260.5 million, 3 guarantees for US$ 124.8 million, 5 syndication operations for US$ 530 million, 43 grant projects for US$ 538.4 million, 260 technical assistance projects for US$ 241.6 million, and 8 multi-tranche financing facilities for US$ 3,800 million. ADB approved 43 grant projects for US$ 538.4 million in 2006. Of this amount: US$ 274.9 million was funded from the ADF IX; US$ 28.5 million from the Asian Tsunami Fund and Pakistan Earthquake Fund; US$ 235 million from external sources with full or partial administration by ADB, comprising US$ 67.9 million from the Japan Fund for Poverty Reduction, US$ 1 million from the Japan Fund for Information and Communication Technology, and US$ 166.1 million from other bilateral and multilateral sources (Australia, Canada, Finland, Republic of Korea, the Netherlands, New Zealand, Norway, Sweden, Switzerland, and UK).</p>
+
+
+<h2 style="margin-top:20px;" id="ybp_structure">Structure</h2>
+<p>Board of Governors (meets annually), consisting of one Governor and one Alternate Governor appointed by each member country, elects President. Board of Directors, composed of 12 Directors (each with an Alternate) and elected by Board of Governors, 8 representing regional countries and 4 representing non-regional countries. Four Vice-Presidents (Operations 1 and 2, Knowledge Management, Sustainable Development) appointed by Board of Directors on the recommendation of President.<p> Vice-Presidents (4) oversee:<p> <p>&nbsp;&bull; Operations 1, including 3 departments/offices: South Asia; Central and West Asia; Private Sector Operations;<p> <p>&nbsp;&bull; Operations 2, including 4 departments/offices: East Asia; Southeast Asia; Pacific; Central Operations Services;<p> <p>&nbsp;&bull; Knowledge Management and Sustainable Development, including 3 departments/offices: Regional and Sustainable Development; Economics and Research; Co-financing Operations;<p> <p>&nbsp;&bull; Finance and Administration, including 7 departments/offices: Secretary; General Counsel; Budget, Personnel and Management Systems; Administrative Services; Controller; Treasury; Information Systems and Technology.<p> Headquarters in Manila (Philippines). Field offices (26), including representative offices for North America, Europe and Japan.</p>
+	
+
+<h2 style="margin-top:20px;">Languages</h2>
+<p>English.</p>
+
+
+<h2 style="margin-top:20px;">Staff</h2>
+<p>Professional staff: 856; support staff: 1,544. Staff represented by <a href="/s/or/en/1100058201" title="Asian Development Bank Staff Association and Staff Council">Asian Development Bank Staff Association and Staff Council</a>.</p>
+
+<h2 style="margin-top:20px;">Financing</h2>
+<p>As of 31 Dec 2006, authorized and subscribed capital stock amounted to US$ 53,200 million. ADB raised funds totalling US$ 5,600 million, of which US$ 1,100 million was raised through a global public offering as of 31 Dec 2006. Gross income, which includes revenue and net realized gains, amounted to US$ 1,900 million, US$ 1,200 million of which was generated from the loan portfolio, US$ 573.1 million from the investment portfolio, and US $ 136.4 million from other sources, of which US$ 105 million came from equity investment operations. ADB's Special Funds are: the <a href="/s/or/en/1100040736" title="Asian Development Fund (ADF)">Asian Development Fund (ADF)</a> with 2006 committed resources amounting to US$ 1,300 million; Technical Assistance Special Fund with US$ 89.4 million; Japan Special Fund with US$ 35.2 million; ADB Institute Special Fund with US$ 11.3 million; Asian Tsunami Fund with US$ 15.3 million; Pakistan Earthquake Fund with US$ 28.5 million. About 73 percent of cumulative lending is from ordinary capital resources (OCR). Funding from the OCR comes from three distinct sources: private placements and capital markets in the form of borrowing; paid-in capital provided by shareholders; accumulated retained income (reserves), which provides a buffer for risks.</p>
+
+
+
+
+
+<h2 style="margin-top:20px;">Publications</h2>
+<p><i>ADB Business Opportunities</i> (12 a year); <i>Asian Development Outlook</i> (2 a year); <i>Key Indicators</i> (annual). Annual report; summaries of proceedings; regional surveys, studies and reports; case studies; occasional papers; economic staff papers; ADB theme papers; statistical publications; sector papers; information brochures; DVDs.</p>
+
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Members</h2><div>Governments of 67 countries and territories:<p>&nbsp;&bull; <u>Americas</u>: <a href="/ybio?memb_en_fm=Canada" title="Canada (click to perform a search)">Canada</a>, <a href="/ybio?memb_en_fm=USA" title="USA (click to perform a search)">USA</a>. <p>&nbsp;&bull; <u>Asia</u>: <a href="/ybio?memb_en_fm=Afghanistan" title="Afghanistan (click to perform a search)">Afghanistan</a>, <a href="/ybio?memb_en_fm=Bangladesh" title="Bangladesh (click to perform a search)">Bangladesh</a>, <a href="/ybio?memb_en_fm=Bhutan" title="Bhutan (click to perform a search)">Bhutan</a>, <a href="/ybio?memb_en_fm=Brunei Darussalam" title="Brunei Darussalam (click to perform a search)">Brunei Darussalam</a>, <a href="/ybio?memb_en_fm=Cambodia" title="Cambodia (click to perform a search)">Cambodia</a>, <a href="/ybio?memb_en_fm=China" title="China (click to perform a search)">China</a>, <a href="/ybio?memb_en_fm=Hong Kong" title="Hong Kong (click to perform a search)">Hong Kong</a>, <a href="/ybio?memb_en_fm=India" title="India (click to perform a search)">India</a>, <a href="/ybio?memb_en_fm=Indonesia" title="Indonesia (click to perform a search)">Indonesia</a>, <a href="/ybio?memb_en_fm=Japan" title="Japan (click to perform a search)">Japan</a>, <a href="/ybio?memb_en_fm=Kazakhstan" title="Kazakhstan (click to perform a search)">Kazakhstan</a>, <a href="/ybio?memb_en_fm=Korea Rep" title="Korea Rep (click to perform a search)">Korea Rep</a>, <a href="/ybio?memb_en_fm=Kyrgyzstan" title="Kyrgyzstan (click to perform a search)">Kyrgyzstan</a>, <a href="/ybio?memb_en_fm=Laos" title="Laos (click to perform a search)">Laos</a>, <a href="/ybio?memb_en_fm=Malaysia" title="Malaysia (click to perform a search)">Malaysia</a>, <a href="/ybio?memb_en_fm=Maldives" title="Maldives (click to perform a search)">Maldives</a>, <a href="/ybio?memb_en_fm=Mongolia" title="Mongolia (click to perform a search)">Mongolia</a>, <a href="/ybio?memb_en_fm=Myanmar" title="Myanmar (click to perform a search)">Myanmar</a>, <a href="/ybio?memb_en_fm=Nepal" title="Nepal (click to perform a search)">Nepal</a>, <a href="/ybio?memb_en_fm=Pakistan" title="Pakistan (click to perform a search)">Pakistan</a>, <a href="/ybio?memb_en_fm=Philippines" title="Philippines (click to perform a search)">Philippines</a>, <a href="/ybio?memb_en_fm=Singapore" title="Singapore (click to perform a search)">Singapore</a>, <a href="/ybio?memb_en_fm=Sri Lanka" title="Sri Lanka (click to perform a search)">Sri Lanka</a>, <a href="/ybio?memb_en_fm=Taiwan" title="Taiwan (click to perform a search)">Taiwan</a>, <a href="/ybio?memb_en_fm=Tajikistan" title="Tajikistan (click to perform a search)">Tajikistan</a>, <a href="/ybio?memb_en_fm=Thailand" title="Thailand (click to perform a search)">Thailand</a>, <a href="/ybio?memb_en_fm=Timor-Leste" title="Timor-Leste (click to perform a search)">Timor-Leste</a>, <a href="/ybio?memb_en_fm=Turkmenistan" title="Turkmenistan (click to perform a search)">Turkmenistan</a>, <a href="/ybio?memb_en_fm=Uzbekistan" title="Uzbekistan (click to perform a search)">Uzbekistan</a>, <a href="/ybio?memb_en_fm=Vietnam" title="Vietnam (click to perform a search)">Vietnam</a>. <p>&nbsp;&bull; <u>Australia</u>: <a href="/ybio?memb_en_fm=Australia" title="Australia (click to perform a search)">Australia</a>, <a href="/ybio?memb_en_fm=Cook Is" title="Cook Is (click to perform a search)">Cook Is</a>, <a href="/ybio?memb_en_fm=Fiji" title="Fiji (click to perform a search)">Fiji</a>, <a href="/ybio?memb_en_fm=Kiribati" title="Kiribati (click to perform a search)">Kiribati</a>, <a href="/ybio?memb_en_fm=Marshall Is" title="Marshall Is (click to perform a search)">Marshall Is</a>, <a href="/ybio?memb_en_fm=Micronesia FS" title="Micronesia FS (click to perform a search)">Micronesia FS</a>, <a href="/ybio?memb_en_fm=Nauru" title="Nauru (click to perform a search)">Nauru</a>, <a href="/ybio?memb_en_fm=New Zealand" title="New Zealand (click to perform a search)">New Zealand</a>, <a href="/ybio?memb_en_fm=Palau" title="Palau (click to perform a search)">Palau</a>, <a href="/ybio?memb_en_fm=Papua New Guinea" title="Papua New Guinea (click to perform a search)">Papua New Guinea</a>, <a href="/ybio?memb_en_fm=Samoa" title="Samoa (click to perform a search)">Samoa</a>, <a href="/ybio?memb_en_fm=Solomon Is" title="Solomon Is (click to perform a search)">Solomon Is</a>, <a href="/ybio?memb_en_fm=Tonga" title="Tonga (click to perform a search)">Tonga</a>, <a href="/ybio?memb_en_fm=Tuvalu" title="Tuvalu (click to perform a search)">Tuvalu</a>, <a href="/ybio?memb_en_fm=Vanuatu" title="Vanuatu (click to perform a search)">Vanuatu</a>. <p>&nbsp;&bull; <u>Europe</u>: <a href="/ybio?memb_en_fm=Armenia" title="Armenia (click to perform a search)">Armenia</a>, <a href="/ybio?memb_en_fm=Austria" title="Austria (click to perform a search)">Austria</a>, <a href="/ybio?memb_en_fm=Azerbaijan" title="Azerbaijan (click to perform a search)">Azerbaijan</a>, <a href="/ybio?memb_en_fm=Belgium" title="Belgium (click to perform a search)">Belgium</a>, <a href="/ybio?memb_en_fm=Denmark" title="Denmark (click to perform a search)">Denmark</a>, <a href="/ybio?memb_en_fm=Finland" title="Finland (click to perform a search)">Finland</a>, <a href="/ybio?memb_en_fm=France" title="France (click to perform a search)">France</a>, <a href="/ybio?memb_en_fm=Georgia" title="Georgia (click to perform a search)">Georgia</a>, <a href="/ybio?memb_en_fm=Germany" title="Germany (click to perform a search)">Germany</a>, <a href="/ybio?memb_en_fm=Ireland" title="Ireland (click to perform a search)">Ireland</a>, <a href="/ybio?memb_en_fm=Italy" title="Italy (click to perform a search)">Italy</a>, <a href="/ybio?memb_en_fm=Luxembourg" title="Luxembourg (click to perform a search)">Luxembourg</a>, <a href="/ybio?memb_en_fm=Netherlands" title="Netherlands (click to perform a search)">Netherlands</a>, <a href="/ybio?memb_en_fm=Norway" title="Norway (click to perform a search)">Norway</a>, <a href="/ybio?memb_en_fm=Portugal" title="Portugal (click to perform a search)">Portugal</a>, <a href="/ybio?memb_en_fm=Spain" title="Spain (click to perform a search)">Spain</a>, <a href="/ybio?memb_en_fm=Sweden" title="Sweden (click to perform a search)">Sweden</a>, <a href="/ybio?memb_en_fm=Switzerland" title="Switzerland (click to perform a search)">Switzerland</a>, <a href="/ybio?memb_en_fm=Turkey" title="Turkey (click to perform a search)">Turkey</a>, <a href="/ybio?memb_en_fm=UK" title="UK (click to perform a search)">UK</a>.</div><p>Members in 67 countries<br /></p>
+ <h2 style="margin-top:20px;">Type I Classification</h2>
+<p>F: Organizations having a special form, including foundations and funds</p>
+ <h2 style="margin-top:20px;">Type II Classification</h2>
+<div>g: Intergovernmental<br /></div>
+
+
+ <h2 style="margin-top:20px;clear:left;">Subjects <sup>*</sup></h2><ul><li><a href="/ybio?wcodes=Commerce" title="Commerce:  (click to perform a search)">Commerce</a></li><ul><li><a href="/ybio?wcodes=Banking" title="Banking:  (click to perform a search)">Banking</a></li></ul><li><a href="/ybio?wcodes=Development" title="Development:  (click to perform a search)">Development</a></li><ul><li><a href="/ybio?wcodes=Development" title="Development:  (click to perform a search)">Development</a></li></ul></ul> 
+ 
+ 	<h2 style="margin-top:20px;">UN Sustainable Development Goals <sup>**</sup></h2><p><a href="/s/sdg/en/UN08" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-08.png" class="sdgimg" alt="GOAL 8: Decent Work and Economic Growth" /></a></p> 
+<h2 style="margin-top:20px;">UIA Org ID</h2>
+<p>F0077</p>
+<!--  -->
+
+<h2 style="margin-top:20px;">Last News Received</h2><div>2019</div><div style="color:#999;margin-top:20px;"><sup>*</sup> Subject classification is derived from the organization names and aims.  <br />
+  <sup>**</sup> UN SDGs are linked to the subject classification.<br /><br />
+
+
+
+
+<div style="clear:both;color:#999;margin-top:30px;line-height:140%;"><div style="float:right;width:250px;text-align:right;margin-left:30px;"><a class="btn btw-med" href="https://www.uia.org/node/add/new-org-submission" target="_blank"><i class="icon-th-list"></i> Add A New Organization</a></div>You are viewing an organization profile from the <span style="color:#333;"><a href="/ybio/">Yearbook of International Organizations Online</a></span>. <br /><a href="javascript: history.go(-1)">&larr; return to your search page</a> to see additional profiles.</div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+                
+    
+<div style="clear:both;height:10px;"> </div>
+
+
+
+
+<div style="clear:both;">
+    <footer id="footer" class="region region-footer">
+    <!-- .block -->
+<div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div id="copy-footer">
+<div id="logout" style="width:100px;float:right;"><form action="/LOGOUT" method="post">
+    <input type="submit" value="Logout" /></form></div>
+© 2020 <a href="https://www.uia.org" style="color:#bfccd9;">Union of International Associations</a> &amp; <a href="https://www.brill.com" style="color:#bfccd9;">Koninklijke Brill NV</a>.<br /> 
+For more information please visit <a href="http://www.brill.com/ybio" style="color:#bfccd9;">brill.com</a> | <a href="http://www.brill.com/standard-conditions-sale" style="color:#bfccd9;">Terms and Conditions</a> | <a href="http://www.brill.com/about/policies/privacy-statement" style="color:#bfccd9;">Privacy Statement</a> | <a href="http://www.brill.com/about/policies/rights-permissions" style="color:#bfccd9;">Copyright &amp; Permissions</a></div>
+</div><!-- /.block -->
+  </footer>
+</div>  
+
+</div><!-- /#container -->
+
+</div><!-- /#page -->
+
+<div id="devel">
+</div>  <script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.filter.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.js?q4261c"></script>
+<script>jQuery(document).ready(function () 
+{   
+	
+	
+	
+	var x = document.getElementsByTagName("META");
+	    var txt = "";
+	    var i;
+	    for (i = 0; i < x.length; i++) {
+	        if (x[i].name=="ST.PlatformAPIKey")
+	        {
+	          var platformKey = x[i].content;
+	         }
+ 	        if (x[i].name=="ST.customerId")
+ 	        {
+ 	          var customerKey = x[i].content;
+ 	         }
+	    }
+	
+	var substatus = "valid";
+	if(customerKey == "") 
+	{
+		substatus = "not subscribed";
+	}
+	
+
+
+	var refer = document.referrer;
+	 var refcheck = refer.indexOf("name");
+	 
+
+ 	if(refcheck > 10) {
+ 	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RESULT_CLICK'}]);
+ 	}
+	 
+	 if(substatus == "valid") {
+	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RECORD_VIEW'}]);
+	}
+
+
+});</script>
+  
+  <script type="text/javascript">
+    (function () {
+      var stars = document.createElement('script');
+      stars.type = 'text/javascript';
+      stars.async = true;
+      stars.src = 'https://receiver.star.saas.semcs.net/star.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(stars, s);
+  })();
+  </script>
+  
+</body>
+
+</html>

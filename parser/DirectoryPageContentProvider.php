@@ -17,6 +17,7 @@ class DirectoryPageContentProvider implements PageContentProvider
     public function getNextPageContent()
     {
         $filename = readdir($this->directoryHandle);
+        echo $filename . "<br>";
         if (!$filename) {
             closedir($this->directoryHandle);
             return null;

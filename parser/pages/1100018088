@@ -1,0 +1,536 @@
+ 
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://brill.uia.org/sites/all/themes/Brill2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Profile of Arab League Educational, Cultural and Scientific Organization from the Yearbook of International Organizations, a service of the UIA." />
+  <title>Arab League Educational, Cultural and Scientific Organization | Yearbook Profile | Union of International Associations</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+    ga('create', 'UA-27369964-11', 'auto');
+    ga('send', 'pageview');
+ 
+  </script>
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRC33X"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KRC33X');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- Set the PlatformAPI key (COUNTER4) -->
+  <meta name="ST.PlatformAPIKey" content="bc8208710447dc2a" />
+
+  <!-- Set the customerID value (as provided by SAMS / SGK)  (COUNTER4) -->
+  <meta name="ST.customerId" content="14968" />
+
+  <style>
+@import url("https://brill.uia.org/modules/system/system.base.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.messages.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.theme.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/misc/ui/jquery.ui.core.css?q4261c");
+@import url("https://brill.uia.org/misc/ui/jquery.ui.theme.css?q4261c");
+</style>
+<style media="screen">
+@import url("https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/modules/book/book.css?q4261c");
+@import url("https://brill.uia.org/modules/comment/comment.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_api/date.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/fences/field.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/logintoboggan/logintoboggan.css?q4261c");
+@import url("https://brill.uia.org/modules/node/node.css?q4261c");
+@import url("https://brill.uia.org/modules/search/search.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/simpleads/simpleads.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_order/uc_order.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_product/uc_product.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/uc_product_minmax/uc_product_minmax.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_store/uc_store.css?q4261c");
+@import url("https://brill.uia.org/modules/user/user.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/views/css/views.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ctools/css/ctools.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.filter.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/panels/css/panels.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu-skins.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/normalize.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/wireframes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/tabs.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/pages.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/blocks.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/navigation.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/views-styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nodes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/comments.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/forms.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/fields.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/print.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nice_menus.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/common.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/font-awesome.min.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/buttons.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/uia2013.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/layout.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rdstyle.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/static_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/qtip.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/jquery.ui.autocomplete.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rbstyle.css?q4261c");
+</style>
+  <script src="https://brill.uia.org/misc/jquery.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://brill.uia.org/misc/drupal.js?q4261c"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/js/qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/admin_menu/admin_devel/admin_devel.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/simpleads.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/modules/simpleads_campaigns/simpleads_campaigns.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_load.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_inline.js?q4261c"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://brill.uia.org/sites/all/modules/megamenu/megamenu.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/google_analytics/googleanalytics.js?q4261c"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-506851-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#moremeet" ).click(function() {
+	  		  jQuery( "#morecal" ).show( "slow" );
+			  jQuery( "#moremeet" ).hide( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#lessmeet" ).click(function() {
+	  		  jQuery( "#morecal" ).hide( "slow" );
+			  jQuery( "#moremeet" ).show( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script src="https://use.typekit.com/yse7wxb.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script src="https://brill.uia.org/sites/all/themes/Brill2014/js/bootstrap.min.js?q4261c"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"Brill2014","theme_token":"ImIy1Isk5bPbGd6HdD9yWw3H46ew5IGnEmFS1V40z7U","js":{"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.js":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.filter.js":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/simpleads\/modules\/simpleads_campaigns\/simpleads_campaigns.js":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/megamenu\/megamenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"3":1,"https:\/\/use.typekit.com\/yse7wxb.js":1,"4":1,"sites\/all\/themes\/Brill2014\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/simpleads\/simpleads.css":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/uc_product_minmax\/uc_product_minmax.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.filter.css":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/megamenu\/megamenu.css":1,"sites\/all\/modules\/megamenu\/megamenu-skins.css":1,"sites\/all\/themes\/Brill2014\/system.menus.css":1,"sites\/all\/themes\/Brill2014\/css\/normalize.css":1,"sites\/all\/themes\/Brill2014\/css\/wireframes.css":1,"sites\/all\/themes\/Brill2014\/css\/page-backgrounds.css":1,"sites\/all\/themes\/Brill2014\/css\/tabs.css":1,"sites\/all\/themes\/Brill2014\/css\/pages.css":1,"sites\/all\/themes\/Brill2014\/css\/blocks.css":1,"sites\/all\/themes\/Brill2014\/css\/navigation.css":1,"sites\/all\/themes\/Brill2014\/css\/views-styles.css":1,"sites\/all\/themes\/Brill2014\/css\/nodes.css":1,"sites\/all\/themes\/Brill2014\/css\/comments.css":1,"sites\/all\/themes\/Brill2014\/css\/forms.css":1,"sites\/all\/themes\/Brill2014\/css\/fields.css":1,"sites\/all\/themes\/Brill2014\/css\/print.css":1,"sites\/all\/themes\/Brill2014\/css\/nice_menus.css":1,"sites\/all\/themes\/Brill2014\/css\/common.css":1,"sites\/all\/themes\/Brill2014\/css\/font-awesome.min.css":1,"sites\/all\/themes\/Brill2014\/css\/buttons.css":1,"sites\/all\/themes\/Brill2014\/css\/uia2013.css":1,"sites\/all\/themes\/Brill2014\/css\/layout.css":1,"sites\/all\/themes\/Brill2014\/css\/styles.css":1,"sites\/all\/themes\/Brill2014\/css\/rdstyle.css":1,"sites\/all\/themes\/Brill2014\/css\/static_style.css":1,"sites\/all\/themes\/Brill2014\/css\/calendar.css":1,"sites\/all\/themes\/Brill2014\/css\/pubspages.css":1,"sites\/all\/themes\/Brill2014\/css\/qtip.css":1,"sites\/all\/themes\/Brill2014\/css\/jquery.ui.autocomplete.css":1,"sites\/all\/themes\/Brill2014\/css\/rbstyle.css":1,"sites\/brill.uia.org\/files\/fontyourface\/wysiwyg.css":1,"public:\/\/fontyourface\/local_fonts\/FontAwesome-normal-normal\/stylesheet.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jquery_ui_multiselect_widget":{"module_path":"sites\/all\/modules\/jquery_ui_multiselect_widget","multiple":1,"filter":1,"subselector":"","selectedlist":"4","autoOpen":0,"header":1,"height":"300","classes":"","filter_auto_reset":0,"filter_width":"100","jquery_ui_multiselect_widget_path_match_exclude":""},"qtip":{"target_position":"right_center","tooltip_position":"left_center","show_speech_bubble_tip":1,"show_speech_bubble_tip_side":0,"speech_bubble_size":"12","show_speech_bubble_tip_solid":1,"show_shadow":0,"rounded_corners":1,"color":"ui-tooltip-blue","custom_color":"","show_event_type":"mouseenter","hide_event_type":"mouseleave","show_webform_descriptions":0,"additional_elements":""},"megamenu":{"timeout":"500","sizewait":"250","hoverwait":"400"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-s page-s-or page-s-or-en page-s-or-en- page-s-or-en-1100018088 section-s" >
+	<script>
+	   var _$tarQ = _$tarQ || []; // Access the STAR JavaScript API's global queue
+	</script>
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+  
+  
+  
+
+
+
+
+
+
+<div id="page" style="clear:both;margin-top: 10px;">
+
+
+
+
+<div id="container">
+
+
+
+<div id="nav-1">
+    <div class="region region-navigation">
+    <!-- .block -->
+<div id="block-megamenu-main-menu" class="block block-megamenu first last odd">
+
+      
+  <ul id="megamenu-main-menu" class="megamenu-menu columnar megamenu-skin-minimal"><li id="megamenu-mlid-221" class="megamenu-parent megamenu-parent-0 odd half-1 leaf-0 first menu-221  first"><h2 class="megamenu-parent-title"><a href="/">Home</a></h2></li>
+<li id="megamenu-mlid-511" class="megamenu-parent megamenu-parent-1 even half-1 leaf-1 menu-511 "><h2 class="megamenu-parent-title"><a href="/about-ybio">About The Yearbook</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11476" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><a href="/ybguide/contribute" title="">How to Contribute Information</a></h3></li>
+<li id="megamenu-mlid-11477" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last  last"><h3 class="megamenu-slot-title"><a href="/ybguide/more-data" title="">Need Different Data?</a></h3></li>
+</ul></li>
+<li id="megamenu-mlid-11322" class="megamenu-parent megamenu-parent-2 odd half-1 leaf-2 menu-11322 "><h2 class="megamenu-parent-title"><a href="/ybguide">User Guide</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11324" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><span title="" class="nolink">Organizations</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11330" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/organizations">The Interface</a></li>
+<li id="megamenu-mlid-11331" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/contents">Contents of Profiles</a></li>
+<li id="megamenu-mlid-11332" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/abbrev">Abbreviations Used</a></li>
+<li id="megamenu-mlid-11334" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/inclusion">Criteria for Inclusion</a></li>
+<li id="megamenu-mlid-11335" class="megamenu-item megamenu-item-4 odd half-1 leaf-4 "><a href="/ybguide/editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11336" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/sources">Information Sources</a></li>
+<li id="megamenu-mlid-11337" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 "><a href="/ybguide/type1">Type 1 Codes</a></li>
+<li id="megamenu-mlid-11338" class="megamenu-item megamenu-item-7 even half-2 leaf-7 "><a href="/ybguide/type2">Type 2 Codes</a></li>
+<li id="megamenu-mlid-11361" class="megamenu-item megamenu-item-8 odd half-2 leaf-8 "><a href="/ybguide/type3">Type 3 Codes</a></li>
+<li id="megamenu-mlid-11339" class="megamenu-item megamenu-item-9 even half-2 leaf-9 last  last"><a href="/ybguide/continuity">Continuity Between Editions</a></li>
+</ul></li>
+<li id="megamenu-mlid-11325" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Geography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11340" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/geography">The Interface</a></li>
+<li id="megamenu-mlid-11333" class="megamenu-item megamenu-item-1 even half-2 leaf-1 last  last"><a href="/ybguide/geo-names">Geographical Names</a></li>
+</ul></li>
+<li id="megamenu-mlid-11326" class="megamenu-slot megamenu-slot-2 odd half-1 leaf-2 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Subjects</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11341" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/subjects">The Interface</a></li>
+<li id="megamenu-mlid-11342" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/subjects-intro">Introduction</a></li>
+<li id="megamenu-mlid-11359" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/subject-matrix">Subject Matrix</a></li>
+<li id="megamenu-mlid-11360" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/subject-categories">Subject Categories</a></li>
+</ul></li>
+<li id="megamenu-mlid-11327" class="megamenu-slot megamenu-slot-3 even half-2 leaf-3 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Bibliography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11343" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/bibliography">The Interface</a></li>
+<li id="megamenu-mlid-11344" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/biblio-comments">Comments</a></li>
+<li id="megamenu-mlid-11345" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/biblio-contents">Contents of Entries</a></li>
+<li id="megamenu-mlid-11346" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/biblio-method">Research Methodology</a></li>
+<li id="megamenu-mlid-11347" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/biblio-errors">Errors and Corrections</a></li>
+<li id="megamenu-mlid-11348" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/biblio-selection">Research Topics on INGOs</a></li>
+<li id="megamenu-mlid-11349" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 last  last"><a href="/ybguide/biblio-table">Number of Publications by Type</a></li>
+</ul></li>
+<li id="megamenu-mlid-11328" class="megamenu-slot megamenu-slot-4 odd half-2 leaf-4 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Statistics</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11350" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/statistics" title="">The Interface</a></li>
+<li id="megamenu-mlid-11351" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/stats-intro">Introduction</a></li>
+<li id="megamenu-mlid-11352" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/stats-features">Features</a></li>
+<li id="megamenu-mlid-11353" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/stats-method">Methodological Issues</a></li>
+</ul></li>
+<li id="megamenu-mlid-11329" class="megamenu-slot megamenu-slot-5 even half-2 leaf-5 last  last"><h3 class="megamenu-slot-title"><span title="" class="nolink"> Whoâ€™s Who</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11354" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/whoswho" title="">The Interface</a></li>
+<li id="megamenu-mlid-11355" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/bio-intro">Introduction</a></li>
+<li id="megamenu-mlid-11357" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/bio-sources">Information Sources</a></li>
+<li id="megamenu-mlid-11358" class="megamenu-item megamenu-item-3 even half-2 leaf-3 "><a href="/ybguide/bio-editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11356" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/bio-contents">Biographical Information</a></li>
+<li id="megamenu-mlid-11366" class="megamenu-item megamenu-item-5 even half-2 leaf-5 last  last"><a href="/ybguide/bio-stats" title="">Statistical Tables</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-11323" class="megamenu-parent megamenu-parent-3 even half-2 leaf-3 menu-11323 "><h2 class="megamenu-parent-title"><a href="/ybguide/history">Publication History</a></h2></li>
+<li id="megamenu-mlid-510" class="megamenu-parent megamenu-parent-4 odd half-2 leaf-4 menu-510 "><h2 class="megamenu-parent-title"><a href="/ybguide/editors">About UIA (The Editors)</a></h2></li>
+<li id="megamenu-mlid-499" class="megamenu-parent megamenu-parent-5 even half-2 leaf-5 last menu-499  last"><h2 class="megamenu-parent-title"><a href="/" title="">Login</a></h2></li>
+</ul>
+</div><!-- /.block -->
+  </div>
+ 
+
+</div>
+
+
+<div id="utility-bar">
+
+<nav id="secondary-menu" role="navigation">
+
+</nav>	
+</div>
+ 
+	  <header id="header" role="banner" style="margin-top:1px !important;">
+    <!--      <a href="/" title="Home" rel="home" id="logo"><img src="https://brill.uia.org/sites/all/themes/Brill2014/logo.png" alt="Home" /></a>-->
+        
+    <div id="logoleft"><a href="/" title="Brill"  class="uialogo">BRILL</a></div>
+
+         <hgroup id="name-and-slogan">
+        
+
+		<h1 id="site-name"> 
+      <a href="/ybio/" title="Home" rel="home" id="homelink">YEARBOOK OF INTERNATIONAL ORGANIZATIONS</a></h1>
+	        <div id="ybio-vols"><a href="https://ybio.brillonline.com/ybio/">Organizations</a> | <a href="https://ybio.brillonline.com/ybio/v2/">Geography</a> | <a href="https://ybio.brillonline.com/ybio/v3/">Subjects</a> | <a href="https://ybio.brillonline.com/ybio/v4">Bibliography</a> | <a href="https://ybio.brillonline.com/ybio/v5">Statistics</a> | <a href="https://ybio.brillonline.com/s/sdg/en">UN SDGs</a></div>  
+	
+
+
+
+
+
+        <div id="uiashort"><a href="/"><span>Yearbook of International Organizations</span></a></div>
+
+      
+          </hgroup><!-- /#name-and-slogan -->
+  
+  
+		<div id="uia_logo_brill">
+				<a href="https://uia.org" title="Union of International Associations"><img src="/sites/all/themes/Brill2014/images/design/uia_logo_brill.png" alt="Brill Logo"/></a>
+		</div>
+
+
+</header>
+
+  
+
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+		
+		
+		<div style="width:300px;float:right;font-size:11px;color:#999;text-align:right;padding-top:10px;">You are logged in as <em><script type="text/javascript">
+			var userid = "Alacrity Foundation";
+	        document.write(userid)
+	      </script></em></div>    
+    	
+    
+      
+ 	                      
+      
+      <a id="main-content"></a>
+                              
+      	
+      	
+      
+
+	 
+
+
+
+     
+
+
+<div style="float:right;width:150px;">
+<img src="https://www.uia.org/sites/uia.org/files/or_logotypes/d4163.jpg"  id="ybp_logo" style="max-width:150px;border:0;" alt="logo for Arab League Educational, Cultural and Scientific Organization"/>	
+	
+</div>	
+
+
+
+        <h1 id="page-title" class="title">
+Arab League Educational, Cultural and Scientific Organization
+
+
+
+
+
+
+
+        	
+        (ALECSO)</h1>
+
+
+<p style="font-style:italic;color:#666;margin-top:-20px;">Organisation arabe pour l'éducation, la culture et la science<br />Organización Arabe para la Educación, la Cultura y la Ciencia<br /></p>
+         
+         <div style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;">
+          	
+         <iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;key=AIzaSyDSecKDTYLGmGVJj3bjqciTn48sZkHCEps&amp;hl=en&amp;geocode=&amp;q=Tunis,+Tunisia&amp;z=9&amp;iwloc=A&amp;output=embed"></iframe>
+<h2>Contact Details</h2>
+
+
+
+		
+
+	
+	<p>Main address: Contact: <br />PO Box 1120 1000, <a href="/ybio?addcity_1_en=Tunis" title="Tunis (click to perform a search)">Tunis</a>, <a href="/ybio?addpays_1_en=Tunisia" title="Tunisia (click to perform a search)">Tunisia</a><br />Tel: (216 1) 784 466<br />Fax: (216 1) 784 965<br />Email: <a title='Click to send an e-mail to this address (from your default e-mail client)' href="/cdn-cgi/l/email-protection#2e080d1719080d1f1e16080d1f1e1f080d1717080d1f1f1b080d1f1f1f080d181a080d1719080d1f1e16080d1f1e1f080d1717080d1f1f1b080d1f1f1f080d1a18080d1f1f1f080d1f1f1a080d1f1e1d080d1a18080d1f1f18080d1f1f1e" target=_blank>alecso (at) alecso.org.tn</a><br /></p><p>URL: <br /><a title="Click to access page >http://www.alecso.org.tn/<" href="http://www.alecso.org.tn/" target="_blank">http://www.alecso.org.tn/</a><br /></p>		
+		
+<div style="clear:both;"><p> </p><p></p></div><p> </p>
+</div>
+         
+<h2 style="margin-top:30px;">History</h2>
+<p>25 May 1964, Cairo (Egypt), when Charter was approved by the Council of <a href="/s/or/en/1100014984" title="League of Arab States (LAS)">League of Arab States (LAS)</a>, at its 41st Session. Officially established under Article 3 of the Charter for Arab Cultural Unity; creation officially announced 25 July 1970, Cairo (Egypt).</p>
+<h2 style="margin-top:20px;">Aims</h2>
+<p>Empower intellectual unity between Arab countries through education, culture and science; enhance the level of culture in the region in order to keep up with and contribute to universal civilization.</p>
+
+
+
+	<div></div>
+
+		<h2 style="margin-top:20px;">Events</h2><p>2003  – <em>Conference of the ministers of vocational and technical education in the arab world session</em> <br />2002 Tunis, Tunisia – <em>Conference on the dialogue between the Arab-Islamic culture and cultures of Latin America</em> <br />2002 Amman, Jordan – <em>Conference of the ministers of culture</em> <br />2002 Paris, France – <em>Euro-Arab conference for the dialogue of cultures</em> <br />2002 Damascus, Syrian AR – <em>Arabization conference</em> <br />2002 Bamako, Mali – <em>Conference on the Arab-Islamic culture in the African Coast region</em> <br />2002 Rabat, Morocco – <em>Session</em> <br />2002 Algiers, Algeria – <em>Conference of the ministers of education in the Arab world</em> <br />2002 Kuwait – <em>Conference of archeological sites and cultural heritage</em> <br />2001 Tunis, Tunisia – <em>Session</em> <br />1997 Tunis, Tunisia – <em>International conference on the interaction between Arab culture and the other cultures</em> <br />1996 Cairo, Egypt – <em>Conférence sur la transmission de données trans-frontières arabes</em> <br />1996 Damascus, Syrian AR – <em>Conférence sur l'élaboration d'une référence fondamentale dans le domaine de la traduction et de l'arabisation</em> <br />1995 Egypt – <em>Conference on elaborating a strategy for adults education</em> <br />1995 Algiers, Algeria – <em>Congrès des ministres de l'enseignement supérieur et de la recherche scientifique</em> <br /></p><p><a class="btn btn-small" id="moremeet"><i class="icon-th-list"></i> View More Events (2)</i></a></p><p><div id="morecal" style="display:none;margin-top:0;"><p style="margin-top:-5px;">1993 Tunis, Tunisia – <em>Seminar on the strategy of documentation and information in the Arab region</em> <br />1986 Tunis, Tunisia – <em>Joint conference on Arab cooperation in terminology / Conference</em> <br /><p><a class="btn btn-small" id="lessmeet"><i class="icon-th-list"></i> View Less Events (2)</i></a></p><p></p></div>
+
+
+
+
+
+<h2 style="margin-top:20px;">Activities</h2>
+<p>Technical assistance; training; education; projects.</p>
+
+
+<h2 style="margin-top:20px;" id="ybp_structure">Structure</h2>
+<p><p> /Constitutional Structure/: General Conference (every 2 years), consists of 5 representatives per member state, headed by Minister with responsibility for each state's national commission to ALECSO (usually the Minister of Education). Executive Board (meeting twice a year), comprises one representative from each member state, plus Chairman of General Conference as consultant; meetings may be attended by an aide of the Director General. /Executive Structure/: Director General; Deputy Director General.<p> /Technical and Administrative Structure/:<p> 1. <i>'Programme Supporting Services'</i>, all in Tunis (Tunisia):<p> <p>&nbsp;&bull; Secretariat of Executive Board and General Conference, headed by Secretary General;<p> <p>&nbsp;&bull; Office of the Director General;<p> <p>&nbsp;&bull; Department of Administrative and Financial Affairs;<p> <p>&nbsp;&bull; Department of Communication and Information (including Farabi Data Bank, ALECSO Printing Press and Publication, Distribution Unit and Central Library);<p> <p>&nbsp;&bull; Department of Culture;<p> <p>&nbsp;&bull; Department of Education;<p> <p>&nbsp;&bull; Department of Science and Scientific Research.<p> 2. <i>'ALECSO Affiliate External Bodies'</i>:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100065789" title="Arab Centre for Arabization, Translation, Authorship and Publication (ACATAP)">Arab Centre for Arabization, Translation, Authorship and Publication (ACATAP)</a>, Damascus (Syrian AR);<p> <p>&nbsp;&bull; <a href="/s/or/en/1100059175" title="Arabization Coordination Bureau (BCA)">Arabization Coordination Bureau (BCA)</a>, Rabat (Morocco);<p> <p>&nbsp;&bull; <a href="/s/or/en/1100037729" title="Institute of Arab Manuscripts">Institute of Arab Manuscripts</a>, Cairo (Egypt);<p> <p>&nbsp;&bull; <a href="/s/or/en/1100019144" title="Institute of Arab Research and Studies">Institute of Arab Research and Studies</a>, Cairo (Egypt);<p> <p>&nbsp;&bull; <a href="/s/or/en/1100040609" title="Khartoum International Institute for the Arabic Language">Khartoum International Institute for the Arabic Language</a>, Khartoum (Sudan).</p>
+	
+
+<h2 style="margin-top:20px;">Languages</h2>
+<p>Arabic, English, French.</p>
+
+
+<h2 style="margin-top:20px;">Staff</h2>
+<p>100 full time in the different departments/organizations, plus about 85 non-permanent and casual experts.</p>
+
+<h2 style="margin-top:20px;">Financing</h2>
+<p>Shares of member states calculated on the basis of each country's share in the budget of the League of Arab States. Other sources: grants; donations. Budget (biannual): US$ 17 million.</p>
+
+
+
+<h2 style="margin-top:20px;">Relations with Inter-Governmental Organizations</h2>
+<p>Formal agreement with: <a href="/s/or/en/1100066199" title="Council of Europe (CE)">Council of Europe (CE)</a>; <a href="/s/or/en/1100010946" title="United Nations Educational, Scientific and Cultural Organization (UNESCO)">United Nations Educational, Scientific and Cultural Organization (UNESCO)</a>. Permanent observer status with: <a href="/s/or/en/1100029679" title="World Intellectual Property Organization (WIPO)">World Intellectual Property Organization (WIPO)</a>. Participates in the activities of: <a href="/s/or/en/1100058717" title="United Nations Conference on Trade and Development (UNCTAD)">United Nations Conference on Trade and Development (UNCTAD)</a>. Working arrangement with: <a href="/s/or/en/1100031338" title="World Meteorological Organization (WMO)">World Meteorological Organization (WMO)</a>. Cooperation agreement with: <a href="/s/or/en/1100035549" title="Islamic Educational, Scientific and Cultural Organization (ISESCO)">Islamic Educational, Scientific and Cultural Organization (ISESCO)</a>; <a href="/s/or/en/1100039412" title="Organisation internationale de la Francophonie (OIF)">Organisation internationale de la Francophonie (OIF)</a>; <a href="/s/or/en/1100061471" title="United Nations Industrial Development Organization (UNIDO)">United Nations Industrial Development Organization (UNIDO)</a>. Memorandum of Understanding with: <a href="/s/or/en/1122278168" title="Arab Women Organization (AW0)">Arab Women Organization (AW0)</a>. Member of: <a href="/s/or/en/1100015551" title="Regional Remote Sensing Centre for North African States (CRTEAN)">Regional Remote Sensing Centre for North African States (CRTEAN)</a>. Cooperation under discussion with: <a href="/s/or/en/1100044130" title="Arab States Broadcasting Union (ASBU)">Arab States Broadcasting Union (ASBU)</a>. Participates in administration of: <a href="/s/or/en/1100038957" title="African Bureau of Educational Sciences (BASE)">African Bureau of Educational Sciences (BASE)</a>. Invited to sessions of Intergovernmental Council of: <a href="/s/or/en/1100065387" title="International Programme for the Development of Communication (IPDC)">International Programme for the Development of Communication (IPDC)</a>. Links with:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100056119" title="African Centre for Applied Research and Training in Social Development (ACARTSOD)">African Centre for Applied Research and Training in Social Development (ACARTSOD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100064260" title="African Cultural Institute (ACI)">African Cultural Institute (ACI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100050229" title="Arab Bureau of Education for the Gulf States (ABEGS)">Arab Bureau of Education for the Gulf States (ABEGS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100065232" title="Arab Centre for the Studies of Arid Zones and Dry Lands (ACSAD)">Arab Centre for the Studies of Arid Zones and Dry Lands (ACSAD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100059724" title="Arab Federation for Technical Education (AFTE)">Arab Federation for Technical Education (AFTE)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100014590" title="Arab Organization for Agricultural Development (AOAD)">Arab Organization for Agricultural Development (AOAD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100026059" title="Arab Satellite Communications Organization (ARABSAT)">Arab Satellite Communications Organization (ARABSAT)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100024779" title="Council of Arab Ministers for Social and Economic Affairs">Council of Arab Ministers for Social and Economic Affairs</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100045211" title="Federation of Arab Scientific Research Councils (FASRC)">Federation of Arab Scientific Research Councils (FASRC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100050014" title="Gulf Arab States Educational Research Centre (GASERC)">Gulf Arab States Educational Research Centre (GASERC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100001657" title="Institute of Study and Research on Arabization (IERA)">Institute of Study and Research on Arabization (IERA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100010329" title="Arab World Institute (IMA)">Arab World Institute (IMA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100036238" title="Intergovernmental Committee for Promoting the Return of Cultural Property to its Countries of Origin or its Restitution in case of Illicit Appropriation">Intergovernmental Committee for Promoting the Return of Cultural Property to its Countries of Origin or its Restitution in case of Illicit Appropriation</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100014853" title="Intergovernmental Committee of the Universal Copyright Convention (IGC)">Intergovernmental Committee of the Universal Copyright Convention (IGC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100024437" title="Intergovernmental Oceanographic Commission (IOC)">Intergovernmental Oceanographic Commission (IOC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100024649" title="Inter-Islamic Network on Genetic Engineering and Biotechnology (INOGE)">Inter-Islamic Network on Genetic Engineering and Biotechnology (INOGE)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100030824" title="International Centre for the Study of the Preservation and Restoration of Cultural Property (ICCROM)">International Centre for the Study of the Preservation and Restoration of Cultural Property (ICCROM)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100066232" title="International Cooperation Organization for the Promotion of Arab Islamic Culture (ICOPAIC)">International Cooperation Organization for the Promotion of Arab Islamic Culture (ICOPAIC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100006971" title="International Scientific Committee for the Drafting of a Work on the Various Aspects of Islamic Culture">International Scientific Committee for the Drafting of a Work on the Various Aspects of Islamic Culture</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100004828" title="Islamic Broadcasting Union (IBU)">Islamic Broadcasting Union (IBU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100014963" title="Latin Union (UL)">Latin Union (UL)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100005618" title="Mediterranean Action Plan (MAP)">Mediterranean Action Plan (MAP)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100022394" title="Science and Technology Policy Information Exchange Programme (PIPS)">Science and Technology Policy Information Exchange Programme (PIPS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100004011" title="Regional Centre for Adult Education (ASFEC)">Regional Centre for Adult Education (ASFEC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100053661" title="Regional Organization for the Conservation of the Environment of the Red Sea and Gulf of Aden (PERSGA)">Regional Organization for the Conservation of the Environment of the Red Sea and Gulf of Aden (PERSGA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100044344" title="Research Centre for Islamic History, Art and Culture (IRCICA)">Research Centre for Islamic History, Art and Culture (IRCICA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100057597" title="Standing Committee to the Bern Convention on the Conservation of European Wildlife and Natural Habitats">Standing Committee to the Bern Convention on the Conservation of European Wildlife and Natural Habitats</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100021066" title="United Nations Environment Programme (UN Environment)">United Nations Environment Programme (UN Environment)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100053770" title="UNESCO Mediterranean Programme">UNESCO Mediterranean Programme</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100030731" title="UNESCO Office, Cairo - Regional Bureau for Sciences in the Arab States (ROSTAS)">UNESCO Office, Cairo - Regional Bureau for Sciences in the Arab States (ROSTAS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100047065" title="UNESCO Regional Office for Education in the Arab States (UNEDBAS)">UNESCO Regional Office for Education in the Arab States (UNEDBAS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100020080" title="United Nations Alliance of Civilizations (UNAOC)">United Nations Alliance of Civilizations (UNAOC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100058247" title="United Nations Economic and Social Commission for Western Asia (ESCWA)">United Nations Economic and Social Commission for Western Asia (ESCWA)</a>.<p> Links indicated by: <a href="/s/or/en/1100020997" title="UNESCO Institute for Statistics (UIS)">UNESCO Institute for Statistics (UIS)</a>.</p>
+
+<h2 style="margin-top:20px;">Relations with Non-Governmental Organizations</h2>
+<p>In liaison with technical committees of: <a href="/s/or/en/1100016492" title="International Organization for Standardization (ISO)">International Organization for Standardization (ISO)</a>. Member of Permanent Council of: <a href="/s/or/en/1100040241" title="International Congress of African Studies (ICAF)">International Congress of African Studies (ICAF)</a>. Regional member of: <a href="/s/or/en/1100033829" title="International Council for Adult Education (ICAE)">International Council for Adult Education (ICAE)</a>. Supports: <a href="/s/or/en/1100030858" title="Afro-Arab Institute for Culture and Strategic Studies (AACI)">Afro-Arab Institute for Culture and Strategic Studies (AACI)</a>. Agreement with: <a href="/s/or/en/1100048611" title="International Council of Museums (ICOM)">International Council of Museums (ICOM)</a>. Formal contacts with:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100034806" title="Arab Federation for Libraries and Information (AFLI)">Arab Federation for Libraries and Information (AFLI)</a>; <a href="/s/or/en/1100016194" title="Asia South Pacific Association for Basic and Adult Education (ASPBAE)">Asia South Pacific Association for Basic and Adult Education (ASPBAE)</a>; Canadian Regional Council for Adult Education; <a href="/s/or/en/1100033827" title="European Association for the Education of Adults (EAEA)">European Association for the Education of Adults (EAEA)</a>; <a href="/s/or/en/1100033829" title="International Council for Adult Education (ICAE)">International Council for Adult Education (ICAE)</a>; <a href="/s/or/en/1100023055" title="International Council on Archives (ICA)">International Council on Archives (ICA)</a>; <a href="/s/or/en/1100014774" title="International Federation of Library Associations and Institutions (IFLA)">International Federation of Library Associations and Institutions (IFLA)</a>.<p> Links with:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100003513" title="Arab Biosciences Network (AraBN)">Arab Biosciences Network (AraBN)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100051101" title="Arab Centre for Higher Education Research">Arab Centre for Higher Education Research</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100034268" title="Arab Council for Childhood and Development (ACCD)">Arab Council for Childhood and Development (ACCD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100012842" title="Arab Federation of Organizations Working with the Deaf (AFOWD)">Arab Federation of Organizations Working with the Deaf (AFOWD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100059554" title="Arab History Institute">Arab History Institute</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100029158" title="Arab Open University (AOU)">Arab Open University (AOU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100029716" title="Arab Union of Youth Hostels Associations">Arab Union of Youth Hostels Associations</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100013649" title="Centre africain de perfectionnement des journalistes et communicateurs (CAPJC)">Centre africain de perfectionnement des journalistes et communicateurs (CAPJC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100027018" title="Community of Mediterranean Universities (CMU)">Community of Mediterranean Universities (CMU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100001032" title="Federation of Arab Teachers (FAT)">Federation of Arab Teachers (FAT)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100020336" title="General Union of Arab Publishers">General Union of Arab Publishers</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100055963" title="International Association of Universities (IAU)">International Association of Universities (IAU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100040466" title="International Council on Monuments and Sites (ICOMOS)">International Council on Monuments and Sites (ICOMOS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100034833" title="Islamic World Academy of Sciences (IAS)">Islamic World Academy of Sciences (IAS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100016964" title="Mediterranean Network for the Distance Education of Managers">Mediterranean Network for the Distance Education of Managers</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100018086" title="National Council of Arab Culture">National Council of Arab Culture</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100019135" title="Network of Arab Scientists and Technologists Abroad (ASTA)">Network of Arab Scientists and Technologists Abroad (ASTA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100009396" title="Organization of Islamic Capitals and Cities (OICC)">Organization of Islamic Capitals and Cities (OICC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100061616" title="Union of Arab Chemists (UAC)">Union of Arab Chemists (UAC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100053094" title="Union of Arab Historians (UAH)">Union of Arab Historians (UAH)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100054027" title="World Islamic Call Society (WICS)">World Islamic Call Society (WICS)</a>.<p> Links indicated by: <a href="/s/or/en/1100026598" title="Arab Organization for Human Rights (AOHR)">Arab Organization for Human Rights (AOHR)</a>; <a href="/s/or/en/1100008853" title="Arab Science and Technology Foundation (ASTF)">Arab Science and Technology Foundation (ASTF)</a>; <a href="/s/or/en/1100025889" title="Arab Thought Foundation">Arab Thought Foundation</a>.</p>
+
+<h2 style="margin-top:20px;">Publications</h2>
+<p><i>ALECSO News - Les nouvelles de l'ALECSO</i> (12 a year) in English/French/Arabic; <i>Arab Journal of Culture</i> (2 a year); <i>Arab Journal of Education</i> (2 a year); <i>Arab Journal of Information</i> (2 a year); <i>Arab Journal of Science</i> (2 a year); <i>Journal for Arab Research and Studies</i> (2 a year); <i>Youth Arab Scientific Magazine</i> (2 a year); <i>Arab Bulletin of Publications</i> (annual); <i>Arab Lexicographical Journal</i> (annual); <i>Journal of Education for Masses</i> (annual); <i>ALECSO Newsletter</i>; <i>Fadha'at Newsletter</i>; <i>Spaces</i> - bulletin for distance education. <i>Arab Encyclopaedia for Animal Resources</i> - series; <i>Arab-Islamic Art</i> - series; <i>Arabic Paintings</i> - series; <i>Learning Arabic for the Children of Arab Emigrants</i> - series; <i>Palestinian Town Stories</i> - series. <i>Reference Book on Environmental Education</i> (1984); <i>Basic Arab Dictionary</i> (1988); <i>Palestinian Encyclopaedia</i> (1990); <i>Basic Learning Books for Non-Arab Speakers</i> - 3 vols (1983 -1993); <i>ALECSO's Trilingual Thesaurus</i> - in Arabic/English/French (1995); <i>Reference Book on the Integrated Subjects for the Basic Level of Education</i> (1996); <i>Radiation Solar Atlas for the Arab World</i> (1997); <i>Arabization of Dewey's Decimal Classification</i> (12th ed 1998). Books; guides; monographs; translations.</p>
+
+<h2 style="margin-top:20px;">Information Services</h2>
+<p><i>ALECSO Data Bank (FARABI Data Bank)</i> includes 10 documentation databases and 2 statistics databases, with published and online information and training courses.</p>
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Members</h2><div>Governments of 22 Arab countries and territories:<p>&nbsp;&bull; <u>Africa</u>: <a href="/ybio?memb_en_fm=Algeria" title="Algeria (click to perform a search)">Algeria</a>, <a href="/ybio?memb_en_fm=Comoros" title="Comoros (click to perform a search)">Comoros</a>, <a href="/ybio?memb_en_fm=Djibouti" title="Djibouti (click to perform a search)">Djibouti</a>, <a href="/ybio?memb_en_fm=Egypt" title="Egypt (click to perform a search)">Egypt</a>, <a href="/ybio?memb_en_fm=Libyan AJ" title="Libyan AJ (click to perform a search)">Libyan AJ</a>, <a href="/ybio?memb_en_fm=Mauritania" title="Mauritania (click to perform a search)">Mauritania</a>, <a href="/ybio?memb_en_fm=Morocco" title="Morocco (click to perform a search)">Morocco</a>, <a href="/ybio?memb_en_fm=Somalia" title="Somalia (click to perform a search)">Somalia</a>, <a href="/ybio?memb_en_fm=Sudan" title="Sudan (click to perform a search)">Sudan</a>, <a href="/ybio?memb_en_fm=Tunisia" title="Tunisia (click to perform a search)">Tunisia</a>. <p>&nbsp;&bull; <u>Asia</u>: <a href="/ybio?memb_en_fm=Bahrain" title="Bahrain (click to perform a search)">Bahrain</a>, <a href="/ybio?memb_en_fm=Iraq" title="Iraq (click to perform a search)">Iraq</a>, <a href="/ybio?memb_en_fm=Jordan" title="Jordan (click to perform a search)">Jordan</a>, <a href="/ybio?memb_en_fm=Kuwait" title="Kuwait (click to perform a search)">Kuwait</a>, <a href="/ybio?memb_en_fm=Lebanon" title="Lebanon (click to perform a search)">Lebanon</a>, <a href="/ybio?memb_en_fm=Oman" title="Oman (click to perform a search)">Oman</a>, <a href="/ybio?memb_en_fm=Palestine" title="Palestine (click to perform a search)">Palestine</a>, <a href="/ybio?memb_en_fm=Qatar" title="Qatar (click to perform a search)">Qatar</a>, <a href="/ybio?memb_en_fm=Saudi Arabia" title="Saudi Arabia (click to perform a search)">Saudi Arabia</a>, <a href="/ybio?memb_en_fm=Syrian AR" title="Syrian AR (click to perform a search)">Syrian AR</a>, <a href="/ybio?memb_en_fm=United Arab Emirates" title="United Arab Emirates (click to perform a search)">United Arab Emirates</a>, <a href="/ybio?memb_en_fm=Yemen" title="Yemen (click to perform a search)">Yemen</a>.</div><p>Members in 22 countries<br /></p>
+ <h2 style="margin-top:20px;">Type I Classification</h2>
+<p>D: Limited or regionally defined membership organizations</p>
+ <h2 style="margin-top:20px;">Type II Classification</h2>
+<div>g: Intergovernmental<br /></div>
+
+
+ <h2 style="margin-top:20px;clear:left;">Subjects <sup>*</sup></h2><ul><li><a href="/ybio?wcodes=Education" title="Education:  (click to perform a search)">Education</a></li><ul><li><a href="/ybio?wcodes=Education" title="Education:  (click to perform a search)">Education</a></li></ul><li><a href="/ybio?wcodes=Science" title="Science:  (click to perform a search)">Science</a></li><ul><li><a href="/ybio?wcodes=Science" title="Science:  (click to perform a search)">Science</a></li></ul><li><a href="/ybio?wcodes=Culture" title="Culture:  (click to perform a search)">Culture</a></li><ul><li><a href="/ybio?wcodes=Culture" title="Culture:  (click to perform a search)">Culture</a></li></ul></ul> 
+ 
+ 	<h2 style="margin-top:20px;">UN Sustainable Development Goals <sup>**</sup></h2><p><a href="/s/sdg/en/UN04" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-04.png" class="sdgimg" alt="GOAL 4: Quality Education" /></a></p> 
+<h2 style="margin-top:20px;">UIA Org ID</h2>
+<p>D4163</p>
+<!--  -->
+
+<h2 style="margin-top:20px;">Last News Received</h2><div>2017</div><div style="color:#999;margin-top:20px;"><sup>*</sup> Subject classification is derived from the organization names and aims.  <br />
+  <sup>**</sup> UN SDGs are linked to the subject classification.<br /><br />
+
+
+
+
+<div style="clear:both;color:#999;margin-top:30px;line-height:140%;"><div style="float:right;width:250px;text-align:right;margin-left:30px;"><a class="btn btw-med" href="https://www.uia.org/node/add/new-org-submission" target="_blank"><i class="icon-th-list"></i> Add A New Organization</a></div>You are viewing an organization profile from the <span style="color:#333;"><a href="/ybio/">Yearbook of International Organizations Online</a></span>. <br /><a href="javascript: history.go(-1)">&larr; return to your search page</a> to see additional profiles.</div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+                
+    
+<div style="clear:both;height:10px;"> </div>
+
+
+
+
+<div style="clear:both;">
+    <footer id="footer" class="region region-footer">
+    <!-- .block -->
+<div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div id="copy-footer">
+<div id="logout" style="width:100px;float:right;"><form action="/LOGOUT" method="post">
+    <input type="submit" value="Logout" /></form></div>
+© 2020 <a href="https://www.uia.org" style="color:#bfccd9;">Union of International Associations</a> &amp; <a href="https://www.brill.com" style="color:#bfccd9;">Koninklijke Brill NV</a>.<br /> 
+For more information please visit <a href="http://www.brill.com/ybio" style="color:#bfccd9;">brill.com</a> | <a href="http://www.brill.com/standard-conditions-sale" style="color:#bfccd9;">Terms and Conditions</a> | <a href="http://www.brill.com/about/policies/privacy-statement" style="color:#bfccd9;">Privacy Statement</a> | <a href="http://www.brill.com/about/policies/rights-permissions" style="color:#bfccd9;">Copyright &amp; Permissions</a></div>
+</div><!-- /.block -->
+  </footer>
+</div>  
+
+</div><!-- /#container -->
+
+</div><!-- /#page -->
+
+<div id="devel">
+</div>  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.filter.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.js?q4261c"></script>
+<script>jQuery(document).ready(function () 
+{   
+	
+	
+	
+	var x = document.getElementsByTagName("META");
+	    var txt = "";
+	    var i;
+	    for (i = 0; i < x.length; i++) {
+	        if (x[i].name=="ST.PlatformAPIKey")
+	        {
+	          var platformKey = x[i].content;
+	         }
+ 	        if (x[i].name=="ST.customerId")
+ 	        {
+ 	          var customerKey = x[i].content;
+ 	         }
+	    }
+	
+	var substatus = "valid";
+	if(customerKey == "") 
+	{
+		substatus = "not subscribed";
+	}
+	
+
+
+	var refer = document.referrer;
+	 var refcheck = refer.indexOf("name");
+	 
+
+ 	if(refcheck > 10) {
+ 	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RESULT_CLICK'}]);
+ 	}
+	 
+	 if(substatus == "valid") {
+	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RECORD_VIEW'}]);
+	}
+
+
+});</script>
+  
+  <script type="text/javascript">
+    (function () {
+      var stars = document.createElement('script');
+      stars.type = 'text/javascript';
+      stars.async = true;
+      stars.src = 'https://receiver.star.saas.semcs.net/star.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(stars, s);
+  })();
+  </script>
+  
+</body>
+
+</html>

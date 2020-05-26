@@ -1,0 +1,534 @@
+ 
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://brill.uia.org/sites/all/themes/Brill2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Profile of Common Market for Eastern and Southern Africa from the Yearbook of International Organizations, a service of the UIA." />
+  <title>Common Market for Eastern and Southern Africa | Yearbook Profile | Union of International Associations</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+    ga('create', 'UA-27369964-11', 'auto');
+    ga('send', 'pageview');
+ 
+  </script>
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRC33X"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KRC33X');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- Set the PlatformAPI key (COUNTER4) -->
+  <meta name="ST.PlatformAPIKey" content="bc8208710447dc2a" />
+
+  <!-- Set the customerID value (as provided by SAMS / SGK)  (COUNTER4) -->
+  <meta name="ST.customerId" content="14968" />
+
+  <style>
+@import url("https://brill.uia.org/modules/system/system.base.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.messages.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.theme.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/misc/ui/jquery.ui.core.css?q4261c");
+@import url("https://brill.uia.org/misc/ui/jquery.ui.theme.css?q4261c");
+</style>
+<style media="screen">
+@import url("https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/modules/book/book.css?q4261c");
+@import url("https://brill.uia.org/modules/comment/comment.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_api/date.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/fences/field.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/logintoboggan/logintoboggan.css?q4261c");
+@import url("https://brill.uia.org/modules/node/node.css?q4261c");
+@import url("https://brill.uia.org/modules/search/search.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/simpleads/simpleads.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_order/uc_order.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_product/uc_product.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/uc_product_minmax/uc_product_minmax.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_store/uc_store.css?q4261c");
+@import url("https://brill.uia.org/modules/user/user.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/views/css/views.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ctools/css/ctools.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.filter.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/panels/css/panels.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu-skins.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/normalize.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/wireframes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/tabs.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/pages.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/blocks.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/navigation.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/views-styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nodes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/comments.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/forms.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/fields.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/print.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nice_menus.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/common.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/font-awesome.min.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/buttons.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/uia2013.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/layout.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rdstyle.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/static_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/qtip.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/jquery.ui.autocomplete.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rbstyle.css?q4261c");
+</style>
+  <script src="https://brill.uia.org/misc/jquery.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://brill.uia.org/misc/drupal.js?q4261c"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/js/qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/admin_menu/admin_devel/admin_devel.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/simpleads.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/modules/simpleads_campaigns/simpleads_campaigns.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_load.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_inline.js?q4261c"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://brill.uia.org/sites/all/modules/megamenu/megamenu.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/google_analytics/googleanalytics.js?q4261c"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-506851-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#moremeet" ).click(function() {
+	  		  jQuery( "#morecal" ).show( "slow" );
+			  jQuery( "#moremeet" ).hide( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#lessmeet" ).click(function() {
+	  		  jQuery( "#morecal" ).hide( "slow" );
+			  jQuery( "#moremeet" ).show( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script src="https://use.typekit.com/yse7wxb.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script src="https://brill.uia.org/sites/all/themes/Brill2014/js/bootstrap.min.js?q4261c"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"Brill2014","theme_token":"q_Ap5ZaF7C-ixZaGiHNG92A82wl6i32EW71zdU4w6T8","js":{"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.js":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.filter.js":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/simpleads\/modules\/simpleads_campaigns\/simpleads_campaigns.js":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/megamenu\/megamenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"3":1,"https:\/\/use.typekit.com\/yse7wxb.js":1,"4":1,"sites\/all\/themes\/Brill2014\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/simpleads\/simpleads.css":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/uc_product_minmax\/uc_product_minmax.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.filter.css":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/megamenu\/megamenu.css":1,"sites\/all\/modules\/megamenu\/megamenu-skins.css":1,"sites\/all\/themes\/Brill2014\/system.menus.css":1,"sites\/all\/themes\/Brill2014\/css\/normalize.css":1,"sites\/all\/themes\/Brill2014\/css\/wireframes.css":1,"sites\/all\/themes\/Brill2014\/css\/page-backgrounds.css":1,"sites\/all\/themes\/Brill2014\/css\/tabs.css":1,"sites\/all\/themes\/Brill2014\/css\/pages.css":1,"sites\/all\/themes\/Brill2014\/css\/blocks.css":1,"sites\/all\/themes\/Brill2014\/css\/navigation.css":1,"sites\/all\/themes\/Brill2014\/css\/views-styles.css":1,"sites\/all\/themes\/Brill2014\/css\/nodes.css":1,"sites\/all\/themes\/Brill2014\/css\/comments.css":1,"sites\/all\/themes\/Brill2014\/css\/forms.css":1,"sites\/all\/themes\/Brill2014\/css\/fields.css":1,"sites\/all\/themes\/Brill2014\/css\/print.css":1,"sites\/all\/themes\/Brill2014\/css\/nice_menus.css":1,"sites\/all\/themes\/Brill2014\/css\/common.css":1,"sites\/all\/themes\/Brill2014\/css\/font-awesome.min.css":1,"sites\/all\/themes\/Brill2014\/css\/buttons.css":1,"sites\/all\/themes\/Brill2014\/css\/uia2013.css":1,"sites\/all\/themes\/Brill2014\/css\/layout.css":1,"sites\/all\/themes\/Brill2014\/css\/styles.css":1,"sites\/all\/themes\/Brill2014\/css\/rdstyle.css":1,"sites\/all\/themes\/Brill2014\/css\/static_style.css":1,"sites\/all\/themes\/Brill2014\/css\/calendar.css":1,"sites\/all\/themes\/Brill2014\/css\/pubspages.css":1,"sites\/all\/themes\/Brill2014\/css\/qtip.css":1,"sites\/all\/themes\/Brill2014\/css\/jquery.ui.autocomplete.css":1,"sites\/all\/themes\/Brill2014\/css\/rbstyle.css":1,"sites\/brill.uia.org\/files\/fontyourface\/wysiwyg.css":1,"public:\/\/fontyourface\/local_fonts\/FontAwesome-normal-normal\/stylesheet.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jquery_ui_multiselect_widget":{"module_path":"sites\/all\/modules\/jquery_ui_multiselect_widget","multiple":1,"filter":1,"subselector":"","selectedlist":"4","autoOpen":0,"header":1,"height":"300","classes":"","filter_auto_reset":0,"filter_width":"100","jquery_ui_multiselect_widget_path_match_exclude":""},"qtip":{"target_position":"right_center","tooltip_position":"left_center","show_speech_bubble_tip":1,"show_speech_bubble_tip_side":0,"speech_bubble_size":"12","show_speech_bubble_tip_solid":1,"show_shadow":0,"rounded_corners":1,"color":"ui-tooltip-blue","custom_color":"","show_event_type":"mouseenter","hide_event_type":"mouseleave","show_webform_descriptions":0,"additional_elements":""},"megamenu":{"timeout":"500","sizewait":"250","hoverwait":"400"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-s page-s-or page-s-or-en page-s-or-en- page-s-or-en-1100061172 section-s" >
+	<script>
+	   var _$tarQ = _$tarQ || []; // Access the STAR JavaScript API's global queue
+	</script>
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+  
+  
+  
+
+
+
+
+
+
+<div id="page" style="clear:both;margin-top: 10px;">
+
+
+
+
+<div id="container">
+
+
+
+<div id="nav-1">
+    <div class="region region-navigation">
+    <!-- .block -->
+<div id="block-megamenu-main-menu" class="block block-megamenu first last odd">
+
+      
+  <ul id="megamenu-main-menu" class="megamenu-menu columnar megamenu-skin-minimal"><li id="megamenu-mlid-221" class="megamenu-parent megamenu-parent-0 odd half-1 leaf-0 first menu-221  first"><h2 class="megamenu-parent-title"><a href="/">Home</a></h2></li>
+<li id="megamenu-mlid-511" class="megamenu-parent megamenu-parent-1 even half-1 leaf-1 menu-511 "><h2 class="megamenu-parent-title"><a href="/about-ybio">About The Yearbook</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11476" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><a href="/ybguide/contribute" title="">How to Contribute Information</a></h3></li>
+<li id="megamenu-mlid-11477" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last  last"><h3 class="megamenu-slot-title"><a href="/ybguide/more-data" title="">Need Different Data?</a></h3></li>
+</ul></li>
+<li id="megamenu-mlid-11322" class="megamenu-parent megamenu-parent-2 odd half-1 leaf-2 menu-11322 "><h2 class="megamenu-parent-title"><a href="/ybguide">User Guide</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11324" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><span title="" class="nolink">Organizations</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11330" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/organizations">The Interface</a></li>
+<li id="megamenu-mlid-11331" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/contents">Contents of Profiles</a></li>
+<li id="megamenu-mlid-11332" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/abbrev">Abbreviations Used</a></li>
+<li id="megamenu-mlid-11334" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/inclusion">Criteria for Inclusion</a></li>
+<li id="megamenu-mlid-11335" class="megamenu-item megamenu-item-4 odd half-1 leaf-4 "><a href="/ybguide/editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11336" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/sources">Information Sources</a></li>
+<li id="megamenu-mlid-11337" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 "><a href="/ybguide/type1">Type 1 Codes</a></li>
+<li id="megamenu-mlid-11338" class="megamenu-item megamenu-item-7 even half-2 leaf-7 "><a href="/ybguide/type2">Type 2 Codes</a></li>
+<li id="megamenu-mlid-11361" class="megamenu-item megamenu-item-8 odd half-2 leaf-8 "><a href="/ybguide/type3">Type 3 Codes</a></li>
+<li id="megamenu-mlid-11339" class="megamenu-item megamenu-item-9 even half-2 leaf-9 last  last"><a href="/ybguide/continuity">Continuity Between Editions</a></li>
+</ul></li>
+<li id="megamenu-mlid-11325" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Geography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11340" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/geography">The Interface</a></li>
+<li id="megamenu-mlid-11333" class="megamenu-item megamenu-item-1 even half-2 leaf-1 last  last"><a href="/ybguide/geo-names">Geographical Names</a></li>
+</ul></li>
+<li id="megamenu-mlid-11326" class="megamenu-slot megamenu-slot-2 odd half-1 leaf-2 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Subjects</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11341" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/subjects">The Interface</a></li>
+<li id="megamenu-mlid-11342" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/subjects-intro">Introduction</a></li>
+<li id="megamenu-mlid-11359" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/subject-matrix">Subject Matrix</a></li>
+<li id="megamenu-mlid-11360" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/subject-categories">Subject Categories</a></li>
+</ul></li>
+<li id="megamenu-mlid-11327" class="megamenu-slot megamenu-slot-3 even half-2 leaf-3 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Bibliography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11343" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/bibliography">The Interface</a></li>
+<li id="megamenu-mlid-11344" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/biblio-comments">Comments</a></li>
+<li id="megamenu-mlid-11345" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/biblio-contents">Contents of Entries</a></li>
+<li id="megamenu-mlid-11346" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/biblio-method">Research Methodology</a></li>
+<li id="megamenu-mlid-11347" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/biblio-errors">Errors and Corrections</a></li>
+<li id="megamenu-mlid-11348" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/biblio-selection">Research Topics on INGOs</a></li>
+<li id="megamenu-mlid-11349" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 last  last"><a href="/ybguide/biblio-table">Number of Publications by Type</a></li>
+</ul></li>
+<li id="megamenu-mlid-11328" class="megamenu-slot megamenu-slot-4 odd half-2 leaf-4 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Statistics</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11350" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/statistics" title="">The Interface</a></li>
+<li id="megamenu-mlid-11351" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/stats-intro">Introduction</a></li>
+<li id="megamenu-mlid-11352" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/stats-features">Features</a></li>
+<li id="megamenu-mlid-11353" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/stats-method">Methodological Issues</a></li>
+</ul></li>
+<li id="megamenu-mlid-11329" class="megamenu-slot megamenu-slot-5 even half-2 leaf-5 last  last"><h3 class="megamenu-slot-title"><span title="" class="nolink"> Whoâ€™s Who</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11354" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/whoswho" title="">The Interface</a></li>
+<li id="megamenu-mlid-11355" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/bio-intro">Introduction</a></li>
+<li id="megamenu-mlid-11357" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/bio-sources">Information Sources</a></li>
+<li id="megamenu-mlid-11358" class="megamenu-item megamenu-item-3 even half-2 leaf-3 "><a href="/ybguide/bio-editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11356" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/bio-contents">Biographical Information</a></li>
+<li id="megamenu-mlid-11366" class="megamenu-item megamenu-item-5 even half-2 leaf-5 last  last"><a href="/ybguide/bio-stats" title="">Statistical Tables</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-11323" class="megamenu-parent megamenu-parent-3 even half-2 leaf-3 menu-11323 "><h2 class="megamenu-parent-title"><a href="/ybguide/history">Publication History</a></h2></li>
+<li id="megamenu-mlid-510" class="megamenu-parent megamenu-parent-4 odd half-2 leaf-4 menu-510 "><h2 class="megamenu-parent-title"><a href="/ybguide/editors">About UIA (The Editors)</a></h2></li>
+<li id="megamenu-mlid-499" class="megamenu-parent megamenu-parent-5 even half-2 leaf-5 last menu-499  last"><h2 class="megamenu-parent-title"><a href="/" title="">Login</a></h2></li>
+</ul>
+</div><!-- /.block -->
+  </div>
+ 
+
+</div>
+
+
+<div id="utility-bar">
+
+<nav id="secondary-menu" role="navigation">
+
+</nav>	
+</div>
+ 
+	  <header id="header" role="banner" style="margin-top:1px !important;">
+    <!--      <a href="/" title="Home" rel="home" id="logo"><img src="https://brill.uia.org/sites/all/themes/Brill2014/logo.png" alt="Home" /></a>-->
+        
+    <div id="logoleft"><a href="/" title="Brill"  class="uialogo">BRILL</a></div>
+
+         <hgroup id="name-and-slogan">
+        
+
+		<h1 id="site-name"> 
+      <a href="/ybio/" title="Home" rel="home" id="homelink">YEARBOOK OF INTERNATIONAL ORGANIZATIONS</a></h1>
+	        <div id="ybio-vols"><a href="https://ybio.brillonline.com/ybio/">Organizations</a> | <a href="https://ybio.brillonline.com/ybio/v2/">Geography</a> | <a href="https://ybio.brillonline.com/ybio/v3/">Subjects</a> | <a href="https://ybio.brillonline.com/ybio/v4">Bibliography</a> | <a href="https://ybio.brillonline.com/ybio/v5">Statistics</a> | <a href="https://ybio.brillonline.com/s/sdg/en">UN SDGs</a></div>  
+	
+
+
+
+
+
+        <div id="uiashort"><a href="/"><span>Yearbook of International Organizations</span></a></div>
+
+      
+          </hgroup><!-- /#name-and-slogan -->
+  
+  
+		<div id="uia_logo_brill">
+				<a href="https://uia.org" title="Union of International Associations"><img src="/sites/all/themes/Brill2014/images/design/uia_logo_brill.png" alt="Brill Logo"/></a>
+		</div>
+
+
+</header>
+
+  
+
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+		
+		
+		<div style="width:300px;float:right;font-size:11px;color:#999;text-align:right;padding-top:10px;">You are logged in as <em><script type="text/javascript">
+			var userid = "Alacrity Foundation";
+	        document.write(userid)
+	      </script></em></div>    
+    	
+    
+      
+ 	                      
+      
+      <a id="main-content"></a>
+                              
+      	
+      	
+      
+
+	 
+
+
+
+     
+
+
+<div style="float:right;width:150px;">
+<img src="https://www.uia.org/sites/uia.org/files/or_logotypes/f3162.jpg"  id="ybp_logo" style="max-width:150px;border:0;" alt="logo for Common Market for Eastern and Southern Africa"/>	
+	
+</div>	
+
+
+
+        <h1 id="page-title" class="title">
+Common Market for Eastern and Southern Africa
+
+
+
+
+
+
+
+        	
+        (COMESA)</h1>
+
+
+<p style="font-style:italic;color:#666;margin-top:-20px;">Marché commun de l'Afrique de l'Est et de l'Afrique australe<br />Mercado Común para Africa Orientale e Austral<br /></p>
+         
+         <div style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;">
+          	
+         <iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;key=AIzaSyDSecKDTYLGmGVJj3bjqciTn48sZkHCEps&amp;hl=en&amp;geocode=&amp;q=Lusaka,+Zambia&amp;z=9&amp;iwloc=A&amp;output=embed"></iframe>
+<h2>Contact Details</h2>
+
+
+
+		
+
+	
+	<p>Main address: SG: <br />COMESA Centre, Ben Bella Road, PO Box 30051 10101, <a href="/ybio?addcity_1_en=Lusaka" title="Lusaka (click to perform a search)">Lusaka</a>, <a href="/ybio?addpays_1_en=Zambia" title="Zambia (click to perform a search)">Zambia</a><br />Tel: (260 211) 229725 to 229732<br />Fax: (260 211) 225107<br />Email: <a title='Click to send an e-mail to this address (from your default e-mail client)' href="/cdn-cgi/l/email-protection#042227353531222735343522273d3d2227353437222735343522273535342227323022273d3d2227353535222735343d2227353435222735353122273d3322273032222735343122273535342227353532" target=_blank>secgen (at) comesa.int</a><br /></p><p>URL: <br /><a title="Click to access page >http://www.comesa.int/<" href="http://www.comesa.int/" target="_blank">http://www.comesa.int/</a><br /></p>		
+		
+<div style="clear:both;"><p> </p><p></p></div><p> </p>
+</div>
+         
+<h2 style="margin-top:30px;">History</h2>
+<p>8 Dec 1994, on ratification of the <i>'Treaty establishing the Common Market for Eastern and Southern Africa (COMESA)'</i> by the requisite number of states, the Treaty having been signed, 5 Nov 1993, Kampala (Uganda), by Heads of State and Government and plenipotentiaries of 15 countries. COMESA is the successor to <a href="/s/or/en/1100057503" title="Preferential Trade Area for Eastern and Southern African States (PTA)">Preferential Trade Area for Eastern and Southern African States (PTA)</a>, which had been established, 22 Dec 1981, Lusaka (Zambia), and was dissolved by the COMESA Treaty. An ultimate objective is the setting up of an <a href="/s/or/en/1100027996" title="African Economic Community (AEC)">African Economic Community (AEC)</a> through implementation of provisions of <a href="/s/or/en/1100026159" title="Treaty Establishing the African Economic Community (Abuja treaty)">Treaty Establishing the African Economic Community (Abuja treaty)</a>. Together with other regional economic groups in Africa, COMESA and AEC negotiated and concluded, 25 Feb 1998, a Protocol on relations between AEC and the regional economic communities; and would convert into an organic entity of AEC at the time the Continental Common Market is established through consolidation of regional common markets. The 2 member countries of <a href="/s/or/en/1100026397" title="Southern African Customs Union (SACU)">Southern African Customs Union (SACU)</a> which are members of PTA and which have signed the COMESA Treaty - Namibia and Swaziland - are exempt from full membership obligations pending the completion of the renegotiation process of SACU Agreement.</p>
+<h2 style="margin-top:20px;">Aims</h2>
+<p>As defined in the COMESA Treaty and its Protocols: (a) attain sustainable growth and development of member states by promoting a more balanced and harmonious development of production and marketing structures; promote joint development in all fields of economic activity and the joint adoption of macro-economic policies and programmes in order to raise the standard of living of the peoples in, and to foster closer relations among, member states; cooperate in the creation of an enabling environment for foreign, cross-border and domestic investment, including joint promotion of research and adaptation of science and technology for development; cooperate in the promotion of peace, security and stability among member states in order to enhance the economic development of the region; cooperate in strengthening the relations between the Common Market and the rest of the world and adopt common positions in international fora; contribute towards the establishment, progress and the realization of the objectives of the African Economic Community.</p>
+
+
+
+	<div></div>
+
+		<h2 style="margin-top:20px;">Events</h2><p>2018 Lusaka, Zambia – <em>Annual Summit</em> <br />2016 Antananarivo, Madagascar – <em>Annual Summit</em> <br />2016 Kigali, Rwanda – <em>TGAIS : Global African Investment Summit</em> <br />2015 Addis Ababa, Ethiopia – <em>Annual Summit</em> <br />2011 Lilongwe, Malawi – <em>Annual Summit</em> <br />2001 Cairo, Egypt – <em>Annual ssumit / Annual Summit</em> <br />2000 Lusaka, Zambia – <em>Extraordinary summit</em> <br />2000 Port Louis, Mauritius – <em>Annual summit</em> <br />2000 Cairo, Egypt – <em>Regional economic conference</em> <br />2000 Mauritius – <em>Annual Summit</em> <br />1999 Nairobi, Kenya – <em>Annual summit</em> <br />1998 Kinshasa, Congo DR – <em>Annual summit</em> <br />1997 Lusaka, Zambia – <em>Meeting of business community</em> <br />1997 Khartoum, Sudan – <em>Workshop on irrigation</em> <br />1997 Lusaka, Zambia – <em>Meeting of free trade in agricultural products</em> <br /></p><p><a class="btn btn-small" id="moremeet"><i class="icon-th-list"></i> View More Events (8)</i></a></p><p><div id="morecal" style="display:none;margin-top:0;"><p style="margin-top:-5px;">1997 Arusha, Tanzania UR – <em>Annual summit</em> <br />1996 Arusha, Tanzania UR – <em>International conference on seed treatment</em> <br />1995 Kampala, Uganda – <em>Investment forum</em> <br />1995 Lusaka, Zambia – <em>TECHMART : technology market forum</em> <br />1995 Lusaka, Zambia – <em>Workshop on Common external tariff</em> <br />1995 Lilongwe, Malawi – <em>Conference of ministers of information and broadcasting</em> <br />1994 Lilongwe, Malawi – <em>Annual Summit</em> <br />1993 Kampala, Uganda – <em>Annual Summit</em> <br /><p><a class="btn btn-small" id="lessmeet"><i class="icon-th-list"></i> View Less Events (8)</i></a></p><p></p></div>
+
+
+
+
+
+<h2 style="margin-top:20px;">Activities</h2>
+<p>Current Medium Term Strategic Plan (2011-2015): over 20 on-going programmes, falling within 6 priority areas: Removal of Barriers to Factor Mobility; Building Competitive Productive Capacity; Addressing Supply-Side Constraints Related to Infrastructure; Peace and Security; Integrate Cross-Cutting Issues identified as gender, youth, socio-environmental health, climate change, knowledge based society, statistical development, cooperation and partnerships and aid for trade; Institutional Strengthening. Institutions of COMESA: <a href="/s/or/en/1100065552" title="COMESA Clearing House">COMESA Clearing House</a>, Harare; <a href="/s/or/en/1100015198" title="Africa Leather and Leather Products Institute (ALLPI)">Africa Leather and Leather Products Institute (ALLPI)</a>, Addis Ababa (Ethiopia); <a href="/s/or/en/1122274685" title="COMESA Regional Investment Agency (COMESA RIA)">COMESA Regional Investment Agency (COMESA RIA)</a>; <a href="/s/or/en/1100026151" title="Trade  and  Development Bank (TDB)">Trade  and  Development Bank (TDB)</a>, Nairobi; <a href="/s/or/en/1100048754" title="Federation of National Associations of Women in Business in Eastern and Southern Africa (FEMCOM)">Federation of National Associations of Women in Business in Eastern and Southern Africa (FEMCOM)</a>; <a href="/s/or/en/1100028377" title="PTA Reinsurance Company (ZEP-RE)">PTA Reinsurance Company (ZEP-RE)</a>, Nairobi (Kenya). Also includes: <a href="/s/or/en/1122274481" title="Alliance for Commodity Trade in Eastern and Southern Africa (ACTESA)">Alliance for Commodity Trade in Eastern and Southern Africa (ACTESA)</a>. Together with <a href="/s/or/en/1100059095" title="East African Community (EAC)">East African Community (EAC)</a> and <a href="/s/or/en/1100061207" title="Southern African Development Community (SADC)">Southern African Development Community (SADC)</a>, announced setting up of <a href="/s/or/en/1100068310" title="African Continental Free Trade Area (AfCFTA)">African Continental Free Trade Area (AfCFTA)</a>, Oct 2008. Instrumental in setting up: <a href="/s/or/en/1100045872" title="African Trade Insurance Agency (ATI)">African Trade Insurance Agency (ATI)</a>; <a href="/s/or/en/1100063609" title="Association of Regulators of Information and Communications for Eastern and Southern Africa (ARICEA)">Association of Regulators of Information and Communications for Eastern and Southern Africa (ARICEA)</a>; <a href="/s/or/en/1122274394" title="Regional Association of Energy Regulators for Eastern and Southern Africa (RAERESA)">Regional Association of Energy Regulators for Eastern and Southern Africa (RAERESA)</a>.</p>
+
+
+<h2 style="margin-top:20px;" id="ybp_structure">Structure</h2>
+<p>Organs of COMESA, established under Article 7 of the COMESA Treaty:<p> <p>&nbsp;&bull; <i>'Authority of Heads of State and Government'</i> - the supreme policy organ, which comprises Heads of State or Government; its decisions are by consensus.<p> <p>&nbsp;&bull; <i>'Council of Ministers of the Common Market for Eastern and Southern Africa'</i> - comprising ministers designated by each member state, makes decisions by consensus or, failing that, by two thirds majority. Sectoral Ministerial Meetings are responsible for sectoral development of programmes and action plans and are supported by the Intergovernmental Committee of Permanent Secretaries and by Sectoral Technical Preparatory Committees;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100009732" title="Court of Justice of the Common Market for Eastern and Southern Africa (COMESA Court of Justice)">Court of Justice of the Common Market for Eastern and Southern Africa (COMESA Court of Justice)</a> - replacing <a href="/s/or/en/1100038656" title="PTA Tribunal">PTA Tribunal</a> and PTA Administrative Appeals Board;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100046963" title="COMESA Committee of Central Bank Governors">COMESA Committee of Central Bank Governors</a> - advises Council and the Authority on monetary and financial matters;<p> <p>&nbsp;&bull; <i>'Intergovernmental Committee of the Common Market for Eastern and Southern Africa'</i> - responsible for developing and managing programmes and action plans in all sectors except finance and monetary matters;<p> <p>&nbsp;&bull; Technical Committees - responsible for the various economic sectors and for administrative and budgetary matters;<p> <p>&nbsp;&bull; Secretariat, headed by Secretary-General - provides technical support and advisory services to member states in implementation of the Treaty;<p> <p>&nbsp;&bull; <i>'Consultative Committee of the Business Community and Other Interest Groups of the Common Market for Eastern and Southern Africa'</i> - also referred to as <i>Consultative Committee of the Private Sector and Nongovernmental Organizations</i>, provides a link between the business community and other COMESA interest groups and organs.</p>
+	
+
+<h2 style="margin-top:20px;">Languages</h2>
+<p>Arabic, English, French.</p>
+
+
+<h2 style="margin-top:20px;">Staff</h2>
+<p>Over 200: 3 Executive Management; Professional staff (39%); General Service staff (61%).</p>
+
+<h2 style="margin-top:20px;">Financing</h2>
+<p>Members' dues. Financial support from various development partners. Budget (2011): US$ 11 million (from member States) plus US$ 70 million.</p>
+
+
+
+<h2 style="margin-top:20px;">Relations with Inter-Governmental Organizations</h2>
+<p>Relationship agreement signed with: <a href="/s/or/en/1100043851" title="Food and Agriculture Organization of the United Nations (FAO)">Food and Agriculture Organization of the United Nations (FAO)</a>; <a href="/s/or/en/1100061471" title="United Nations Industrial Development Organization (UNIDO)">United Nations Industrial Development Organization (UNIDO)</a>. Under Lomé Conventions, links with: <a href="/s/or/en/1100013222" title="European Commission (EC)">European Commission (EC)</a>. Member of: <a href="/s/or/en/1100038036" title="Africa Partnership Forum (APF)">Africa Partnership Forum (APF)</a>; <a href="/s/or/en/1100065693" title="Common Fund for Commodities (CFC)">Common Fund for Commodities (CFC)</a>. Regional Economic Community of: <a href="/s/or/en/1100033436" title="African Union (AU)">African Union (AU)</a>. Cooperates with: <a href="/s/or/en/1100017121" title="International Civil Aviation Organization (ICAO)">International Civil Aviation Organization (ICAO)</a>. Observer to: <a href="/s/or/en/1100053975" title="Codex Alimentarius Commission (CAC)">Codex Alimentarius Commission (CAC)</a>. Supports: <a href="/s/or/en/1100068298" title="East Africa Power Pool (EAPP)">East Africa Power Pool (EAPP)</a>. Memorandum of Understanding with: <a href="/s/or/en/1100006327" title="International Centre for Migration Policy Development (ICMPD)">International Centre for Migration Policy Development (ICMPD)</a>. Adherest to: <a href="/s/or/en/1122274925" title="Global Partnership for Effective Development Co-operation (GPEDC)">Global Partnership for Effective Development Co-operation (GPEDC)</a>. Special relations with the following multilateral financing institutions:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100032429" title="African Development Bank (ADB)">African Development Bank (ADB)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100033535" title="African Development Bank Group (ADB Group)">African Development Bank Group (ADB Group)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100008889" title="Commonwealth Secretariat">Commonwealth Secretariat</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100037079" title="East African Development Bank (EADB)">East African Development Bank (EADB)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100034299" title="International Bank for Reconstruction and Development (IBRD)">International Bank for Reconstruction and Development (IBRD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100066230" title="International Development Research Centre (IDRC)">International Development Research Centre (IDRC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100041215" title="International Finance Corporation (IFC)">International Finance Corporation (IFC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100017213" title="International Fund for Agricultural Development (IFAD)">International Fund for Agricultural Development (IFAD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100034794" title="International Trade Centre (ITC)">International Trade Centre (ITC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1122277347" title="Investment Climate Facility for Africa (ICF)">Investment Climate Facility for Africa (ICF)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100058717" title="United Nations Conference on Trade and Development (UNCTAD)">United Nations Conference on Trade and Development (UNCTAD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100015730" title="United Nations Development Programme (UNDP)">United Nations Development Programme (UNDP)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100026027" title="United Nations Economic Commission for Africa (ECA)">United Nations Economic Commission for Africa (ECA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100007079" title="The World Bank Group">The World Bank Group</a>.<p> Cordial relations with:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100037595" title="Economic Community of the Great Lakes Countries (CEPGL)">Economic Community of the Great Lakes Countries (CEPGL)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100059095" title="East African Community (EAC)">East African Community (EAC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100022003" title="Eastern and Southern African Management Institute (ESAMI)">Eastern and Southern African Management Institute (ESAMI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100029396" title="Economic Community of West African States (ECOWAS)">Economic Community of West African States (ECOWAS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100028838" title="Indian Ocean Commission (IOC)">Indian Ocean Commission (IOC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100014003" title="Inter-Governmental Standing Committee on Shipping (ISCOS)">Inter-Governmental Standing Committee on Shipping (ISCOS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100062908" title="Organization for the Management and Development of the Kagera River Basin (KBO)">Organization for the Management and Development of the Kagera River Basin (KBO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100047693" title="Port Management Association of Eastern and Southern Africa (PMAESA)">Port Management Association of Eastern and Southern Africa (PMAESA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100061374" title="Southern African Transport and Communications Commission (SATCC)">Southern African Transport and Communications Commission (SATCC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100051414" title="Tanzania-Zambia Railway Authority (TAZARA)">Tanzania-Zambia Railway Authority (TAZARA)</a>.<p> Cooperation with:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100049901" title="African Foundation for Research and Development (AFRAND)">African Foundation for Research and Development (AFRAND)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100023561" title="African Regional Intellectual Property Organization (ARIPO)">African Regional Intellectual Property Organization (ARIPO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100042334" title="Canadian International Development Agency (CIDA)">Canadian International Development Agency (CIDA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100060225" title="Department for International Development Cooperation">Department for International Development Cooperation</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100010463" title="International Monetary Fund (IMF)">International Monetary Fund (IMF)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100064877" title="Norwegian Agency for Development Cooperation (Norad)">Norwegian Agency for Development Cooperation (Norad)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100061207" title="Southern African Development Community (SADC)">Southern African Development Community (SADC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100033397" title="United States Agency for International Development (USAID)">United States Agency for International Development (USAID)</a>.<p> Links with: <a href="/s/or/en/1100058842" title="Commonwealth Fund for Technical Cooperation (CFTC)">Commonwealth Fund for Technical Cooperation (CFTC)</a>; <a href="/s/or/en/1100036231" title="International Red Locust Control Organization for Central and Southern Africa (IRLCO-CSA)">International Red Locust Control Organization for Central and Southern Africa (IRLCO-CSA)</a>; <a href="/s/or/en/1100002379" title="Maritime Organization of West and Central Africa (MOWCA)">Maritime Organization of West and Central Africa (MOWCA)</a>; <a href="/s/or/en/1100018131" title="United Nations Commission on International Trade Law (UNCITRAL)">United Nations Commission on International Trade Law (UNCITRAL)</a>. Links indicated by:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100052147" title="African Minerals and Geosciences Centre (AMGC)">African Minerals and Geosciences Centre (AMGC)</a>; <a href="/s/or/en/1100049451" title="African Organisation for Standardisation (ARSO)">African Organisation for Standardisation (ARSO)</a>; <a href="/s/or/en/1100061256" title="African Telecommunications Union (ATU)">African Telecommunications Union (ATU)</a>; <a href="/s/or/en/1100061310" title="Collaborative Intergovernmental Scientific Research Institute (CISRI)">Collaborative Intergovernmental Scientific Research Institute (CISRI)</a>; <a href="/s/or/en/1100004971" title="Eastern and Southern African Anti-Money Laundering Group (ESAAMLG)">Eastern and Southern African Anti-Money Laundering Group (ESAAMLG)</a>; <a href="/s/or/en/1100003093" title="ECA Sub-Regional Office for Eastern Africa (SRO-EA Kigali)">ECA Sub-Regional Office for Eastern Africa (SRO-EA Kigali)</a>; <a href="/s/or/en/1100046831" title="African Solidarity Fund (FSA)">African Solidarity Fund (FSA)</a>; <a href="/s/or/en/1100044589" title="Interafrican Bureau for Animal Resources (AU-IBAR)">Interafrican Bureau for Animal Resources (AU-IBAR)</a>; <a href="/s/or/en/1100061854" title="Northern Corridor Transit and Transport Coordination Authority (NCTTCA)">Northern Corridor Transit and Transport Coordination Authority (NCTTCA)</a>; <a href="/s/or/en/1100014034" title="Regional African Satellite Communications Organization (RASCOM)">Regional African Satellite Communications Organization (RASCOM)</a>; <a href="/s/or/en/1100022073" title="United Nations African Institute for Economic Development and Planning (IDEP)">United Nations African Institute for Economic Development and Planning (IDEP)</a>; <a href="/s/or/en/1100024494" title="United Nations University (UNU)">United Nations University (UNU)</a>; <a href="/s/or/en/1100013409" title="World Customs Organization (WCO)">World Customs Organization (WCO)</a>.</p>
+
+<h2 style="margin-top:20px;">Relations with Non-Governmental Organizations</h2>
+<p>Cooperates with: <a href="/s/or/en/1100032927" title="African Centre for Resources and Environment (ACRE)">African Centre for Resources and Environment (ACRE)</a>; <a href="/s/or/en/1100065698" title="African Technology Policy Studies Network (ATPS)">African Technology Policy Studies Network (ATPS)</a>; <a href="/s/or/en/1100007067" title="Eastern and Southern African Business Organization (ESABO)">Eastern and Southern African Business Organization (ESABO)</a>; <a href="/s/or/en/1100054136" title="International Chamber of Commerce (ICC)">International Chamber of Commerce (ICC)</a>; <a href="/s/or/en/1100054852" title="International Fertilizer Development Center (IFDC)">International Fertilizer Development Center (IFDC)</a>; <a href="/s/or/en/1100016457" title="International Institute of Tropical Agriculture (IITA)">International Institute of Tropical Agriculture (IITA)</a>. Formal relations with: <a href="/s/or/en/1100061652" title="Association of Power Utilities in Africa (APUA)">Association of Power Utilities in Africa (APUA)</a>. Links with various other organizations, including the following listed in this Yearbook: <a href="/s/or/en/1100022185" title="African Airlines Association (AFRAA)">African Airlines Association (AFRAA)</a>; <a href="/s/or/en/1100041584" title="Ford Foundation">Ford Foundation</a>; <a href="/s/or/en/1100003277" title="Institute of Law and International Relations, Warsaw">Institute of Law and International Relations, Warsaw</a>; <a href="/s/or/en/1100001400" title="Organisation of African Trade Union Unity (OATUU)">Organisation of African Trade Union Unity (OATUU)</a>. Links indicated by: <a href="/s/or/en/1100030659" title="Centre for Documentation, Research and Training on the Islands of the South West Indian Ocean (CEDREFI)">Centre for Documentation, Research and Training on the Islands of the South West Indian Ocean (CEDREFI)</a>; <a href="/s/or/en/1100056062" title="Eastern and Southern African Dairy Association (ESADA)">Eastern and Southern African Dairy Association (ESADA)</a>; <a href="/s/or/en/1100040417" title="Electoral Institute for Sustainable Democracy in Africa (EISA)">Electoral Institute for Sustainable Democracy in Africa (EISA)</a>; <a href="/s/or/en/1100064090" title="International Centre of Insect Physiology and Ecology (ICIPE)">International Centre of Insect Physiology and Ecology (ICIPE)</a>; <a href="/s/or/en/1100014964" title="International Law Institute - African Centre for Legal Excellence (ILI - ACLE)">International Law Institute - African Centre for Legal Excellence (ILI - ACLE)</a>; <a href="/s/or/en/1100025722" title="Mwelekeo wa NGO (MWENGO)">Mwelekeo wa NGO (MWENGO)</a>.</p>
+
+<h2 style="margin-top:20px;">Publications</h2>
+<p><i>e-COMESA</i> - online (weekly); <i>COMESA News</i> (4 a year). Annual Report. Pre- and Post Summit publications. Briefs; reports; various publications.</p>
+
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Members</h2><div>Governments of 19 countries:<p>&nbsp;&bull; <u>Africa</u>: <a href="/ybio?memb_en_fm=Burundi" title="Burundi (click to perform a search)">Burundi</a>, <a href="/ybio?memb_en_fm=Comoros" title="Comoros (click to perform a search)">Comoros</a>, <a href="/ybio?memb_en_fm=Congo DR" title="Congo DR (click to perform a search)">Congo DR</a>, <a href="/ybio?memb_en_fm=Djibouti" title="Djibouti (click to perform a search)">Djibouti</a>, <a href="/ybio?memb_en_fm=Egypt" title="Egypt (click to perform a search)">Egypt</a>, <a href="/ybio?memb_en_fm=Eritrea" title="Eritrea (click to perform a search)">Eritrea</a>, <a href="/ybio?memb_en_fm=Eswatini" title="Eswatini (click to perform a search)">Eswatini</a>, <a href="/ybio?memb_en_fm=Ethiopia" title="Ethiopia (click to perform a search)">Ethiopia</a>, <a href="/ybio?memb_en_fm=Kenya" title="Kenya (click to perform a search)">Kenya</a>, <a href="/ybio?memb_en_fm=Libyan AJ" title="Libyan AJ (click to perform a search)">Libyan AJ</a>, <a href="/ybio?memb_en_fm=Madagascar" title="Madagascar (click to perform a search)">Madagascar</a>, <a href="/ybio?memb_en_fm=Malawi" title="Malawi (click to perform a search)">Malawi</a>, <a href="/ybio?memb_en_fm=Mauritius" title="Mauritius (click to perform a search)">Mauritius</a>, <a href="/ybio?memb_en_fm=Rwanda" title="Rwanda (click to perform a search)">Rwanda</a>, <a href="/ybio?memb_en_fm=Seychelles" title="Seychelles (click to perform a search)">Seychelles</a>, <a href="/ybio?memb_en_fm=Sudan" title="Sudan (click to perform a search)">Sudan</a>, <a href="/ybio?memb_en_fm=Uganda" title="Uganda (click to perform a search)">Uganda</a>, <a href="/ybio?memb_en_fm=Zambia" title="Zambia (click to perform a search)">Zambia</a>, <a href="/ybio?memb_en_fm=Zimbabwe" title="Zimbabwe (click to perform a search)">Zimbabwe</a>.</div><p>Members in 19 countries<br /></p>
+ <h2 style="margin-top:20px;">Type I Classification</h2>
+<p>F: Organizations having a special form, including foundations and funds</p>
+ <h2 style="margin-top:20px;">Type II Classification</h2>
+<div>g: Intergovernmental<br /></div>
+
+
+ <h2 style="margin-top:20px;clear:left;">Subjects <sup>*</sup></h2><ul><li><a href="/ybio?wcodes=Government" title="Government:  (click to perform a search)">Government</a></li><ul><li><a href="/ybio?wcodes=Intergovernmental Communities" title="Intergovernmental Communities:  (click to perform a search)">Intergovernmental Communities</a></li></ul></ul> 
+ 
+ 	<h2 style="margin-top:20px;">UN Sustainable Development Goals <sup>**</sup></h2><p></p> 
+<h2 style="margin-top:20px;">UIA Org ID</h2>
+<p>F3162</p>
+<!--  -->
+
+<h2 style="margin-top:20px;">Last News Received</h2><div> 28. Jun 2011</div><div style="color:#999;margin-top:20px;"><sup>*</sup> Subject classification is derived from the organization names and aims.  <br />
+  <sup>**</sup> UN SDGs are linked to the subject classification.<br /><br />
+
+
+
+
+<div style="clear:both;color:#999;margin-top:30px;line-height:140%;"><div style="float:right;width:250px;text-align:right;margin-left:30px;"><a class="btn btw-med" href="https://www.uia.org/node/add/new-org-submission" target="_blank"><i class="icon-th-list"></i> Add A New Organization</a></div>You are viewing an organization profile from the <span style="color:#333;"><a href="/ybio/">Yearbook of International Organizations Online</a></span>. <br /><a href="javascript: history.go(-1)">&larr; return to your search page</a> to see additional profiles.</div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+                
+    
+<div style="clear:both;height:10px;"> </div>
+
+
+
+
+<div style="clear:both;">
+    <footer id="footer" class="region region-footer">
+    <!-- .block -->
+<div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div id="copy-footer">
+<div id="logout" style="width:100px;float:right;"><form action="/LOGOUT" method="post">
+    <input type="submit" value="Logout" /></form></div>
+© 2020 <a href="https://www.uia.org" style="color:#bfccd9;">Union of International Associations</a> &amp; <a href="https://www.brill.com" style="color:#bfccd9;">Koninklijke Brill NV</a>.<br /> 
+For more information please visit <a href="http://www.brill.com/ybio" style="color:#bfccd9;">brill.com</a> | <a href="http://www.brill.com/standard-conditions-sale" style="color:#bfccd9;">Terms and Conditions</a> | <a href="http://www.brill.com/about/policies/privacy-statement" style="color:#bfccd9;">Privacy Statement</a> | <a href="http://www.brill.com/about/policies/rights-permissions" style="color:#bfccd9;">Copyright &amp; Permissions</a></div>
+</div><!-- /.block -->
+  </footer>
+</div>  
+
+</div><!-- /#container -->
+
+</div><!-- /#page -->
+
+<div id="devel">
+</div>  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.filter.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.js?q4261c"></script>
+<script>jQuery(document).ready(function () 
+{   
+	
+	
+	
+	var x = document.getElementsByTagName("META");
+	    var txt = "";
+	    var i;
+	    for (i = 0; i < x.length; i++) {
+	        if (x[i].name=="ST.PlatformAPIKey")
+	        {
+	          var platformKey = x[i].content;
+	         }
+ 	        if (x[i].name=="ST.customerId")
+ 	        {
+ 	          var customerKey = x[i].content;
+ 	         }
+	    }
+	
+	var substatus = "valid";
+	if(customerKey == "") 
+	{
+		substatus = "not subscribed";
+	}
+	
+
+
+	var refer = document.referrer;
+	 var refcheck = refer.indexOf("name");
+	 
+
+ 	if(refcheck > 10) {
+ 	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RESULT_CLICK'}]);
+ 	}
+	 
+	 if(substatus == "valid") {
+	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RECORD_VIEW'}]);
+	}
+
+
+});</script>
+  
+  <script type="text/javascript">
+    (function () {
+      var stars = document.createElement('script');
+      stars.type = 'text/javascript';
+      stars.async = true;
+      stars.src = 'https://receiver.star.saas.semcs.net/star.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(stars, s);
+  })();
+  </script>
+  
+</body>
+
+</html>

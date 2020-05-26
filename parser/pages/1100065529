@@ -1,0 +1,523 @@
+ 
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://brill.uia.org/sites/all/themes/Brill2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Profile of Association for Computing Machinery from the Yearbook of International Organizations, a service of the UIA." />
+  <title>Association for Computing Machinery | Yearbook Profile | Union of International Associations</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+    ga('create', 'UA-27369964-11', 'auto');
+    ga('send', 'pageview');
+ 
+  </script>
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRC33X"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KRC33X');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- Set the PlatformAPI key (COUNTER4) -->
+  <meta name="ST.PlatformAPIKey" content="bc8208710447dc2a" />
+
+  <!-- Set the customerID value (as provided by SAMS / SGK)  (COUNTER4) -->
+  <meta name="ST.customerId" content="14968" />
+
+  <style>
+@import url("https://brill.uia.org/modules/system/system.base.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.messages.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.theme.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/misc/ui/jquery.ui.core.css?q4261c");
+@import url("https://brill.uia.org/misc/ui/jquery.ui.theme.css?q4261c");
+</style>
+<style media="screen">
+@import url("https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/modules/book/book.css?q4261c");
+@import url("https://brill.uia.org/modules/comment/comment.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_api/date.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/fences/field.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/logintoboggan/logintoboggan.css?q4261c");
+@import url("https://brill.uia.org/modules/node/node.css?q4261c");
+@import url("https://brill.uia.org/modules/search/search.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/simpleads/simpleads.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_order/uc_order.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_product/uc_product.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/uc_product_minmax/uc_product_minmax.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_store/uc_store.css?q4261c");
+@import url("https://brill.uia.org/modules/user/user.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/views/css/views.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ctools/css/ctools.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.filter.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/panels/css/panels.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu-skins.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/normalize.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/wireframes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/tabs.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/pages.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/blocks.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/navigation.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/views-styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nodes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/comments.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/forms.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/fields.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/print.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nice_menus.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/common.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/font-awesome.min.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/buttons.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/uia2013.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/layout.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rdstyle.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/static_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/qtip.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/jquery.ui.autocomplete.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rbstyle.css?q4261c");
+</style>
+  <script src="https://brill.uia.org/misc/jquery.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://brill.uia.org/misc/drupal.js?q4261c"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/js/qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/admin_menu/admin_devel/admin_devel.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/simpleads.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/modules/simpleads_campaigns/simpleads_campaigns.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_load.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_inline.js?q4261c"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://brill.uia.org/sites/all/modules/megamenu/megamenu.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/google_analytics/googleanalytics.js?q4261c"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-506851-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#moremeet" ).click(function() {
+	  		  jQuery( "#morecal" ).show( "slow" );
+			  jQuery( "#moremeet" ).hide( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#lessmeet" ).click(function() {
+	  		  jQuery( "#morecal" ).hide( "slow" );
+			  jQuery( "#moremeet" ).show( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script src="https://use.typekit.com/yse7wxb.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script src="https://brill.uia.org/sites/all/themes/Brill2014/js/bootstrap.min.js?q4261c"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"Brill2014","theme_token":"_1lKF21cQ-fupejFmOrwRbGtHYNFDFux8cH2FBjlcVU","js":{"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.js":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.filter.js":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/simpleads\/modules\/simpleads_campaigns\/simpleads_campaigns.js":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/megamenu\/megamenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"3":1,"https:\/\/use.typekit.com\/yse7wxb.js":1,"4":1,"sites\/all\/themes\/Brill2014\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/simpleads\/simpleads.css":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/uc_product_minmax\/uc_product_minmax.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.filter.css":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/megamenu\/megamenu.css":1,"sites\/all\/modules\/megamenu\/megamenu-skins.css":1,"sites\/all\/themes\/Brill2014\/system.menus.css":1,"sites\/all\/themes\/Brill2014\/css\/normalize.css":1,"sites\/all\/themes\/Brill2014\/css\/wireframes.css":1,"sites\/all\/themes\/Brill2014\/css\/page-backgrounds.css":1,"sites\/all\/themes\/Brill2014\/css\/tabs.css":1,"sites\/all\/themes\/Brill2014\/css\/pages.css":1,"sites\/all\/themes\/Brill2014\/css\/blocks.css":1,"sites\/all\/themes\/Brill2014\/css\/navigation.css":1,"sites\/all\/themes\/Brill2014\/css\/views-styles.css":1,"sites\/all\/themes\/Brill2014\/css\/nodes.css":1,"sites\/all\/themes\/Brill2014\/css\/comments.css":1,"sites\/all\/themes\/Brill2014\/css\/forms.css":1,"sites\/all\/themes\/Brill2014\/css\/fields.css":1,"sites\/all\/themes\/Brill2014\/css\/print.css":1,"sites\/all\/themes\/Brill2014\/css\/nice_menus.css":1,"sites\/all\/themes\/Brill2014\/css\/common.css":1,"sites\/all\/themes\/Brill2014\/css\/font-awesome.min.css":1,"sites\/all\/themes\/Brill2014\/css\/buttons.css":1,"sites\/all\/themes\/Brill2014\/css\/uia2013.css":1,"sites\/all\/themes\/Brill2014\/css\/layout.css":1,"sites\/all\/themes\/Brill2014\/css\/styles.css":1,"sites\/all\/themes\/Brill2014\/css\/rdstyle.css":1,"sites\/all\/themes\/Brill2014\/css\/static_style.css":1,"sites\/all\/themes\/Brill2014\/css\/calendar.css":1,"sites\/all\/themes\/Brill2014\/css\/pubspages.css":1,"sites\/all\/themes\/Brill2014\/css\/qtip.css":1,"sites\/all\/themes\/Brill2014\/css\/jquery.ui.autocomplete.css":1,"sites\/all\/themes\/Brill2014\/css\/rbstyle.css":1,"sites\/brill.uia.org\/files\/fontyourface\/wysiwyg.css":1,"public:\/\/fontyourface\/local_fonts\/FontAwesome-normal-normal\/stylesheet.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jquery_ui_multiselect_widget":{"module_path":"sites\/all\/modules\/jquery_ui_multiselect_widget","multiple":1,"filter":1,"subselector":"","selectedlist":"4","autoOpen":0,"header":1,"height":"300","classes":"","filter_auto_reset":0,"filter_width":"100","jquery_ui_multiselect_widget_path_match_exclude":""},"qtip":{"target_position":"right_center","tooltip_position":"left_center","show_speech_bubble_tip":1,"show_speech_bubble_tip_side":0,"speech_bubble_size":"12","show_speech_bubble_tip_solid":1,"show_shadow":0,"rounded_corners":1,"color":"ui-tooltip-blue","custom_color":"","show_event_type":"mouseenter","hide_event_type":"mouseleave","show_webform_descriptions":0,"additional_elements":""},"megamenu":{"timeout":"500","sizewait":"250","hoverwait":"400"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-s page-s-or page-s-or-en page-s-or-en- page-s-or-en-1100065529 section-s" >
+	<script>
+	   var _$tarQ = _$tarQ || []; // Access the STAR JavaScript API's global queue
+	</script>
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+  
+  
+  
+
+
+
+
+
+
+<div id="page" style="clear:both;margin-top: 10px;">
+
+
+
+
+<div id="container">
+
+
+
+<div id="nav-1">
+    <div class="region region-navigation">
+    <!-- .block -->
+<div id="block-megamenu-main-menu" class="block block-megamenu first last odd">
+
+      
+  <ul id="megamenu-main-menu" class="megamenu-menu columnar megamenu-skin-minimal"><li id="megamenu-mlid-221" class="megamenu-parent megamenu-parent-0 odd half-1 leaf-0 first menu-221  first"><h2 class="megamenu-parent-title"><a href="/">Home</a></h2></li>
+<li id="megamenu-mlid-511" class="megamenu-parent megamenu-parent-1 even half-1 leaf-1 menu-511 "><h2 class="megamenu-parent-title"><a href="/about-ybio">About The Yearbook</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11476" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><a href="/ybguide/contribute" title="">How to Contribute Information</a></h3></li>
+<li id="megamenu-mlid-11477" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last  last"><h3 class="megamenu-slot-title"><a href="/ybguide/more-data" title="">Need Different Data?</a></h3></li>
+</ul></li>
+<li id="megamenu-mlid-11322" class="megamenu-parent megamenu-parent-2 odd half-1 leaf-2 menu-11322 "><h2 class="megamenu-parent-title"><a href="/ybguide">User Guide</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11324" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><span title="" class="nolink">Organizations</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11330" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/organizations">The Interface</a></li>
+<li id="megamenu-mlid-11331" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/contents">Contents of Profiles</a></li>
+<li id="megamenu-mlid-11332" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/abbrev">Abbreviations Used</a></li>
+<li id="megamenu-mlid-11334" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/inclusion">Criteria for Inclusion</a></li>
+<li id="megamenu-mlid-11335" class="megamenu-item megamenu-item-4 odd half-1 leaf-4 "><a href="/ybguide/editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11336" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/sources">Information Sources</a></li>
+<li id="megamenu-mlid-11337" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 "><a href="/ybguide/type1">Type 1 Codes</a></li>
+<li id="megamenu-mlid-11338" class="megamenu-item megamenu-item-7 even half-2 leaf-7 "><a href="/ybguide/type2">Type 2 Codes</a></li>
+<li id="megamenu-mlid-11361" class="megamenu-item megamenu-item-8 odd half-2 leaf-8 "><a href="/ybguide/type3">Type 3 Codes</a></li>
+<li id="megamenu-mlid-11339" class="megamenu-item megamenu-item-9 even half-2 leaf-9 last  last"><a href="/ybguide/continuity">Continuity Between Editions</a></li>
+</ul></li>
+<li id="megamenu-mlid-11325" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Geography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11340" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/geography">The Interface</a></li>
+<li id="megamenu-mlid-11333" class="megamenu-item megamenu-item-1 even half-2 leaf-1 last  last"><a href="/ybguide/geo-names">Geographical Names</a></li>
+</ul></li>
+<li id="megamenu-mlid-11326" class="megamenu-slot megamenu-slot-2 odd half-1 leaf-2 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Subjects</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11341" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/subjects">The Interface</a></li>
+<li id="megamenu-mlid-11342" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/subjects-intro">Introduction</a></li>
+<li id="megamenu-mlid-11359" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/subject-matrix">Subject Matrix</a></li>
+<li id="megamenu-mlid-11360" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/subject-categories">Subject Categories</a></li>
+</ul></li>
+<li id="megamenu-mlid-11327" class="megamenu-slot megamenu-slot-3 even half-2 leaf-3 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Bibliography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11343" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/bibliography">The Interface</a></li>
+<li id="megamenu-mlid-11344" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/biblio-comments">Comments</a></li>
+<li id="megamenu-mlid-11345" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/biblio-contents">Contents of Entries</a></li>
+<li id="megamenu-mlid-11346" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/biblio-method">Research Methodology</a></li>
+<li id="megamenu-mlid-11347" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/biblio-errors">Errors and Corrections</a></li>
+<li id="megamenu-mlid-11348" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/biblio-selection">Research Topics on INGOs</a></li>
+<li id="megamenu-mlid-11349" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 last  last"><a href="/ybguide/biblio-table">Number of Publications by Type</a></li>
+</ul></li>
+<li id="megamenu-mlid-11328" class="megamenu-slot megamenu-slot-4 odd half-2 leaf-4 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Statistics</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11350" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/statistics" title="">The Interface</a></li>
+<li id="megamenu-mlid-11351" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/stats-intro">Introduction</a></li>
+<li id="megamenu-mlid-11352" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/stats-features">Features</a></li>
+<li id="megamenu-mlid-11353" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/stats-method">Methodological Issues</a></li>
+</ul></li>
+<li id="megamenu-mlid-11329" class="megamenu-slot megamenu-slot-5 even half-2 leaf-5 last  last"><h3 class="megamenu-slot-title"><span title="" class="nolink"> Whoâ€™s Who</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11354" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/whoswho" title="">The Interface</a></li>
+<li id="megamenu-mlid-11355" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/bio-intro">Introduction</a></li>
+<li id="megamenu-mlid-11357" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/bio-sources">Information Sources</a></li>
+<li id="megamenu-mlid-11358" class="megamenu-item megamenu-item-3 even half-2 leaf-3 "><a href="/ybguide/bio-editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11356" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/bio-contents">Biographical Information</a></li>
+<li id="megamenu-mlid-11366" class="megamenu-item megamenu-item-5 even half-2 leaf-5 last  last"><a href="/ybguide/bio-stats" title="">Statistical Tables</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-11323" class="megamenu-parent megamenu-parent-3 even half-2 leaf-3 menu-11323 "><h2 class="megamenu-parent-title"><a href="/ybguide/history">Publication History</a></h2></li>
+<li id="megamenu-mlid-510" class="megamenu-parent megamenu-parent-4 odd half-2 leaf-4 menu-510 "><h2 class="megamenu-parent-title"><a href="/ybguide/editors">About UIA (The Editors)</a></h2></li>
+<li id="megamenu-mlid-499" class="megamenu-parent megamenu-parent-5 even half-2 leaf-5 last menu-499  last"><h2 class="megamenu-parent-title"><a href="/" title="">Login</a></h2></li>
+</ul>
+</div><!-- /.block -->
+  </div>
+ 
+
+</div>
+
+
+<div id="utility-bar">
+
+<nav id="secondary-menu" role="navigation">
+
+</nav>	
+</div>
+ 
+	  <header id="header" role="banner" style="margin-top:1px !important;">
+    <!--      <a href="/" title="Home" rel="home" id="logo"><img src="https://brill.uia.org/sites/all/themes/Brill2014/logo.png" alt="Home" /></a>-->
+        
+    <div id="logoleft"><a href="/" title="Brill"  class="uialogo">BRILL</a></div>
+
+         <hgroup id="name-and-slogan">
+        
+
+		<h1 id="site-name"> 
+      <a href="/ybio/" title="Home" rel="home" id="homelink">YEARBOOK OF INTERNATIONAL ORGANIZATIONS</a></h1>
+	        <div id="ybio-vols"><a href="https://ybio.brillonline.com/ybio/">Organizations</a> | <a href="https://ybio.brillonline.com/ybio/v2/">Geography</a> | <a href="https://ybio.brillonline.com/ybio/v3/">Subjects</a> | <a href="https://ybio.brillonline.com/ybio/v4">Bibliography</a> | <a href="https://ybio.brillonline.com/ybio/v5">Statistics</a> | <a href="https://ybio.brillonline.com/s/sdg/en">UN SDGs</a></div>  
+	
+
+
+
+
+
+        <div id="uiashort"><a href="/"><span>Yearbook of International Organizations</span></a></div>
+
+      
+          </hgroup><!-- /#name-and-slogan -->
+  
+  
+		<div id="uia_logo_brill">
+				<a href="https://uia.org" title="Union of International Associations"><img src="/sites/all/themes/Brill2014/images/design/uia_logo_brill.png" alt="Brill Logo"/></a>
+		</div>
+
+
+</header>
+
+  
+
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+		
+		
+		<div style="width:300px;float:right;font-size:11px;color:#999;text-align:right;padding-top:10px;">You are logged in as <em><script type="text/javascript">
+			var userid = "Alacrity Foundation";
+	        document.write(userid)
+	      </script></em></div>    
+    	
+    
+      
+ 	                      
+      
+      <a id="main-content"></a>
+                              
+      	
+      	
+      
+
+	 
+
+
+
+     
+
+
+<div style="float:right;width:150px;">
+	
+	
+</div>	
+
+
+
+        <h1 id="page-title" class="title">
+Association for Computing Machinery
+
+
+
+
+
+
+
+        	
+        (ACM)</h1>
+
+
+<p style="font-style:italic;color:#666;margin-top:-20px;"></p>
+         
+         <div style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;">
+          	
+         <iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;key=AIzaSyDSecKDTYLGmGVJj3bjqciTn48sZkHCEps&amp;hl=en&amp;geocode=&amp;q=New York NY,+USA&amp;z=9&amp;iwloc=A&amp;output=embed"></iframe>
+<h2>Contact Details</h2>
+
+
+
+		
+
+	
+	<p>Main address: Headquarters: <br />2 Penn Plaza, Ste 701 10121-0121, <a href="/ybio?addcity_1_en=New York NY" title="New York NY (click to perform a search)">New York NY</a>, <a href="/ybio?addpays_1_en=USA" title="USA (click to perform a search)">USA</a><br />Tel: (1 212) 869 7440<br />Fax: (1 212) 944 1318<br />Email: <a title='Click to send an e-mail to this address (from your default e-mail client)' href="/cdn-cgi/l/email-protection#ffd9dcc6c8d9dcc6c6d9dccecfc6d9dccecfcbd9dccecfced9dccecfc7d9dccececdd9dcc9cbd9dcc6c8d9dcc6c6d9dccecfc6d9dccbc9d9dccececed9dccececbd9dccecfcc" target=_blank>acmhelp (at) acm.org</a><br /></p><p>URL: <br /><a title="Click to access page >http://www.acm.org/<" href="https://www.acm.org/" target="_blank">http://www.acm.org/</a><br /></p>		
+		
+<div style="clear:both;"><p> </p><p></p></div><p> </p>
+</div>
+         
+<h2 style="margin-top:30px;">History</h2>
+<p>1947, New York NY (USA), as <i>Eastern Association for Computing Machinery</i>, an international scientific and educational organization. 1948, present name adopted. 1949, constitution approved.</p>
+<h2 style="margin-top:20px;">Aims</h2>
+<p>Deliver resources that advance computing as a science and a profession; provide the computing field's premier Digital Library; serve members and the computing profession with leading-edge publications, conferences and career resources.</p>
+
+
+
+	<div></div>
+
+		<h2 style="margin-top:20px;">Events</h2><p>2020 Winnipeg MB, Canada – <em>Augmented Human International Conference</em> <br />2019 Istanbul, Turkey – <em>International Conference on Advances in Artificial Intelligence</em> <br />2019 Taipei, Taiwan – <em>International Conference on Human-Computer Interaction with Mobile Devices and Services</em> <br />2019 Phuket, Thailand – <em>Asian Internet Engineering Conference</em> <br />2019 Paris, France – <em>Annual Conference</em> <br />2019 Paris, France – <em>International Conference on Intelligent Virtual Agents</em> <br />2019 Montréal QC, Canada – <em>International Conference on Program Comprehension</em> <br />2019 Montréal QC, Canada – <em>International Conference on Global Software Engineering</em> <br />2019 Montréal QC, Canada – <em>International Conference on Software Engineering</em> <br />2019 Glasgow, UK – <em>Annual Conference on Human Factors in Computing Systems</em> <br />2019 Los Angeles CA, USA – <em>IUI : International Conference on Intelligent User Interfaces</em> <br />2019 Reims, France – <em>Augmented Human International Conference</em> <br />2019 Washington DC, USA – <em>Annual International Symposium on Code Generation and Optimization</em> <br />2018 Tokyo, Japan – <em>SIGGRAPH Asia: Annual Asia Conference on Computer Graphics and Interactive Techniques</em> <br />2018 Tokyo, Japan – <em>Symposium on Virtual Reality Software and Technology</em> <br /></p><p><a class="btn btn-small" id="moremeet"><i class="icon-th-list"></i> View More Events (562)</i></a></p><p><div id="morecal" style="display:none;margin-top:0;"><p style="margin-top:-5px;">2018 Tokyo, Japan – <em>International Conference on Interactive Surfaces and Spaces</em> <br />2018 Bangkok, Thailand – <em>Asian Internet Engineering Conference</em> <br />2018 Sydney, Australia – <em>International Conference on Intelligent Virtual Agents</em> <br />2018 Seoul, Korea Rep – <em>International Conference on Multimedia</em> <br />2018 Nice, France – <em>International Conference on Multimedia</em> <br />2018 Toronto ON, Canada – <em>Conference on Computer and Communications Security</em> <br />2018 Copenhagen, Denmark – <em>International Conference on Model Driven Engineering Languages and Systems</em> <br />2018 Berlin, Germany – <em>Annual Symposium on User Interface Software and Technology</em> <br />2018 Singapore, Singapore – <em>International Joint Conference on Pervasive and Ubiquitous Computing</em> <br />2018 Barcelona, Spain – <em>International Conference on Advances in Artificial Intelligence</em> <br />2018 Singapore, Singapore – <em>International Conference on Cyberworlds</em> <br />2018 Oslo, Norway – <em>NORDICHI : Biennial Nordic Conference on Human-Computer Interaction</em> <br />2018 Tokyo, Japan – <em>International Conference on Management of Digital Ecosystems</em> <br />2018 Toronto ON, Canada – <em>Automotive User Interfaces and Interactive Vehicular Applications Conference</em> <br />2018 Linz, Austria – <em>International Conference on Managed Languages and Runtimes</em> <br />2018 Barcelona, Spain – <em>International Conference on Human-Computer Interaction with Mobile Devices and Services</em> <br />2018 Barcelona, Spain – <em>International Conference on Advances in Social Networks Analysis and Mining</em> <br />2018 Jeju, Korea Rep – <em>Asia-Pacific Workshop on Systems</em> <br />2018 London, UK – <em>Conference</em> <br />2018 Espoo, Finland – <em>ICER : International Computing Education Research Workshop</em> <br />2018 Vancouver BC, Canada – <em>SIGGRAPH : International Conference on Computer Graphics and Interactive Techniques</em> <br />2018 London, UK – <em>Workshop on Large-Scale Distributed Systems and Middleware</em> <br />2018 London, UK – <em>Annual Symposium on Principles of Distributed Computing</em> <br />2018 Amsterdam, Netherlands – <em>International Symposium on Software Testing and Analysis</em> <br />2018 Kyoto, Japan – <em>Genetic and Evolutionary Computation Conference</em> <br />2018 Vienna, Austria – <em>Symposium on Parallelism in Algorithms and Architectures</em> <br />2018 Singapore, Singapore – <em>International Conference on User Modeling, Adaptation, and Personalization</em> <br />2018 Seoul, Korea Rep – <em>International Conference on Interactive Experiences for Television and Online Video</em> <br />2018 Paris, France – <em>Symposium on Engineering Interactive Computing Systems</em> <br />2018 Trondheim, Norway – <em>International Conference on Interaction Design and Children</em> <br />2018 Stockholm, Sweden – <em>Conference on Security and Privacy in Wireless and Mobile Networks</em> <br />2018 Yokohama, Japan – <em>International Conference on Multimedia Retrieval</em> <br />2018 Incheon, Korea Rep – <em>Workshop on Blockchains, Cryptocurrencies, and Contracts</em> <br />2018 Incheon, Korea Rep – <em>Asia Conference on Computer and Communications Security</em> <br />2018 Incheon, Korea Rep – <em>Cyber/Physical System Security Workshop</em> <br />2018 Lyon, France – <em>International Conference on Digital Health</em> <br />2018 Montréal QC, Canada – <em>Conference on Human Factors in Computing Systems</em> <br />2018 Berlin, Germany – <em>International Conference on Performance Engineering</em> <br />2018 Stockholm, Sweden – <em>International Conference on Tangible, Embedded, and Embodied Interaction</em> <br />2018 Tokyo, Japan – <em>IUI : International Conference on Intelligent User Interfaces</em> <br />2018 Vienna, Austria – <em>Symposium on Principles and Practice of Parallel Programming</em> <br />2018 Vienna, Austria – <em>Annual International Symposium on Code Generation and Optimization</em> <br />2018 Seoul, Korea Rep – <em>Korea Chapter Workshop</em> <br />2018 Seoul, Korea Rep – <em>Augmented Human International Conference</em> <br />2017 Seoul, Incheon, Korea Rep – <em>International Conference on emerging Networking EXperiments and Technologies</em> <br />2017 London, UK – <em>International Conference on Advances in Computer Entertainment Technology</em> <br />2017 Bangkok, Thailand – <em>SIGGRAPH Asia: Annual Asia Conference on Computer Graphics and Interactive Techniques</em> <br />2017 Tokyo, Japan – <em>International Conference on Network and Service Management</em> <br />2017 Tokyo, Japan – <em>International Conference on Communication and Network Security</em> <br />2017 Bangkok, Thailand – <em>Asian Internet Engineering Conference</em> <br />2017 Seoul, Korea Rep – <em>Embedded Systems Week Conference</em> <br />2017 Amsterdam, Netherlands – <em>Annual Symposium on Computer-Human Interaction in Play</em> <br />2017 Berlin, Germany – <em>Conference on Information Centric Networking</em> <br />2017 Barcelona, Spain – <em>Conference</em> <br />2017 Vienna, Austria – <em>International Conference on Human-Computer Interaction with Mobile Devices and Services</em> <br />2017 Stockholm, Sweden – <em>International Conference on Intelligent Virtual Agents</em> <br />2017 Tokyo, Japan – <em>Annual Conference</em> <br />2017 Sydney, Australia – <em>International Conference on Advances in Social Networks Analysis and Mining</em> <br />2017 Los Angeles CA, USA – <em>SIGGRAPH : International Conference on Computer Graphics and Interactive Techniques</em> <br />2017 Berlin, Germany – <em>Genetic and Evolutionary Computation Conference</em> <br />2017 London, UK – <em>International Conference on Digital Health</em> <br />2017 Singapore, Singapore – <em>Conference on Creativity and Cognition</em> <br />2017 Lisbon, Portugal – <em>EICS : Symposium on Engineering Interactive Computing Systems</em> <br />2017 Montréal QC, Canada – <em>Annual Symposium on Theory of Computing</em> <br />2017 Barcelona, Spain – <em>International Conference on Distributed Event-Based Systems</em> <br />2017 Hilversum, Netherlands – <em>International Conference on Interactive Experiences for TV and Online Video</em> <br />2017 Singapore, Singapore – <em>Conference on Principles of Advanced Discrete Simulation</em> <br />2017 Denver CO, USA – <em>Annual Conference on Human Factors in Computing Systems</em> <br />2017 United Arab Emirates – <em>Symposium on Information, Computer and Communications Security</em> <br />2017 Yokohama, Japan – <em>International Conference on Tangible, Embedded, and Embodied Interaction</em> <br />2017 Mountain View CA, USA – <em>Augmented Human International Conference</em> <br />2017 Limassol, Cyprus – <em>IUI : International Conference on Intelligent User Interfaces</em> <br />2017 Oslo, Norway – <em>Conference on Human Information Interaction an Retrieval</em> <br />2017 Vienna, Austria – <em>International Conference on Human-Robot Interaction</em> <br />2017 Paris, France – <em>Programming Languages Mentoring Workshop</em> <br />2017 Paris, France – <em>Annual Symposium on Principles of Programming Languages</em> <br />2017 Copenhagen, Denmark – <em>Workshop on Foundations of Genetic Algorithms</em> <br />2016 Sendai, Japan – <em>Asian Symposium</em> <br />2016 Macau, Macau – <em>SIGGRAPH Asia: Annual Asia Conference on Computer Graphics and Interactive Techniques</em> <br />2016 Bangkok, Thailand – <em>Asian Internet Engineering Conference</em> <br />2016 Singapore, Singapore – <em>International Conference on Information Integration and Web-Based Applications and Services</em> <br />2016 Tokyo, Japan – <em>ICMI : International Conference on Multimodal Interaction</em> <br />2016 Vienna, Austria – <em>Conference on Computer and Communications Security</em> <br />2016 Tokyo, Japan – <em>Annual Symposium on User Interface Software and Technology</em> <br />2016 Amsterdam, Netherlands – <em>International Conference on Multimedia</em> <br />2016 Tokyo, Japan – <em>Symposium on Spatial User Interaction</em> <br />2016 Singapore, Singapore – <em>International Conference on Human-Agent Interaction</em> <br />2016 Florence, Italy – <em>International Conference on Human-Computer Interaction with Mobile Devices and Services</em> <br />2016 Singapore, Singapore – <em>International Conference on Automated Software Engineering</em> <br />2016 Pisa, Italy – <em>Annual Conference</em> <br />2016 Berlin, Germany – <em>International Symposium on Open Collaboration</em> <br />2016 Hong Kong, Hong Kong – <em>Asia-Pacific Workshop on Systems</em> <br />2016 Maastricht, Netherlands – <em>International Conference on Economics and Computation</em> <br />2016 Singapore, Singapore – <em>Workshop on Wearable Systems and Applications</em> <br />2016 Singapore, Singapore – <em>International Conference on Mobile Systems, Applications, and Services</em> <br />2016 Brussels, Belgium – <em>EICS : Symposium on Engineering Interactive Computing Systems</em> <br />2016 Oulu, Finland – <em>PerDis : International Symposium on Pervasive Displays</em> <br />2016 Seoul, Korea Rep – <em>Meeting on Hardware and Architectural Support for Security and Piracy</em> <br />2016 Brisbane, Australia – <em>Conference on Designing Interactive Systems</em> <br />2016 Memphis TN, USA – <em>Technical Symposium on Computing Science Education</em> <br />2016 Austin TX, USA – <em>ICSE : International Conference on Software Engineering</em> <br />2016 Klagenfurt, Austria – <em>Multimedia Systems Conference</em> <br />2016 Klagenfurt, Austria – <em>Workshop on Network and Operating Systems Support for Digital Audio and Video</em> <br />2016 San Jose CA, USA – <em>Annual Conference on Human Factors in Computing Systems</em> <br />2016 Montréal QC, Canada – <em>International Conference on Digital Health</em> <br />2016 Vienna, Austria – <em>International Conference on Hybrid Systems</em> <br />2016 Vienna, Austria – <em>International Conference on Cyber-Physical Systems</em> <br />2016 Pisa, Italy – <em>Symposium on Applied Computing</em> <br />2016 Barcelona, Spain – <em>Symposium on Principles and Practice of Parallel Programming</em> <br />2016 Delft, Netherlands – <em>International Conference on Performance Engineering</em> <br />2016 San Francisco CA, USA – <em>Conference on Computer Supported Cooperative Work</em> <br />2016 Graz, Austria – <em>International Conference on Embedded Wireless Systems and Networks</em> <br />2016 Eindhoven, Netherlands – <em>International Conference on Tangible, Embedded and Embodied Interaction</em> <br />2015 Sydney, Australia – <em>Australasian Document Computing Symposium</em> <br />2015 Bangkok, Thailand – <em>Asian Internet Engineering Conference</em> <br />2015 Charlotte NC, USA – <em>Annual Symposium on User Interface Software and Technology</em> <br />2015 Seoul, Korea Rep – <em>International Conference on Embedded Systems for Energy-Efficient Built Environments</em> <br />2015 Seoul, Korea Rep – <em>Workshop on Humanoid Soccer Robots</em> <br />2015 Kobe, Japan – <em>International Conference on Virtual Reality Continuum and its Applications in Industry</em> <br />2015 Kobe, Japan – <em>Conference on Computer Graphics and Interactive Techniques in Asia</em> <br />2015 Seoul, Korea Rep – <em>International Workshop on Mobile Medical Applications</em> <br />2015 Seoul, Korea Rep – <em>International Workshop on Internet of Things towards Applications</em> <br />2015 Seoul, Korea Rep – <em>Workshop on Context Sensing and Activity Recognition</em> <br />2015 Seoul, Korea Rep – <em>International Workshop on Machine Learning for Urban Sensor Data</em> <br />2015 Seoul, Korea Rep – <em>Conference on Embedded Networked Sensor Systems</em> <br />2015 Seoul, Korea Rep – <em>Workshop on Real World Wireless Sensor Networks</em> <br />2015 Seoul, Korea Rep – <em>International Workshop on Energy Neutral Sensing Systems</em> <br />2015 Lisbon, Portugal – <em>International Conference on Computers and Accessibility</em> <br />2015 Daegu, Korea Rep – <em>International Conference on Human-Agent Interaction</em> <br />2015 Melbourne, Australia – <em>Conference on Information and Knowledge Management</em> <br />2015 Denver CO, USA – <em>Conference on Computer and Communications Security</em> <br />2015 Vienna, Austria – <em>Conference on Recommender Systems</em> <br />2015 Paris, France – <em>Annual Conference on Mobile Computing and Networking</em> <br />2015 Paris, France – <em>International Workshop on Hot Topics in Planet-Scale Measurement</em> <br />2015 Osaka, Japan – <em>International Joint Conference on Pervasive and Ubiquitous Computing</em> <br />2015 Bergamo, Italy – <em>European Software Engineering Conference</em> <br />2015 Bergamo, Italy – <em>Symposium on the Foundations of Software Engineering</em> <br />2015 Paris, France – <em>International Conference on Advances in Social Networks Analysis and Mining</em> <br />2015 Stockholm, Sweden – <em>International Conference on Human-Computer Interaction with Mobile Devices and Services</em> <br />2015 Sydney, Australia – <em>Conference</em> <br />2015 Rome, Italy – <em>International Symposium on Low Power Electronics and Design</em> <br />2015 Madrid, Spain – <em>Genetic Evolutionary Computation Conference</em> <br />2015 Warsaw, Poland – <em>International Conference on Multimedia, Interaction, Design and Innovation</em> <br />2015 Oslo, Norway – <em>International Conference on Distributed Event-Based Systems</em> <br />2015 Glasgow, UK – <em>International Conference on Creativity and Cognition</em> <br />2015 Duisburg, Germany – <em>EICS : Symposium on Engineering Interactive Computing Systems</em> <br />2015 Delft, Netherlands – <em>Annual Symposium on Computational Geometry</em> <br />2015 Seoul, Korea Rep – <em>International Conference on Future Internet Technologies</em> <br />2015 Brussels, Belgium – <em>International Conference on Interactive Experiences for TV and Online Video</em> <br />2015 Vienna, Austria – <em>Symposium on Access Control Models and Technologies</em> <br />2015 Melbourne, Australia – <em>International Conference on Management of Data</em> <br />2015 Florence, Italy – <em>International Conference on Digital Health</em> <br />2015 Singapore, Singapore – <em>International Conference on Information and Communication Technologies and Development</em> <br />2015 Kiel, Germany – <em>International Conference on Subject-Oriented Business Process Management</em> <br />2015 Seoul, Korea Rep – <em>Annual Conference on Human Factors in Computing Systems</em> <br />2015 Singapore, Singapore – <em>Symposium on Information, Computer and Communications Security</em> <br />2015 Singapore, Singapore – <em>Cyber-Physical System Security Workshop</em> <br />2015 Atlanta GA, USA – <em>IUI : International Conference on Intelligent User Interfaces</em> <br />2015 Vancouver BC, Canada – <em>Conference on Computer Supported Cooperative Work</em> <br />2015 Singapore, Singapore – <em>Augmented Human International Conference</em> <br />2015 Portland OR, USA – <em>Annual Conference on Human-Robot Interaction</em> <br />2015 Kolkata, India – <em>International Conference on Perception and Machine Intelligence</em> <br />2015 Stanford CA, USA – <em>International Conference on Tangible, Embedded and Embodied Interaction</em> <br />2015 Mumbai, India – <em>Annual Symposium on Principles of Programming Languages</em> <br />2014 Sydney, Australia – <em>International Conference on Emerging Networking Experiments and Technologies</em> <br />2014 Hong Kong, Hong Kong – <em>Symposium on the Foundations of Software Engineering</em> <br />2014 Dresden, Germany – <em>ITS : International Conference on Interactive Tabletops and Surfaces</em> <br />2014 New Orleans LA, USA – <em>International Conference for High Performance Computing Networking Storage and Analysis</em> <br />2014 Istanbul, Turkey – <em>ICMI : International Conference on Multimodal Interaction</em> <br />2014 Funchal, Portugal – <em>International Conference on Advances in Computer Entertainment Technology</em> <br />2014 Edinburgh, UK – <em>Symposium on Virtual Reality Software and Technology</em> <br />2014 Sanibel Is FL, USA – <em>International Conference on Group Work</em> <br />2014 Tsukuba, Japan – <em>International Conference on Human-Agent Interaction</em> <br />2014 Helsinki, Finland – <em>NORDICHI : Biennial Nordic Conference on Human-Computer Interaction</em> <br />2014 Lausanne, Switzerland – <em>International Conference on Formal Methods and Models for System Design</em> <br />2014 Toronto ON, Canada – <em>Annual Symposium on Computer-Human Interaction in Play</em> <br />2014  – <em>Annual Symposium on User Interdace Software and Technology</em> <br />2014 Honolulu HI, USA – <em>Annual Symposium on User Interface Software and Technology</em> <br />2014 Honolulu HI, USA – <em>Symposium on Spatial User Interaction</em> <br />2014 Valencia, Spain – <em>International Conference on Model Driven Engineering Languages and Systems</em> <br />2014 Foster City CA, USA – <em>Conference on Recommender Systems</em> <br />2014 Toronto ON, Canada – <em>MobileHCI : International Conference on Human-Computer Interaction with Mobile Devices and Services</em> <br />2014 Seattle WA, USA – <em>Conference on Ubiquitous Computing</em> <br />2014 Santiago, Chile – <em>Conference on Hypertext and Social Media</em> <br />2014 Vienna, Austria – <em>SIMULTECH : International Conference on Simulation and Modeling Methodologies, Technologies and Applications</em> <br />2014 New York NY, USA – <em>Conference</em> <br />2014 Tokyo, Japan – <em>International Conference on Collaboration across Boundaries</em> <br />2014 Vancouver BC, Canada – <em>SIGGRAPH : International Conference on Computer Graphics and Interactive Techniques</em> <br />2014 Copenhagen, Denmark – <em>Symposium on Computer Animation</em> <br />2014 Kobe, Japan – <em>International Symposium on Symbolic and Algebraic Computation</em> <br />2014 Paris, France – <em>Annual Symposium on Principles of Distributed Computing</em> <br />2014 Menlo Park CA, USA – <em>Symposium on Usable Privacy and Security</em> <br />2014 Newcastle upon Tyne, UK – <em>International Conference on Interactive Experiences for TV and Online Video</em> <br />2014 Warsaw, Poland – <em>International Conference on Multimedia, Interaction, Design and Innovation</em> <br />2014 Vancouver BC, Canada – <em>Conference on Designing Interactive Systems</em> <br />2014 Rome, Italy – <em>EICS : Symposium on Engineering Interactive Computing Systems</em> <br />2014 Munich, Germany – <em>International Conference on Supercomputing</em> <br />2014 Albacete, Spain – <em>IDEE : International Workshop on Interaction Design of Educational Environments</em> <br />2014 Kyoto, Japan – <em>Annual Symposium on Computational Geometry</em> <br />2014 Kyoto, Japan – <em>Symposium on Information, Computer and Communications Security</em> <br />2014 Copenhagen, Denmark – <em>PerDis : International Symposium on Pervasive Displays</em> <br />2014 Como, Italy – <em>AVI : International Working conference on Advanced Visual Interfaces</em> <br />2014 Minneapolis MN, USA – <em>International Conference on Collaboration Technologies and Systems</em> <br />2014 Toronto ON, Canada – <em>Annual Conference on Human Factors in Computing Systems</em> <br />2014 Berlin, Germany – <em>International Conference on High Confidence Networked Systems</em> <br />2014 Berlin, Germany – <em>International Conference on Hybrid Systems</em> <br />2014 Amsterdam, Netherlands – <em>EuroSys - European chapter conference</em> <br />2014 Harbor FL, USA – <em>Conference on Eye Tracking Research and Applications</em> <br />2014 Gyeongju, Korea Rep – <em>Symposium on Applied Computing</em> <br />2014 Singapore, Singapore – <em>International Workshop on Massively Multiuser Virtual Environments</em> <br />2014 Singapore, Singapore – <em>Workshop on Network and Operating Systems Support for Digital Audio and Video</em> <br />2014 Singapore, Singapore – <em>Mobile Video Workshop</em> <br />2014 Singapore, Singapore – <em>Multimedia Systems Conference</em> <br />2014 Kobe, Japan – <em>Augmented Human International Conference</em> <br />2014 Bielefeld, Germany – <em>Annual Conference on Human-Robot Interaction</em> <br />2014 San Antonio TX, USA – <em>Conference on Data and Application Security and Privacy</em> <br />2014 Haifa, Israel – <em>IUI : International Conference on Intelligent User Interfaces</em> <br />2014 New York NY, USA – <em>Conference on Web Search and Data Mining</em> <br />2014 Munich, Germany – <em>TEI : International Conference on Tangible, Embedded and Embodied Interaction</em> <br />2014 Baltimore MD, USA – <em>Conference on Computer Supported Cooperative Work</em> <br />2013 Cape Town, South Africa – <em>ICTD : International Conference on Information and Communication Technologies and Development</em> <br />2013 Sydney, Australia – <em>ICMI : International Conference on Multimodal Interaction</em> <br />2013 Luleå, Sweden – <em>International Conference on Mobile and Ubiquitous Multimedia</em> <br />2013 Hong Kong, Hong Kong – <em>International Conference on Virtual Reality Continuum and its Applications in Industry</em> <br />2013 Bordeaux, France – <em>Conférence Francophone sur l'Interaction Homme-Machine</em> <br />2013 Barcelona, Spain – <em>International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems</em> <br />2013 Barcelona, Spain – <em>International Conference on Multimedia</em> <br />2013 Hong Kong, Hong Kong – <em>Conference on Recommender Systems</em> <br />2013 St Andrews, UK – <em>Annual Symposium on User Interface Software and Technology</em> <br />2013 St Andrews, UK – <em>ITS : International Conference on Interactive Tabletops and Surfaces</em> <br />2013 Singapore, Singapore – <em>Symposium on Virtual Reality Software and Technology</em> <br />2013 Montréal QC, Canada – <em>International Conference on Reliable and Convergent Systems</em> <br />2013 Gaithersburg MD, USA – <em>International Crytographic Module Conference</em> <br />2013 Bangalore, India – <em>Asia Pacific Conference on Computer Human Interaction</em> <br />2013 Lódz, Poland – <em>International Conference on Informatics and Applications</em> <br />2013 Washington DC, USA – <em>Conference on Bioinformatics, Computational Biology and Biomedical Informatics</em> <br />2013 Boston MA, USA – <em>International Conference on Functional Programming</em> <br />2013 Vilamoura, Portugal – <em>International Conference of Knowledge Engineering and Ontology Development</em> <br />2013 Zurich, Switzerland – <em>International Conference on Pervasive and Ubiquitous Computing</em> <br />2013 Beijing, China – <em>International Symposium on Low Power Electronics and Design</em> <br />2013 Newcastle upon Tyne, UK – <em>International Conference on Designing Pleasurable Products and Interfaces</em> <br />2013 Curitiba, Brazil – <em>Symposium on Integrated Circuits and Systems Design</em> <br />2013 Edinburgh, UK – <em>International Conference on Intelligent Virtual Agents</em> <br />2013 Nijmegen, Netherlands – <em>Symposium on Implementation and Application of Functional Languages</em> <br />2013 Munich, Germany – <em>MobileHCI : International Conference on Human-Computer Interaction with Mobile Devices and Services</em> <br />2013 Niagara Falls ON, Canada – <em>International Conference on Advances in Social Networks Analysis and Mining</em> <br />2013 Dublin, Ireland – <em>Symposium on Applied Perception</em> <br />2013 Hong Kong, Hong Kong – <em>Annual Conference</em> <br />2013 Chicago IL, USA – <em>Conference</em> <br />2013 Singapore, Singapore – <em>Asia-Pacific Workshop on Systems</em> <br />2013 Warsaw, Poland – <em>International Conference on Multimedia, Interaction Design and Innovation</em> <br />2013 Newcastle upon Tyne, UK – <em>Symposium on Usable Privacy and Security</em> <br />2013 Montréal QC, Canada – <em>Symposium on Parallelism in Algorithms and Architectures</em> <br />2013 Montréal QC, Canada – <em>Annual Symposium on Principles of Distributed Computing</em> <br />2013 Anaheim CA, USA – <em>SIGGRAPH : International Conference on Computer Graphics and Interactive Techniques</em> <br />2013 Los Angeles CA, USA – <em>Symposium on Spatial User Interaction</em> <br />2013 Munich, Germany – <em>Biennial International Conference on Communities and Technologies</em> <br />2013 New York NY, USA – <em>International Conference on Interaction Design and Children</em> <br />2013 London, UK – <em>EICS : Symposium on Engineering Interactive Computing Systems</em> <br />2013 Como, Italy – <em>European Conference on Interactive TV and Video</em> <br />2013 Sydney, Australia – <em>International Conference on Creativity and Cognition</em> <br />2013 Amsterdam, Netherlands – <em>International Conference on Genetic Algorithms</em> <br />2013 Paris, France – <em>European Computing Research Congress</em> <br />2013 Paris, France – <em>Annual Conference on Human Factors in Computing Systems</em> <br />2013 Leuven, Belgium – <em>Conference on Learning Analytics and Knowledge</em> <br />2013 Oslo, Norway – <em>Multimedia Systems Conference</em> <br />2013 Tokyo, Japan – <em>International Conference on Human-Robot Interaction</em> <br />2013 Stuttgart, Germany – <em>Augmented Human International Conference</em> <br />2013 Oslo, Norway – <em>Workshop on Mobile Video</em> <br />2013 Oslo, Norway – <em>Workshop on Network and Operating Systems Support for Digital Audio and Video</em> <br />2013 San Antonio TX, USA – <em>Conference on Computer Supported Cooperative Work</em> <br />2013 Phoenix AZ, USA – <em>IUI : International Conference on Intelligent User Interfaces</em> <br />2013 Barcelona, Spain – <em>TEI : International Conference on Tangible, Embedded and Embodied Interaction</em> <br />2013 Rome, Italy – <em>Conference on Web Search and Data Mining</em> <br />2013 Kota Kinabalu, Malaysia – <em>International Conference on Ubiquitous Information Management and Communication</em> <br />2013 Bangalore, India – <em>Annual Symposium on Computing and Development</em> <br />2012 Montréal QC, Canada – <em>International Middleware Conference</em> <br />2012 Singapore, Singapore – <em>International Conference on Virtual Reality Continuum and its Applications in Industry</em> <br />2012 Singapore, Singapore – <em>SIGGRAPH Asia: Annual Asia Conference on Computer Graphics and Interactive Techniques</em> <br />2012 Budapest, Hungary – <em>Conference on Decision and Game Theory for Security</em> <br />2012 Kitakyushu, Japan – <em>Multimedia Conference</em> <br />2012 Copenhagen, Denmark – <em>NORDICHI : Biennial Nordic Conference on Human-Computer Interaction</em> <br />2012 Tampere, Finland – <em>Conference on Compilers, Architecture and Synthesis for Embedded Systems</em> <br />2012 Tampere, Finland – <em>International Conference on Hardware, Software Codesign and Systems Synthesis</em> <br />2012 Innsbruck, Austria – <em>International conference on model driven engineering languages and systems</em> <br />2012 Vienna, Austria – <em>Symposium on Facial Analysis and Animation</em> <br />2012 Copenhagen, Denmark – <em>International Conference</em> <br />2012 Paris, France – <em>Symposium on Document Engineering</em> <br />2012 Matsue, Japan – <em>Asia Pacific Conference on Computer Human Interaction</em> <br />2012 Helsinki, Finland – <em>Annual Conference</em> <br />2012 Beijing, China – <em>Conference</em> <br />2012 Helsinki, Finland – <em>Annual Conference</em> <br />2012 Los Angeles CA, USA – <em>SIGGRAPH : international conference on computer graphics and interactive techniques</em> <br />2012 Portland OR, USA – <em>Annual conference</em> <br />2012 Seoul, Korea Rep – <em>Annual Conference</em> <br />2012 Copenhagen, Denmark – <em>EICS : Symposium on Engineering Interactive Computing Systems</em> <br />2012 Hong Kong, Hong Kong – <em>International Conference on Multimedia Retrieval</em> <br />2012 Valencia, Spain – <em>Conference on Electronic Comemrce</em> <br />2012 Seoul, Korea Rep – <em>Symposium on Information, Computer and Communications Security</em> <br />2012 Bern, Switzerland – <em>EuroSys - European chapter conference</em> <br />2012 Zurich, Switzerland – <em>International Workshop on Mobile Opportunistic Networking</em> <br />2012 Lisbon, Portugal – <em>IUI: annual international conference on intelligent user interfaces</em> <br />2012 Miami FL, USA – <em>International Health Informatics Symposium</em> <br />2012 Paris, France – <em>January Meeting</em> <br />2011 Lisbon, Portugal – <em>Middleware Meeting</em> <br />2011 Tokyo, Japan – <em>Special Workshop on the Internet and Disasters</em> <br />2011 Lisbon, Portugal – <em>International Conference on Advances in Computer Entertainment Technology</em> <br />2011 Tokyo, Japan – <em>International Conference on Emerging Networking Experiments and Technologies</em> <br />2011 Lisbon, Portugal – <em>Symposium on Operating Systems Principles</em> <br />2011 Wellington, New Zealand – <em>International conference on model driven engineering languages and systems</em> <br />2011 Tokyo, Japan – <em>Erlang Workshop</em> <br />2011 Tokyo, Japan – <em>International Conference on Functional Programming</em> <br />2011 Beijing, China – <em>International conference on ubiquitous computing</em> <br />2011 Szeged, Hungary – <em>European Software Engineering Conference</em> <br />2011 Szeged, Hungary – <em>Symposium on the Foundations of Software Engineering</em> <br />2011 Stockholm, Sweden – <em>International Conference on Human Computer Interaction with Mobile Devices and Services</em> <br />2011 Ghent, Belgium – <em>ICDSC : international conference on distributed smart cameras</em> <br />2011 San Diego CA, USA – <em>Conference</em> <br />2011 Vancouver BC, Canada – <em>SIGGRAPH: annual international conference on computer graphics and interactive techniques</em> <br />2011 Brisbane, Australia – <em>Biennial international conference on communities and technologies</em> <br />2011 Paris, France – <em>International Web3D Conference</em> <br />2011 Vancouver BC, Canada – <em>Annual conference on human factors in computing systems</em> <br />2011 Trento, Italy – <em>International conference on multimedia retrieval</em> <br />2011 Salzburg, Austria – <em>EuroSys - European Chapter Conference</em> <br />2011 Chamonix, France – <em>Annual international symposium on code generation and optimization</em> <br />2011 Karlsruhe, Germany – <em>International conference on performance engineering</em> <br />2011 Lausanne, Switzerland – <em>International conference on human-robot interaction</em> <br />2011 Seoul, Korea Rep – <em>Asia Meeting</em> <br />2011 Seoul, Korea Rep – <em>International Conference on Ubiquitous Information Management and Communication</em> <br />2010 Seoul, Korea Rep – <em>SIGGRAPH Asia: annual Asia conference on computer graphics and interactive techniques</em> <br />2010 Seoul, Korea Rep – <em>International conference on virtual reality continuum and its applications in industry</em> <br />2010 Brussels, Belgium – <em>GRID : international conference on grid computing</em> <br />2010 Orlando FL, USA – <em>International conference on computers and accessibility</em> <br />2010 Tampere, Finland – <em>MindTrek conference</em> <br />2010 Chicago IL, USA – <em>Conference on computer and communications security</em> <br />2010 Oslo, Norway – <em>International conference on model driven engineering languages and systems</em> <br />2010 Copenhagen, Denmark – <em>International conference on ubiquitous computing</em> <br />2010 Tokyo, Japan – <em>Annual conference</em> <br />2010 Philadelphia PA, USA – <em>International conference on intelligent virtual agents</em> <br />2010 Williamsburg VA, USA – <em>International workshop on the numerical solution of Markov chains</em> <br />2010 Vienna, Austria – <em>International conference on the principles and practice of programming in java</em> <br />2010 Williamsburg VA, USA – <em>International conference on the quantitative evaluation of systems</em> <br />2010 Graz, Austria – <em>International conference on semantic systems</em> <br />2010 Atlanta GA, USA – <em>ICDSC : international conference on distributed smart cameras</em> <br />2010 Munich, Germany – <em>International symposium on symbolic and algebraic computation</em> <br />2010 Tsukuba, Japan – <em>International conference on supercomputing</em> <br />2010 Bertinoro, Italy – <em>International conference on computing frontiers</em> <br />2010 Toronto ON, Canada – <em>Annual international symposium on code generation and optimization</em> <br />2010 Paris, France – <em>EuroSys conference</em> <br />2010 Stockholm, Sweden – <em>Conference on languages, compilers and tools for embedded systems</em> <br />2010 Stockholm, Sweden – <em>International conference on information processing in sensor networks</em> <br />2010 Stockholm, Sweden – <em>International conference on hybrid systems</em> <br />2010 Stockholm, Sweden – <em>International conference on cyber-physical systems</em> <br />2010 Pisa, Italy – <em>International workshop on mobile opportunistic networking</em> <br />2010 Hong Kong, Hong Kong – <em>IUI: annual international conference on intelligent user interfaces</em> <br />2010 Madrid, Spain – <em>Workshop on types in language design and implementation</em> <br />2010 Madrid, Spain – <em>Programming languages meets program verification workshop</em> <br />2010 Madrid, Spain – <em>Symposium on principles of programming languages</em> <br />2009 Yokohama, Japan – <em>SIGGRAPH Asia: annual Asia conference on computer graphics and interactive techniques</em> <br />2009 Freiburg, Germany – <em>Informatics education Europe conference</em> <br />2009 Lyon, France – <em>International conference on management of emergent digital ecosystems</em> <br />2009 Sapporo, Japan – <em>Asia information retrieval symposium</em> <br />2009 Denver CO, USA – <em>International conference on model driven engineering languages and systems</em> <br />2009 London, UK – <em>Annual conference</em> <br />2009 Como, Italy – <em>ICDSC : international conference on distributed smart cameras</em> <br />2009 Barcelona, Spain – <em>Annual conference</em> <br />2009 Berkeley CA, USA – <em>ICER : international computing education research workshop</em> <br />2009 New Orleans LA, USA – <em>SIGGRAPH: annual international conference on computer graphics and interactive techniques</em> <br />2009 Montréal QC, Canada – <em>GECCO : genetic and evolutionary computation conference</em> <br />2009 Paris, France – <em>Annual conference on innovation and technology in computer science education</em> <br />2009 Paris, France – <em>Conference</em> <br />2009 Munich, Germany – <em>International symposium on high performance distributed computing</em> <br />2009 Kathmandu, Nepal – <em>International conference on human computer interaction with mobile multimedia and ubiquitous computing</em> <br />2009 Kathmandu, Nepal – <em>International conference on computer science and global communications technology</em> <br />2009 Chattanooga TN, USA – <em>Technical symposium on computer science education</em> <br />2009 Barcelona, Spain – <em>International conference on web search and data mining</em> <br />2009 Sanibel Is FL, USA – <em>IUI: annual international conference on intelligent user interfaces</em> <br />2008 Singapore, Singapore – <em>SIGGRAPH Asia : annual Asia conference on computer graphics and interactive techniques</em> <br />2008 Singapore, Singapore – <em>SIGGRAPH : international conference on virtual-reality continuum and its applications in industry</em> <br />2008 Venice, Italy – <em>Informatics education Europe conference</em> <br />2008 Sydney, Australia – <em>International conference on service oriented computing</em> <br />2008 Raleigh NC, USA – <em>Conference on embedded networked sensor systems</em> <br />2008 Nashville TN, USA – <em>OOPSALA : international conference on object-oriented programming, systems and applications</em> <br />2008 Toulouse, France – <em>International conference on model driven engineering languages and systems</em> <br />2008 Lisbon, Portugal – <em>International conference</em> <br />2008 San Francisco CA, USA – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />2008 Palo Alto CA, USA – <em>ICDSC : international conference on distributed smart cameras</em> <br />2008 Sydney, Australia – <em>ICER : international computing education research workshop</em> <br />2008 Tokyo, Japan – <em>International conference on intelligent virtual agents</em> <br />2008 Los Angeles CA, USA – <em>SIGGRAPH: annual international conference on computer graphics and interactive techniques</em> <br />2008 Singapore, Singapore – <em>Annual international conference on research and development in information retrieval</em> <br />2008 Madrid, Spain – <em>Annual conference on innovation and technology in computer science education</em> <br />2008 Columbus OH, USA – <em>Annual workshop/conference</em> <br />2008 Munich, Germany – <em>Symposium on parallelism in algorithms and architectures</em> <br />2008 Maspalomas, Spain – <em>IUI : annual international conference on intelligent user interfaces</em> <br />2007 Thessaloniki, Greece – <em>Informatics education Europe conference</em> <br />2007 Sydney, Australia – <em>Conference on embedded networked sensor systems</em> <br />2007 Lisbon, Portugal – <em>Conference on information and knowledge management</em> <br />2007 Sanibel Is FL, USA – <em>International conference on supporting group work</em> <br />2007 Hannover, Germany – <em>International conference on cyberworlds</em> <br />2007 Montréal QC, Canada – <em>OOPSLA: international conference on object-oriented programming, systems, languages and applications</em> <br />2007 Nashville TN, USA – <em>International conference on model driven engineering languages and systems</em> <br />2007 Augsburg, Germany – <em>International conference on multimedia</em> <br />2007 Vienna, Austria – <em>Conference on service oriented computing</em> <br />2007 Atlanta GA, USA – <em>ICER : international computing education research workshop</em> <br />2007 Montréal QC, Canada – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />2007 Singapore, Singapore – <em>International conference on human computer interaction with mobile devices and services</em> <br />2007 Kyoto, Japan – <em>Annual conference</em> <br />2007 San Diego CA, USA – <em>SIGGRAPH : annual international conference on computer graphics and interactive techniques</em> <br />2007 Waterloo ON, Canada – <em>Annual international symposium on symbolic and algebraic computation</em> <br />2007 Dundee, UK – <em>Annual conference on innovation and technology in computer science education</em> <br />2007 San Diego CA, USA – <em>Workshop on experimental computer science</em> <br />2007 San Diego CA, USA – <em>International conference on virtual execution environments</em> <br />2007 Puerto Rico – <em>International conference on mobile computing systems, applications, and services</em> <br />2007 Beijing, China – <em>International conference on management of data</em> <br />2007 Cambridge MA, USA – <em>USENIX symposium on networked systems design and implementation</em> <br />2007 Cambridge MA, USA – <em>International workshop on networking meets databases</em> <br />2007 Cambridge MA, USA – <em>Symposium on computer human interaction for management of information technology</em> <br />2007 Winston-Salem NC, USA – <em>Southeast conference</em> <br />2007 Lisbon, Portugal – <em>EuroSys conference</em> <br />2007 Singapore, Singapore – <em>Symposium on information, computer and communications security</em> <br />2007 San Jose CA, USA – <em>Annual international symposium on code generation and optimization</em> <br />2007 Seoul, Korea Rep – <em>Symposium on applied computing</em> <br />2007 Arlington VA, USA – <em>International conference on human-robot interaction</em> <br />2007 Covington KY, USA – <em>Technical symposium on computer science education</em> <br />2007 San Jose CA, USA – <em>USENIX conference on file and storage technologies</em> <br />2007 Oahu HI, USA – <em>IUI: annual international conference on intelligent user interfaces</em> <br />2006 Chicago IL, USA – <em>ICSOG : international conference on service oriented computing</em> <br />2006 Kuala Lumpur, Malaysia – <em>GRAPHITE : international conference on computer graphics and interactive techniques in Australasia and South East Asia</em> <br />2006 Lausanne, Switzerland – <em>International conference on cyberworlds</em> <br />2006 Arlington VA, USA – <em>International symposium on advances in geographic information systems</em> <br />2006 Montpellier, France – <em>Informatics education Europe conference</em> <br />2006 USA – <em>International conference on conceptual modeling</em> <br />2006 Portland OR, USA – <em>Symposium on foundations of software engineering</em> <br />2006 Arlington VA, USA – <em>Conference on information and knowledge management</em> <br />2006 Boulder CO, USA – <em>Conference on embedded networked sensor systems</em> <br />2006 Alexandria VA, USA – <em>Conference on computer and communications security</em> <br />2006 Montreux, Switzerland – <em>Annual symposium on user interface software and technology</em> <br />2006 Los Angeles CA, USA – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />2006 Espoo, Finland – <em>International conference on human computer interaction with mobile devices and services</em> <br />2006 Canterbury, UK – <em>ICER : international computing education research workshop</em> <br />2006 Boston MA, USA – <em>SIGGRAPH : International Conference on Computer Graphics and Interactive Techniques</em> <br />2006 Uppsala, Sweden – <em>MOBISYS : international conference on mobile systems, applications, and services</em> <br />2006 Mauritius – <em>ICN : international conference on networking</em> <br />2006 New York NY, USA – <em>Annual international symposium on code generation and optimization</em> <br />2006 Taipei, Taiwan – <em>Symposium on information, computer and communications security</em> <br />2006 Sydney, Australia – <em>IUI: annual international conference on intelligent user interfaces</em> <br />2005 Amsterdam, Netherlands – <em>ICSOC : international conference on service oriented computing</em> <br />2005 Singapore, Singapore – <em>International conference on cyberworlds</em> <br />2005 Alexandria VA, USA – <em>Conference on computer and communications security</em> <br />2005 Singapore, Singapore – <em>International conference on multimedia</em> <br />2005 Singapore, Singapore – <em>International workshop on foundations of multimedia computing, communications and interaction</em> <br />2005 Bremen, Germany – <em>International symposium on advances in geographic information systems</em> <br />2005 San Diego CA, USA – <em>Conference on embedded networked sensor systems</em> <br />2005 Bremen, Germany – <em>Conference on information and knowledge management</em> <br />2005 Seattle WA, USA – <em>ICER : international computing education research workshop</em> <br />2005 Cologne, Germany – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />2005 Los Angeles CA, USA – <em>SIGGRAPH : International Conference on Computer Graphics and Interactive Techniques</em> <br />2005 Valencia, Spain – <em>International conference on advances in computer entertainment technology</em> <br />2005 Seattle WA, USA – <em>MOBISYS : international conference on mobile systems, applications, and services</em> <br />2005 Stockholm, Sweden – <em>Symposium on access control models and technologies</em> <br />2005 Cardiff, UK – <em>International symposium on cluster computing and Grid</em> <br />2005 San Jose CA, USA – <em>Annual international symposium on code generation and optimization</em> <br />2005 San Diego CA, USA – <em>IUI: annual international conference on intelligent user interfaces</em> <br />2004 Paris, France – <em>International workshop on system level interconnect prediction</em> <br />2004 Tokyo, Japan – <em>International conference on cyberworlds</em> <br />2004 New York NY, USA – <em>ICSOC : international conference on service oriented computing</em> <br />2004 Baltimore MD, USA – <em>Conference on embedded networked sensor systems</em> <br />2004 Tampere, Finland – <em>NORDICHI : biennial Nordic conference on human-computer interaction</em> <br />2004 Philadelphia PA, USA – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />2004 Los Angeles CA, USA – <em>SIGGRAPH : annual international conference on computer graphics and interactive techniques</em> <br />2004 Yorktown Heights NY, USA – <em>Symposium on access control models and technologies</em> <br />2004 Boston MA, USA – <em>MOBISYS : international conference on mobile systems, applications, and services</em> <br />2004 Vienna, Austria – <em>Annual conference on human factors in computing systems</em> <br />2004 Chicago IL, USA – <em>International symposium on cluster computing and the grid</em> <br />2004 Yokohama, Japan – <em>International symposium on low power and high speed chips</em> <br />2004 Funchal, Portugal – <em>IUI: annual international conference on intelligent user interfaces</em> <br />2004 New Orleans LA, USA – <em>Annual symposium on discrete algorithms</em> <br />2003 Trento, Italy – <em>ICSOC : international conference on service oriented computing</em> <br />2003 Singapore, Singapore – <em>International conference on cyberworlds</em> <br />2003 Los Angeles CA, USA – <em>Conference on embedded networked sensor systems</em> <br />2003 San Diego CA, USA – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />2003 San Diego CA, USA – <em>SIGGRAPH : annual international conference on computer graphics and interactive techniques</em> <br />2003 Aizu-Wakamatsu, Japan – <em>International symposium on parallel and distributed processing and applications</em> <br />2003 Kilkenny, Ireland – <em>International conference on the principles and practice of programming in Java</em> <br />2003 San Diego CA, USA – <em>Symposium on software visualization</em> <br />2003 Como, Italy – <em>Symposium on access control models and technologies</em> <br />2003 San Francisco CA, USA – <em>MOBISYS : international conference on mobile systems, applications, and services</em> <br />2003 Fort Lauderdale FL, USA – <em>Annual conference on human factors in computing systems</em> <br />2003 San Francisco CA, USA – <em>Annual international symposium on code generation and optimization</em> <br />2003 New Orleans LA, USA – <em>Annual symposium on principles of programming languages</em> <br />2003 Miami FL, USA – <em>IUI: annual international conference on intelligent user interfaces</em> <br />2002 McLean VA, USA – <em>International symposium on advances in geographic information systems</em> <br />2002 McLean VA, USA – <em>International conference on information and knowledge management</em> <br />2002 Seattle WA, USA – <em>OOPSLA: international conference on object-oriented programming, systems, languages and applications</em> <br />2002 Atlanta GA, USA – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />2002 Tampere, Finland – <em>International conference on research and development in information retrieval</em> <br />2002 San Antonio TX, USA – <em>SIGGRAPH : annual international conference on computer graphics and interactive techniques</em> <br />2002 College Park MD, USA – <em>Hypertext : international conference on hypertext and hypermedia</em> <br />2002 Langkawi, Malaysia – <em>Asian mobile computing conference</em> <br />2002 Minneapolis MN, USA – <em>Annual conference on human factors in computing systems</em> <br />2002 Portland OR, USA – <em>Annual symposium on principles of programming languages</em> <br />2002 San Francisco CA, USA – <em>IUI: annual international conference on intelligent user interfaces</em> <br />2001 London, UK – <em>International workshop on networked group communications</em> <br />2001 Atlanta GA, USA – <em>International conference on information and knowledge management</em> <br />2001 Ogunquit ME, USA – <em>International conference on formal ontology in information systems</em> <br />2001 Barcelona, Spain – <em>PACT: international conference on parallel architectures and compilation techniques</em> <br />2001 Vienna, Austria – <em>International symposium on the foundations of software engineering</em> <br />2001 Aarhus, Denmark – <em>Hypertext : international conference on hypertext and hypermedia</em> <br />2001 Los Angeles CA, USA – <em>SIGGRAPH : annual international conference on computer graphics and interactive techniques</em> <br />2001 Rome, Italy – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />2001 Gothenburg, Sweden – <em>Annual international symposium on computer architecture</em> <br />2001 Las Vegas NV, USA – <em>Conference on design automation</em> <br />2001 Lake Arrowhead CA, USA – <em>PADS : international workshop on parallel and distributed simulation</em> <br />2001 Seattle WA, USA – <em>Annual conference on human factors in computing systems</em> <br />2001 San Jose CA, USA – <em>ACM1 conference</em> <br />2001 Zurich, Switzerland – <em>EMO : international conference on evolutionary multi-criterion optimization</em> <br />2001 Charlotte NC, USA – <em>Technical symposium on computer science education</em> <br />2001 Santa Fe NM, USA – <em>IUI: annual international conference on intelligent user interfaces</em> <br />2001 Washington DC, USA – <em>Annual symposium on discrete algorithms</em> <br />2000 Washington DC, USA – <em>International symposium on advances in geographic information systems</em> <br />2000 McLean VA, USA – <em>International conference on information and knowledge management</em> <br />2000 Penang, Malaysia – <em>Asian mobile computing conference</em> <br />2000 Stockholm, Sweden – <em>Meeting</em> <br />2000 New York NY, USA – <em>DIS : conference on designing interactive systems</em> <br />2000 Boston MA, USA – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />2000 Munich, Germany – <em>Euro-Par : European conference on parallel computing</em> <br />2000 New Orleans LA, USA – <em>SIGGRAPH : annual international conference on computer graphics and interactive techniques</em> <br />2000 Helsinki, Finland – <em>Annual international conference on innovation and technology in computer science education</em> <br />2000 San Antonio TX, USA – <em>Hypertext : international conference on hypertext and hypermedia</em> <br />2000 Italy – <em>AVI : international working conference on advanced visual interfaces</em> <br />2000 Tokyo, Japan – <em>RECOMB : annual international conference on research in computational molecular biology</em> <br />2000 The Hague, Netherlands – <em>Annual conference on human factors in computing systems</em> <br />2000 New Orleans LA, USA – <em>IUI : international conference on intelligent user interfaces</em> <br />1999 Hong Kong, Hong Kong – <em>IAT : Asia Pacific conference on intelligent agent technology</em> <br />1999 Montpellier, France – <em>Conférence internationale francophone sur l'interaction homme-machine</em> <br />1999 New Orleans LA, USA – <em>Conference on tradition and change in documentation</em> <br />1999 Toulouse, France – <em>International symposium on the foundations of software engineering</em> <br />1999 Seattle WA, USA – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />1999 Los Angeles CA, USA – <em>SIGGRAPH : International Conference on Computer Graphics and Interactive Techniques</em> <br />1999 Los Angeles CA, USA – <em>Symposium on software reusability</em> <br />1999 Pittsburgh PA, USA – <em>Annual conference on human factors in computing systems</em> <br />1999 Lyon, France – <em>RECOMB : annual international conferemce on research in computational molecular biology</em> <br />1999 Darmstadt, Germany – <em>HYPERTEXT : international conference on hypertext and hypermedia</em> <br />1999 Los Angeles CA, USA – <em>IUI : international conference on intelligent user interfaces</em> <br />1998 Orlando FL, USA – <em>International symposium on the foundations of software engineering</em> <br />1998 Orlando FL, USA – <em>International software architecture workshop</em> <br />1998 Bristol, UK – <em>International multimedia conference</em> <br />1998 Orlando FL, USA – <em>SIGGRAPH : International Conference on Computer Graphics and Interactive Techniques</em> <br />1998 Pittsburgh PA, USA – <em>HYPERTEXT : international conference on hypertext and hypermedia</em> <br />1998 Atlanta GA, USA – <em>Symposium on applied computing</em> <br />1998 San Francisco CA, USA – <em>IUI: annual international conference on intelligent user interfaces</em> <br />1997 Budapest, Hungary – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />1997 Los Angeles CA, USA – <em>SIGGRAPH : International Conference on Computer Graphics and Interactive Techniques</em> <br />1997 Paris, France – <em>Annual symposium on principles of programming languages</em> <br />1997 Orlando FL, USA – <em>IUI: annual international conference on intelligent user interfaces</em> <br />1996 Rye NY, USA – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />1996 New Orleans LA, USA – <em>SIGGRAPH : International Conference on Computer Graphics and Interactive Techniques</em> <br />1995 Berkeley CA, USA – <em>MobiCom : annual international conference on mobile computing and networking</em> <br />1993 Orlando FL, USA – <em>IUI: international conference on intelligent user interfaces</em> <br />1990 Nice, France – <em>Conference on Lisp and functional programming</em> <br />1988 Grenoble, France – <em>International conference on research and development in information retrieval</em> <br /><p><a class="btn btn-small" id="lessmeet"><i class="icon-th-list"></i> View Less Events (562)</i></a></p><p></p></div>
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;" id="ybp_structure">Structure</h2>
+<p>Council; Executive Committee. Boards (3): Education; Practitioners; Publications. SGB Executive Committee. Regional Councils (3): Europe; India; China. Special Interest Groups (37).</p>
+	
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Relations with Non-Governmental Organizations</h2>
+<p>Member of: <a href="/s/or/en/1100044889" title="American Association for the Advancement of Science (AAAS)">American Association for the Advancement of Science (AAAS)</a>; <a href="/s/or/en/1100044286" title="International Federation for Information Processing (IFIP)">International Federation for Information Processing (IFIP)</a>; <a href="/s/or/en/1100022434" title="Internet Society (ISOC)">Internet Society (ISOC)</a>; <a href="/s/or/en/1122279129" title="ORCID">ORCID</a>. European Council is member of: <a href="/s/or/en/1122277190" title="European Forum for ICST">European Forum for ICST</a>. Instrumental in setting up: <a href="/s/or/en/1100041040" title="Environmental Design Research Association (EDRA)">Environmental Design Research Association (EDRA)</a>. Collaborates with: <a href="/s/or/en/1122270253" title="European Society for Applied Mathematics (EUROSAM)">European Society for Applied Mathematics (EUROSAM)</a>. Links with: <a href="/s/or/en/1100061025" title="European Association for Computer Graphics (EUROGRAPHICS)">European Association for Computer Graphics (EUROGRAPHICS)</a>; <a href="/s/or/en/1100067099" title="Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering (ICST)">Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering (ICST)</a>. Links indicated by: <a href="/s/or/en/1100020736" title="ISEA International">ISEA International</a>.</p>
+
+<h2 style="margin-top:20px;">Publications</h2>
+<p><i>ACM Communications</i> (12 a year); <i>Mobile Networks and Applications (MONET)</i> (4 a year) - jointly with Baltzer Publishers; <i>Journal of Experimental Algorithmics (JEA)</i> (periodical) - online publication through http, ftp, and ftpmail; <i>netWorker</i> (periodical); <i>StandardView</i> (periodical).</p>
+
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Members</h2><div>Worldwide membership of 100,000. Membership countries not specified.</div><p>Members in 0 countries<br /></p>
+ <h2 style="margin-top:20px;">Type I Classification</h2>
+<p>F: Organizations having a special form, including foundations and funds</p>
+ 
+
+
+  
+ 
+ 	<h2 style="margin-top:20px;">UN Sustainable Development Goals <sup>**</sup></h2><p></p> 
+<h2 style="margin-top:20px;">UIA Org ID</h2>
+<p>N8383</p>
+<!--  -->
+
+<h2 style="margin-top:20px;">Last News Received</h2><div>2018</div><div style="color:#999;margin-top:20px;"><sup>*</sup> Subject classification is derived from the organization names and aims.  <br />
+  <sup>**</sup> UN SDGs are linked to the subject classification.<br /><br />
+
+
+
+
+<div style="clear:both;color:#999;margin-top:30px;line-height:140%;"><div style="float:right;width:250px;text-align:right;margin-left:30px;"><a class="btn btw-med" href="https://www.uia.org/node/add/new-org-submission" target="_blank"><i class="icon-th-list"></i> Add A New Organization</a></div>You are viewing an organization profile from the <span style="color:#333;"><a href="/ybio/">Yearbook of International Organizations Online</a></span>. <br /><a href="javascript: history.go(-1)">&larr; return to your search page</a> to see additional profiles.</div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+                
+    
+<div style="clear:both;height:10px;"> </div>
+
+
+
+
+<div style="clear:both;">
+    <footer id="footer" class="region region-footer">
+    <!-- .block -->
+<div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div id="copy-footer">
+<div id="logout" style="width:100px;float:right;"><form action="/LOGOUT" method="post">
+    <input type="submit" value="Logout" /></form></div>
+© 2020 <a href="https://www.uia.org" style="color:#bfccd9;">Union of International Associations</a> &amp; <a href="https://www.brill.com" style="color:#bfccd9;">Koninklijke Brill NV</a>.<br /> 
+For more information please visit <a href="http://www.brill.com/ybio" style="color:#bfccd9;">brill.com</a> | <a href="http://www.brill.com/standard-conditions-sale" style="color:#bfccd9;">Terms and Conditions</a> | <a href="http://www.brill.com/about/policies/privacy-statement" style="color:#bfccd9;">Privacy Statement</a> | <a href="http://www.brill.com/about/policies/rights-permissions" style="color:#bfccd9;">Copyright &amp; Permissions</a></div>
+</div><!-- /.block -->
+  </footer>
+</div>  
+
+</div><!-- /#container -->
+
+</div><!-- /#page -->
+
+<div id="devel">
+</div>  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.filter.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.js?q4261c"></script>
+<script>jQuery(document).ready(function () 
+{   
+	
+	
+	
+	var x = document.getElementsByTagName("META");
+	    var txt = "";
+	    var i;
+	    for (i = 0; i < x.length; i++) {
+	        if (x[i].name=="ST.PlatformAPIKey")
+	        {
+	          var platformKey = x[i].content;
+	         }
+ 	        if (x[i].name=="ST.customerId")
+ 	        {
+ 	          var customerKey = x[i].content;
+ 	         }
+	    }
+	
+	var substatus = "valid";
+	if(customerKey == "") 
+	{
+		substatus = "not subscribed";
+	}
+	
+
+
+	var refer = document.referrer;
+	 var refcheck = refer.indexOf("name");
+	 
+
+ 	if(refcheck > 10) {
+ 	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RESULT_CLICK'}]);
+ 	}
+	 
+	 if(substatus == "valid") {
+	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RECORD_VIEW'}]);
+	}
+
+
+});</script>
+  
+  <script type="text/javascript">
+    (function () {
+      var stars = document.createElement('script');
+      stars.type = 'text/javascript';
+      stars.async = true;
+      stars.src = 'https://receiver.star.saas.semcs.net/star.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(stars, s);
+  })();
+  </script>
+  
+</body>
+
+</html>

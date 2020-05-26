@@ -1,0 +1,528 @@
+ 
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://brill.uia.org/sites/all/themes/Brill2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Profile of African Union from the Yearbook of International Organizations, a service of the UIA." />
+  <title>African Union | Yearbook Profile | Union of International Associations</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+    ga('create', 'UA-27369964-11', 'auto');
+    ga('send', 'pageview');
+ 
+  </script>
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRC33X"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KRC33X');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- Set the PlatformAPI key (COUNTER4) -->
+  <meta name="ST.PlatformAPIKey" content="bc8208710447dc2a" />
+
+  <!-- Set the customerID value (as provided by SAMS / SGK)  (COUNTER4) -->
+  <meta name="ST.customerId" content="14968" />
+
+  <style>
+@import url("https://brill.uia.org/modules/system/system.base.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.messages.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.theme.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/misc/ui/jquery.ui.core.css?q4261c");
+@import url("https://brill.uia.org/misc/ui/jquery.ui.theme.css?q4261c");
+</style>
+<style media="screen">
+@import url("https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/modules/book/book.css?q4261c");
+@import url("https://brill.uia.org/modules/comment/comment.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_api/date.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/fences/field.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/logintoboggan/logintoboggan.css?q4261c");
+@import url("https://brill.uia.org/modules/node/node.css?q4261c");
+@import url("https://brill.uia.org/modules/search/search.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/simpleads/simpleads.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_order/uc_order.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_product/uc_product.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/uc_product_minmax/uc_product_minmax.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_store/uc_store.css?q4261c");
+@import url("https://brill.uia.org/modules/user/user.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/views/css/views.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ctools/css/ctools.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.filter.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/panels/css/panels.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu-skins.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/normalize.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/wireframes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/tabs.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/pages.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/blocks.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/navigation.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/views-styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nodes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/comments.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/forms.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/fields.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/print.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nice_menus.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/common.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/font-awesome.min.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/buttons.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/uia2013.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/layout.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rdstyle.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/static_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/qtip.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/jquery.ui.autocomplete.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rbstyle.css?q4261c");
+</style>
+  <script src="https://brill.uia.org/misc/jquery.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://brill.uia.org/misc/drupal.js?q4261c"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/js/qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/admin_menu/admin_devel/admin_devel.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/simpleads.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/modules/simpleads_campaigns/simpleads_campaigns.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_load.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_inline.js?q4261c"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://brill.uia.org/sites/all/modules/megamenu/megamenu.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/google_analytics/googleanalytics.js?q4261c"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-506851-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#moremeet" ).click(function() {
+	  		  jQuery( "#morecal" ).show( "slow" );
+			  jQuery( "#moremeet" ).hide( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#lessmeet" ).click(function() {
+	  		  jQuery( "#morecal" ).hide( "slow" );
+			  jQuery( "#moremeet" ).show( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script src="https://use.typekit.com/yse7wxb.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script src="https://brill.uia.org/sites/all/themes/Brill2014/js/bootstrap.min.js?q4261c"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"Brill2014","theme_token":"nq9PEZKWH398ju9H9-a4_4HVJoI-3HE4f_zThttWbCw","js":{"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.js":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.filter.js":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/simpleads\/modules\/simpleads_campaigns\/simpleads_campaigns.js":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/megamenu\/megamenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"3":1,"https:\/\/use.typekit.com\/yse7wxb.js":1,"4":1,"sites\/all\/themes\/Brill2014\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/simpleads\/simpleads.css":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/uc_product_minmax\/uc_product_minmax.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.filter.css":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/megamenu\/megamenu.css":1,"sites\/all\/modules\/megamenu\/megamenu-skins.css":1,"sites\/all\/themes\/Brill2014\/system.menus.css":1,"sites\/all\/themes\/Brill2014\/css\/normalize.css":1,"sites\/all\/themes\/Brill2014\/css\/wireframes.css":1,"sites\/all\/themes\/Brill2014\/css\/page-backgrounds.css":1,"sites\/all\/themes\/Brill2014\/css\/tabs.css":1,"sites\/all\/themes\/Brill2014\/css\/pages.css":1,"sites\/all\/themes\/Brill2014\/css\/blocks.css":1,"sites\/all\/themes\/Brill2014\/css\/navigation.css":1,"sites\/all\/themes\/Brill2014\/css\/views-styles.css":1,"sites\/all\/themes\/Brill2014\/css\/nodes.css":1,"sites\/all\/themes\/Brill2014\/css\/comments.css":1,"sites\/all\/themes\/Brill2014\/css\/forms.css":1,"sites\/all\/themes\/Brill2014\/css\/fields.css":1,"sites\/all\/themes\/Brill2014\/css\/print.css":1,"sites\/all\/themes\/Brill2014\/css\/nice_menus.css":1,"sites\/all\/themes\/Brill2014\/css\/common.css":1,"sites\/all\/themes\/Brill2014\/css\/font-awesome.min.css":1,"sites\/all\/themes\/Brill2014\/css\/buttons.css":1,"sites\/all\/themes\/Brill2014\/css\/uia2013.css":1,"sites\/all\/themes\/Brill2014\/css\/layout.css":1,"sites\/all\/themes\/Brill2014\/css\/styles.css":1,"sites\/all\/themes\/Brill2014\/css\/rdstyle.css":1,"sites\/all\/themes\/Brill2014\/css\/static_style.css":1,"sites\/all\/themes\/Brill2014\/css\/calendar.css":1,"sites\/all\/themes\/Brill2014\/css\/pubspages.css":1,"sites\/all\/themes\/Brill2014\/css\/qtip.css":1,"sites\/all\/themes\/Brill2014\/css\/jquery.ui.autocomplete.css":1,"sites\/all\/themes\/Brill2014\/css\/rbstyle.css":1,"sites\/brill.uia.org\/files\/fontyourface\/wysiwyg.css":1,"public:\/\/fontyourface\/local_fonts\/FontAwesome-normal-normal\/stylesheet.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jquery_ui_multiselect_widget":{"module_path":"sites\/all\/modules\/jquery_ui_multiselect_widget","multiple":1,"filter":1,"subselector":"","selectedlist":"4","autoOpen":0,"header":1,"height":"300","classes":"","filter_auto_reset":0,"filter_width":"100","jquery_ui_multiselect_widget_path_match_exclude":""},"qtip":{"target_position":"right_center","tooltip_position":"left_center","show_speech_bubble_tip":1,"show_speech_bubble_tip_side":0,"speech_bubble_size":"12","show_speech_bubble_tip_solid":1,"show_shadow":0,"rounded_corners":1,"color":"ui-tooltip-blue","custom_color":"","show_event_type":"mouseenter","hide_event_type":"mouseleave","show_webform_descriptions":0,"additional_elements":""},"megamenu":{"timeout":"500","sizewait":"250","hoverwait":"400"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-s page-s-or page-s-or-en page-s-or-en- page-s-or-en-1100033436 section-s" >
+	<script>
+	   var _$tarQ = _$tarQ || []; // Access the STAR JavaScript API's global queue
+	</script>
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+  
+  
+  
+
+
+
+
+
+
+<div id="page" style="clear:both;margin-top: 10px;">
+
+
+
+
+<div id="container">
+
+
+
+<div id="nav-1">
+    <div class="region region-navigation">
+    <!-- .block -->
+<div id="block-megamenu-main-menu" class="block block-megamenu first last odd">
+
+      
+  <ul id="megamenu-main-menu" class="megamenu-menu columnar megamenu-skin-minimal"><li id="megamenu-mlid-221" class="megamenu-parent megamenu-parent-0 odd half-1 leaf-0 first menu-221  first"><h2 class="megamenu-parent-title"><a href="/">Home</a></h2></li>
+<li id="megamenu-mlid-511" class="megamenu-parent megamenu-parent-1 even half-1 leaf-1 menu-511 "><h2 class="megamenu-parent-title"><a href="/about-ybio">About The Yearbook</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11476" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><a href="/ybguide/contribute" title="">How to Contribute Information</a></h3></li>
+<li id="megamenu-mlid-11477" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last  last"><h3 class="megamenu-slot-title"><a href="/ybguide/more-data" title="">Need Different Data?</a></h3></li>
+</ul></li>
+<li id="megamenu-mlid-11322" class="megamenu-parent megamenu-parent-2 odd half-1 leaf-2 menu-11322 "><h2 class="megamenu-parent-title"><a href="/ybguide">User Guide</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11324" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><span title="" class="nolink">Organizations</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11330" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/organizations">The Interface</a></li>
+<li id="megamenu-mlid-11331" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/contents">Contents of Profiles</a></li>
+<li id="megamenu-mlid-11332" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/abbrev">Abbreviations Used</a></li>
+<li id="megamenu-mlid-11334" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/inclusion">Criteria for Inclusion</a></li>
+<li id="megamenu-mlid-11335" class="megamenu-item megamenu-item-4 odd half-1 leaf-4 "><a href="/ybguide/editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11336" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/sources">Information Sources</a></li>
+<li id="megamenu-mlid-11337" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 "><a href="/ybguide/type1">Type 1 Codes</a></li>
+<li id="megamenu-mlid-11338" class="megamenu-item megamenu-item-7 even half-2 leaf-7 "><a href="/ybguide/type2">Type 2 Codes</a></li>
+<li id="megamenu-mlid-11361" class="megamenu-item megamenu-item-8 odd half-2 leaf-8 "><a href="/ybguide/type3">Type 3 Codes</a></li>
+<li id="megamenu-mlid-11339" class="megamenu-item megamenu-item-9 even half-2 leaf-9 last  last"><a href="/ybguide/continuity">Continuity Between Editions</a></li>
+</ul></li>
+<li id="megamenu-mlid-11325" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Geography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11340" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/geography">The Interface</a></li>
+<li id="megamenu-mlid-11333" class="megamenu-item megamenu-item-1 even half-2 leaf-1 last  last"><a href="/ybguide/geo-names">Geographical Names</a></li>
+</ul></li>
+<li id="megamenu-mlid-11326" class="megamenu-slot megamenu-slot-2 odd half-1 leaf-2 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Subjects</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11341" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/subjects">The Interface</a></li>
+<li id="megamenu-mlid-11342" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/subjects-intro">Introduction</a></li>
+<li id="megamenu-mlid-11359" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/subject-matrix">Subject Matrix</a></li>
+<li id="megamenu-mlid-11360" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/subject-categories">Subject Categories</a></li>
+</ul></li>
+<li id="megamenu-mlid-11327" class="megamenu-slot megamenu-slot-3 even half-2 leaf-3 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Bibliography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11343" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/bibliography">The Interface</a></li>
+<li id="megamenu-mlid-11344" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/biblio-comments">Comments</a></li>
+<li id="megamenu-mlid-11345" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/biblio-contents">Contents of Entries</a></li>
+<li id="megamenu-mlid-11346" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/biblio-method">Research Methodology</a></li>
+<li id="megamenu-mlid-11347" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/biblio-errors">Errors and Corrections</a></li>
+<li id="megamenu-mlid-11348" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/biblio-selection">Research Topics on INGOs</a></li>
+<li id="megamenu-mlid-11349" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 last  last"><a href="/ybguide/biblio-table">Number of Publications by Type</a></li>
+</ul></li>
+<li id="megamenu-mlid-11328" class="megamenu-slot megamenu-slot-4 odd half-2 leaf-4 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Statistics</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11350" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/statistics" title="">The Interface</a></li>
+<li id="megamenu-mlid-11351" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/stats-intro">Introduction</a></li>
+<li id="megamenu-mlid-11352" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/stats-features">Features</a></li>
+<li id="megamenu-mlid-11353" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/stats-method">Methodological Issues</a></li>
+</ul></li>
+<li id="megamenu-mlid-11329" class="megamenu-slot megamenu-slot-5 even half-2 leaf-5 last  last"><h3 class="megamenu-slot-title"><span title="" class="nolink"> Whoâ€™s Who</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11354" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/whoswho" title="">The Interface</a></li>
+<li id="megamenu-mlid-11355" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/bio-intro">Introduction</a></li>
+<li id="megamenu-mlid-11357" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/bio-sources">Information Sources</a></li>
+<li id="megamenu-mlid-11358" class="megamenu-item megamenu-item-3 even half-2 leaf-3 "><a href="/ybguide/bio-editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11356" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/bio-contents">Biographical Information</a></li>
+<li id="megamenu-mlid-11366" class="megamenu-item megamenu-item-5 even half-2 leaf-5 last  last"><a href="/ybguide/bio-stats" title="">Statistical Tables</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-11323" class="megamenu-parent megamenu-parent-3 even half-2 leaf-3 menu-11323 "><h2 class="megamenu-parent-title"><a href="/ybguide/history">Publication History</a></h2></li>
+<li id="megamenu-mlid-510" class="megamenu-parent megamenu-parent-4 odd half-2 leaf-4 menu-510 "><h2 class="megamenu-parent-title"><a href="/ybguide/editors">About UIA (The Editors)</a></h2></li>
+<li id="megamenu-mlid-499" class="megamenu-parent megamenu-parent-5 even half-2 leaf-5 last menu-499  last"><h2 class="megamenu-parent-title"><a href="/" title="">Login</a></h2></li>
+</ul>
+</div><!-- /.block -->
+  </div>
+ 
+
+</div>
+
+
+<div id="utility-bar">
+
+<nav id="secondary-menu" role="navigation">
+
+</nav>	
+</div>
+ 
+	  <header id="header" role="banner" style="margin-top:1px !important;">
+    <!--      <a href="/" title="Home" rel="home" id="logo"><img src="https://brill.uia.org/sites/all/themes/Brill2014/logo.png" alt="Home" /></a>-->
+        
+    <div id="logoleft"><a href="/" title="Brill"  class="uialogo">BRILL</a></div>
+
+         <hgroup id="name-and-slogan">
+        
+
+		<h1 id="site-name"> 
+      <a href="/ybio/" title="Home" rel="home" id="homelink">YEARBOOK OF INTERNATIONAL ORGANIZATIONS</a></h1>
+	        <div id="ybio-vols"><a href="https://ybio.brillonline.com/ybio/">Organizations</a> | <a href="https://ybio.brillonline.com/ybio/v2/">Geography</a> | <a href="https://ybio.brillonline.com/ybio/v3/">Subjects</a> | <a href="https://ybio.brillonline.com/ybio/v4">Bibliography</a> | <a href="https://ybio.brillonline.com/ybio/v5">Statistics</a> | <a href="https://ybio.brillonline.com/s/sdg/en">UN SDGs</a></div>  
+	
+
+
+
+
+
+        <div id="uiashort"><a href="/"><span>Yearbook of International Organizations</span></a></div>
+
+      
+          </hgroup><!-- /#name-and-slogan -->
+  
+  
+		<div id="uia_logo_brill">
+				<a href="https://uia.org" title="Union of International Associations"><img src="/sites/all/themes/Brill2014/images/design/uia_logo_brill.png" alt="Brill Logo"/></a>
+		</div>
+
+
+</header>
+
+  
+
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+		
+		
+		<div style="width:300px;float:right;font-size:11px;color:#999;text-align:right;padding-top:10px;">You are logged in as <em><script type="text/javascript">
+			var userid = "Alacrity Foundation";
+	        document.write(userid)
+	      </script></em></div>    
+    	
+    
+      
+ 	                      
+      
+      <a id="main-content"></a>
+                              
+      	
+      	
+      
+
+	 
+
+
+
+     
+
+
+<div style="float:right;width:150px;">
+	
+	
+</div>	
+
+
+
+        <h1 id="page-title" class="title">
+African Union
+
+
+
+
+
+
+
+        	
+        (AU)</h1>
+
+
+<p style="font-style:italic;color:#666;margin-top:-20px;">Union africaine (UA)<br /></p>
+         
+         <div style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;">
+          	
+         <iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;key=AIzaSyDSecKDTYLGmGVJj3bjqciTn48sZkHCEps&amp;hl=en&amp;geocode=&amp;q=Addis Ababa,+Ethiopia&amp;z=9&amp;iwloc=A&amp;output=embed"></iframe>
+<h2>Contact Details</h2>
+
+
+
+		
+
+	
+	<p>Main address: Chief of Staff: <br />PO Box 3243, Roosvelt Street (Old Airport Area) W21K19, <a href="/ybio?addcity_1_en=Addis Ababa" title="Addis Ababa (click to perform a search)">Addis Ababa</a>, <a href="/ybio?addpays_1_en=Ethiopia" title="Ethiopia (click to perform a search)">Ethiopia</a><br />Tel: (251 11) 551 77 00<br />Fax: (251 11) 551 78 44<br />Email: <a title='Click to send an e-mail to this address (from your default e-mail client)' href="/cdn-cgi/l/email-protection#9bbdb8aaaaa2bdb8aaabaabdb8a2a3bdb8aaaba2bdb8a2acbdb8aaaaaebdb8aaaaadbdb8aaabaabdb8aaaaafbdb8adafbdb8a2acbdb8aaaba9bdb8aaaaafbdb8aaabaebdb8a2a2bdb8a2acbdb8afaebdb8aaaaacbdb8aaaaabbdb8aaabaebdb8aaaaaabdb8aaaaabbdb8afadbdb8aaaaaabdb8aaaaafbdb8aaaba8" target=_blank>webmaster (at) africa-union.org</a><br /></p><p>Chairperson: <br />PO Box 3243, Roosvelt Street (Old Airport Area) W21K19, <a href="/ybio?addcity_1_en=Addis Ababa" title="Addis Ababa (click to perform a search)">Addis Ababa</a>, <a href="/ybio?addpays_1_en=Ethiopia" title="Ethiopia (click to perform a search)">Ethiopia</a><br /></p><p>URL: <br /><a title="Click to access page >http://www.au.int/<" href="http://www.au.int/" target="_blank">http://www.au.int/</a><br /></p>		
+		
+<div style="clear:both;"><p> </p><p></p></div><p> </p>
+</div>
+         
+<h2 style="margin-top:30px;">History</h2>
+<p>8 July 2001, Lusaka (Zambia), on signature by African Heads of State of a treaty dissolving <a href="/s/or/en/1100018734" title="Organization of African Unity (OAU)">Organization of African Unity (OAU)</a> and setting up the new organization over a one-year transition period. Constitutive Act signed 11 July 2001, Lusaka, came into force 28 June 2002. Heads of State and Government meeting/inaugural session of the Assembly, 10 July 2002, Durban (South Africa), adopted <i>African Union Durban Declaration</i>. Establishment is based on a suggestion in 1999, Sirte (Libyan AJ), by General Moammar Gaddafi, head of Libyan AJ.</p>
+<h2 style="margin-top:20px;">Aims</h2>
+<p>Achieve greater unity and solidarity among African countries and the peoples of Africa; defend the sovereignty, territorial integrity and independence of member states; accelerate political and socio-economic integration of the continent; promote and defend African common positions on issues of interest to the continent and its peoples; encourage international cooperation, taking account of the Charter of the United Nations and the Universal Declaration of Human Rights; promote peace, security and stability on the continent; promote democratic principles and institutions, popular participation, the rule of law and and good governance; promote and protect human and peoples' rights in accordance with the African Charter on Human and Peoples' Rights and other relevant instruments; establish the conditions necessary for the continent to play its rightful role in the global economy and in international negotiations; promote sustainable development on economic, social and cultural levels and the integration of African economies; promote cooperation in all fields of human activity so as to raise living standards of African peoples; coordinate and harmonize policies among existing and future regional economic communities leading to gradual attainment of the Union's objectives; advance the development of the continent by promoting research in all fields, in particular in science and technology; work with relevant international partners in the eradication of preventable diseases and the promotion of good health on the continent.</p>
+
+
+
+	<div></div>
+
+		<h2 style="margin-top:20px;">Events</h2><p>2019 Addis Ababa, Ethiopia – <em>Africa Industrialization Week</em> <br />2019 Gaborone, Botswana – <em>Africa Mining Summit</em> <br />2019 Addis Ababa, Ethiopia – <em>All Africa Postharvest Congress</em> <br />2019 Niamey, Niger – <em>Ordinary Session</em> <br />2019 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2019 Cairo, Egypt – <em>Ordinary Session</em> <br />2019 Addis Ababa, Ethiopia – <em>Session</em> <br />2019 Port Louis, Mauritius – <em>Meeting</em> <br />2019 Addis Ababa, Ethiopia – <em>ICREID : International Conference on (Re-)Emerging Infectious Diseases</em> <br />2019 Nairobi, Kenya – <em>Meeting of senior officials of the EAC Forum of National Electoral Commissions</em> <br />2019 Addis Ababa, Ethiopia – <em>Continental Consultation on combatting Online Child Sexual Exploitation (OCSC)</em> <br />2019 Johannesburg, South Africa – <em>ACRIS - Africa Climate Resilience Infrastructure Summit</em> <br />2019 Nairobi, Kenya – <em>Meeting</em> <br />2019 Addis Ababa, Ethiopia – <em>Technical Workshop on Mortality Surveillance in Africa</em> <br />2019 Addis Ababa, Ethiopia – <em>Joint Meeting on Ebola Virus Disease Preparedness, Vaccines and Therapeutics</em> <br /></p><p><a class="btn btn-small" id="moremeet"><i class="icon-th-list"></i> View More Events (248)</i></a></p><p><div id="morecal" style="display:none;margin-top:0;"><p style="margin-top:-5px;">2019 Addis Ababa, Ethiopia – <em>Capacity Building Workshop on Liberalising Aviation in Africa</em> <br />2019 Addis Ababa, Ethiopia – <em>International Food Safety Conference</em> <br />2019 Addis Ababa, Ethiopia – <em>Trilateral Meeting</em> <br />2019 Addis Ababa, Ethiopia – <em>African Leaders Meeting on Redefining the Future through Digital Transformation</em> <br />2019 Addis Ababa, Ethiopia – <em>High Level Working Session on Banning Plastics in Africa</em> <br />2019 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2019 Addis Ababa, Ethiopia – <em>High Level Session on the Africa Agriculture Transformation Scorecard as a Tool for Shared Learning and Driving Progress</em> <br />2019 Addis Ababa, Ethiopia – <em>Meeting</em> <br />2019 Addis Ababa, Ethiopia – <em>Africa Leadership Meeting on Investing in Health</em> <br />2019 Addis Ababa, Ethiopia – <em>High-Level Side Meeting on Corruption and the Illicit Exploitation and Trade of Africa's Natural Resources</em> <br />2019 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2019 Addis Ababa, Ethiopia – <em>Ministers Responsible for Education, Gender and Humanitarian Affairs Meeting</em> <br />2019 Addis Ababa, Ethiopia – <em>AU-ILO-IOM-ECA Steering Committee Meeting on Labour Migration Governance for Development and Integration</em> <br />2019 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2019 Addis Ababa, Ethiopia – <em>Summit</em> <br />2018 Maseru, Lesotho – <em>workshop on Fostering Dialogue and Collaboration between the AU Horn of Africa Initiative and the Southern Africa Development Community in Addressing Irregular Migration on the Southern Migratory Route</em> <br />2018 Addis Ababa, Ethiopia – <em>Assembly of Parties Meeting of Pan African e-Network (PAeN)</em> <br />2018 Nairobi, Kenya – <em>General Assembly</em> <br />2018 Nairobi, Kenya – <em>International Conference on Drug Demand Reduction</em> <br />2018 Addis Ababa, Ethiopia – <em>Forum on International Law and African Union Law</em> <br />2018 Abidjan, Côte d'Ivoire – <em>Forum Annuel Continental des Organes de Gestion des Elections</em> <br />2018 Nairobi, Kenya – <em>Annual Humanitarian Symposium</em> <br />2018 Addis Ababa, Ethiopia – <em>Extraordinary Session</em> <br />2018 Addis Ababa, Ethiopia – <em>Extraordinary Summit</em> <br />2018 Algiers, Algeria – <em>Session</em> <br />2018 Seoul, Korea Rep – <em>Korea-African Union Meeting of General Politics</em> <br />2018 Gaborone, Botswana – <em>Africa Mining Summit</em> <br />2018 Nouakchott, Mauritania – <em>Ordinary Session</em> <br />2018 Nouakchott, Mauritania – <em>Ordinary Session</em> <br />2018 Nouakchott, Mauritania – <em>Summit</em> <br />2018 Nouakchott, Mauritania – <em>Ordinary Session</em> <br />2018 Kigali, Rwanda – <em>Extraordinary Session</em> <br />2018 Kigali, Rwanda – <em>Extraordinary Session</em> <br />2018 Kigali, Rwanda – <em>Extraordinary Summit</em> <br />2018 Marrakech, Morocco – <em>ACRIS - Africa Climate Resilient Infrastructure Summit</em> <br />2018 Nairobi, Kenya – <em>Joint Clusters' Meeting</em> <br />2018 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2018 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2018 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2018 Addis Ababa, Ethiopia – <em>Summit</em> <br />2017 Nairobi, Kenya – <em>Annual Humanitarian Symposium</em> <br />2017 Addis Ababa, Ethiopia – <em>Extraordinary Session</em> <br />2017 Gaborone, Botswana – <em>Africa Mining Summit</em> <br />2017 Addis Ababa, Ethiopia – <em>Africa Hydromet Forum</em> <br />2017 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2017 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2017 Addis Ababa, Ethiopia – <em>Summit</em> <br />2017 Cairo, Egypt – <em>General Assembly</em> <br />2017 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2017 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2017 Addis Ababa, Ethiopia – <em>Summit</em> <br />2016 Kigali, Rwanda – <em>Summit</em> <br />2016 Kigali, Rwanda – <em>Ordinary Session</em> <br />2016 Addis Ababa, Ethiopia – <em>ACRIS - Africa Climate Resilient Infrastructure Summit</em> <br />2016 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2016 Addis Ababa, Ethiopia – <em>Summit</em> <br />2015 Johannesburg, South Africa – <em>Ordinary Session</em> <br />2015 Johannesburg, South Africa – <em>Ordinary Session</em> <br />2015 Johannesburg, South Africa – <em>Summit</em> <br />2015 Johannesburg, South Africa – <em>Ordinary Session</em> <br />2015 Addis Ababa, Ethiopia – <em>eLearning Africa : International Conference on ICT for Development, Education and Training</em> <br />2015 Brazzaville, Congo Brazzaville – <em>International Conference on Illegal Exploitation and Illicit Trade in Wild Flora and Fauna in Africa</em> <br />2015 Brussels, Belgium – <em>College to College Meeting</em> <br />2015 Addis Ababa, Ethiopia – <em>Joint Annual Meeting of the AU Conference of Ministers of Economy and Finance and ECA Conference of Ministers of Finance, Planning and Economic Development</em> <br />2015 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2015 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2015 Addis Ababa, Ethiopia – <em>Summit</em> <br />2015 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2014 Addis Ababa, Ethiopia – <em>ACRIS - Africa Climate Resilient Infrastructure Summit</em> <br />2014 Addis Ababa, Ethiopia – <em>African Forum on Business and Human Rights</em> <br />2014 Addis Ababa, Ethiopia – <em>Extraordinary Session</em> <br />2014 Malabo, Equatorial Guinea – <em>Ordinary Session</em> <br />2014 Malabo, Equatorial Guinea – <em>Ordinary Session</em> <br />2014 Malabo, Equatorial Guinea – <em>Ordinary Session</em> <br />2014 Malabo, Equatorial Guinea – <em>Summit</em> <br />2014 Brussels, Belgium – <em>EU-Africa Business Forum</em> <br />2014 Abuja, Nigeria – <em>Joint Annual Meeting of the AU Conference of Ministers of Economy and Finance and ECA Conference of Ministers of Finance, Planning and Economic Development</em> <br />2014 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2014 Addis Ababa, Ethiopia – <em>AU Year of Agriculture Conference</em> <br />2014 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2014 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2014 Addis Ababa, Ethiopia – <em>Summit</em> <br />2013 Addis Ababa, Ethiopia – <em>Extraordinary Session</em> <br />2013 Johannesburg, South Africa – <em>International Conference on Maternal, Newborn and Child Health in Africa</em> <br />2013 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2013 Abidjan, Côte d'Ivoire – <em>Joint Annual Meeting of the AU Conference of Ministers of Economy and Finance and ECA Conference of Ministers of Finance, Planning and Economic Development</em> <br />2013 Addis Ababa, Ethiopia – <em>Africa Union Summit</em> <br />2013 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2012 Seoul, Korea Rep – <em>Korea-Africa Forum</em> <br />2012 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2012 Addis Ababa, Ethiopia – <em>Joint Annual Meeting of the AU Conference of Ministers of Economy and Finance and ECA Conference of Ministers of Finance, Planning and Economic Development</em> <br />2012 Addis Ababa, Ethiopia – <em>Ordinary Session</em> <br />2011 Malabo, Equatorial Guinea – <em>Senior officials meeting on the Africa-South America summit</em> <br />2011 Malabo, Equatorial Guinea – <em>Ordinary session</em> <br />2011 Malabo, Equatorial Guinea – <em>Ordinary session</em> <br />2011 Malabo, Equatorial Guinea – <em>Ordinary session</em> <br />2011 Arusha, Tanzania UR – <em>Meeting on operationalizing the Ouagadougou Action Plan to Combat Trafficking In Human Beings Especially Women and Children</em> <br />2011 Addis Ababa, Ethiopia – <em>Heads of states meeting</em> <br />2011 Addis Ababa, Ethiopia – <em>Africa-India forum summit</em> <br />2011 Addis Ababa, Ethiopia – <em>Extraordinary session</em> <br />2011 Addis Ababa, Ethiopia – <em>Joint Annual Meeting of the AU Conference of Ministers of Economy and Finance and ECA Conference of Ministers of Finance, Planning and Economic Development</em> <br />2011 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2011 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2011 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2010 Maputo, Mozambique – <em>All-Africa energy week</em> <br />2010 Vienna, Austria – <em>High level meeting of the Africa-EU energy partnership</em> <br />2010 Kampala, Uganda – <em>Ordinary session</em> <br />2010 Kampala, Uganda – <em>Ordinary session</em> <br />2010 Kampala, Uganda – <em>Ordinary session</em> <br />2010 Lilongwe, Malawi – <em>Joint Annual Meeting of the AU Conference of Ministers of Economy and Finance and ECA Conference of Ministers of Finance, Planning and Economic Development</em> <br />2010 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2010 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2010 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2009 Surt, Libyan AJ – <em>Ordinary session</em> <br />2009 Surt, Libyan AJ – <em>Ordinary session</em> <br />2009 Surt, Libyan AJ – <em>Ordinary session</em> <br />2009 Cairo, Egypt – <em>Joint Annual Meeting of the AU Conference of Ministers of Economy and Finance and ECA Conference of Ministers of Finance, Planning and Economic Development</em> <br />2009 Addis Ababa, Ethiopia – <em>Biennial ordinary session of the conference of African ministers of health</em> <br />2009 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2009 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2009 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2008 Dar es Salaam, Tanzania UR – <em>General Assembly</em> <br />2008 Sharm el Sheikh, Egypt – <em>Ordinary session</em> <br />2008 Sharm el Sheikh, Egypt – <em>Ordinary session</em> <br />2008 Sharm el Sheikh, Egypt – <em>Ordinary session</em> <br />2008 Addis Ababa, Ethiopia – <em>Joint Annual Meeting of the AU Conference of Ministers of Economy and Finance and ECA Conference of Ministers of Finance, Planning and Economic Development</em> <br />2008 Addis Ababa, Ethiopia – <em>Conference of ministers of economy and finance</em> <br />2008 Addis Ababa, Ethiopia – <em>Ordinary session / Summit</em> <br />2008 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2008 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2008 Addis Ababa, Ethiopia – <em>African private sector forum</em> <br />2008 Addis Ababa, Ethiopia – <em>Conference of the ministers in charge of youth</em> <br />2007 Addis Ababa, Ethiopia – <em>Conference of ministers of drug control</em> <br />2007 Johannesburg, South Africa – <em>Diaspora ministerial conference</em> <br />2007 Mombasa, Kenya – <em>Ordinary session of the ministerial conference of science and technology</em> <br />2007 Cairo, Egypt – <em>Pan-African forum on children</em> <br />2007 Durban, South Africa – <em>Conference of ministers responsible for road transport</em> <br />2007 Johannesburg, South Africa – <em>Extraordinary session of the conference on ministers of industry</em> <br />2007 Paris, France – <em>Regional consultative conference</em> <br />2007 Johannesburg, South Africa – <em>African conference on women in science</em> <br />2007 Johannesburg, South Africa – <em>Ordinary session of the conference of ministers of education</em> <br />2007 Kigali, Rwanda – <em>Conference of ministers in charge of integration</em> <br />2007 Johannesburg, South Africa – <em>0rdinary session</em> <br />2007 Accra, Ghana – <em>Ordinary session / Summit</em> <br />2007 Accra, Ghana – <em>Ordinary session</em> <br />2007 Accra, Ghana – <em>Ordinary session</em> <br />2007 Brazzaville, Congo Brazzaville – <em>Ordinary session</em> <br />2007 Addis Ababa, Ethiopia – <em>Ordinary session / Summit</em> <br />2007 Johannesburg, South Africa – <em>Biennial ordinary session of the conference of African ministers of health</em> <br />2007 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2007 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2007 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2006 Brazzaville, Congo Brazzaville – <em>Consultative meeting on the African regional nutrition strategy</em> <br />2006 Abuja, Nigeria – <em>Food security summit</em> <br />2006 Abuja, Nigeria – <em>Africa-South America summit</em> <br />2006 Abuja, Nigeria – <em>Ministerial meeting of the Africa-South America summit</em> <br />2006 Cairo, Egypt – <em>African private sector forum</em> <br />2006 Addis Ababa, Ethiopia – <em>Meeting</em> <br />2006 Abuja, Nigeria – <em>Senior officials meeting on the Africa-South America summit</em> <br />2006 Addis Ababa, Ethiopia – <em>Africa forum on the fight against corruption</em> <br />2006 Yaoundé, Cameroon – <em>CAMEF : conference of African ministers of economy and finance</em> <br />2006 Cairo, Egypt – <em>Extraordinary conference</em> <br />2006 Addis Ababa, Ethiopia – <em>Extraordinary session</em> <br />2006 Cairo, Egypt – <em>Africa ICT week</em> <br />2006 Addis Ababa, Ethiopia – <em>PACC : pan African cultural congress</em> <br />2006 Addis Ababa, Ethiopia – <em>Consultative ministerial meeting on Darfur</em> <br />2006 Beijing, China – <em>Summit of the forum on China-Africa cooperation</em> <br />2006 Beijing, China – <em>Ministerial conference of the forum on China-Africa cooperation</em> <br />2006 Addis Ababa, Ethiopia – <em>Civil society organizations consultation and preparation for PAWO congress</em> <br />2006 Alexandria, Egypt – <em>Congress of African scientists and policy makers</em> <br />2006 Addis Ababa, Ethiopia – <em>Regional consultation on HIV vaccine research and development in Africa</em> <br />2006 Addis Ababa, Ethiopia – <em>Workshop on the African position on the use of biotechnology and GMOs in agriculture</em> <br />2006 Brazzaville, Congo Brazzaville – <em>EU-Africa ministerial troika meeting</em> <br />2006 Banjul, Gambia – <em>Ordinary session / Summit</em> <br />2006 Banjul, Gambia – <em>Ordinary session</em> <br />2006 Banjul, Gambia – <em>Ordinary session</em> <br />2006 Addis Ababa, Ethiopia – <em>Conference of the ministers in charge of youth</em> <br />2006 Vienna, Austria – <em>EU-Africa ministerial troika meeting</em> <br />2006 Abuja, Nigeria – <em>Special summit on HIV/AIDS, tuberculosis and malaria</em> <br />2006 Cairo, Egypt – <em>Ordinary session</em> <br />2006 Cairo, Egypt – <em>African ministerial conference on ICT</em> <br />2006 Brazzaville, Congo Brazzaville – <em>Conference of ministers in charge of railway transport</em> <br />2006 Addis Ababa, Ethiopia – <em>Ministerial meeting on draft charter on democracy, elections and governance and on Lome declaration</em> <br />2006 Algiers, Algeria – <em>Meeting on migration and development</em> <br />2006 Brazzaville, Congo Brazzaville – <em>Regional consultation on scaling up towards universal access to HIV and AIDS prevention, treatment, care and support in Africa</em> <br />2006 Bamako, Mali – <em>Conference of ministers of agriculture</em> <br />2006 Khartoum, Sudan – <em>Ordinary session</em> <br />2006 Khartoum, Sudan – <em>Ordinary session / Summit</em> <br />2006 Khartoum, Sudan – <em>Extraordinary session</em> <br />2006 Khartoum, Sudan – <em>Ordinary session</em> <br />2006 Addis Ababa, Ethiopia – <em>Extraordinary conference of ministers of education</em> <br />2005 Addis Ababa, Ethiopia – <em>Meeting</em> <br />2005 Addis Ababa, Ethiopia – <em>Pan-African conference of ministers of public service/civil service</em> <br />2005 Addis Ababa, Ethiopia – <em>Ministerial conference on disaster risk reduction</em> <br />2005 Nairobi, Kenya – <em>Session of the conference of African ministers of culture</em> <br />2005 Addis Ababa, Ethiopia – <em>Continental forum on human rights and people infected and affected by HIV/AIDS</em> <br />2005 Addis Ababa, Ethiopia – <em>Forum on governance in Africa</em> <br />2005 Cairo, Egypt – <em>Meeting on radio and televisions channels for Africa</em> <br />2005 Arusha, Tanzania UR – <em>Extraordinary session of the conference of ministers of trade</em> <br />2005 Kigali, Rwanda – <em>Conference of ministers responsible for animal resources</em> <br />2005 Addis Ababa, Ethiopia – <em>Extraordinary session</em> <br />2005 Dakar, Senegal – <em>Conference of ministers responsible for women and gender</em> <br />2005 Gaborone, Botswana – <em>Biennial ordinary session of the conference of African ministers of health</em> <br />2005 Addis Ababa, Ethiopia – <em>Extraordinary summit of heads of state and government on UN reform</em> <br />2005 Surt, Libyan AJ – <em>Ordinary session</em> <br />2005 Surt, Libyan AJ – <em>Ordinary session / Summit</em> <br />2005 Surt, Libyan AJ – <em>Ordinary session</em> <br />2005 Dakar, Senegal – <em>CAMEF : conference of African ministers of economy and finance</em> <br />2005 Kempton Park, South Africa – <em>Ordinary session</em> <br />2005 Abuja, Nigeria – <em>Ordinary session</em> <br />2005 Abuja, Nigeria – <em>Ordinary session / Summit</em> <br />2005 Abuja, Nigeria – <em>Ordinary session</em> <br />2004 Ouagadougou, Burkina Faso – <em>Extraordinary summit on employment and poverty alleviation in Africa</em> <br />2004 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2004 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2004 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2004 Johannesburg, South Africa – <em>African regional consultation on disaster reduction</em> <br />2004 Addis Ababa, Ethiopia – <em>Meeting</em> <br />2004 Kigali, Rwanda – <em>Ordinary session of the conference of ministers of trade, customs and immigration</em> <br />2004 Addis Ababa, Ethiopia – <em>International policy conference on the African child and the family</em> <br />2004 Addis Ababa, Ethiopia – <em>Meeting on elections, democracy and governance</em> <br />2004 Brazzaville, Congo Brazzaville – <em>Meeting of governmental experts to consider the draft African non-aggression and common defence pact</em> <br />2004 Brazzaville, Congo Brazzaville – <em>Meeting on non-aggression pact</em> <br />2004 Cotonou, Benin – <em>Session</em> <br />2004 Addis Ababa, Ethiopia – <em>Ordinary session</em> <br />2004 Addis Ababa, Ethiopia – <em>Ordinary session / Summit</em> <br />2004 Surt, Libyan AJ – <em>Extraordinary session</em> <br />2004 Surt, Libyan AJ – <em>Extraordinary session</em> <br />2004 Tripoli, Libyan AJ – <em>Meeting on agriculture and water</em> <br />2003 Algiers, Algeria – <em>Conférence de haut niveau sur le partenariat de l'initiative environmentale NEPAD</em> <br />2003 Addis Ababa, Ethiopia – <em>Brainstorming session on building an African Union for the 21st century</em> <br />2003 Lilongwe, Malawi – <em>Regional workshop on irrigation farming for small and medium scale farmers</em> <br />2003 Addis Ababa, Ethiopia – <em>Brainstorming session on building an African Union for the 21st century</em> <br />2003 Addis Ababa, Ethiopia – <em>Session</em> <br />2003 Maputo, Mozambique – <em>Ordinary session / Summit</em> <br />2003 Maputo, Mozambique – <em>Ordinary session</em> <br />2003 Maputo, Mozambique – <em>Ordinary session</em> <br />2003 Maputo, Mozambique – <em>Conference of ministers of agriculture</em> <br />2003 Grand-Baie, Mauritius – <em>Conference of ministers of trade</em> <br />2003 Sun City, South Africa – <em>Extraordinary session</em> <br />2003 Tripoli, Libyan AJ – <em>Biennial ordinary session of the conference of African ministers of health</em> <br />2003 Grand-Baie, Mauritius – <em>Ordinary session</em> <br />2003 Ndjamena, Chad – <em>Ordinary session</em> <br />2003 Addis Ababa, Ethiopia – <em>Extraordinary session</em> <br />2003 Addis Ababa, Ethiopia – <em>Extraordinary session</em> <br />2002 Tripoli, Libyan AJ – <em>Extraordinary session</em> <br />2002 Durban, South Africa – <em>Ordinary session / Summit</em> <br />2002 Durban, South Africa – <em>Ordinary session</em> <br /><p><a class="btn btn-small" id="lessmeet"><i class="icon-th-list"></i> View Less Events (248)</i></a></p><p></p></div>
+
+
+
+
+
+<h2 style="margin-top:20px;">Activities</h2>
+<p>Politics/policy/regulatory.</p>
+
+
+<h2 style="margin-top:20px;" id="ybp_structure">Structure</h2>
+<p>Assembly of Heads of State and Government; Executive Council; Permanent Representatives Committee (PRC); <i>Peace and Security Council (PSC)</i>; Specialised Technical Committees; AU Commission; <a href="/s/or/en/1100025008" title="New Partnership for Africa's Development (NEPAD)">New Partnership for Africa's Development (NEPAD)</a> / AU Development Agency; AU Foundation; Financial Institutions; Judicial, Human Rights and Legal Organs; <a href="/s/or/en/1100046241" title="Pan-African Parliament (PAP)">Pan-African Parliament (PAP)</a>; <i>Economic, Social and Cultural Council (ECOSOCC)</i>; African Peer Review Mechanism; Regional Economic Communities (RECs); Specialised Agencies and Institutions.<p> Specialised Technical Committees (13):<p> Finance, Monetary Affairs, Economic Planning and Integration; Social Development, Labour and Employment; Health, Population and Drug Control; Justice and Legal Affairs; Youth, Culture and Sports; Public Service, Local Government, Urban Development and Decentralisation; Communication and Information Communications Technology; Defence, Safety and Security; Agriculture, Rural Development, Water and Environment; Education, Science and Technology; Gender and Women's Empowerment; Migration, Refugees and Internally Displaced Persons (IDPs); Migration, Refugees and Internally Displaced Persons (IDPs).<p> Financial Institutions (3): <a href="/s/or/en/1100063303" title="African Monetary Fund (AMF)">African Monetary Fund (AMF)</a>; <a href="/s/or/en/1100002830" title="African Investment Bank (AIB)">African Investment Bank (AIB)</a>; <a href="/s/or/en/1100022951" title="African Central Bank (ACB)">African Central Bank (ACB)</a>.<p> Judicial, Human Rights and Legal Organs (6): <a href="/s/or/en/1100027559" title="African Commission on Human and Peoples' Rights (ACHPR)">African Commission on Human and Peoples' Rights (ACHPR)</a>; <a href="/s/or/en/1100045429" title="African Court of Human and Peoples' Rights (AfCHPR)">African Court of Human and Peoples' Rights (AfCHPR)</a>; Extraordinary African Chambers (EAC); <i>African Union Commission on International Law (AUCIL)</i>; AU Advisory Board on Corruption; <a href="/s/or/en/1122275084" title="African Committee of Experts on the Rights and Welfare of the Child (ACERWC)">African Committee of Experts on the Rights and Welfare of the Child (ACERWC)</a>.<p> Regional Economic Communities (8) aim to faciliate regional economic integration, through <a href="/s/or/en/1100027996" title="African Economic Community (AEC)">African Economic Community (AEC)</a>: <a href="/s/or/en/1100006463" title="Arab Maghreb Union (AMU)">Arab Maghreb Union (AMU)</a>; <a href="/s/or/en/1100061172" title="Common Market for Eastern and Southern Africa (COMESA)">Common Market for Eastern and Southern Africa (COMESA)</a>; <a href="/s/or/en/1100039307" title="Community of Sahel-Saharan States (CEN-SAD)">Community of Sahel-Saharan States (CEN-SAD)</a>; <a href="/s/or/en/1100059095" title="East African Community (EAC)">East African Community (EAC)</a>; <a href="/s/or/en/1100007392" title="Economic Community of Central African States (ECCAS)">Economic Community of Central African States (ECCAS)</a>; <a href="/s/or/en/1100029396" title="Economic Community of West African States (ECOWAS)">Economic Community of West African States (ECOWAS)</a>; <a href="/s/or/en/1100029375" title="Intergovernmental Authority on Development (IGAD)">Intergovernmental Authority on Development (IGAD)</a>; <a href="/s/or/en/1100061207" title="Southern African Development Community (SADC)">Southern African Development Community (SADC)</a>.<p> Specialised Agencies and Institutions:<p> <p>&nbsp;&bull; -Education, Human Resources, Science and Technology Bodies: <a href="/s/or/en/1122275262" title="Pan African University (PAU)">Pan African University (PAU)</a>; <i>Pan African Institute for Education for Development (IPED)</i> / <i>African Observatory for Education</i>; <a href="/s/or/en/1100035971" title="African Union International Centre for Girls' and Women's Education in Africa (AU/CIEFFA)">African Union International Centre for Girls' and Women's Education in Africa (AU/CIEFFA)</a>; <a href="/s/or/en/1100039607" title="African Union Scientific Technical Research Commission (AU STRC)">African Union Scientific Technical Research Commission (AU STRC)</a>, including <a href="/s/or/en/1122283539" title="Pan-African Intellectual Property Organisation (PAIPO)">Pan-African Intellectual Property Organisation (PAIPO)</a>; <a href="/s/or/en/1122283641" title="African Scientific Technical and Research Innovation Council (ASRIC)">African Scientific Technical and Research Innovation Council (ASRIC)</a>; <a href="/s/or/en/1122283636" title="African Observatory of Science, Technology and Innovation (AOSTI)">African Observatory of Science, Technology and Innovation (AOSTI)</a>.<p> <p>&nbsp;&bull; -Gender Development: <i>Fund for African Women</i>.<p> <p>&nbsp;&bull; -Economic Bodies: <i>Pan-African Institute for Statistics (STATAFRIC)</i>; <i>Pan African Training Centre on Statistics</i>.<p> <p>&nbsp;&bull; -Energy and Infrastructure Bodies: <a href="/s/or/en/1100013156" title="African Civil Aviation Commission (AFCAC)">African Civil Aviation Commission (AFCAC)</a>; <a href="/s/or/en/1100022185" title="African Airlines Association (AFRAA)">African Airlines Association (AFRAA)</a>; <a href="/s/or/en/1100061256" title="African Telecommunications Union (ATU)">African Telecommunications Union (ATU)</a>; <a href="/s/or/en/1100059078" title="Pan African Postal Union (PAPU)">Pan African Postal Union (PAPU)</a>; <a href="/s/or/en/1100017366" title="African Energy Commission (AFREC)">African Energy Commission (AFREC)</a>; <a href="/s/or/en/1100065052" title="African Commission on Nuclear Energy (AFCONE)">African Commission on Nuclear Energy (AFCONE)</a>; <a href="/s/or/en/1122283601" title="African Minerals Development Centre (AMDC)">African Minerals Development Centre (AMDC)</a>.<p> <p>&nbsp;&bull; -Rural Economy and Agricultural Bodies:<p> <a href="/s/or/en/1100044589" title="Interafrican Bureau for Animal Resources (AU-IBAR)">Interafrican Bureau for Animal Resources (AU-IBAR)</a>; <a href="/s/or/en/1100062629" title="Inter-African Phytosanitary Council (AU-IAPSC)">Inter-African Phytosanitary Council (AU-IAPSC)</a>; <a href="/s/or/en/1100052301" title="Semi-Arid Food Grain Research and Development (AU SAFGRAD)">Semi-Arid Food Grain Research and Development (AU SAFGRAD)</a>; <a href="/s/or/en/1100014071" title="Pan African Veterinary Vaccine Center of the African Union (AU-PANVAC)">Pan African Veterinary Vaccine Center of the African Union (AU-PANVAC)</a>; Pan African Tsetse and Trypanosomiasis Eradication Campaign (PATTEC); Fouta Djallon Highlands Programme AU Coordination Office; <a href="/s/or/en/1122281755" title="African Risk Capacity Agency (ARC)">African Risk Capacity Agency (ARC)</a>.<p> <p>&nbsp;&bull; -Security Bodies: <a href="/s/or/en/1122283632" title="Committee of Intelligence  and  Security Service of Africa (CISSA)">Committee of Intelligence  and  Security Service of Africa (CISSA)</a>; <a href="/s/or/en/1122283633" title="African Center for the Study and Research on Terrorism (ACSRT)">African Center for the Study and Research on Terrorism (ACSRT)</a>; <a href="/s/or/en/1122283485" title="African Union Mechanism for Police Cooperation (AFRIPOL)">African Union Mechanism for Police Cooperation (AFRIPOL)</a>.<p> <p>&nbsp;&bull; -Social Affairs Bodies: <a href="/s/or/en/1122282617" title="Africa Centres for Disease Control and Prevention (Africa CDC)">Africa Centres for Disease Control and Prevention (Africa CDC)</a>; <a href="/s/or/en/1100010364" title="Centre for Linguistic and Historical Studies by Oral Tradition (CELHTO)">Centre for Linguistic and Historical Studies by Oral Tradition (CELHTO)</a>; <a href="/s/or/en/1100043029" title="African Academy of Languages (ACALAN)">African Academy of Languages (ACALAN)</a>; <a href="/s/or/en/1122283599" title="African Institute for Remittances (AIR)">African Institute for Remittances (AIR)</a>; <a href="/s/or/en/1122283451" title="African Union Sports Council (AUSC)">African Union Sports Council (AUSC)</a>; <i>African Audiovisual and Cinema Commission (AACC)</i>.<p> <p>&nbsp;&bull; -Other Bodies: <a href="/s/or/en/1100031148" title="The African Capacity Building Foundation (ACBF)">The African Capacity Building Foundation (ACBF)</a>; <a href="/s/or/en/1100019754" title="Pan African Women's Organization (PAWO)">Pan African Women's Organization (PAWO)</a>.<p> Also includes: <a href="/s/or/en/1122283634" title="African Medicines Agency">African Medicines Agency</a>; <a href="/s/or/en/1122283546" title="African Space Agency (AfSA)">African Space Agency (AfSA)</a>. AfCHPR and <a href="/s/or/en/1100067261" title="Court of Justice of the African Union">Court of Justice of the African Union</a> will be merged to become <a href="/s/or/en/1122283450" title="African Court of Justice and Human Rights">African Court of Justice and Human Rights</a>.</p>
+	
+
+<h2 style="margin-top:20px;">Languages</h2>
+<p>Arabic, English, French, Portuguese.</p>
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Relations with Inter-Governmental Organizations</h2>
+<p>Accredited to the Conference of the Parties of: <a href="/s/or/en/1100046997" title="Secretariat of the United Nations Convention to Combat Desertification (Secretariat of the UNCCD)">Secretariat of the United Nations Convention to Combat Desertification (Secretariat of the UNCCD)</a>. Accredited by: <a href="/s/or/en/1100014840" title="United Nations Framework Convention on Climate Change - Secretariat (UNFCCC Climate Change Secretariat)">United Nations Framework Convention on Climate Change - Secretariat (UNFCCC Climate Change Secretariat)</a>. Entitled to be represented at Sessions of General Conference of <a href="/s/or/en/1100052721" title="International Atomic Energy Agency (IAEA)">International Atomic Energy Agency (IAEA)</a>. Cooperation agreement with: <a href="/s/or/en/1100043851" title="Food and Agriculture Organization of the United Nations (FAO)">Food and Agriculture Organization of the United Nations (FAO)</a>; <a href="/s/or/en/1100004701" title="International Maritime Organization (IMO)">International Maritime Organization (IMO)</a>; <a href="/s/or/en/1100010946" title="United Nations Educational, Scientific and Cultural Organization (UNESCO)">United Nations Educational, Scientific and Cultural Organization (UNESCO)</a>. Memorandum of Understanding with: <a href="/s/or/en/1100067625" title="Organisation for the Prohibition of Chemical Weapons (OPCW)">Organisation for the Prohibition of Chemical Weapons (OPCW)</a>. Cooperates with: <a href="/s/or/en/1100024043" title="Union of African Shippers' Councils (UASC)">Union of African Shippers' Councils (UASC)</a>; <a href="/s/or/en/1100037897" title="United Nations Institute for Training and Research (UNITAR)">United Nations Institute for Training and Research (UNITAR)</a>. Participates in the activities of: <a href="/s/or/en/1100058717" title="United Nations Conference on Trade and Development (UNCTAD)">United Nations Conference on Trade and Development (UNCTAD)</a>. Permanent observer status with: <a href="/s/or/en/1100029679" title="World Intellectual Property Organization (WIPO)">World Intellectual Property Organization (WIPO)</a>. Observer to: <a href="/s/or/en/1100053975" title="Codex Alimentarius Commission (CAC)">Codex Alimentarius Commission (CAC)</a>; <a href="/s/or/en/1100031258" title="International Organization for Migration (IOM)">International Organization for Migration (IOM)</a>; <a href="/s/or/en/1100040595" title="World Trade Organization (WTO)">World Trade Organization (WTO)</a>. Observer to General Assembly of: <a href="/s/or/en/1100057394" title="United Nations (UN)">United Nations (UN)</a>. Representative in Governing Board of: <a href="/s/or/en/1100057704" title="UNESCO - International Institute for Capacity Building in Africa (IICBA)">UNESCO - International Institute for Capacity Building in Africa (IICBA)</a>. Co-Chairs on an alternating basis with <a href="/s/or/en/1100025008" title="New Partnership for Africa's Development (NEPAD)">New Partnership for Africa's Development (NEPAD)</a> and G8 and non-G8 member countries of <a href="/s/or/en/1100004177" title="Organisation for Economic Co-operation and Development (OECD)">Organisation for Economic Co-operation and Development (OECD)</a>: <a href="/s/or/en/1100038036" title="Africa Partnership Forum (APF)">Africa Partnership Forum (APF)</a>. Member of: <a href="/s/or/en/1100065693" title="Common Fund for Commodities (CFC)">Common Fund for Commodities (CFC)</a>; <a href="/s/or/en/1100041796" title="International Association of Anti-Corruption Authorities (IAACA)">International Association of Anti-Corruption Authorities (IAACA)</a>; <a href="/s/or/en/1100051700" title="International Nuclear Information System (INIS)">International Nuclear Information System (INIS)</a>; <a href="/s/or/en/1100046519" title="Parliamentary Union of the OIC Member States (PUIC)">Parliamentary Union of the OIC Member States (PUIC)</a>; <a href="/s/or/en/1100060394" title="United Nations Committee on the Exercise of the Inalienable Rights of the Palestinian People (CEIRPP)">United Nations Committee on the Exercise of the Inalienable Rights of the Palestinian People (CEIRPP)</a>. Invited to sessions of Intergovernmental Council of: <a href="/s/or/en/1100065387" title="International Programme for the Development of Communication (IPDC)">International Programme for the Development of Communication (IPDC)</a>. <a href="/s/or/en/1100011657" title="International Conference on the Great Lakes Region (ICGLR)">International Conference on the Great Lakes Region (ICGLR)</a> is organized under the auspices of the AU and the United Nations. Supports: <a href="/s/or/en/1100059797" title="European Development Fund (EDF)">European Development Fund (EDF)</a>; <a href="/s/or/en/1100018825" title="United Nations High Commissioner for Refugees (UNHCR)">United Nations High Commissioner for Refugees (UNHCR)</a>. Representatives from: <a href="/s/or/en/1100035928" title="Unitaid">Unitaid</a>. Instrumental in setting up: <a href="/s/or/en/1100049451" title="African Organisation for Standardisation (ARSO)">African Organisation for Standardisation (ARSO)</a>; <a href="/s/or/en/1100046957" title="Infrastructure Consortium for Africa (ICA)">Infrastructure Consortium for Africa (ICA)</a>; <a href="/s/or/en/1100065338" title="African Union/United Nations Hybrid Operation in Darfur (UNAMID)">African Union/United Nations Hybrid Operation in Darfur (UNAMID)</a>; <a href="/s/or/en/1100010294" title="United Nations Operation in Burundi (ONUB)">United Nations Operation in Burundi (ONUB)</a>.<p> Links with:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100027559" title="African Commission on Human and Peoples' Rights (ACHPR)">African Commission on Human and Peoples' Rights (ACHPR)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100032429" title="African Development Bank (ADB)">African Development Bank (ADB)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100033535" title="African Development Bank Group (ADB Group)">African Development Bank Group (ADB Group)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100017366" title="African Energy Commission (AFREC)">African Energy Commission (AFREC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100004655" title="African Organization of Cartography and Remote Sensing (AOCRS)">African Organization of Cartography and Remote Sensing (AOCRS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100065435" title="African Regional Labour Administration Centre, Harare (ARLAC)">African Regional Labour Administration Centre, Harare (ARLAC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100029105" title="African Reinsurance Corporation (AFRICA RE)">African Reinsurance Corporation (AFRICA RE)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100066033" title="African Virtual University (AVU)">African Virtual University (AVU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100058842" title="Commonwealth Fund for Technical Cooperation (CFTC)">Commonwealth Fund for Technical Cooperation (CFTC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100023702" title="Central Africa Economic and Monetary Community (CAEMC)">Central Africa Economic and Monetary Community (CAEMC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100039307" title="Community of Sahel-Saharan States (CEN-SAD)">Community of Sahel-Saharan States (CEN-SAD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100066199" title="Council of Europe (CE)">Council of Europe (CE)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100059885" title="Desert Locust Control Organization for Eastern Africa (DLCO-EA)">Desert Locust Control Organization for Eastern Africa (DLCO-EA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100027514" title="United Nations Economic and Social Council (ECOSOC)">United Nations Economic and Social Council (ECOSOC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100029323" title="European Centre for Global Interdependence and Solidarity (North-South Centre)">European Centre for Global Interdependence and Solidarity (North-South Centre)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100010350" title="European Economic and Social Committee (EESC)">European Economic and Social Committee (EESC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100040667" title="Regional Institute of Higher Education and Research in Cultural Development (IRES-RDEC)">Regional Institute of Higher Education and Research in Cultural Development (IRES-RDEC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100017213" title="International Fund for Agricultural Development (IFAD)">International Fund for Agricultural Development (IFAD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100037163" title="International Livestock Research Institute (ILRI)">International Livestock Research Institute (ILRI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100005618" title="Mediterranean Action Plan (MAP)">Mediterranean Action Plan (MAP)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100017192" title="New Africa Initiative (NAI)">New Africa Initiative (NAI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100012841" title="Organization for the Harmonization of Business Law in Africa (OHADA)">Organization for the Harmonization of Business Law in Africa (OHADA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100014034" title="Regional African Satellite Communications Organization (RASCOM)">Regional African Satellite Communications Organization (RASCOM)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100062571" title="Regional Centre on Small Arms and Light Weapons in the Great Lakes Region, the Horn of Africa and Bordering States (RECSA)">Regional Centre on Small Arms and Light Weapons in the Great Lakes Region, the Horn of Africa and Bordering States (RECSA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100063428" title="South East Atlantic Fisheries Organization (SEAFO)">South East Atlantic Fisheries Organization (SEAFO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100002502" title="United Nations Children's Fund (UNICEF)">United Nations Children's Fund (UNICEF)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100061471" title="United Nations Industrial Development Organization (UNIDO)">United Nations Industrial Development Organization (UNIDO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100026027" title="United Nations Economic Commission for Africa (ECA)">United Nations Economic Commission for Africa (ECA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100034190" title="United Nations Office of the Special Advisor on Africa (OSAA)">United Nations Office of the Special Advisor on Africa (OSAA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100040262" title="United Nations Regional Centre for Peace and Disarmament in Africa (UNREC)">United Nations Regional Centre for Peace and Disarmament in Africa (UNREC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100037994" title="World Solidarity Fund">World Solidarity Fund</a>.</p>
+
+<h2 style="margin-top:20px;">Relations with Non-Governmental Organizations</h2>
+<p>Instrumental in setting up: <a href="/s/or/en/1100007684" title="African Development Forum (ADF)">African Development Forum (ADF)</a>; <a href="/s/or/en/1100016763" title="Observatory of Cultural Policies in Africa (OCPA)">Observatory of Cultural Policies in Africa (OCPA)</a>. <a href="/s/or/en/1100042409" title="Council for the Development of Social Science Research in Africa (CODESRIA)">Council for the Development of Social Science Research in Africa (CODESRIA)</a>; <a href="/s/or/en/1100030701" title="African Physical Society (AfPS)">African Physical Society (AfPS)</a> and <a href="/s/or/en/1100061652" title="Association of Power Utilities in Africa (APUA)">Association of Power Utilities in Africa (APUA)</a> are Observer members. Memorandum of Understanding with: <a href="/s/or/en/1122278395" title="Council of Africa Political Parties (CAPP)">Council of Africa Political Parties (CAPP)</a>; <a href="/s/or/en/1100022696" title="European Centre for Development Policy Management (ECDPM)">European Centre for Development Policy Management (ECDPM)</a>. Special relationship with: <a href="/s/or/en/1100033055" title="International Union for Conservation of Nature and Natural Resources (IUCN)">International Union for Conservation of Nature and Natural Resources (IUCN)</a>. Member of: <a href="/s/or/en/1100039346" title="Forum for Agricultural Research in Africa (FARA)">Forum for Agricultural Research in Africa (FARA)</a>. Permanent relations with: <a href="/s/or/en/1100040124" title="World Family Organization (WFO)">World Family Organization (WFO)</a>. Supports: <a href="/s/or/en/1100030858" title="Afro-Arab Institute for Culture and Strategic Studies (AACI)">Afro-Arab Institute for Culture and Strategic Studies (AACI)</a>; <a href="/s/or/en/1100062755" title="Association of African Universities (AAU)">Association of African Universities (AAU)</a>; <a href="/s/or/en/1100045461" title="Digital Solidarity Fund (DSF)">Digital Solidarity Fund (DSF)</a>; <a href="/s/or/en/1100027839" title="Pan African Social Prospects Centre - Albert Tevoedjre Institute (CPPS-IAT)">Pan African Social Prospects Centre - Albert Tevoedjre Institute (CPPS-IAT)</a>; <a href="/s/or/en/1100035394" title="World Network for Linguistic Diversity (Mayaa)">World Network for Linguistic Diversity (Mayaa)</a>. Cooperates with: <a href="/s/or/en/1100049896" title="African Refugees Foundation (AREF)">African Refugees Foundation (AREF)</a>; <a href="/s/or/en/1100042415" title="Global Forum for Media Development (GFMD)">Global Forum for Media Development (GFMD)</a>. Partners: <a href="/s/or/en/1100006765" title="Africa Governance Institute (AGI)">Africa Governance Institute (AGI)</a>. Contact with: <a href="/s/or/en/1100005325" title="Leonard Cheshire Disability">Leonard Cheshire Disability</a>. Instrumental in setting up: <a href="/s/or/en/1100068400" title="Conference of Directors of the West African National Meteorological and Hydrological Services (AFRIMET)">Conference of Directors of the West African National Meteorological and Hydrological Services (AFRIMET)</a>. Links with:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100001387" title="Africa Humanitarian Action (AHA)">Africa Humanitarian Action (AHA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100013776" title="Africa Leadership Forum (ALF)">Africa Leadership Forum (ALF)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100039174" title="Africa Leadership Institute (AFLI)">Africa Leadership Institute (AFLI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100025035" title="Africa Trade Network (ATN)">Africa Trade Network (ATN)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100007783" title="African Council for Sustainable Health Development (ACOSHED)">African Council for Sustainable Health Development (ACOSHED)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100000331" title="African Democracy Forum (ADF)">African Democracy Forum (ADF)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100066000" title="African Forest Research Network (AFORNET)">African Forest Research Network (AFORNET)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100036486" title="African Futures Institute (AFI)">African Futures Institute (AFI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100056539" title="African Iron and Steel Association (AISA)">African Iron and Steel Association (AISA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100009136" title="African Network for Prevention and Protection Against Child Abuse and Neglect (ANPPCAN)">African Network for Prevention and Protection Against Child Abuse and Neglect (ANPPCAN)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100050012" title="African Unification Front (AUF)">African Unification Front (AUF)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100019071" title="African Union of the Blind (AFUB)">African Union of the Blind (AFUB)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100002477" title="Association of African Historians (AHA)">Association of African Historians (AHA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100007961" title="Business Africa (BUSINESSAFRICA)">Business Africa (BUSINESSAFRICA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100038602" title="Centre for Human Rights, Pretoria">Centre for Human Rights, Pretoria</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100027643" title="CropLife Africa Middle East (CLAME)">CropLife Africa Middle East (CLAME)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100056932" title="Democratic Organization of African Workers' Trade Unions (DOAWTU)">Democratic Organization of African Workers' Trade Unions (DOAWTU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100024487" title="East African Human Rights Institute (EAHRI)">East African Human Rights Institute (EAHRI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100047652" title="Eastern African Network of AIDS Service Organizations (EANNASO)">Eastern African Network of AIDS Service Organizations (EANNASO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100045464" title="Extractive Industries Transparency Initiative (EITI)">Extractive Industries Transparency Initiative (EITI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100020398" title="Global Network for Good Governance (GNGG)">Global Network for Good Governance (GNGG)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100038252" title="Institut panafricain de géopolitique (IPAG)">Institut panafricain de géopolitique (IPAG)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100014288" title="Inter-African Committee on Traditional Practices Affecting the Health of Women and Children (IAC)">Inter-African Committee on Traditional Practices Affecting the Health of Women and Children (IAC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100064090" title="International Centre of Insect Physiology and Ecology (ICIPE)">International Centre of Insect Physiology and Ecology (ICIPE)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100027023" title="International Committee of the Red Cross (ICRC)">International Committee of the Red Cross (ICRC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100060235" title="International Council of African Museums (AFRICOM)">International Council of African Museums (AFRICOM)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100043834" title="International Council on Social Welfare (ICSW)">International Council on Social Welfare (ICSW)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100046517" title="International Federation of Human Rights Leagues (IFHR)">International Federation of Human Rights Leagues (IFHR)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100036465" title="International Peace Institute (IPI)">International Peace Institute (IPI)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100033985" title="International Trade Union Confederation (ITUC)">International Trade Union Confederation (ITUC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100025722" title="Mwelekeo wa NGO (MWENGO)">Mwelekeo wa NGO (MWENGO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100007722" title="Organization of Solidarity of the Peoples of Africa, Asia and Latin America (OSPAAAL)">Organization of Solidarity of the Peoples of Africa, Asia and Latin America (OSPAAAL)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100058994" title="Pan-African Lawyers Union (PALU)">Pan-African Lawyers Union (PALU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100020186" title="Sahel and West Africa Club (SWAC)">Sahel and West Africa Club (SWAC)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100035130" title="West African Museums Programme (WAMP)">West African Museums Programme (WAMP)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100034043" title="Women and Law in Southern Africa Research Trust (WLSA)">Women and Law in Southern Africa Research Trust (WLSA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100024932" title="World Congress of African Linguistics (WOCAL)">World Congress of African Linguistics (WOCAL)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100041739" title="World Federation of the Deafblind (WFDB)">World Federation of the Deafblind (WFDB)</a>.</p>
+
+
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Members</h2><div>Member States of AU which had signed, ratified/acceded to the Union (55):<p>&nbsp;&bull; <u>Africa</u>: <a href="/ybio?memb_en_fm=Algeria" title="Algeria (click to perform a search)">Algeria</a>, <a href="/ybio?memb_en_fm=Angola" title="Angola (click to perform a search)">Angola</a>, <a href="/ybio?memb_en_fm=Benin" title="Benin (click to perform a search)">Benin</a>, <a href="/ybio?memb_en_fm=Botswana" title="Botswana (click to perform a search)">Botswana</a>, <a href="/ybio?memb_en_fm=Burkina Faso" title="Burkina Faso (click to perform a search)">Burkina Faso</a>, <a href="/ybio?memb_en_fm=Burundi" title="Burundi (click to perform a search)">Burundi</a>, <a href="/ybio?memb_en_fm=Cameroon" title="Cameroon (click to perform a search)">Cameroon</a>, <a href="/ybio?memb_en_fm=Cape Verde" title="Cape Verde (click to perform a search)">Cape Verde</a>, <a href="/ybio?memb_en_fm=Central African Rep" title="Central African Rep (click to perform a search)">Central African Rep</a>, <a href="/ybio?memb_en_fm=Chad" title="Chad (click to perform a search)">Chad</a>, <a href="/ybio?memb_en_fm=Comoros" title="Comoros (click to perform a search)">Comoros</a>, <a href="/ybio?memb_en_fm=Congo Brazzaville" title="Congo Brazzaville (click to perform a search)">Congo Brazzaville</a>, <a href="/ybio?memb_en_fm=Congo DR" title="Congo DR (click to perform a search)">Congo DR</a>, <a href="/ybio?memb_en_fm=Côte d'Ivoire" title="Côte d'Ivoire (click to perform a search)">Côte d'Ivoire</a>, <a href="/ybio?memb_en_fm=Djibouti" title="Djibouti (click to perform a search)">Djibouti</a>, <a href="/ybio?memb_en_fm=Egypt" title="Egypt (click to perform a search)">Egypt</a>, <a href="/ybio?memb_en_fm=Equatorial Guinea" title="Equatorial Guinea (click to perform a search)">Equatorial Guinea</a>, <a href="/ybio?memb_en_fm=Eritrea" title="Eritrea (click to perform a search)">Eritrea</a>, <a href="/ybio?memb_en_fm=Eswatini" title="Eswatini (click to perform a search)">Eswatini</a>, <a href="/ybio?memb_en_fm=Ethiopia" title="Ethiopia (click to perform a search)">Ethiopia</a>, <a href="/ybio?memb_en_fm=Gabon" title="Gabon (click to perform a search)">Gabon</a>, <a href="/ybio?memb_en_fm=Gambia" title="Gambia (click to perform a search)">Gambia</a>, <a href="/ybio?memb_en_fm=Ghana" title="Ghana (click to perform a search)">Ghana</a>, <a href="/ybio?memb_en_fm=Guinea" title="Guinea (click to perform a search)">Guinea</a>, <a href="/ybio?memb_en_fm=Guinea-Bissau" title="Guinea-Bissau (click to perform a search)">Guinea-Bissau</a>, <a href="/ybio?memb_en_fm=Kenya" title="Kenya (click to perform a search)">Kenya</a>, <a href="/ybio?memb_en_fm=Lesotho" title="Lesotho (click to perform a search)">Lesotho</a>, <a href="/ybio?memb_en_fm=Liberia" title="Liberia (click to perform a search)">Liberia</a>, <a href="/ybio?memb_en_fm=Libyan AJ" title="Libyan AJ (click to perform a search)">Libyan AJ</a>, <a href="/ybio?memb_en_fm=Madagascar" title="Madagascar (click to perform a search)">Madagascar</a>, <a href="/ybio?memb_en_fm=Malawi" title="Malawi (click to perform a search)">Malawi</a>, <a href="/ybio?memb_en_fm=Mali" title="Mali (click to perform a search)">Mali</a>, <a href="/ybio?memb_en_fm=Mauritania" title="Mauritania (click to perform a search)">Mauritania</a>, <a href="/ybio?memb_en_fm=Mauritius" title="Mauritius (click to perform a search)">Mauritius</a>, <a href="/ybio?memb_en_fm=Morocco" title="Morocco (click to perform a search)">Morocco</a>, <a href="/ybio?memb_en_fm=Mozambique" title="Mozambique (click to perform a search)">Mozambique</a>, <a href="/ybio?memb_en_fm=Namibia" title="Namibia (click to perform a search)">Namibia</a>, <a href="/ybio?memb_en_fm=Niger" title="Niger (click to perform a search)">Niger</a>, <a href="/ybio?memb_en_fm=Nigeria" title="Nigeria (click to perform a search)">Nigeria</a>, <a href="/ybio?memb_en_fm=Rwanda" title="Rwanda (click to perform a search)">Rwanda</a>, <a href="/ybio?memb_en_fm=Sahrawi ADR" title="Sahrawi ADR (click to perform a search)">Sahrawi ADR</a>, <a href="/ybio?memb_en_fm=Sao Tomé-Principe" title="Sao Tomé-Principe (click to perform a search)">Sao Tomé-Principe</a>, <a href="/ybio?memb_en_fm=Senegal" title="Senegal (click to perform a search)">Senegal</a>, <a href="/ybio?memb_en_fm=Seychelles" title="Seychelles (click to perform a search)">Seychelles</a>, <a href="/ybio?memb_en_fm=Sierra Leone" title="Sierra Leone (click to perform a search)">Sierra Leone</a>, <a href="/ybio?memb_en_fm=Somalia" title="Somalia (click to perform a search)">Somalia</a>, <a href="/ybio?memb_en_fm=South Africa" title="South Africa (click to perform a search)">South Africa</a>, <a href="/ybio?memb_en_fm=South Sudan" title="South Sudan (click to perform a search)">South Sudan</a>, <a href="/ybio?memb_en_fm=Sudan" title="Sudan (click to perform a search)">Sudan</a>, <a href="/ybio?memb_en_fm=Tanzania UR" title="Tanzania UR (click to perform a search)">Tanzania UR</a>, <a href="/ybio?memb_en_fm=Togo" title="Togo (click to perform a search)">Togo</a>, <a href="/ybio?memb_en_fm=Tunisia" title="Tunisia (click to perform a search)">Tunisia</a>, <a href="/ybio?memb_en_fm=Uganda" title="Uganda (click to perform a search)">Uganda</a>, <a href="/ybio?memb_en_fm=Zambia" title="Zambia (click to perform a search)">Zambia</a>, <a href="/ybio?memb_en_fm=Zimbabwe" title="Zimbabwe (click to perform a search)">Zimbabwe</a>.</div><p>Members in 55 countries<br /></p>
+ <h2 style="margin-top:20px;">Type I Classification</h2>
+<p>D: Limited or regionally defined membership organizations</p>
+ <h2 style="margin-top:20px;">Type II Classification</h2>
+<div>g: Intergovernmental<br /></div>
+
+
+ <h2 style="margin-top:20px;clear:left;">Subjects <sup>*</sup></h2><ul><li><a href="/ybio?wcodes=Law" title="Law:  (click to perform a search)">Law</a></li><ul><li><a href="/ybio?wcodes=Agreements" title="Agreements:  (click to perform a search)">Agreements</a></li></ul></ul> 
+ 
+ 	<h2 style="margin-top:20px;">UN Sustainable Development Goals <sup>**</sup></h2><p><a href="/s/sdg/en/UN16" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-16.png" class="sdgimg" alt="GOAL 16: Peace and Justice Strong Institutions" /></a></p> 
+<h2 style="margin-top:20px;">UIA Org ID</h2>
+<p>D8572</p>
+<!--  -->
+
+<h2 style="margin-top:20px;">Last News Received</h2><div>2019</div><div style="color:#999;margin-top:20px;"><sup>*</sup> Subject classification is derived from the organization names and aims.  <br />
+  <sup>**</sup> UN SDGs are linked to the subject classification.<br /><br />
+
+
+
+
+<div style="clear:both;color:#999;margin-top:30px;line-height:140%;"><div style="float:right;width:250px;text-align:right;margin-left:30px;"><a class="btn btw-med" href="https://www.uia.org/node/add/new-org-submission" target="_blank"><i class="icon-th-list"></i> Add A New Organization</a></div>You are viewing an organization profile from the <span style="color:#333;"><a href="/ybio/">Yearbook of International Organizations Online</a></span>. <br /><a href="javascript: history.go(-1)">&larr; return to your search page</a> to see additional profiles.</div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+                
+    
+<div style="clear:both;height:10px;"> </div>
+
+
+
+
+<div style="clear:both;">
+    <footer id="footer" class="region region-footer">
+    <!-- .block -->
+<div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div id="copy-footer">
+<div id="logout" style="width:100px;float:right;"><form action="/LOGOUT" method="post">
+    <input type="submit" value="Logout" /></form></div>
+© 2020 <a href="https://www.uia.org" style="color:#bfccd9;">Union of International Associations</a> &amp; <a href="https://www.brill.com" style="color:#bfccd9;">Koninklijke Brill NV</a>.<br /> 
+For more information please visit <a href="http://www.brill.com/ybio" style="color:#bfccd9;">brill.com</a> | <a href="http://www.brill.com/standard-conditions-sale" style="color:#bfccd9;">Terms and Conditions</a> | <a href="http://www.brill.com/about/policies/privacy-statement" style="color:#bfccd9;">Privacy Statement</a> | <a href="http://www.brill.com/about/policies/rights-permissions" style="color:#bfccd9;">Copyright &amp; Permissions</a></div>
+</div><!-- /.block -->
+  </footer>
+</div>  
+
+</div><!-- /#container -->
+
+</div><!-- /#page -->
+
+<div id="devel">
+</div>  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.filter.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.js?q4261c"></script>
+<script>jQuery(document).ready(function () 
+{   
+	
+	
+	
+	var x = document.getElementsByTagName("META");
+	    var txt = "";
+	    var i;
+	    for (i = 0; i < x.length; i++) {
+	        if (x[i].name=="ST.PlatformAPIKey")
+	        {
+	          var platformKey = x[i].content;
+	         }
+ 	        if (x[i].name=="ST.customerId")
+ 	        {
+ 	          var customerKey = x[i].content;
+ 	         }
+	    }
+	
+	var substatus = "valid";
+	if(customerKey == "") 
+	{
+		substatus = "not subscribed";
+	}
+	
+
+
+	var refer = document.referrer;
+	 var refcheck = refer.indexOf("name");
+	 
+
+ 	if(refcheck > 10) {
+ 	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RESULT_CLICK'}]);
+ 	}
+	 
+	 if(substatus == "valid") {
+	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RECORD_VIEW'}]);
+	}
+
+
+});</script>
+  
+  <script type="text/javascript">
+    (function () {
+      var stars = document.createElement('script');
+      stars.type = 'text/javascript';
+      stars.async = true;
+      stars.src = 'https://receiver.star.saas.semcs.net/star.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(stars, s);
+  })();
+  </script>
+  
+</body>
+
+</html>

@@ -1,0 +1,536 @@
+ 
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://brill.uia.org/sites/all/themes/Brill2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Profile of Airports Council International from the Yearbook of International Organizations, a service of the UIA." />
+  <title>Airports Council International | Yearbook Profile | Union of International Associations</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+    ga('create', 'UA-27369964-11', 'auto');
+    ga('send', 'pageview');
+ 
+  </script>
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRC33X"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KRC33X');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- Set the PlatformAPI key (COUNTER4) -->
+  <meta name="ST.PlatformAPIKey" content="bc8208710447dc2a" />
+
+  <!-- Set the customerID value (as provided by SAMS / SGK)  (COUNTER4) -->
+  <meta name="ST.customerId" content="14968" />
+
+  <style>
+@import url("https://brill.uia.org/modules/system/system.base.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.messages.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.theme.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/misc/ui/jquery.ui.core.css?q4261c");
+@import url("https://brill.uia.org/misc/ui/jquery.ui.theme.css?q4261c");
+</style>
+<style media="screen">
+@import url("https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/modules/book/book.css?q4261c");
+@import url("https://brill.uia.org/modules/comment/comment.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_api/date.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/fences/field.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/logintoboggan/logintoboggan.css?q4261c");
+@import url("https://brill.uia.org/modules/node/node.css?q4261c");
+@import url("https://brill.uia.org/modules/search/search.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/simpleads/simpleads.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_order/uc_order.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_product/uc_product.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/uc_product_minmax/uc_product_minmax.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_store/uc_store.css?q4261c");
+@import url("https://brill.uia.org/modules/user/user.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/views/css/views.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ctools/css/ctools.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.filter.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/panels/css/panels.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu-skins.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/normalize.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/wireframes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/tabs.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/pages.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/blocks.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/navigation.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/views-styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nodes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/comments.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/forms.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/fields.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/print.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nice_menus.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/common.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/font-awesome.min.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/buttons.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/uia2013.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/layout.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rdstyle.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/static_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/qtip.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/jquery.ui.autocomplete.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rbstyle.css?q4261c");
+</style>
+  <script src="https://brill.uia.org/misc/jquery.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://brill.uia.org/misc/drupal.js?q4261c"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/js/qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/admin_menu/admin_devel/admin_devel.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/simpleads.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/modules/simpleads_campaigns/simpleads_campaigns.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_load.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_inline.js?q4261c"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://brill.uia.org/sites/all/modules/megamenu/megamenu.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/google_analytics/googleanalytics.js?q4261c"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-506851-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#moremeet" ).click(function() {
+	  		  jQuery( "#morecal" ).show( "slow" );
+			  jQuery( "#moremeet" ).hide( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#lessmeet" ).click(function() {
+	  		  jQuery( "#morecal" ).hide( "slow" );
+			  jQuery( "#moremeet" ).show( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script src="https://use.typekit.com/yse7wxb.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script src="https://brill.uia.org/sites/all/themes/Brill2014/js/bootstrap.min.js?q4261c"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"Brill2014","theme_token":"xtHCAtKNN43pHzR5r6wWS6tuElLBH8hMBmS83Scmu6w","js":{"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.js":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.filter.js":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/simpleads\/modules\/simpleads_campaigns\/simpleads_campaigns.js":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/megamenu\/megamenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"3":1,"https:\/\/use.typekit.com\/yse7wxb.js":1,"4":1,"sites\/all\/themes\/Brill2014\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/simpleads\/simpleads.css":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/uc_product_minmax\/uc_product_minmax.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.filter.css":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/megamenu\/megamenu.css":1,"sites\/all\/modules\/megamenu\/megamenu-skins.css":1,"sites\/all\/themes\/Brill2014\/system.menus.css":1,"sites\/all\/themes\/Brill2014\/css\/normalize.css":1,"sites\/all\/themes\/Brill2014\/css\/wireframes.css":1,"sites\/all\/themes\/Brill2014\/css\/page-backgrounds.css":1,"sites\/all\/themes\/Brill2014\/css\/tabs.css":1,"sites\/all\/themes\/Brill2014\/css\/pages.css":1,"sites\/all\/themes\/Brill2014\/css\/blocks.css":1,"sites\/all\/themes\/Brill2014\/css\/navigation.css":1,"sites\/all\/themes\/Brill2014\/css\/views-styles.css":1,"sites\/all\/themes\/Brill2014\/css\/nodes.css":1,"sites\/all\/themes\/Brill2014\/css\/comments.css":1,"sites\/all\/themes\/Brill2014\/css\/forms.css":1,"sites\/all\/themes\/Brill2014\/css\/fields.css":1,"sites\/all\/themes\/Brill2014\/css\/print.css":1,"sites\/all\/themes\/Brill2014\/css\/nice_menus.css":1,"sites\/all\/themes\/Brill2014\/css\/common.css":1,"sites\/all\/themes\/Brill2014\/css\/font-awesome.min.css":1,"sites\/all\/themes\/Brill2014\/css\/buttons.css":1,"sites\/all\/themes\/Brill2014\/css\/uia2013.css":1,"sites\/all\/themes\/Brill2014\/css\/layout.css":1,"sites\/all\/themes\/Brill2014\/css\/styles.css":1,"sites\/all\/themes\/Brill2014\/css\/rdstyle.css":1,"sites\/all\/themes\/Brill2014\/css\/static_style.css":1,"sites\/all\/themes\/Brill2014\/css\/calendar.css":1,"sites\/all\/themes\/Brill2014\/css\/pubspages.css":1,"sites\/all\/themes\/Brill2014\/css\/qtip.css":1,"sites\/all\/themes\/Brill2014\/css\/jquery.ui.autocomplete.css":1,"sites\/all\/themes\/Brill2014\/css\/rbstyle.css":1,"sites\/brill.uia.org\/files\/fontyourface\/wysiwyg.css":1,"public:\/\/fontyourface\/local_fonts\/FontAwesome-normal-normal\/stylesheet.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jquery_ui_multiselect_widget":{"module_path":"sites\/all\/modules\/jquery_ui_multiselect_widget","multiple":1,"filter":1,"subselector":"","selectedlist":"4","autoOpen":0,"header":1,"height":"300","classes":"","filter_auto_reset":0,"filter_width":"100","jquery_ui_multiselect_widget_path_match_exclude":""},"qtip":{"target_position":"right_center","tooltip_position":"left_center","show_speech_bubble_tip":1,"show_speech_bubble_tip_side":0,"speech_bubble_size":"12","show_speech_bubble_tip_solid":1,"show_shadow":0,"rounded_corners":1,"color":"ui-tooltip-blue","custom_color":"","show_event_type":"mouseenter","hide_event_type":"mouseleave","show_webform_descriptions":0,"additional_elements":""},"megamenu":{"timeout":"500","sizewait":"250","hoverwait":"400"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-s page-s-or page-s-or-en page-s-or-en- page-s-or-en-1100042040 section-s" >
+	<script>
+	   var _$tarQ = _$tarQ || []; // Access the STAR JavaScript API's global queue
+	</script>
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+  
+  
+  
+
+
+
+
+
+
+<div id="page" style="clear:both;margin-top: 10px;">
+
+
+
+
+<div id="container">
+
+
+
+<div id="nav-1">
+    <div class="region region-navigation">
+    <!-- .block -->
+<div id="block-megamenu-main-menu" class="block block-megamenu first last odd">
+
+      
+  <ul id="megamenu-main-menu" class="megamenu-menu columnar megamenu-skin-minimal"><li id="megamenu-mlid-221" class="megamenu-parent megamenu-parent-0 odd half-1 leaf-0 first menu-221  first"><h2 class="megamenu-parent-title"><a href="/">Home</a></h2></li>
+<li id="megamenu-mlid-511" class="megamenu-parent megamenu-parent-1 even half-1 leaf-1 menu-511 "><h2 class="megamenu-parent-title"><a href="/about-ybio">About The Yearbook</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11476" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><a href="/ybguide/contribute" title="">How to Contribute Information</a></h3></li>
+<li id="megamenu-mlid-11477" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last  last"><h3 class="megamenu-slot-title"><a href="/ybguide/more-data" title="">Need Different Data?</a></h3></li>
+</ul></li>
+<li id="megamenu-mlid-11322" class="megamenu-parent megamenu-parent-2 odd half-1 leaf-2 menu-11322 "><h2 class="megamenu-parent-title"><a href="/ybguide">User Guide</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11324" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><span title="" class="nolink">Organizations</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11330" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/organizations">The Interface</a></li>
+<li id="megamenu-mlid-11331" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/contents">Contents of Profiles</a></li>
+<li id="megamenu-mlid-11332" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/abbrev">Abbreviations Used</a></li>
+<li id="megamenu-mlid-11334" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/inclusion">Criteria for Inclusion</a></li>
+<li id="megamenu-mlid-11335" class="megamenu-item megamenu-item-4 odd half-1 leaf-4 "><a href="/ybguide/editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11336" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/sources">Information Sources</a></li>
+<li id="megamenu-mlid-11337" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 "><a href="/ybguide/type1">Type 1 Codes</a></li>
+<li id="megamenu-mlid-11338" class="megamenu-item megamenu-item-7 even half-2 leaf-7 "><a href="/ybguide/type2">Type 2 Codes</a></li>
+<li id="megamenu-mlid-11361" class="megamenu-item megamenu-item-8 odd half-2 leaf-8 "><a href="/ybguide/type3">Type 3 Codes</a></li>
+<li id="megamenu-mlid-11339" class="megamenu-item megamenu-item-9 even half-2 leaf-9 last  last"><a href="/ybguide/continuity">Continuity Between Editions</a></li>
+</ul></li>
+<li id="megamenu-mlid-11325" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Geography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11340" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/geography">The Interface</a></li>
+<li id="megamenu-mlid-11333" class="megamenu-item megamenu-item-1 even half-2 leaf-1 last  last"><a href="/ybguide/geo-names">Geographical Names</a></li>
+</ul></li>
+<li id="megamenu-mlid-11326" class="megamenu-slot megamenu-slot-2 odd half-1 leaf-2 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Subjects</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11341" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/subjects">The Interface</a></li>
+<li id="megamenu-mlid-11342" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/subjects-intro">Introduction</a></li>
+<li id="megamenu-mlid-11359" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/subject-matrix">Subject Matrix</a></li>
+<li id="megamenu-mlid-11360" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/subject-categories">Subject Categories</a></li>
+</ul></li>
+<li id="megamenu-mlid-11327" class="megamenu-slot megamenu-slot-3 even half-2 leaf-3 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Bibliography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11343" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/bibliography">The Interface</a></li>
+<li id="megamenu-mlid-11344" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/biblio-comments">Comments</a></li>
+<li id="megamenu-mlid-11345" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/biblio-contents">Contents of Entries</a></li>
+<li id="megamenu-mlid-11346" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/biblio-method">Research Methodology</a></li>
+<li id="megamenu-mlid-11347" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/biblio-errors">Errors and Corrections</a></li>
+<li id="megamenu-mlid-11348" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/biblio-selection">Research Topics on INGOs</a></li>
+<li id="megamenu-mlid-11349" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 last  last"><a href="/ybguide/biblio-table">Number of Publications by Type</a></li>
+</ul></li>
+<li id="megamenu-mlid-11328" class="megamenu-slot megamenu-slot-4 odd half-2 leaf-4 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Statistics</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11350" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/statistics" title="">The Interface</a></li>
+<li id="megamenu-mlid-11351" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/stats-intro">Introduction</a></li>
+<li id="megamenu-mlid-11352" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/stats-features">Features</a></li>
+<li id="megamenu-mlid-11353" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/stats-method">Methodological Issues</a></li>
+</ul></li>
+<li id="megamenu-mlid-11329" class="megamenu-slot megamenu-slot-5 even half-2 leaf-5 last  last"><h3 class="megamenu-slot-title"><span title="" class="nolink"> Whoâ€™s Who</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11354" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/whoswho" title="">The Interface</a></li>
+<li id="megamenu-mlid-11355" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/bio-intro">Introduction</a></li>
+<li id="megamenu-mlid-11357" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/bio-sources">Information Sources</a></li>
+<li id="megamenu-mlid-11358" class="megamenu-item megamenu-item-3 even half-2 leaf-3 "><a href="/ybguide/bio-editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11356" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/bio-contents">Biographical Information</a></li>
+<li id="megamenu-mlid-11366" class="megamenu-item megamenu-item-5 even half-2 leaf-5 last  last"><a href="/ybguide/bio-stats" title="">Statistical Tables</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-11323" class="megamenu-parent megamenu-parent-3 even half-2 leaf-3 menu-11323 "><h2 class="megamenu-parent-title"><a href="/ybguide/history">Publication History</a></h2></li>
+<li id="megamenu-mlid-510" class="megamenu-parent megamenu-parent-4 odd half-2 leaf-4 menu-510 "><h2 class="megamenu-parent-title"><a href="/ybguide/editors">About UIA (The Editors)</a></h2></li>
+<li id="megamenu-mlid-499" class="megamenu-parent megamenu-parent-5 even half-2 leaf-5 last menu-499  last"><h2 class="megamenu-parent-title"><a href="/" title="">Login</a></h2></li>
+</ul>
+</div><!-- /.block -->
+  </div>
+ 
+
+</div>
+
+
+<div id="utility-bar">
+
+<nav id="secondary-menu" role="navigation">
+
+</nav>	
+</div>
+ 
+	  <header id="header" role="banner" style="margin-top:1px !important;">
+    <!--      <a href="/" title="Home" rel="home" id="logo"><img src="https://brill.uia.org/sites/all/themes/Brill2014/logo.png" alt="Home" /></a>-->
+        
+    <div id="logoleft"><a href="/" title="Brill"  class="uialogo">BRILL</a></div>
+
+         <hgroup id="name-and-slogan">
+        
+
+		<h1 id="site-name"> 
+      <a href="/ybio/" title="Home" rel="home" id="homelink">YEARBOOK OF INTERNATIONAL ORGANIZATIONS</a></h1>
+	        <div id="ybio-vols"><a href="https://ybio.brillonline.com/ybio/">Organizations</a> | <a href="https://ybio.brillonline.com/ybio/v2/">Geography</a> | <a href="https://ybio.brillonline.com/ybio/v3/">Subjects</a> | <a href="https://ybio.brillonline.com/ybio/v4">Bibliography</a> | <a href="https://ybio.brillonline.com/ybio/v5">Statistics</a> | <a href="https://ybio.brillonline.com/s/sdg/en">UN SDGs</a></div>  
+	
+
+
+
+
+
+        <div id="uiashort"><a href="/"><span>Yearbook of International Organizations</span></a></div>
+
+      
+          </hgroup><!-- /#name-and-slogan -->
+  
+  
+		<div id="uia_logo_brill">
+				<a href="https://uia.org" title="Union of International Associations"><img src="/sites/all/themes/Brill2014/images/design/uia_logo_brill.png" alt="Brill Logo"/></a>
+		</div>
+
+
+</header>
+
+  
+
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+		
+		
+		<div style="width:300px;float:right;font-size:11px;color:#999;text-align:right;padding-top:10px;">You are logged in as <em><script type="text/javascript">
+			var userid = "Alacrity Foundation";
+	        document.write(userid)
+	      </script></em></div>    
+    	
+    
+      
+ 	                      
+      
+      <a id="main-content"></a>
+                              
+      	
+      	
+      
+
+	 
+
+
+
+     
+
+
+<div style="float:right;width:150px;">
+<img src="https://www.uia.org/sites/uia.org/files/or_logotypes/b0031.gif"  id="ybp_logo" style="max-width:150px;border:0;" alt="logo for Airports Council International"/>	
+	
+</div>	
+
+
+
+        <h1 id="page-title" class="title">
+Airports Council International
+
+
+
+
+
+
+
+        	
+        (ACI)</h1>
+
+
+<p style="font-style:italic;color:#666;margin-top:-20px;"></p>
+         
+         <div style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;">
+          	
+         <iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;key=AIzaSyDSecKDTYLGmGVJj3bjqciTn48sZkHCEps&amp;hl=en&amp;geocode=&amp;q=Montréal QC,+Canada&amp;z=9&amp;iwloc=A&amp;output=embed"></iframe>
+<h2>Contact Details</h2>
+
+
+
+		
+
+	
+	<p>Main address: Dir Gen: <br />PO Box 302, 800 Rue du Sq Victoria QC H4Z 1G8, <a href="/ybio?addcity_1_en=Montréal QC" title="Montréal QC (click to perform a search)">Montréal QC</a>, <a href="/ybio?addpays_1_en=Canada" title="Canada (click to perform a search)">Canada</a><br />Tel: (1 514) 373 1204<br />Email: <a title='Click to send an e-mail to this address (from your default e-mail client)' href="/cdn-cgi/l/email-protection#a88e8b99999c8e8b919f8e8b99999c8e8b9998908e8b9998998e8b99989b8e8b99999f8e8b99989d8e8b9e9c8e8b919f8e8b91918e8b99989d8e8b9c9e8e8b919f8e8b9998998e8b99999c8e8b999999" target=_blank>rarlegui (at) aci.aero</a><br /></p><p>URL: <br /><a title="Click to access page >http://aci.aero/<" href="http://aci.aero/" target="_blank">http://aci.aero/</a><br /></p>		
+		
+<div style="clear:both;"><p> </p><p></p></div><p> </p>
+</div>
+         
+<h2 style="margin-top:30px;">History</h2>
+<p>1 Jan 1991, as <i>Airports Association Council International (AACI)</i>, when constitution became effective, derived from <a href="/s/or/en/1100047736" title="Airport Associations Coordinating Council (AACC)">Airport Associations Coordinating Council (AACC)</a>, and resulting from the merger of <a href="/s/or/en/1100002138" title="International Civil Airports Association (ICAA)">International Civil Airports Association (ICAA)</a> and <a href="/s/or/en/1100052707" title="Airports Operators Council International (AOCI)">Airports Operators Council International (AOCI)</a>. Constitution approved by ICAA, Sep 1990, Monte Carlo (Monaco), at 30th World Congress, and by AOCI, Oct 1990, Chicago IL (USA), at 43rd Annual Conference. Current name adopted 17 Nov 1992, Geneva (Switzerland).</p>
+<h2 style="margin-top:20px;">Aims</h2>
+<p>Advance the collective interests of, and act as the voice of, the world's airports and the communities they serve; promote professional excellence in airport <i>management</i> and operations.</p>
+
+
+
+	<div></div>
+
+		<h2 style="margin-top:20px;">Events</h2><p>2019 Limassol, Cyprus – <em>Annual General Assembly and Conference</em> <br />2019 Reykjavik, Iceland – <em>Airport Commercial and Retail Conference</em> <br />2019 London, UK – <em>Annual Airport Economics and Finance Conference</em> <br />2018 Oslo, Norway – <em>Airport Exchange Conference</em> <br />2018 Langkawi, Malaysia – <em>Asia-Pacific Small and Emerging Airports Seminar</em> <br />2018 Brussels, Belgium – <em>Annual General Assembly and Conference</em> <br />2017 Bangkok, Thailand – <em>Trinity Forum</em> <br />2017 Paris, France – <em>Annual General Assembly and Conference</em> <br />2016 Siem Reap, Cambodia – <em>Asia-Pacific Small and Emerging Airports Seminar</em> <br />2016 Arlington VA, USA – <em>Public Safety and Security Fall Conference</em> <br />2016 San Diego CA, USA – <em>Airport Noise Conference</em> <br />2016 Montréal QC, Canada – <em>Annual Conference</em> <br />2016 Montréal QC, Canada – <em>Annual World General Assembly and Conference</em> <br />2016 Athens, Greece – <em>Annual General Assembly and Conference</em> <br />2016 Denver CO, USA – <em>JumpStart Air Service Development Conference</em> <br /></p><p><a class="btn btn-small" id="moremeet"><i class="icon-th-list"></i> View More Events (305)</i></a></p><p><div id="morecal" style="display:none;margin-top:0;"><p style="margin-top:-5px;">2016 Atlanta GA, USA – <em>Airport Construction Strategy Summit</em> <br />2016 Phoenix AZ, USA – <em>Air Cargo Conference</em> <br />2016 Portland OR, USA – <em>Legal Affairs Spring Conference</em> <br />2016 Austin TX, USA – <em>Environmental Affairs Conference</em> <br />2016 Austin TX, USA – <em>Business Information Technology Conference</em> <br />2016 Austin TX, USA – <em>Operations and Technical Affairs Conference</em> <br />2016 Austin TX, USA – <em>Public Safety and Security Spring Conference</em> <br />2016 Gold Coast, Australia – <em>Asia-Pacific Regional Assembly and Conference</em> <br />2016 Indianapolis IN, USA – <em>Airport Board and Commissioners Conference</em> <br />2016 Orlando FL, USA – <em>Business of Airports Conference</em> <br />2016 Washington DC, USA – <em>Washington Legislative Conference</em> <br />2016 Washington DC, USA – <em>Media Relations Seminar</em> <br />2016 London, UK – <em>Annual Airport Economics and Finance Conference</em> <br />2016 Fort Lauderdale FL, USA – <em>Customer Service Experience Symposium</em> <br />2016 Nashville TN, USA – <em>Risk Management Conference</em> <br />2016 Palm Beach Gardens FL, USA – <em>Air Service Data and Planning Seminar</em> <br />2015 Washington DC, USA – <em>Planning and NEPA Workshop</em> <br />2015 Istanbul, Turkey – <em>Airport Exchange Conference</em> <br />2015 Washington DC, USA – <em>International Aviation Issues Seminar</em> <br />2015 Delhi, India – <em>Conference on Investing in Airports</em> <br />2015 Macau, Macau – <em>Asia-Pacific Small and Emerging Airports Seminar</em> <br />2015 Nashville TN, USA – <em>Marketing and Communications Conference</em> <br />2015 Dublin, Ireland – <em>AVSEC : Aviation Security World Conference</em> <br />2015 Madrid, Spain – <em>Airport Service Quality Forum</em> <br />2015 Arlington VA, USA – <em>Public Safety and Security Fall Conference</em> <br />2015 Hammamet, Tunisia – <em>Africa Annual General Assembly and Conference</em> <br />2015 Tokyo, Japan – <em>Asia-Pacific HR Best Practice Seminar</em> <br />2015 Long Beach CA, USA – <em>Annual Conference</em> <br />2015 Tianjin, China – <em>Airport Service Quality Forum</em> <br />2015 Hong Kong, Hong Kong – <em>Trinity Forum</em> <br />2015 Montréal QC, Canada – <em>Airport Service Quality Forum</em> <br />2015 Panama, Panama – <em>Annual World General Assembly and Conference</em> <br />2015 Panama, Panama – <em>Latin America/Caribbean Annual General Assembly and Conference</em> <br />2015 Washington DC, USA – <em>Airport Summer Fly-In Conference</em> <br />2015 Arlington VA, USA – <em>Deicing Management Conference</em> <br />2015 Jordan – <em>Asia-Pacific Regional Assembly and Conference</em> <br />2015 Phoenix AZ, USA – <em>Business of Airports Conference</em> <br />2015 Casablanca, Morocco – <em>Africa Regional Conference</em> <br />2015 New Orleans LA, USA – <em>Legal Affairs Spring Conference</em> <br />2015 New Orleans LA, USA – <em>Airport Board and Commissioners Conference</em> <br />2015 Vancouver BC, Canada – <em>Airports Canada Conference</em> <br />2015 Vancouver BC, Canada – <em>Public Safety and Security Spring Conference</em> <br />2015 Vancouver BC, Canada – <em>Operations and Technical Affairs Conference</em> <br />2015 Vancouver BC, Canada – <em>Environmental Affairs Conference</em> <br />2015 Vancouver BC, Canada – <em>Business Information Technology Conference</em> <br />2015 Washington DC, USA – <em>Washington Legislative Conference</em> <br />2015 New Orleans LA, USA – <em>AirCargo Conference</em> <br />2015 London, UK – <em>Annual Airport Economics and Finance Conference</em> <br />2015 Reno NV, USA – <em>Customer Service Seminar</em> <br />2014 Washington DC, USA – <em>International Aviation Issues Seminar</em> <br />2014 Cancún, Mexico – <em>Latin America/Caribbean Annual General Assembly and Conference</em> <br />2014 Bali, Indonesia – <em>Asia-Pacific Small and Emerging Airports Seminar</em> <br />2014 Durban, South Africa – <em>Africa Annual General Assembly and Conference</em> <br />2014 Arlington VA, USA – <em>Public Safety and Security Fall Conference</em> <br />2014 Taipei, Taiwan – <em>Trinity Forum</em> <br />2014 Atlanta GA, USA – <em>Annual Conference</em> <br />2014 Edmonton AB, Canada – <em>Small Airports Conference</em> <br />2014 Whitefish MT, USA – <em>Airport Board and Commissioners Conference</em> <br />2014 Seoul, Korea Rep – <em>Annual World General Assembly and Conference</em> <br />2014 Seoul, Korea Rep – <em>Asia-Pacific Regional Assembly and Conference / Annual General Assembly</em> <br />2014 Montréal QC, Canada – <em>Operations and Technical Affairs Conference</em> <br />2014 Baltimore MD, USA – <em>Business Information Technology Conference</em> <br />2014 Baltimore MD, USA – <em>Environmental Affairs Conference</em> <br />2014 Baltimore MD, USA – <em>Public Safety and Security Spring Conference</em> <br />2014 Dakar, Senegal – <em>Africa Regional Security Conference</em> <br />2014 Dallas TX, USA – <em>Spring Legal Affairs Conference</em> <br />2014 Dallas Tx, USA – <em>Airport Economics and Human Capital Conference</em> <br />2014 Kuala Lumpur, Malaysia – <em>Airport Cities World Conference</em> <br />2014 Orlando FL, USA – <em>AirCargo Conference</em> <br />2014 Washington DC, USA – <em>Washington Legislative Conference</em> <br />2014 London, UK – <em>Annual Airport Economics and Finance Conference</em> <br />2014 Kuala Lumpur, Malaysia – <em>Airport Environmental Seminar</em> <br />2013 Washington DC, USA – <em>International Aviation Issues Seminar</em> <br />2013 Sacramento CA, USA – <em>Concessions Conference</em> <br />2013 Doha, Qatar – <em>Airport Exchange Conference</em> <br />2013 Montevideo, Uruguay – <em>Latin America/Caribbean Annual General Assembly and Conference</em> <br />2013 Bologna, Italy – <em>Airport Leadership and Change Management Forum</em> <br />2013 Hong Kong, Hong Kong – <em>Asia Pacific Regional Board Meeting</em> <br />2013 Lomé, Togo – <em>Africa Annual General Assembly and Conference</em> <br />2013 Milan, Italy – <em>Europe Forum</em> <br />2013 San Jose CA, USA – <em>Annual Assembly and Conference</em> <br />2013 Doha, Qatar – <em>Asia, Middle East and Africa Forum</em> <br />2013 Punta Cana, Dominican Rep – <em>Americas forum</em> <br />2013 Toronto ON, Canada – <em>Public Safety and Security Conference</em> <br />2013 St Louis MO, USA – <em>CFO Summit</em> <br />2013 Atlanta GA, USA – <em>Small Airports Conference</em> <br />2013 Seattle WA, USA – <em>Legal Affairs Conference</em> <br />2013 Halifax NS, Canada – <em>Environmental Affairs Conference</em> <br />2013 Montréal QC, Canada – <em>Aviation and Environment Workshop</em> <br />2013 Ekurhuleni, South Africa – <em>Airport Cities World Conference</em> <br />2013 Portland OR, USA – <em>Business Information Technology Conference</em> <br />2013 Portland OR, USA – <em>Airport Economics and Human Capital Conference</em> <br />2013 Phuket, Thailand – <em>Asia Pacific Regional Assembly and Conference</em> <br />2013 Agadir, Morocco – <em>African Regional Runway Safety Seminar</em> <br />2013 Agadir, Morocco – <em>Africa Working Group Meeting</em> <br />2013 Washington DC, USA – <em>Washington Legislative Conference</em> <br />2013 Las Vegas NV, USA – <em>Air Cargo Conference</em> <br />2013 Singapore, Singapore – <em>Annual Airport Economics and Finance Conference</em> <br />2013 St Petersburg FL, USA – <em>Public Safety and Security Spring Conference</em> <br />2013 St Petersburg FL, USA – <em>Operations and Technical Affairs Conference</em> <br />2013 Miami FL, USA – <em>CEO Forum</em> <br />2013 Abu Dhabi, United Arab Emirates – <em>Trinity Forum</em> <br />2013 Amelia Is FL, USA – <em>Customer Service Seminar</em> <br />2013 Las Vegas NV, USA – <em>Risk Management Conference</em> <br />2012 Amsterdam, Netherlands – <em>Airport Exchange Conference</em> <br />2012 Puerto Vallarta, Mexico – <em>Latin America/Caribbean Annual General Assembly and Conference</em> <br />2012 Istanbul, Turkey – <em>Europe/Asia/Middle-East/Africa Forum</em> <br />2012 Calgary AB, Canada – <em>Annual Assembly and Conference</em> <br />2012 Calgary AB, Canada – <em>World Annual General Assembly and Conference</em> <br />2012 Jacksonville FL, USA – <em>Americas Forum</em> <br />2012 Livingstone, Zambia – <em>Africa Annual General Assembly and Conference</em> <br />2012 Singapore, Singapore – <em>Asia Pacific Regional Assembly and Conference</em> <br />2012 Geneva, Switzerland – <em>Aviation and Environment Summit</em> <br />2012 London, UK – <em>Annual Airport Economics and Finance Conference</em> <br />2012 Seoul, Korea Rep – <em>Trinity Forum</em> <br />2012 Harbin, China – <em>Asia-Pacific Human Resources Best Practice Seminar</em> <br />2012 Calgary AB, Canada – <em>Annual General Assembly</em> <br />2011 Abu Dhabi, United Arab Emirates – <em>Airport exchange conference</em> <br />2011 Marrakech, Morocco – <em>Africa Annual General Assembly and Conference / Annual General Assembly</em> <br />2011 San Diego CA, USA – <em>Annual assembly and conference</em> <br />2011 Montego Bay, Jamaica – <em>Latin America/Caribbean annual general assembly and conference</em> <br />2011 Cancún, Mexico – <em>Americas forum</em> <br />2011 Rio de Janeiro, Brazil – <em>Latin American sustainable aviation workshop</em> <br />2011 Cincinnati OH, USA – <em>North America small airports conference</em> <br />2011 Seoul, Korea Rep – <em>Asia Pacific small airports seminar</em> <br />2011 Incheon, Korea Rep – <em>Fund Seminar</em> <br />2011 Memphis TN, USA – <em>Airport cities world conference</em> <br />2011 Delhi, India – <em>Asia Pacific regional assembly and conference</em> <br />2011 Marrakech, Morocco – <em>World safety seminar</em> <br />2011 Incheon, Korea Rep – <em>Routes Asia Meeting</em> <br />2011 London, UK – <em>Annual airport economics and finance conference</em> <br />2011 Bangkok, Thailand – <em>Trinity forum</em> <br />2010 Kuala Lumpur, Malaysia – <em>Seminar in wildlife management</em> <br />2010 Bermuda – <em>Latin American/Caribbean regional assembly and conference / Annual General Assembly</em> <br />2010 Pittsburgh PA, USA – <em>Annual assembly and conference</em> <br />2010 Geneva, Switzerland – <em>Aviation and environment summit</em> <br />2010 Abuja, Nigeria – <em>Africa annual assembly and conference</em> <br />2010 Minneapolis MN, USA – <em>North America small airports conference</em> <br />2010 Sanya, China – <em>Asia-Pacific Regional Assembly and Conference</em> <br />2010 London, UK – <em>Annual airport economics and finance conference</em> <br />2010 Beijing, China – <em>World Conference</em> <br />2009 Kuala Lumpur, Malaysia – <em>World annual general assembly</em> <br />2009 Kuala Lumpur, Malaysia – <em>Asia-Pacific regional conference</em> <br />2009 Kuala Lumpur, Malaysia – <em>Asia-Pacific regional assembly and conference / Annual General Assembly</em> <br />2009 Austin TX, USA – <em>Assembly and conference</em> <br />2009 Macau, Macau – <em>World airport business and trinity forum</em> <br />2009 Athens, Greece – <em>World Conference</em> <br />2008 Cairo, Egypt – <em>Airport environmental colloquium</em> <br />2008 Panama, Panama – <em>Latin American/Carebbean regional assembly and conference</em> <br />2008 Beijing, China – <em>World safety seminar</em> <br />2008 Boston MA, USA – <em>North American regional assembly and conference / Annual General Assembly</em> <br />2008 Boston MA, USA – <em>Annual general assembly and conference</em> <br />2008 Accra, Ghana – <em>Africa annual assembly and conference</em> <br />2008 Cairns, Australia – <em>Asia-Pacific regional assembly and conference</em> <br />2008 Incheon, Korea Rep – <em>World best airport forum</em> <br />2007 Buenos Aires, Argentina – <em>Latin American/Caribbean regional assembly and conference / Annual General Assembly</em> <br />2007 Kansas City KS, USA – <em>North American regional assembly and conference</em> <br />2007 Arusha, Tanzania UR – <em>Annual general assembly and conference</em> <br />2007 Seoul, Korea Rep – <em>Asia-Pacific regional assembly and conference</em> <br />2007 Incheon, Korea Rep – <em>World best airport forum</em> <br />2007 Quito, Ecuador – <em>Annual general assembly and conference</em> <br />2006 Gold Coast, Australia – <em>Asia-Pacific small airports seminar and workshop</em> <br />2006 Cape Town, South Africa – <em>Africa annual general assembly and conference</em> <br />2006 Cape Town, South Africa – <em>Annual general assembly and conference / Annual General Assembly</em> <br />2006 Madrid, Spain – <em>Airport exchange conference</em> <br />2006 Santo Domingo, Dominican Rep – <em>Latin American/Caribbean regional assembly and conference</em> <br />2006 Reno NV, USA – <em>North America regional assembly and conference</em> <br />2006 Hong Kong, Hong Kong – <em>Pacific airports cities conference</em> <br />2006 Singapore, Singapore – <em>Airport development conference</em> <br />2006 Montréal QC, Canada – <em>Global air transport outlook conference</em> <br />2006 Singapore, Singapore – <em>GATE ONE : global airport trade conference</em> <br />2006 Singapore, Singapore – <em>Tax free Asia Pacific conference</em> <br />2006 Hong Kong, Hong Kong – <em>Pacific regional assembly and conference</em> <br />2006 Geneva, Switzerland – <em>Aviation and environment summit</em> <br />2006 Paris, France – <em>Airport IT summit</em> <br />2006 Abu Dhabi, United Arab Emirates – <em>Conference</em> <br />2006 Singapore, Singapore – <em>Welcoming the A380 conference</em> <br />2005 Budapest, Hungary – <em>Global airport operations summit</em> <br />2005 Marrakech, Morocco – <em>Africa annual general assembly and conference</em> <br />2005 Auckland, New Zealand – <em>Pacific regional assembly and conference</em> <br />2005 Auckland, New Zealand – <em>Annual general assembly conference / Annual General Assembly</em> <br />2005 Guayaquil, Ecuador – <em>Latin American/Caribbean regional assembly and conference</em> <br />2005 Toronto ON, Canada – <em>North America regional assembly and conference</em> <br />2005 Kuala Lumpur, Malaysia – <em>Annual conference on quality of service at airports</em> <br />2005 Singapore, Singapore – <em>Gate one conference</em> <br />2005 Shanghai, China – <em>Annual summit on China airports</em> <br />2005 Vienna, Austria – <em>Aviation forecasting conference</em> <br />2005 Kuala Lumpur, Malaysia – <em>Conference on asset management for airports</em> <br />2004 Cairo, Egypt – <em>Africa annual general assembly and conference</em> <br />2004 Cairo, Egypt – <em>Asia regional assembly and conference</em> <br />2004 Lisbon, Portugal – <em>Annual general assembly and conference / Annual General Assembly</em> <br />2004 Houston TX, USA – <em>North America regional assembly and conference</em> <br />2004 Cannes, France – <em>Computaport : conference on airport information technology</em> <br />2003 Sharjah, United Arab Emirates – <em>Asia regional assembly and conference</em> <br />2003 Sharjah, United Arab Emirates – <em>Annual general assembly and conference</em> <br />2003 Lima, Peru – <em>Latin American/Caribbean regional assembly and conference</em> <br />2003 Nairobi, Kenya – <em>Africa regional assembly and conference</em> <br />2003 Honolulu HI, USA – <em>Pacific regional assembly and conference</em> <br />2003 Kuala Lumpur, Malaysia – <em>New Route Asia : Intra Asia route development forum</em> <br />2003 Miami FL, USA – <em>Airport business conference</em> <br />2003 Tampa FL, USA – <em>North America regional assembly and conference</em> <br />2003 Berlin, Germany – <em>Greenport conference</em> <br />2003 Dubai, United Arab Emirates – <em>Airport operational safety conference</em> <br />2003 Sharjah, United Arab Emirates – <em>Annual General Assembly</em> <br />2002 Havana, Cuba – <em>Latin America/Caribbean regional assembly and conference</em> <br />2002 Windhoek, Namibia – <em>Africa regional assembly and conference</em> <br />2002 Salt Lake City UT, USA – <em>North America regional assembly and conference</em> <br />2002 Rome, Italy – <em>Joint annual seminar</em> <br />2002 Miami FL, USA – <em>Airport business conference</em> <br />2002 Tokyo, Japan – <em>Pacific regional assembly and conference</em> <br />2002 Chiba, Japan – <em>Annual general assembly and conference</em> <br />2002 Singapore, Singapore – <em>Airport design conference</em> <br />2002 Dakar, Senegal – <em>Africa route development forum</em> <br />2002 Tokyo, Japan – <em>Annual General Assembly</em> <br />2001 Hong Kong, Hong Kong – <em>Airport business conference</em> <br />2001 Hong Kong, Hong Kong – <em>World economics conference</em> <br />2001 Abidjan, Côte d'Ivoire – <em>Africa regional assembly and conference</em> <br />2001 Montréal QC, Canada – <em>North America regional assembly and conference</em> <br />2001 Montréal QC, Canada – <em>Annual general assembly and conference</em> <br />2001 Paris, France – <em>Greenport conference</em> <br />2001 San Francisco CA, USA – <em>Pacific regional assembly and conference</em> <br />2001 Sharjah, United Arab Emirates – <em>World air cargo conference</em> <br />2001 Cairo, Egypt – <em>Airport operational safety conference</em> <br />2001 Montréal QC, Canada – <em>Annual General Assembly</em> <br />2000 Santiago, Chile – <em>Annual general assembly and conference</em> <br />2000 Santiago, Chile – <em>Latin America/Caribbean regional assembly and conference / Annual General Assembly</em> <br />2000 Manama, Bahrain – <em>Joint annual seminar</em> <br />2000 New York NY, USA – <em>North America regional assembly and conference</em> <br />2000 Manama, Bahrain – <em>Africa regional assembly and conference</em> <br />2000 Manama, Bahrain – <em>Asia regional assembly and conference</em> <br />2000 Miami FL, USA – <em>Conference on managing airports in the mobile economy</em> <br />2000 Narita, Japan – <em>Greenport meeting</em> <br />2000 Christchurch, New Zealand – <em>Pacific regional assembly and conference</em> <br />2000 Nice, France – <em>Computaport symposium</em> <br />2000 Tunis, Tunisia – <em>Airlinks : conference on small airports and route development</em> <br />1999 Lomé, Togo – <em>Africa regional assembly and conference</em> <br />1999 Geneva, Switzerland – <em>Annual general assembly and conference / Annual General Assembly</em> <br />1999 Vancouver BC, Canada – <em>Airport operational safety conference</em> <br />1999 Narita, Japan – <em>Computaport symposium</em> <br />1999 Amsterdam, Netherlands – <em>Greenport meeting</em> <br />1999 Sharjah, United Arab Emirates – <em>World air cargo conference</em> <br />1999 Vienna, Austria – <em>Meeting</em> <br />1998 Sydney, Australia – <em>Annual general assembly and conference</em> <br />1998 Sydney, Australia – <em>Pacific regional assembly and conference / Annual General Assembly</em> <br />1998 Orlando FL, USA – <em>North America regional assembly and conference</em> <br />1998 Mauritius – <em>Africa regional assembly and conference</em> <br />1998 Riga, Latvia – <em>Airport operational safety conference</em> <br />1998 Berlin, Germany – <em>Airports meeting</em> <br />1998 Christchurch, New Zealand – <em>Pacific marketing, communications and public relations workshop</em> <br />1998 Geneva, Switzerland – <em>Traffic development and air service opportunities conference</em> <br />1998 Fortaleza, Brazil – <em>Seminar on airport financial management</em> <br />1998 Dubai, United Arab Emirates – <em>Computaport symposium</em> <br />1998 Orlando FL, USA – <em>Airport operational safety conference</em> <br />1998  – <em>Latin America/Caribbean regional assembly and conference</em> <br />1998  – <em>Asia regional assembly and conference</em> <br />1997 Belize City, Belize – <em>Latin America/Caribbean regional assembly and conference</em> <br />1997 Dakar, Senegal – <em>Africa regional assembly and conference</em> <br />1997 Paris, France – <em>Annual general assembly and conference / Annual General Assembly</em> <br />1997 Sharjah, United Arab Emirates – <em>Word air cargo conference</em> <br />1996 Manama, Bahrain – <em>Annual general assembly and conference / Annual General Assembly</em> <br />1996 San Diego CA, USA – <em>North America regional assembly and conference</em> <br />1996 Hong Kong, Hong Kong – <em>Pacific Asia airport customer service workshop</em> <br />1996 Cairo, Egypt – <em>Africa regional assembly and conference</em> <br />1996 Port-of-Spain, Trinidad-Tobago – <em>Latin America-Caribbean regional assembly and conference</em> <br />1996 Narita, Japan – <em>Pacific regional assembly and conference</em> <br />1996 Nice, France – <em>COMPUTAPORT : airport information technology seminar</em> <br />1995 Casablanca, Morocco – <em>Fund seminar on aviation security</em> <br />1995 Delhi, India – <em>Fund seminar on airport management</em> <br />1995 Aruba – <em>Seminar on airport financial management</em> <br />1995 Johannesburg, South Africa – <em>Africa regional assembly and conference</em> <br />1995 Washington DC, USA – <em>Annual general assembly and conference</em> <br />1995 Washington DC, USA – <em>North America regional assembly and conference / Annual General Assembly</em> <br />1995 Copenhagen, Denmark – <em>Meeting</em> <br />1995 Montréal QC, Canada – <em>North America economic specialty conference</em> <br />1995 Jeju, Korea Rep – <em>Pacific regional assembly and conference</em> <br />1994 Marrakech, Morocco – <em>Africa regional assembly and conference</em> <br />1994 Marrakech, Morocco – <em>Annual general assembly and conference / Annual General Assembly</em> <br />1994 Toronto ON, Canada – <em>North America regional assembly and conference</em> <br />1994 Miami FL, USA – <em>Latin America-Caribbean regional assembly and conference</em> <br />1994 Turin, Italy – <em>Joint transatlantic conference</em> <br />1994 Houston TX, USA – <em>Computaport symposium</em> <br />1994 Cook Is – <em>Pacific regional assembly and conference</em> <br />1994 Singapore, Singapore – <em>Airport economics seminar</em> <br />1994 Caracas, Venezuela – <em>Apron safety seminar</em> <br />1993 Delhi, India – <em>Annual general assembly and conference / Annual General Assembly</em> <br />1993 Delhi, India – <em>Asia regional assembly and conference</em> <br />1993 Nashville TN, USA – <em>North America regional assembly and conference</em> <br />1993 Frankfurt-Main, Germany – <em>Aviation security seminar</em> <br />1993 Rio de Janeiro, Brazil – <em>Latin America-Caribbean regional assembly and conference</em> <br />1993 Nouméa, New Caledonia – <em>Pacific regional assembly and conference</em> <br />1993 Vancouver BC, Canada – <em>North America economic specialty conference</em> <br />1993 Tunis, Tunisia – <em>Africa regional assembly and conference</em> <br />1993 Rome, Italy – <em>Ramp safety seminar</em> <br />1992 Madrid, Spain – <em>Annual general assembly and conference / Annual General Assembly</em> <br />1992 Maui HI, USA – <em>North America regional assembly and conference</em> <br />1992 Jamaica – <em>Latin America-Caribbean regional assembly and conference</em> <br />1992 Saipan, Northern Mariana Is – <em>Pacific regional assembly and conference</em> <br />1992 Libreville, Gabon – <em>Africa regional assembly and conference</em> <br />1992 Paris, France – <em>Conference</em> <br />1992 Delhi, India – <em>Asia regional assembly</em> <br />1991 New Orleans LA, USA – <em>Annual general assembly and conference / Annual General Assembly</em> <br />1991 Nice, France – <em>Computaport symposium</em> <br />1991 Auckland, New Zealand – <em>Pacific regional conference</em> <br />1991 Singapore, Singapore – <em>Meeting</em> <br />1991 Nairobi, Kenya – <em>Africa regional assembly and conference</em> <br /><p><a class="btn btn-small" id="lessmeet"><i class="icon-th-list"></i> View Less Events (305)</i></a></p><p></p></div>
+
+
+
+
+
+<h2 style="margin-top:20px;">Activities</h2>
+<p>Events/meetings.</p>
+
+
+<h2 style="margin-top:20px;" id="ybp_structure">Structure</h2>
+<p>General Assembly (annual); Governing Board; Executive Committee; Standing Committees (6); Regional offices (5), including <a href="/s/or/en/1100065588" title="Airports Council International - European Region (ACI EUROPE)">Airports Council International - European Region (ACI EUROPE)</a>, replacing <a href="/s/or/en/1100028129" title="International Civil Airports Association European Community Bureau (ICAA European Community Bureau)">International Civil Airports Association European Community Bureau (ICAA European Community Bureau)</a>.</p>
+	
+
+<h2 style="margin-top:20px;">Languages</h2>
+<p>English, French, Spanish.</p>
+
+
+<h2 style="margin-top:20px;">Staff</h2>
+<p>65.</p>
+
+<h2 style="margin-top:20px;">Financing</h2>
+<p>Members' dues.</p>
+
+
+<h2 style="margin-top:20px;">Consultative Status</h2>
+<p><a href="/s/or/en/1100027514" title="United Nations Economic and Social Council (ECOSOC)">United Nations Economic and Social Council (ECOSOC)</a> (Special); <a href="/s/or/en/1100017121" title="International Civil Aviation Organization (ICAO)">International Civil Aviation Organization (ICAO)</a> (Observer Status), both in its capacity as taking over from AACC.</p>
+
+<h2 style="margin-top:20px;">Relations with Inter-Governmental Organizations</h2>
+<p>Accredited by: <a href="/s/or/en/1100007087" title="United Nations Office at Vienna (UNOV)">United Nations Office at Vienna (UNOV)</a>. Memorandum of Understanding signed with: <a href="/s/or/en/1100013409" title="World Customs Organization (WCO)">World Customs Organization (WCO)</a>. Cooperates with: <a href="/s/or/en/1100048944" title="European Aviation Security Training Institute (EASTI)">European Aviation Security Training Institute (EASTI)</a>; <a href="/s/or/en/1100007128" title="European Organisation for the Safety of Air Navigation (EUROCONTROL)">European Organisation for the Safety of Air Navigation (EUROCONTROL)</a>. Contacts with: <a href="/s/or/en/1100052983" title="Arab Civil Aviation Organization (ACAO)">Arab Civil Aviation Organization (ACAO)</a>; <a href="/s/or/en/1100008680" title="European Civil Aviation Conference (ECAC)">European Civil Aviation Conference (ECAC)</a>; <a href="/s/or/en/1100039431" title="International Criminal Police Organization - INTERPOL (ICPO-INTERPOL)">International Criminal Police Organization - INTERPOL (ICPO-INTERPOL)</a>; <a href="/s/or/en/1100039821" title="International Transport Forum">International Transport Forum</a>; <a href="/s/or/en/1100014055" title="Latin American Civil Aviation Commission (LACAC)">Latin American Civil Aviation Commission (LACAC)</a>; <a href="/s/or/en/1100021066" title="United Nations Environment Programme (UN Environment)">United Nations Environment Programme (UN Environment)</a>; <a href="/s/or/en/1100057032" title="United Nations Economic Commission for Europe (UNECE)">United Nations Economic Commission for Europe (UNECE)</a>; <a href="/s/or/en/1100054686" title="World Health Organization (WHO)">World Health Organization (WHO)</a>; <a href="/s/or/en/1100031338" title="World Meteorological Organization (WMO)">World Meteorological Organization (WMO)</a>; <a href="/s/or/en/1100067971" title="World Tourism Organization (UNWTO)">World Tourism Organization (UNWTO)</a>. Associated with DPI of the United Nations.</p>
+
+<h2 style="margin-top:20px;">Relations with Non-Governmental Organizations</h2>
+<p>Member of: <a href="/s/or/en/1100045816" title="Air Transport Action Group (ATAG)">Air Transport Action Group (ATAG)</a>; <a href="/s/or/en/1100032725" title="International Industry Working Group (IIWG)">International Industry Working Group (IIWG)</a>. In liaison with technical committees of: <a href="/s/or/en/1100016492" title="International Organization for Standardization (ISO)">International Organization for Standardization (ISO)</a>.<p> Links with:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100048636" title="Airline Telecommunication and Information Services (SITA)">Airline Telecommunication and Information Services (SITA)</a>; <a href="/s/or/en/1100039897" title="Airlines International Representation in Europe (AIRE)">Airlines International Representation in Europe (AIRE)</a>; <a href="/s/or/en/1100061112" title="Civil Air Navigation Services Organisation (CANSO)">Civil Air Navigation Services Organisation (CANSO)</a>; <a href="/s/or/en/1100026294" title="European Organisation for Security (EOS)">European Organisation for Security (EOS)</a>; <a href="/s/or/en/1100063030" title="European Travel Retail Confederation (ETRC)">European Travel Retail Confederation (ETRC)</a>; <a href="/s/or/en/1100025925" title="International Federation of Freight Forwarders Associations (FIATA)">International Federation of Freight Forwarders Associations (FIATA)</a>; <a href="/s/or/en/1100011172" title="Foundation for Aviation and Sustainable Tourism (FAST)">Foundation for Aviation and Sustainable Tourism (FAST)</a>; <a href="/s/or/en/1100068093" title="Gulf Centre for Aviation Studies (GCAS)">Gulf Centre for Aviation Studies (GCAS)</a>; <a href="/s/or/en/1100041009" title="The International Air Cargo Association (TIACA)">The International Air Cargo Association (TIACA)</a>; <a href="/s/or/en/1100050736" title="International Air Rail Organization (IARO)">International Air Rail Organization (IARO)</a>; <a href="/s/or/en/1100023077" title="International Air Transport Association (IATA)">International Air Transport Association (IATA)</a>; <a href="/s/or/en/1100050232" title="International Association of Ports and Harbors (IAPH)">International Association of Ports and Harbors (IAPH)</a>; <a href="/s/or/en/1100057165" title="International Business Aviation Council (IBAC)">International Business Aviation Council (IBAC)</a>; <a href="/s/or/en/1100054136" title="International Chamber of Commerce (ICC)">International Chamber of Commerce (ICC)</a>; <a href="/s/or/en/1100023506" title="International Coordinating Council of Aerospace Industry Associations (ICCAIA)">International Coordinating Council of Aerospace Industry Associations (ICCAIA)</a>; <a href="/s/or/en/1100034009" title="International Council of Aircraft Owner and Pilot Associations (IAOPA)">International Council of Aircraft Owner and Pilot Associations (IAOPA)</a>; <a href="/s/or/en/1100032422" title="International Electrotechnical Commission (IEC)">International Electrotechnical Commission (IEC)</a>; <a href="/s/or/en/1100039040" title="International Federation of Air Line Pilots' Associations (IFALPA)">International Federation of Air Line Pilots' Associations (IFALPA)</a>; <a href="/s/or/en/1100067906" title="International Federation of Air Traffic Controllers' Associations (IFATCA)">International Federation of Air Traffic Controllers' Associations (IFATCA)</a>; <a href="/s/or/en/1100019495" title="International Foundation of Airlines Passengers Associations (IFAPA)">International Foundation of Airlines Passengers Associations (IFAPA)</a>.</p>
+
+<h2 style="margin-top:20px;">Publications</h2>
+<p><i>ACI World Report</i> (12 a year); <i>ACI Airport World</i> (6 a year). Annual report; specialized publications; position papers.</p>
+
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Members</h2><div>Airports and airport authorities (597) operating 1,679 airports in 175 countries and territories:<p>&nbsp;&bull; <u>Africa</u>: <a href="/ybio?memb_en_fm=Algeria" title="Algeria (click to perform a search)">Algeria</a>, <a href="/ybio?memb_en_fm=Angola" title="Angola (click to perform a search)">Angola</a>, <a href="/ybio?memb_en_fm=Benin" title="Benin (click to perform a search)">Benin</a>, <a href="/ybio?memb_en_fm=Botswana" title="Botswana (click to perform a search)">Botswana</a>, <a href="/ybio?memb_en_fm=Burkina Faso" title="Burkina Faso (click to perform a search)">Burkina Faso</a>, <a href="/ybio?memb_en_fm=Burundi" title="Burundi (click to perform a search)">Burundi</a>, <a href="/ybio?memb_en_fm=Cameroon" title="Cameroon (click to perform a search)">Cameroon</a>, <a href="/ybio?memb_en_fm=Cape Verde" title="Cape Verde (click to perform a search)">Cape Verde</a>, <a href="/ybio?memb_en_fm=Central African Rep" title="Central African Rep (click to perform a search)">Central African Rep</a>, <a href="/ybio?memb_en_fm=Comoros" title="Comoros (click to perform a search)">Comoros</a>, <a href="/ybio?memb_en_fm=Congo Brazzaville" title="Congo Brazzaville (click to perform a search)">Congo Brazzaville</a>, <a href="/ybio?memb_en_fm=Congo DR" title="Congo DR (click to perform a search)">Congo DR</a>, <a href="/ybio?memb_en_fm=Côte d'Ivoire" title="Côte d'Ivoire (click to perform a search)">Côte d'Ivoire</a>, <a href="/ybio?memb_en_fm=Djibouti" title="Djibouti (click to perform a search)">Djibouti</a>, <a href="/ybio?memb_en_fm=Egypt" title="Egypt (click to perform a search)">Egypt</a>, <a href="/ybio?memb_en_fm=Equatorial Guinea" title="Equatorial Guinea (click to perform a search)">Equatorial Guinea</a>, <a href="/ybio?memb_en_fm=Eritrea" title="Eritrea (click to perform a search)">Eritrea</a>, <a href="/ybio?memb_en_fm=Ethiopia" title="Ethiopia (click to perform a search)">Ethiopia</a>, <a href="/ybio?memb_en_fm=Gabon" title="Gabon (click to perform a search)">Gabon</a>, <a href="/ybio?memb_en_fm=Gambia" title="Gambia (click to perform a search)">Gambia</a>, <a href="/ybio?memb_en_fm=Ghana" title="Ghana (click to perform a search)">Ghana</a>, <a href="/ybio?memb_en_fm=Guinea" title="Guinea (click to perform a search)">Guinea</a>, <a href="/ybio?memb_en_fm=Kenya" title="Kenya (click to perform a search)">Kenya</a>, <a href="/ybio?memb_en_fm=Liberia" title="Liberia (click to perform a search)">Liberia</a>, <a href="/ybio?memb_en_fm=Madagascar" title="Madagascar (click to perform a search)">Madagascar</a>, <a href="/ybio?memb_en_fm=Malawi" title="Malawi (click to perform a search)">Malawi</a>, <a href="/ybio?memb_en_fm=Mali" title="Mali (click to perform a search)">Mali</a>, <a href="/ybio?memb_en_fm=Mauritania" title="Mauritania (click to perform a search)">Mauritania</a>, <a href="/ybio?memb_en_fm=Mauritius" title="Mauritius (click to perform a search)">Mauritius</a>, <a href="/ybio?memb_en_fm=Morocco" title="Morocco (click to perform a search)">Morocco</a>, <a href="/ybio?memb_en_fm=Mozambique" title="Mozambique (click to perform a search)">Mozambique</a>, <a href="/ybio?memb_en_fm=Namibia" title="Namibia (click to perform a search)">Namibia</a>, <a href="/ybio?memb_en_fm=Niger" title="Niger (click to perform a search)">Niger</a>, <a href="/ybio?memb_en_fm=Nigeria" title="Nigeria (click to perform a search)">Nigeria</a>, <a href="/ybio?memb_en_fm=Réunion" title="Réunion (click to perform a search)">Réunion</a>, <a href="/ybio?memb_en_fm=Rwanda" title="Rwanda (click to perform a search)">Rwanda</a>, <a href="/ybio?memb_en_fm=Senegal" title="Senegal (click to perform a search)">Senegal</a>, <a href="/ybio?memb_en_fm=Sierra Leone" title="Sierra Leone (click to perform a search)">Sierra Leone</a>, <a href="/ybio?memb_en_fm=South Africa" title="South Africa (click to perform a search)">South Africa</a>, <a href="/ybio?memb_en_fm=Sudan" title="Sudan (click to perform a search)">Sudan</a>, <a href="/ybio?memb_en_fm=Tanzania UR" title="Tanzania UR (click to perform a search)">Tanzania UR</a>, <a href="/ybio?memb_en_fm=Togo" title="Togo (click to perform a search)">Togo</a>, <a href="/ybio?memb_en_fm=Tunisia" title="Tunisia (click to perform a search)">Tunisia</a>, <a href="/ybio?memb_en_fm=Uganda" title="Uganda (click to perform a search)">Uganda</a>, <a href="/ybio?memb_en_fm=Zambia" title="Zambia (click to perform a search)">Zambia</a>, <a href="/ybio?memb_en_fm=Zimbabwe" title="Zimbabwe (click to perform a search)">Zimbabwe</a>. <p>&nbsp;&bull; <u>Americas</u>: <a href="/ybio?memb_en_fm=Antigua-Barbuda" title="Antigua-Barbuda (click to perform a search)">Antigua-Barbuda</a>, <a href="/ybio?memb_en_fm=Argentina" title="Argentina (click to perform a search)">Argentina</a>, <a href="/ybio?memb_en_fm=Barbados" title="Barbados (click to perform a search)">Barbados</a>, <a href="/ybio?memb_en_fm=Belize" title="Belize (click to perform a search)">Belize</a>, <a href="/ybio?memb_en_fm=Bermuda" title="Bermuda (click to perform a search)">Bermuda</a>, <a href="/ybio?memb_en_fm=Brazil" title="Brazil (click to perform a search)">Brazil</a>, <a href="/ybio?memb_en_fm=Canada" title="Canada (click to perform a search)">Canada</a>, <a href="/ybio?memb_en_fm=Cayman Is" title="Cayman Is (click to perform a search)">Cayman Is</a>, <a href="/ybio?memb_en_fm=Chile" title="Chile (click to perform a search)">Chile</a>, <a href="/ybio?memb_en_fm=Colombia" title="Colombia (click to perform a search)">Colombia</a>, <a href="/ybio?memb_en_fm=Costa Rica" title="Costa Rica (click to perform a search)">Costa Rica</a>, <a href="/ybio?memb_en_fm=Cuba" title="Cuba (click to perform a search)">Cuba</a>, <a href="/ybio?memb_en_fm=Dominican Rep" title="Dominican Rep (click to perform a search)">Dominican Rep</a>, <a href="/ybio?memb_en_fm=Ecuador" title="Ecuador (click to perform a search)">Ecuador</a>, <a href="/ybio?memb_en_fm=El Salvador" title="El Salvador (click to perform a search)">El Salvador</a>, <a href="/ybio?memb_en_fm=Grenada" title="Grenada (click to perform a search)">Grenada</a>, <a href="/ybio?memb_en_fm=Guadeloupe" title="Guadeloupe (click to perform a search)">Guadeloupe</a>, <a href="/ybio?memb_en_fm=Guiana Fr" title="Guiana Fr (click to perform a search)">Guiana Fr</a>, <a href="/ybio?memb_en_fm=Guyana" title="Guyana (click to perform a search)">Guyana</a>, <a href="/ybio?memb_en_fm=Haiti" title="Haiti (click to perform a search)">Haiti</a>, <a href="/ybio?memb_en_fm=Honduras" title="Honduras (click to perform a search)">Honduras</a>, <a href="/ybio?memb_en_fm=Jamaica" title="Jamaica (click to perform a search)">Jamaica</a>, <a href="/ybio?memb_en_fm=Martinique" title="Martinique (click to perform a search)">Martinique</a>, <a href="/ybio?memb_en_fm=Mexico" title="Mexico (click to perform a search)">Mexico</a>, <a href="/ybio?memb_en_fm=Neth Antilles" title="Neth Antilles (click to perform a search)">Neth Antilles</a>, <a href="/ybio?memb_en_fm=Nicaragua" title="Nicaragua (click to perform a search)">Nicaragua</a>, <a href="/ybio?memb_en_fm=Panama" title="Panama (click to perform a search)">Panama</a>, <a href="/ybio?memb_en_fm=Paraguay" title="Paraguay (click to perform a search)">Paraguay</a>, <a href="/ybio?memb_en_fm=Peru" title="Peru (click to perform a search)">Peru</a>, <a href="/ybio?memb_en_fm=St Kitts-Nevis" title="St Kitts-Nevis (click to perform a search)">St Kitts-Nevis</a>, <a href="/ybio?memb_en_fm=St Lucia" title="St Lucia (click to perform a search)">St Lucia</a>, <a href="/ybio?memb_en_fm=Suriname" title="Suriname (click to perform a search)">Suriname</a>, <a href="/ybio?memb_en_fm=Trinidad-Tobago" title="Trinidad-Tobago (click to perform a search)">Trinidad-Tobago</a>, <a href="/ybio?memb_en_fm=Uruguay" title="Uruguay (click to perform a search)">Uruguay</a>, <a href="/ybio?memb_en_fm=USA" title="USA (click to perform a search)">USA</a>, <a href="/ybio?memb_en_fm=Virgin Is USA" title="Virgin Is USA (click to perform a search)">Virgin Is USA</a>. <p>&nbsp;&bull; <u>Asia</u>: <a href="/ybio?memb_en_fm=Bahrain" title="Bahrain (click to perform a search)">Bahrain</a>, <a href="/ybio?memb_en_fm=Bangladesh" title="Bangladesh (click to perform a search)">Bangladesh</a>, <a href="/ybio?memb_en_fm=Brunei Darussalam" title="Brunei Darussalam (click to perform a search)">Brunei Darussalam</a>, <a href="/ybio?memb_en_fm=Cambodia" title="Cambodia (click to perform a search)">Cambodia</a>, <a href="/ybio?memb_en_fm=China" title="China (click to perform a search)">China</a>, <a href="/ybio?memb_en_fm=Hong Kong" title="Hong Kong (click to perform a search)">Hong Kong</a>, <a href="/ybio?memb_en_fm=India" title="India (click to perform a search)">India</a>, <a href="/ybio?memb_en_fm=Indonesia" title="Indonesia (click to perform a search)">Indonesia</a>, <a href="/ybio?memb_en_fm=Iran Islamic Rep" title="Iran Islamic Rep (click to perform a search)">Iran Islamic Rep</a>, <a href="/ybio?memb_en_fm=Israel" title="Israel (click to perform a search)">Israel</a>, <a href="/ybio?memb_en_fm=Japan" title="Japan (click to perform a search)">Japan</a>, <a href="/ybio?memb_en_fm=Jordan" title="Jordan (click to perform a search)">Jordan</a>, <a href="/ybio?memb_en_fm=Kazakhstan" title="Kazakhstan (click to perform a search)">Kazakhstan</a>, <a href="/ybio?memb_en_fm=Korea Rep" title="Korea Rep (click to perform a search)">Korea Rep</a>, <a href="/ybio?memb_en_fm=Kuwait" title="Kuwait (click to perform a search)">Kuwait</a>, <a href="/ybio?memb_en_fm=Lebanon" title="Lebanon (click to perform a search)">Lebanon</a>, <a href="/ybio?memb_en_fm=Macau" title="Macau (click to perform a search)">Macau</a>, <a href="/ybio?memb_en_fm=Malaysia" title="Malaysia (click to perform a search)">Malaysia</a>, <a href="/ybio?memb_en_fm=Maldives" title="Maldives (click to perform a search)">Maldives</a>, <a href="/ybio?memb_en_fm=Mongolia" title="Mongolia (click to perform a search)">Mongolia</a>, <a href="/ybio?memb_en_fm=Nepal" title="Nepal (click to perform a search)">Nepal</a>, <a href="/ybio?memb_en_fm=Oman" title="Oman (click to perform a search)">Oman</a>, <a href="/ybio?memb_en_fm=Palestine" title="Palestine (click to perform a search)">Palestine</a>, <a href="/ybio?memb_en_fm=Philippines" title="Philippines (click to perform a search)">Philippines</a>, <a href="/ybio?memb_en_fm=Qatar" title="Qatar (click to perform a search)">Qatar</a>, <a href="/ybio?memb_en_fm=Saudi Arabia" title="Saudi Arabia (click to perform a search)">Saudi Arabia</a>, <a href="/ybio?memb_en_fm=Singapore" title="Singapore (click to perform a search)">Singapore</a>, <a href="/ybio?memb_en_fm=Sri Lanka" title="Sri Lanka (click to perform a search)">Sri Lanka</a>, <a href="/ybio?memb_en_fm=Taiwan" title="Taiwan (click to perform a search)">Taiwan</a>, <a href="/ybio?memb_en_fm=Thailand" title="Thailand (click to perform a search)">Thailand</a>, <a href="/ybio?memb_en_fm=United Arab Emirates" title="United Arab Emirates (click to perform a search)">United Arab Emirates</a>, <a href="/ybio?memb_en_fm=Uzbekistan" title="Uzbekistan (click to perform a search)">Uzbekistan</a>, <a href="/ybio?memb_en_fm=Vietnam" title="Vietnam (click to perform a search)">Vietnam</a>, <a href="/ybio?memb_en_fm=Yemen" title="Yemen (click to perform a search)">Yemen</a>. <p>&nbsp;&bull; <u>Australia</u>: <a href="/ybio?memb_en_fm=Australia" title="Australia (click to perform a search)">Australia</a>, <a href="/ybio?memb_en_fm=Cook Is" title="Cook Is (click to perform a search)">Cook Is</a>, <a href="/ybio?memb_en_fm=Fiji" title="Fiji (click to perform a search)">Fiji</a>, <a href="/ybio?memb_en_fm=Guam" title="Guam (click to perform a search)">Guam</a>, <a href="/ybio?memb_en_fm=Marshall Is" title="Marshall Is (click to perform a search)">Marshall Is</a>, <a href="/ybio?memb_en_fm=Micronesia FS" title="Micronesia FS (click to perform a search)">Micronesia FS</a>, <a href="/ybio?memb_en_fm=New Caledonia" title="New Caledonia (click to perform a search)">New Caledonia</a>, <a href="/ybio?memb_en_fm=New Zealand" title="New Zealand (click to perform a search)">New Zealand</a>, <a href="/ybio?memb_en_fm=Northern Mariana Is" title="Northern Mariana Is (click to perform a search)">Northern Mariana Is</a>, <a href="/ybio?memb_en_fm=Polynesia Fr" title="Polynesia Fr (click to perform a search)">Polynesia Fr</a>, <a href="/ybio?memb_en_fm=Samoa" title="Samoa (click to perform a search)">Samoa</a>, <a href="/ybio?memb_en_fm=Samoa USA" title="Samoa USA (click to perform a search)">Samoa USA</a>, <a href="/ybio?memb_en_fm=Tonga" title="Tonga (click to perform a search)">Tonga</a>, <a href="/ybio?memb_en_fm=Vanuatu" title="Vanuatu (click to perform a search)">Vanuatu</a>. <p>&nbsp;&bull; <u>Europe</u>: <a href="/ybio?memb_en_fm=Albania" title="Albania (click to perform a search)">Albania</a>, <a href="/ybio?memb_en_fm=Armenia" title="Armenia (click to perform a search)">Armenia</a>, <a href="/ybio?memb_en_fm=Austria" title="Austria (click to perform a search)">Austria</a>, <a href="/ybio?memb_en_fm=Belarus" title="Belarus (click to perform a search)">Belarus</a>, <a href="/ybio?memb_en_fm=Belgium" title="Belgium (click to perform a search)">Belgium</a>, <a href="/ybio?memb_en_fm=Bosnia-Herzegovina" title="Bosnia-Herzegovina (click to perform a search)">Bosnia-Herzegovina</a>, <a href="/ybio?memb_en_fm=Bulgaria" title="Bulgaria (click to perform a search)">Bulgaria</a>, <a href="/ybio?memb_en_fm=Croatia" title="Croatia (click to perform a search)">Croatia</a>, <a href="/ybio?memb_en_fm=Cyprus" title="Cyprus (click to perform a search)">Cyprus</a>, <a href="/ybio?memb_en_fm=Czech Rep" title="Czech Rep (click to perform a search)">Czech Rep</a>, <a href="/ybio?memb_en_fm=Denmark" title="Denmark (click to perform a search)">Denmark</a>, <a href="/ybio?memb_en_fm=Estonia" title="Estonia (click to perform a search)">Estonia</a>, <a href="/ybio?memb_en_fm=Finland" title="Finland (click to perform a search)">Finland</a>, <a href="/ybio?memb_en_fm=France" title="France (click to perform a search)">France</a>, <a href="/ybio?memb_en_fm=Georgia" title="Georgia (click to perform a search)">Georgia</a>, <a href="/ybio?memb_en_fm=Germany" title="Germany (click to perform a search)">Germany</a>, <a href="/ybio?memb_en_fm=Gibraltar" title="Gibraltar (click to perform a search)">Gibraltar</a>, <a href="/ybio?memb_en_fm=Greece" title="Greece (click to perform a search)">Greece</a>, <a href="/ybio?memb_en_fm=Hungary" title="Hungary (click to perform a search)">Hungary</a>, <a href="/ybio?memb_en_fm=Iceland" title="Iceland (click to perform a search)">Iceland</a>, <a href="/ybio?memb_en_fm=Ireland" title="Ireland (click to perform a search)">Ireland</a>, <a href="/ybio?memb_en_fm=Italy" title="Italy (click to perform a search)">Italy</a>, <a href="/ybio?memb_en_fm=Latvia" title="Latvia (click to perform a search)">Latvia</a>, <a href="/ybio?memb_en_fm=Lithuania" title="Lithuania (click to perform a search)">Lithuania</a>, <a href="/ybio?memb_en_fm=Luxembourg" title="Luxembourg (click to perform a search)">Luxembourg</a>, <a href="/ybio?memb_en_fm=Malta" title="Malta (click to perform a search)">Malta</a>, <a href="/ybio?memb_en_fm=Moldova" title="Moldova (click to perform a search)">Moldova</a>, <a href="/ybio?memb_en_fm=Monaco" title="Monaco (click to perform a search)">Monaco</a>, <a href="/ybio?memb_en_fm=Montenegro" title="Montenegro (click to perform a search)">Montenegro</a>, <a href="/ybio?memb_en_fm=Netherlands" title="Netherlands (click to perform a search)">Netherlands</a>, <a href="/ybio?memb_en_fm=North Macedonia" title="North Macedonia (click to perform a search)">North Macedonia</a>, <a href="/ybio?memb_en_fm=Norway" title="Norway (click to perform a search)">Norway</a>, <a href="/ybio?memb_en_fm=Poland" title="Poland (click to perform a search)">Poland</a>, <a href="/ybio?memb_en_fm=Portugal" title="Portugal (click to perform a search)">Portugal</a>, <a href="/ybio?memb_en_fm=Romania" title="Romania (click to perform a search)">Romania</a>, <a href="/ybio?memb_en_fm=Russia" title="Russia (click to perform a search)">Russia</a>, <a href="/ybio?memb_en_fm=Serbia" title="Serbia (click to perform a search)">Serbia</a>, <a href="/ybio?memb_en_fm=Slovakia" title="Slovakia (click to perform a search)">Slovakia</a>, <a href="/ybio?memb_en_fm=Slovenia" title="Slovenia (click to perform a search)">Slovenia</a>, <a href="/ybio?memb_en_fm=Spain" title="Spain (click to perform a search)">Spain</a>, <a href="/ybio?memb_en_fm=Sweden" title="Sweden (click to perform a search)">Sweden</a>, <a href="/ybio?memb_en_fm=Switzerland" title="Switzerland (click to perform a search)">Switzerland</a>, <a href="/ybio?memb_en_fm=Turkey" title="Turkey (click to perform a search)">Turkey</a>, <a href="/ybio?memb_en_fm=UK" title="UK (click to perform a search)">UK</a>, <a href="/ybio?memb_en_fm=Ukraine" title="Ukraine (click to perform a search)">Ukraine</a>.<p> Included in the above, 1 organization listed in this Yearbook:<p>&nbsp;&bull; <a href="/s/or/en/1100023064" title="Les Aéroports Francophones">Les Aéroports Francophones</a>.</div><p>Members in 175 countries<br /></p>
+ <h2 style="margin-top:20px;">Type I Classification</h2>
+<p>B: Universal membership organizations</p>
+ <h2 style="margin-top:20px;">Type II Classification</h2>
+<div>y: With international organizations as members<br /></div>
+
+
+ <h2 style="margin-top:20px;clear:left;">Subjects <sup>*</sup></h2><ul><li><a href="/ybio?wcodes=Transportation, Telecommunications" title="Transportation, Telecommunications:  (click to perform a search)">Transportation, Telecommunications</a></li><ul><li><a href="/ybio?wcodes=Ports: Sea, Air" title="Ports: Sea, Air:  (click to perform a search)">Ports: Sea, Air</a></li></ul><li><a href="/ybio?wcodes=Management" title="Management:  (click to perform a search)">Management</a></li><ul><li><a href="/ybio?wcodes=Management" title="Management:  (click to perform a search)">Management</a></li></ul></ul> 
+ 
+ 	<h2 style="margin-top:20px;">UN Sustainable Development Goals <sup>**</sup></h2><p><a href="/s/sdg/en/UN08" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-08.png" class="sdgimg" alt="GOAL 8: Decent Work and Economic Growth" /></a><a href="/s/sdg/en/UN09" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-09.png" class="sdgimg" alt="GOAL 9: Industry, Innovation and Infrastructure" /></a></p> 
+<h2 style="margin-top:20px;">UIA Org ID</h2>
+<p>B0031</p>
+<!--  -->
+
+<h2 style="margin-top:20px;">Last News Received</h2><div>2019</div><div style="color:#999;margin-top:20px;"><sup>*</sup> Subject classification is derived from the organization names and aims.  <br />
+  <sup>**</sup> UN SDGs are linked to the subject classification.<br /><br />
+
+
+
+
+<div style="clear:both;color:#999;margin-top:30px;line-height:140%;"><div style="float:right;width:250px;text-align:right;margin-left:30px;"><a class="btn btw-med" href="https://www.uia.org/node/add/new-org-submission" target="_blank"><i class="icon-th-list"></i> Add A New Organization</a></div>You are viewing an organization profile from the <span style="color:#333;"><a href="/ybio/">Yearbook of International Organizations Online</a></span>. <br /><a href="javascript: history.go(-1)">&larr; return to your search page</a> to see additional profiles.</div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+                
+    
+<div style="clear:both;height:10px;"> </div>
+
+
+
+
+<div style="clear:both;">
+    <footer id="footer" class="region region-footer">
+    <!-- .block -->
+<div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div id="copy-footer">
+<div id="logout" style="width:100px;float:right;"><form action="/LOGOUT" method="post">
+    <input type="submit" value="Logout" /></form></div>
+© 2020 <a href="https://www.uia.org" style="color:#bfccd9;">Union of International Associations</a> &amp; <a href="https://www.brill.com" style="color:#bfccd9;">Koninklijke Brill NV</a>.<br /> 
+For more information please visit <a href="http://www.brill.com/ybio" style="color:#bfccd9;">brill.com</a> | <a href="http://www.brill.com/standard-conditions-sale" style="color:#bfccd9;">Terms and Conditions</a> | <a href="http://www.brill.com/about/policies/privacy-statement" style="color:#bfccd9;">Privacy Statement</a> | <a href="http://www.brill.com/about/policies/rights-permissions" style="color:#bfccd9;">Copyright &amp; Permissions</a></div>
+</div><!-- /.block -->
+  </footer>
+</div>  
+
+</div><!-- /#container -->
+
+</div><!-- /#page -->
+
+<div id="devel">
+</div>  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.filter.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.js?q4261c"></script>
+<script>jQuery(document).ready(function () 
+{   
+	
+	
+	
+	var x = document.getElementsByTagName("META");
+	    var txt = "";
+	    var i;
+	    for (i = 0; i < x.length; i++) {
+	        if (x[i].name=="ST.PlatformAPIKey")
+	        {
+	          var platformKey = x[i].content;
+	         }
+ 	        if (x[i].name=="ST.customerId")
+ 	        {
+ 	          var customerKey = x[i].content;
+ 	         }
+	    }
+	
+	var substatus = "valid";
+	if(customerKey == "") 
+	{
+		substatus = "not subscribed";
+	}
+	
+
+
+	var refer = document.referrer;
+	 var refcheck = refer.indexOf("name");
+	 
+
+ 	if(refcheck > 10) {
+ 	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RESULT_CLICK'}]);
+ 	}
+	 
+	 if(substatus == "valid") {
+	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RECORD_VIEW'}]);
+	}
+
+
+});</script>
+  
+  <script type="text/javascript">
+    (function () {
+      var stars = document.createElement('script');
+      stars.type = 'text/javascript';
+      stars.async = true;
+      stars.src = 'https://receiver.star.saas.semcs.net/star.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(stars, s);
+  })();
+  </script>
+  
+</body>
+
+</html>

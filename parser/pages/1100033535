@@ -1,0 +1,532 @@
+ 
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://brill.uia.org/sites/all/themes/Brill2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Profile of African Development Bank Group from the Yearbook of International Organizations, a service of the UIA." />
+  <title>African Development Bank Group | Yearbook Profile | Union of International Associations</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+    ga('create', 'UA-27369964-11', 'auto');
+    ga('send', 'pageview');
+ 
+  </script>
+  
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRC33X"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KRC33X');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- Set the PlatformAPI key (COUNTER4) -->
+  <meta name="ST.PlatformAPIKey" content="bc8208710447dc2a" />
+
+  <!-- Set the customerID value (as provided by SAMS / SGK)  (COUNTER4) -->
+  <meta name="ST.customerId" content="14968" />
+
+  <style>
+@import url("https://brill.uia.org/modules/system/system.base.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.messages.css?q4261c");
+@import url("https://brill.uia.org/modules/system/system.theme.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/misc/ui/jquery.ui.core.css?q4261c");
+@import url("https://brill.uia.org/misc/ui/jquery.ui.theme.css?q4261c");
+</style>
+<style media="screen">
+@import url("https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/modules/book/book.css?q4261c");
+@import url("https://brill.uia.org/modules/comment/comment.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_api/date.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/fences/field.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/logintoboggan/logintoboggan.css?q4261c");
+@import url("https://brill.uia.org/modules/node/node.css?q4261c");
+@import url("https://brill.uia.org/modules/search/search.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/simpleads/simpleads.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_order/uc_order.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_product/uc_product.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/uc_product_minmax/uc_product_minmax.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ubercart/uc_store/uc_store.css?q4261c");
+@import url("https://brill.uia.org/modules/user/user.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/views/css/views.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/ctools/css/ctools.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.css?q4261c");
+@import url("https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.filter.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/panels/css/panels.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu.css?q4261c");
+@import url("https://brill.uia.org/sites/all/modules/megamenu/megamenu-skins.css?q4261c");
+</style>
+<style>
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/normalize.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/wireframes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/tabs.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/pages.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/blocks.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/navigation.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/views-styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nodes.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/comments.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/forms.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/fields.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/print.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/nice_menus.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/common.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/font-awesome.min.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/buttons.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/uia2013.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/layout.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/styles.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rdstyle.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/static_style.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/qtip.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/jquery.ui.autocomplete.css?q4261c");
+@import url("https://brill.uia.org/sites/all/themes/Brill2014/css/rbstyle.css?q4261c");
+</style>
+  <script src="https://brill.uia.org/misc/jquery.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://brill.uia.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://brill.uia.org/misc/drupal.js?q4261c"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/library/jquery.qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/qtip/js/qtip.js?v=2.0.0pre"></script>
+<script src="https://brill.uia.org/sites/all/modules/admin_menu/admin_devel/admin_devel.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/simpleads.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/simpleads/modules/simpleads_campaigns/simpleads_campaigns.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/ubercart/uc_file/uc_file.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_load.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/colorbox/js/colorbox_inline.js?q4261c"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://brill.uia.org/sites/all/modules/megamenu/megamenu.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/google_analytics/googleanalytics.js?q4261c"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-506851-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#moremeet" ).click(function() {
+	  		  jQuery( "#morecal" ).show( "slow" );
+			  jQuery( "#moremeet" ).hide( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script>(function($) {$(document).ready(function() {
+	  	jQuery( "#lessmeet" ).click(function() {
+	  		  jQuery( "#morecal" ).hide( "slow" );
+			  jQuery( "#moremeet" ).show( "slow" );
+	  		});
+		});}(jQuery));</script>
+<script src="https://use.typekit.com/yse7wxb.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script src="https://brill.uia.org/sites/all/themes/Brill2014/js/bootstrap.min.js?q4261c"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"Brill2014","theme_token":"9jO11Gu0fPkWLBwHngN6s2XVq-OjMVro8Ew7HQBHzC0","js":{"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.js":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/src\/jquery.multiselect.filter.js":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/simpleads\/modules\/simpleads_campaigns\/simpleads_campaigns.js":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/megamenu\/megamenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"3":1,"https:\/\/use.typekit.com\/yse7wxb.js":1,"4":1,"sites\/all\/themes\/Brill2014\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/simpleads\/simpleads.css":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/uc_product_minmax\/uc_product_minmax.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.filter.css":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/megamenu\/megamenu.css":1,"sites\/all\/modules\/megamenu\/megamenu-skins.css":1,"sites\/all\/themes\/Brill2014\/system.menus.css":1,"sites\/all\/themes\/Brill2014\/css\/normalize.css":1,"sites\/all\/themes\/Brill2014\/css\/wireframes.css":1,"sites\/all\/themes\/Brill2014\/css\/page-backgrounds.css":1,"sites\/all\/themes\/Brill2014\/css\/tabs.css":1,"sites\/all\/themes\/Brill2014\/css\/pages.css":1,"sites\/all\/themes\/Brill2014\/css\/blocks.css":1,"sites\/all\/themes\/Brill2014\/css\/navigation.css":1,"sites\/all\/themes\/Brill2014\/css\/views-styles.css":1,"sites\/all\/themes\/Brill2014\/css\/nodes.css":1,"sites\/all\/themes\/Brill2014\/css\/comments.css":1,"sites\/all\/themes\/Brill2014\/css\/forms.css":1,"sites\/all\/themes\/Brill2014\/css\/fields.css":1,"sites\/all\/themes\/Brill2014\/css\/print.css":1,"sites\/all\/themes\/Brill2014\/css\/nice_menus.css":1,"sites\/all\/themes\/Brill2014\/css\/common.css":1,"sites\/all\/themes\/Brill2014\/css\/font-awesome.min.css":1,"sites\/all\/themes\/Brill2014\/css\/buttons.css":1,"sites\/all\/themes\/Brill2014\/css\/uia2013.css":1,"sites\/all\/themes\/Brill2014\/css\/layout.css":1,"sites\/all\/themes\/Brill2014\/css\/styles.css":1,"sites\/all\/themes\/Brill2014\/css\/rdstyle.css":1,"sites\/all\/themes\/Brill2014\/css\/static_style.css":1,"sites\/all\/themes\/Brill2014\/css\/calendar.css":1,"sites\/all\/themes\/Brill2014\/css\/pubspages.css":1,"sites\/all\/themes\/Brill2014\/css\/qtip.css":1,"sites\/all\/themes\/Brill2014\/css\/jquery.ui.autocomplete.css":1,"sites\/all\/themes\/Brill2014\/css\/rbstyle.css":1,"sites\/brill.uia.org\/files\/fontyourface\/wysiwyg.css":1,"public:\/\/fontyourface\/local_fonts\/FontAwesome-normal-normal\/stylesheet.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jquery_ui_multiselect_widget":{"module_path":"sites\/all\/modules\/jquery_ui_multiselect_widget","multiple":1,"filter":1,"subselector":"","selectedlist":"4","autoOpen":0,"header":1,"height":"300","classes":"","filter_auto_reset":0,"filter_width":"100","jquery_ui_multiselect_widget_path_match_exclude":""},"qtip":{"target_position":"right_center","tooltip_position":"left_center","show_speech_bubble_tip":1,"show_speech_bubble_tip_side":0,"speech_bubble_size":"12","show_speech_bubble_tip_solid":1,"show_shadow":0,"rounded_corners":1,"color":"ui-tooltip-blue","custom_color":"","show_event_type":"mouseenter","hide_event_type":"mouseleave","show_webform_descriptions":0,"additional_elements":""},"megamenu":{"timeout":"500","sizewait":"250","hoverwait":"400"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-s page-s-or page-s-or-en page-s-or-en- page-s-or-en-1100033535 section-s" >
+	<script>
+	   var _$tarQ = _$tarQ || []; // Access the STAR JavaScript API's global queue
+	</script>
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+  
+  
+  
+
+
+
+
+
+
+<div id="page" style="clear:both;margin-top: 10px;">
+
+
+
+
+<div id="container">
+
+
+
+<div id="nav-1">
+    <div class="region region-navigation">
+    <!-- .block -->
+<div id="block-megamenu-main-menu" class="block block-megamenu first last odd">
+
+      
+  <ul id="megamenu-main-menu" class="megamenu-menu columnar megamenu-skin-minimal"><li id="megamenu-mlid-221" class="megamenu-parent megamenu-parent-0 odd half-1 leaf-0 first menu-221  first"><h2 class="megamenu-parent-title"><a href="/">Home</a></h2></li>
+<li id="megamenu-mlid-511" class="megamenu-parent megamenu-parent-1 even half-1 leaf-1 menu-511 "><h2 class="megamenu-parent-title"><a href="/about-ybio">About The Yearbook</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11476" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><a href="/ybguide/contribute" title="">How to Contribute Information</a></h3></li>
+<li id="megamenu-mlid-11477" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last  last"><h3 class="megamenu-slot-title"><a href="/ybguide/more-data" title="">Need Different Data?</a></h3></li>
+</ul></li>
+<li id="megamenu-mlid-11322" class="megamenu-parent megamenu-parent-2 odd half-1 leaf-2 menu-11322 "><h2 class="megamenu-parent-title"><a href="/ybguide">User Guide</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-11324" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first"><h3 class="megamenu-slot-title"><span title="" class="nolink">Organizations</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11330" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/organizations">The Interface</a></li>
+<li id="megamenu-mlid-11331" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/contents">Contents of Profiles</a></li>
+<li id="megamenu-mlid-11332" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/abbrev">Abbreviations Used</a></li>
+<li id="megamenu-mlid-11334" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/inclusion">Criteria for Inclusion</a></li>
+<li id="megamenu-mlid-11335" class="megamenu-item megamenu-item-4 odd half-1 leaf-4 "><a href="/ybguide/editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11336" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/sources">Information Sources</a></li>
+<li id="megamenu-mlid-11337" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 "><a href="/ybguide/type1">Type 1 Codes</a></li>
+<li id="megamenu-mlid-11338" class="megamenu-item megamenu-item-7 even half-2 leaf-7 "><a href="/ybguide/type2">Type 2 Codes</a></li>
+<li id="megamenu-mlid-11361" class="megamenu-item megamenu-item-8 odd half-2 leaf-8 "><a href="/ybguide/type3">Type 3 Codes</a></li>
+<li id="megamenu-mlid-11339" class="megamenu-item megamenu-item-9 even half-2 leaf-9 last  last"><a href="/ybguide/continuity">Continuity Between Editions</a></li>
+</ul></li>
+<li id="megamenu-mlid-11325" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Geography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11340" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/geography">The Interface</a></li>
+<li id="megamenu-mlid-11333" class="megamenu-item megamenu-item-1 even half-2 leaf-1 last  last"><a href="/ybguide/geo-names">Geographical Names</a></li>
+</ul></li>
+<li id="megamenu-mlid-11326" class="megamenu-slot megamenu-slot-2 odd half-1 leaf-2 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Subjects</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11341" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/subjects">The Interface</a></li>
+<li id="megamenu-mlid-11342" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/subjects-intro">Introduction</a></li>
+<li id="megamenu-mlid-11359" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/subject-matrix">Subject Matrix</a></li>
+<li id="megamenu-mlid-11360" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/subject-categories">Subject Categories</a></li>
+</ul></li>
+<li id="megamenu-mlid-11327" class="megamenu-slot megamenu-slot-3 even half-2 leaf-3 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Bibliography</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11343" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/bibliography">The Interface</a></li>
+<li id="megamenu-mlid-11344" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/biblio-comments">Comments</a></li>
+<li id="megamenu-mlid-11345" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/biblio-contents">Contents of Entries</a></li>
+<li id="megamenu-mlid-11346" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/ybguide/biblio-method">Research Methodology</a></li>
+<li id="megamenu-mlid-11347" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/biblio-errors">Errors and Corrections</a></li>
+<li id="megamenu-mlid-11348" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/ybguide/biblio-selection">Research Topics on INGOs</a></li>
+<li id="megamenu-mlid-11349" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 last  last"><a href="/ybguide/biblio-table">Number of Publications by Type</a></li>
+</ul></li>
+<li id="megamenu-mlid-11328" class="megamenu-slot megamenu-slot-4 odd half-2 leaf-4 "><h3 class="megamenu-slot-title"><span title="" class="nolink">Statistics</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11350" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/statistics" title="">The Interface</a></li>
+<li id="megamenu-mlid-11351" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/stats-intro">Introduction</a></li>
+<li id="megamenu-mlid-11352" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/ybguide/stats-features">Features</a></li>
+<li id="megamenu-mlid-11353" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/ybguide/stats-method">Methodological Issues</a></li>
+</ul></li>
+<li id="megamenu-mlid-11329" class="megamenu-slot megamenu-slot-5 even half-2 leaf-5 last  last"><h3 class="megamenu-slot-title"><span title="" class="nolink"> Whoâ€™s Who</span></h3><ul class="megamenu-items "><li id="megamenu-mlid-11354" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/ybguide/whoswho" title="">The Interface</a></li>
+<li id="megamenu-mlid-11355" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/ybguide/bio-intro">Introduction</a></li>
+<li id="megamenu-mlid-11357" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/ybguide/bio-sources">Information Sources</a></li>
+<li id="megamenu-mlid-11358" class="megamenu-item megamenu-item-3 even half-2 leaf-3 "><a href="/ybguide/bio-editorial">Editorial Practices</a></li>
+<li id="megamenu-mlid-11356" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/ybguide/bio-contents">Biographical Information</a></li>
+<li id="megamenu-mlid-11366" class="megamenu-item megamenu-item-5 even half-2 leaf-5 last  last"><a href="/ybguide/bio-stats" title="">Statistical Tables</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-11323" class="megamenu-parent megamenu-parent-3 even half-2 leaf-3 menu-11323 "><h2 class="megamenu-parent-title"><a href="/ybguide/history">Publication History</a></h2></li>
+<li id="megamenu-mlid-510" class="megamenu-parent megamenu-parent-4 odd half-2 leaf-4 menu-510 "><h2 class="megamenu-parent-title"><a href="/ybguide/editors">About UIA (The Editors)</a></h2></li>
+<li id="megamenu-mlid-499" class="megamenu-parent megamenu-parent-5 even half-2 leaf-5 last menu-499  last"><h2 class="megamenu-parent-title"><a href="/" title="">Login</a></h2></li>
+</ul>
+</div><!-- /.block -->
+  </div>
+ 
+
+</div>
+
+
+<div id="utility-bar">
+
+<nav id="secondary-menu" role="navigation">
+
+</nav>	
+</div>
+ 
+	  <header id="header" role="banner" style="margin-top:1px !important;">
+    <!--      <a href="/" title="Home" rel="home" id="logo"><img src="https://brill.uia.org/sites/all/themes/Brill2014/logo.png" alt="Home" /></a>-->
+        
+    <div id="logoleft"><a href="/" title="Brill"  class="uialogo">BRILL</a></div>
+
+         <hgroup id="name-and-slogan">
+        
+
+		<h1 id="site-name"> 
+      <a href="/ybio/" title="Home" rel="home" id="homelink">YEARBOOK OF INTERNATIONAL ORGANIZATIONS</a></h1>
+	        <div id="ybio-vols"><a href="https://ybio.brillonline.com/ybio/">Organizations</a> | <a href="https://ybio.brillonline.com/ybio/v2/">Geography</a> | <a href="https://ybio.brillonline.com/ybio/v3/">Subjects</a> | <a href="https://ybio.brillonline.com/ybio/v4">Bibliography</a> | <a href="https://ybio.brillonline.com/ybio/v5">Statistics</a> | <a href="https://ybio.brillonline.com/s/sdg/en">UN SDGs</a></div>  
+	
+
+
+
+
+
+        <div id="uiashort"><a href="/"><span>Yearbook of International Organizations</span></a></div>
+
+      
+          </hgroup><!-- /#name-and-slogan -->
+  
+  
+		<div id="uia_logo_brill">
+				<a href="https://uia.org" title="Union of International Associations"><img src="/sites/all/themes/Brill2014/images/design/uia_logo_brill.png" alt="Brill Logo"/></a>
+		</div>
+
+
+</header>
+
+  
+
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+		
+		
+		<div style="width:300px;float:right;font-size:11px;color:#999;text-align:right;padding-top:10px;">You are logged in as <em><script type="text/javascript">
+			var userid = "Alacrity Foundation";
+	        document.write(userid)
+	      </script></em></div>    
+    	
+    
+      
+ 	                      
+      
+      <a id="main-content"></a>
+                              
+      	
+      	
+      
+
+	 
+
+
+
+     
+
+
+<div style="float:right;width:150px;">
+<img src="https://www.uia.org/sites/uia.org/files/or_logotypes/f0121.gif"  id="ybp_logo" style="max-width:150px;border:0;" alt="logo for African Development Bank Group"/>	
+	
+</div>	
+
+
+
+        <h1 id="page-title" class="title">
+African Development Bank Group
+
+
+
+
+
+
+
+        	
+        (ADB Group)</h1>
+
+
+<p style="font-style:italic;color:#666;margin-top:-20px;">Groupe de la Banque africaine de développement (Groupe BAD)<br /></p>
+         
+         <div style="float:right;width:400px;clear:right;margin-bottom: 40px;margin-left:40px;margin-top:10px;">
+          	
+         <iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;key=AIzaSyDSecKDTYLGmGVJj3bjqciTn48sZkHCEps&amp;hl=en&amp;geocode=&amp;q=Abidjan,+Côte d'Ivoire&amp;z=9&amp;iwloc=A&amp;output=embed"></iframe>
+<h2>Contact Details</h2>
+
+
+
+		
+
+	
+	<p>Main address: Headquarters: <br />Rue Joseph Anoma 01 BP 1387 01, <a href="/ybio?addcity_1_en=Abidjan" title="Abidjan (click to perform a search)">Abidjan</a>, <a href="/ybio?addpays_1_en=Côte d'Ivoire" title="Côte d'Ivoire (click to perform a search)">Côte d'Ivoire</a><br />Tel: (225) 20 20 44 44<br />Fax: (225) 20 20 49 59<br />Email: <a title='Click to send an e-mail to this address (from your default e-mail client)' href="/cdn-cgi/l/email-protection#694f4a505e4f4a58595b4f4a5859594f4a50514f4a5f5d4f4a505e4f4a58595b4f4a5859594f4a50514f4a5d5f4f4a5858584f4a58585d4f4a58595a" target=_blank>afdb (at) afdb.org</a><br /></p><p>Temporary Relocation Agency: <br />BP 323, Belvedere 1002, <a href="/ybio?addcity_1_en=Tunis" title="Tunis (click to perform a search)">Tunis</a>, <a href="/ybio?addpays_1_en=Tunisia" title="Tunisia (click to perform a search)">Tunisia</a><br />Tel: (216 1) 71 33 35 11<br />Fax: (216 1) 71 35 19 33<br />Email: <a title='Click to send an e-mail to this address (from your default e-mail client)' href="/cdn-cgi/l/email-protection#caece9f3fdece9fbfaf8ece9fbfafaece9f3f2ece9fcfeece9f3fdece9fbfaf8ece9fbfafaece9f3f2ece9fefcece9fbfbfbece9fbfbfeece9fbfaf9" target=_blank>afdb (at) afdb.org</a><br /></p><p>URL: <br /><a title="Click to access page >http://www.afdb.org/<" href="http://www.afdb.org/" target="_blank">http://www.afdb.org/</a><br /></p>		
+		
+<div style="clear:both;"><p> </p><p></p></div><p> </p>
+</div>
+         
+<h2 style="margin-top:30px;">History</h2>
+<p>1964. Inaugural meeting of the Board of Governors of the Bank held 4-7 Nov 1964, Lago (Nigeria). Operations commenced 1 July 1966.</p>
+<h2 style="margin-top:20px;">Aims</h2>
+<p>Spur sustainable economic development and social progress in Regional Member Countries (RMCs), thus contributing to <i>poverty</i> reduction; mobilize and allocate resources for investment in RMCs; provide policy advice and technical assistance to support development effort.</p>
+
+
+
+	<div></div>
+
+		<h2 style="margin-top:20px;">Events</h2><p>2019 Sharm el Sheikh, Egypt – <em>AEC : African Economic Conference</em> <br />2019 Accra, Ghana – <em>ACF : Africa Carbon Forum</em> <br />2018 Kigali, Rwanda – <em>AEC : African Economic Conference</em> <br />2017 Addis Ababa, Ethiopia – <em>AEC : African Economic Conference</em> <br />2014 Seoul, Korea Rep – <em>Korea Africa Economic Cooperation Ministerial Conference</em> <br />2012 Arusha, Tanzania UR – <em>Meeting</em> <br />2011 Lisbon, Portugal – <em>Meeting</em> <br />2010 Abidjan, Côte d'Ivoire – <em>Annual meeting / Meeting</em> <br />2008 Maputo, Mozambique – <em>Annual Assembly</em> <br />2006 Ouagadougou, Burkina Faso – <em>Annual meeting / Annual Assembly</em> <br />2004 Kampala, Uganda – <em>Annual meeting</em> <br />2003 Addis Ababa, Ethiopia – <em>Annual meeting</em> <br />2002 Addis Ababa, Ethiopia – <em>Annual meeting</em> <br />2001 Valencia, Spain – <em>Annual meeting</em> <br />1999 Cairo, Egypt – <em>Annual meeting</em> <br /></p><p><a class="btn btn-small" id="moremeet"><i class="icon-th-list"></i> View More Events (2)</i></a></p><p><div id="morecal" style="display:none;margin-top:0;"><p style="margin-top:-5px;">1998 Abidjan, Côte d'Ivoire – <em>Annual meeting</em> <br />1993 Abidjan, Côte d'Ivoire – <em>Annual meeting</em> <br /><p><a class="btn btn-small" id="lessmeet"><i class="icon-th-list"></i> View Less Events (2)</i></a></p><p></p></div>
+
+
+
+
+
+<h2 style="margin-top:20px;">Activities</h2>
+<p>Operational activities in 2010 reached 4.10 billion Units of Account (UA). In terms of financing from the Bank Group windows: (i) ADB approved UA 2.58 billion (63%) of which UA 1.21 billion was for private sector operations; (ii) ADF approved UA 1.46 billion (35.5%); (iii) NTF approved UA 29.5 million (.7%). Distribution total approvals among various sectors during 2010 reflected the Bank's adherence to its policy of selectivity, project focus and effectiveness. It also aligned rising demand for infrastructure support from RMCs. In line with the Medium-Term Strategy (MTS), infrastructure ranked first, with an approvals allocation of UA 2.6 billion (70.9%), followed by finance, mostly comprising private sector operations, with UA 319.9 million (8.7%), then multisector, which includes support for governance and public sector management, etc, with UA 301.2 million (8.2%). These 3 sectors jointly accounted for 87.8% of total operational loans and grants.<p> Emphasis on infrastructure reveals the Bank's selectivity in targeting high impact projects that will create an enabling climate for private sector investment, improve competitiveness and productivity in RMCs, enhance employment opportunities, and support sustainable economic growth. Bank Group loan and grant approvals for the 5 subregions (including multinational projects) totalled UA 3.67 billion. Largest share of approvals allocated to North Africa, with UA 1.47 billion (40.1%), followed by West Africa, UA 595.8 million (16.2%), East Africa, UA 560.3 million (15.2%), Southern Africa, UA 492.8 million (13.4%), Central Africa, UA 234.6 million (6.4%), and multinational, UA 319.1 million (8.7%).<p> In general, loans were used for accelerating economic growth and reducing poverty, while the lines of credit (LOCs) aimed at deepening domestic financial markets for lending to small- and medium-size enterprise (SMEs). Investments in many sizeable multinational projects and programmes took the form of loans, LOCs, and private equity; these supported economic cooperation and regional integration, thereby improving the investment climate on the continent.</p>
+
+
+<h2 style="margin-top:20px;" id="ybp_structure">Structure</h2>
+<p>Comprises 3 distinct entities: <a href="/s/or/en/1100032429" title="African Development Bank (ADB)">African Development Bank (ADB)</a>, parent institution; <a href="/s/or/en/1100009013" title="African Development Fund (ADF)">African Development Fund (ADF)</a>; <a href="/s/or/en/1100046557" title="Nigeria Trust Fund (NTF)">Nigeria Trust Fund (NTF)</a>. Headquarters opened in Abidjan (Côte d'Ivoire), Mar 1965. Since early 2003, operates from Temporary Relocation Agency (TRA), Tunis (Tunisia). Shareholders comprise 53 African countries (RMCs) and 24 non-African countries (non-RMCs). Board of Governors is the highest policy-making organ, comprising one representative from each member country. Board of Directors, elected by Board of Governors, consisting of 20 members, including 13 from RMCs and 7 from non-RMCs, for a 3-year term, once renewable. President, elected by Board of Governors from among RMCs for 5-year term, once renewable, is also the Chair of the Board of Directors, and appoints Vice-Presidents.</p>
+	
+
+<h2 style="margin-top:20px;">Languages</h2>
+<p>English, French.</p>
+
+
+<h2 style="margin-top:20px;">Staff</h2>
+<p>As of Dec 2010, 1,101 professional and 688 support staff.</p>
+
+
+
+
+<h2 style="margin-top:20px;">Relations with Inter-Governmental Organizations</h2>
+<p>Formal cooperation with the following multilateral institutions:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100026189" title="African Management Services Company (AMSCO)">African Management Services Company (AMSCO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100043385" title="Arab Bank for Economic Development in Africa (BADEA)">Arab Bank for Economic Development in Africa (BADEA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100025992" title="International Labour Organization (ILO)">International Labour Organization (ILO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100034299" title="International Bank for Reconstruction and Development (IBRD)">International Bank for Reconstruction and Development (IBRD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100017121" title="International Civil Aviation Organization (ICAO)">International Civil Aviation Organization (ICAO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100017213" title="International Fund for Agricultural Development (IFAD)">International Fund for Agricultural Development (IFAD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100041183" title="International Telecommunication Union (ITU)">International Telecommunication Union (ITU)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100021066" title="United Nations Environment Programme (UN Environment)">United Nations Environment Programme (UN Environment)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100010946" title="United Nations Educational, Scientific and Cultural Organization (UNESCO)">United Nations Educational, Scientific and Cultural Organization (UNESCO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100061471" title="United Nations Industrial Development Organization (UNIDO)">United Nations Industrial Development Organization (UNIDO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100061759" title="United Nations Development and Technical Cooperation Programme">United Nations Development and Technical Cooperation Programme</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100026027" title="United Nations Economic Commission for Africa (ECA)">United Nations Economic Commission for Africa (ECA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100054686" title="World Health Organization (WHO)">World Health Organization (WHO)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100053307" title="World Food Programme (WFP)">World Food Programme (WFP)</a>.<p> Formal cooperation arrangements with the following Africa-based regional organizations:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100040688" title="Africa Rice Center (AfricaRice)">Africa Rice Center (AfricaRice)</a>; <a href="/s/or/en/1100033436" title="African Union (AU)">African Union (AU)</a>; <a href="/s/or/en/1100024159" title="Central African States' Development Bank (CASDB)">Central African States' Development Bank (CASDB)</a>; <a href="/s/or/en/1100029826" title="West African Development Bank (WADB)">West African Development Bank (WADB)</a>; <a href="/s/or/en/1100037079" title="East African Development Bank (EADB)">East African Development Bank (EADB)</a>; <a href="/s/or/en/1100001651" title="Inter-African Coffee Organization (IACO)">Inter-African Coffee Organization (IACO)</a>.<p> Also cooperates with:<p> <p>&nbsp;&bull; <a href="/s/or/en/1100027396" title="African, Caribbean and Pacific Group of States (ACP Group)">African, Caribbean and Pacific Group of States (ACP Group)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100057505" title="ECOWAS Bank for Investment and Development (EBID)">ECOWAS Bank for Investment and Development (EBID)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100029375" title="Intergovernmental Authority on Development (IGAD)">Intergovernmental Authority on Development (IGAD)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100018047" title="International Development Association (IDA)">International Development Association (IDA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100039734" title="Islamic Development Bank (IsDB)">Islamic Development Bank (IsDB)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100014984" title="League of Arab States (LAS)">League of Arab States (LAS)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100043395" title="Multilateral Investment Guarantee Agency (MIGA)">Multilateral Investment Guarantee Agency (MIGA)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100027322" title="Nordic Development Fund (NDF)">Nordic Development Fund (NDF)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100028048" title="OPEC Fund for International Development (OFID)">OPEC Fund for International Development (OFID)</a>;<p> <p>&nbsp;&bull; <a href="/s/or/en/1100014034" title="Regional African Satellite Communications Organization (RASCOM)">Regional African Satellite Communications Organization (RASCOM)</a>.<p> Technical and economic cooperation and co-financing are implemented with such financial development institutions as: World Bank; BADEA; <a href="/s/or/en/1100040548" title="Inter-American Development Bank (IDB)">Inter-American Development Bank (IDB)</a>; UNDP; <a href="/s/or/en/1100033397" title="United States Agency for International Development (USAID)">United States Agency for International Development (USAID)</a>. Regional integration emphasized through assistance to: <a href="/s/or/en/1100007392" title="Economic Community of Central African States (ECCAS)">Economic Community of Central African States (ECCAS)</a>; <a href="/s/or/en/1100037595" title="Economic Community of the Great Lakes Countries (CEPGL)">Economic Community of the Great Lakes Countries (CEPGL)</a>; <a href="/s/or/en/1100029396" title="Economic Community of West African States (ECOWAS)">Economic Community of West African States (ECOWAS)</a>; <a href="/s/or/en/1100039810" title="Mano River Union (MRU)">Mano River Union (MRU)</a>; <a href="/s/or/en/1100061207" title="Southern African Development Community (SADC)">Southern African Development Community (SADC)</a>. Links indicated by: <a href="/s/or/en/1100061172" title="Common Market for Eastern and Southern Africa (COMESA)">Common Market for Eastern and Southern Africa (COMESA)</a>; <a href="/s/or/en/1100053428" title="Regional Centre for Mapping of Resources for Development (RCMRD)">Regional Centre for Mapping of Resources for Development (RCMRD)</a>.</p>
+
+<h2 style="margin-top:20px;">Relations with Non-Governmental Organizations</h2>
+<p>Works closely with: <a href="/s/or/en/1100043132" title="Association of African Development Finance Institutions (AADFI)">Association of African Development Finance Institutions (AADFI)</a>. Links with: <a href="/s/or/en/1100018618" title="International Commission on Irrigation and Drainage (ICID)">International Commission on Irrigation and Drainage (ICID)</a>. Links indicated by: <a href="/s/or/en/1100037740" title="International Foundation for Science (IFS)">International Foundation for Science (IFS)</a>; <a href="/s/or/en/1100038966" title="International Network for Small and Medium Sized Enterprises (INSME)">International Network for Small and Medium Sized Enterprises (INSME)</a>.</p>
+
+<h2 style="margin-top:20px;">Publications</h2>
+<p><i>African Economic Outlook</i>. Annual Report.</p>
+
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Members</h2><div>totally 77 Member States. RMCs (53):<p>&nbsp;&bull; <u>Africa</u>: <a href="/ybio?memb_en_fm=Algeria" title="Algeria (click to perform a search)">Algeria</a>, <a href="/ybio?memb_en_fm=Angola" title="Angola (click to perform a search)">Angola</a>, <a href="/ybio?memb_en_fm=Benin" title="Benin (click to perform a search)">Benin</a>, <a href="/ybio?memb_en_fm=Botswana" title="Botswana (click to perform a search)">Botswana</a>, <a href="/ybio?memb_en_fm=Burkina Faso" title="Burkina Faso (click to perform a search)">Burkina Faso</a>, <a href="/ybio?memb_en_fm=Burundi" title="Burundi (click to perform a search)">Burundi</a>, <a href="/ybio?memb_en_fm=Cameroon" title="Cameroon (click to perform a search)">Cameroon</a>, <a href="/ybio?memb_en_fm=Cape Verde" title="Cape Verde (click to perform a search)">Cape Verde</a>, <a href="/ybio?memb_en_fm=Central African Rep" title="Central African Rep (click to perform a search)">Central African Rep</a>, <a href="/ybio?memb_en_fm=Chad" title="Chad (click to perform a search)">Chad</a>, <a href="/ybio?memb_en_fm=Comoros" title="Comoros (click to perform a search)">Comoros</a>, <a href="/ybio?memb_en_fm=Congo Brazzaville" title="Congo Brazzaville (click to perform a search)">Congo Brazzaville</a>, <a href="/ybio?memb_en_fm=Congo DR" title="Congo DR (click to perform a search)">Congo DR</a>, <a href="/ybio?memb_en_fm=Côte d'Ivoire" title="Côte d'Ivoire (click to perform a search)">Côte d'Ivoire</a>, <a href="/ybio?memb_en_fm=Djibouti" title="Djibouti (click to perform a search)">Djibouti</a>, <a href="/ybio?memb_en_fm=Egypt" title="Egypt (click to perform a search)">Egypt</a>, <a href="/ybio?memb_en_fm=Equatorial Guinea" title="Equatorial Guinea (click to perform a search)">Equatorial Guinea</a>, <a href="/ybio?memb_en_fm=Eritrea" title="Eritrea (click to perform a search)">Eritrea</a>, <a href="/ybio?memb_en_fm=Eswatini" title="Eswatini (click to perform a search)">Eswatini</a>, <a href="/ybio?memb_en_fm=Ethiopia" title="Ethiopia (click to perform a search)">Ethiopia</a>, <a href="/ybio?memb_en_fm=Gabon" title="Gabon (click to perform a search)">Gabon</a>, <a href="/ybio?memb_en_fm=Gambia" title="Gambia (click to perform a search)">Gambia</a>, <a href="/ybio?memb_en_fm=Ghana" title="Ghana (click to perform a search)">Ghana</a>, <a href="/ybio?memb_en_fm=Guinea" title="Guinea (click to perform a search)">Guinea</a>, <a href="/ybio?memb_en_fm=Guinea-Bissau" title="Guinea-Bissau (click to perform a search)">Guinea-Bissau</a>, <a href="/ybio?memb_en_fm=Kenya" title="Kenya (click to perform a search)">Kenya</a>, <a href="/ybio?memb_en_fm=Lesotho" title="Lesotho (click to perform a search)">Lesotho</a>, <a href="/ybio?memb_en_fm=Liberia" title="Liberia (click to perform a search)">Liberia</a>, <a href="/ybio?memb_en_fm=Libyan AJ" title="Libyan AJ (click to perform a search)">Libyan AJ</a>, <a href="/ybio?memb_en_fm=Madagascar" title="Madagascar (click to perform a search)">Madagascar</a>, <a href="/ybio?memb_en_fm=Malawi" title="Malawi (click to perform a search)">Malawi</a>, <a href="/ybio?memb_en_fm=Mali" title="Mali (click to perform a search)">Mali</a>, <a href="/ybio?memb_en_fm=Mauritania" title="Mauritania (click to perform a search)">Mauritania</a>, <a href="/ybio?memb_en_fm=Mauritius" title="Mauritius (click to perform a search)">Mauritius</a>, <a href="/ybio?memb_en_fm=Morocco" title="Morocco (click to perform a search)">Morocco</a>, <a href="/ybio?memb_en_fm=Mozambique" title="Mozambique (click to perform a search)">Mozambique</a>, <a href="/ybio?memb_en_fm=Namibia" title="Namibia (click to perform a search)">Namibia</a>, <a href="/ybio?memb_en_fm=Niger" title="Niger (click to perform a search)">Niger</a>, <a href="/ybio?memb_en_fm=Nigeria" title="Nigeria (click to perform a search)">Nigeria</a>, <a href="/ybio?memb_en_fm=Rwanda" title="Rwanda (click to perform a search)">Rwanda</a>, <a href="/ybio?memb_en_fm=Sao Tomé-Principe" title="Sao Tomé-Principe (click to perform a search)">Sao Tomé-Principe</a>, <a href="/ybio?memb_en_fm=Senegal" title="Senegal (click to perform a search)">Senegal</a>, <a href="/ybio?memb_en_fm=Seychelles" title="Seychelles (click to perform a search)">Seychelles</a>, <a href="/ybio?memb_en_fm=Sierra Leone" title="Sierra Leone (click to perform a search)">Sierra Leone</a>, <a href="/ybio?memb_en_fm=Somalia" title="Somalia (click to perform a search)">Somalia</a>, <a href="/ybio?memb_en_fm=South Africa" title="South Africa (click to perform a search)">South Africa</a>, <a href="/ybio?memb_en_fm=Sudan" title="Sudan (click to perform a search)">Sudan</a>, <a href="/ybio?memb_en_fm=Tanzania UR" title="Tanzania UR (click to perform a search)">Tanzania UR</a>, <a href="/ybio?memb_en_fm=Togo" title="Togo (click to perform a search)">Togo</a>, <a href="/ybio?memb_en_fm=Tunisia" title="Tunisia (click to perform a search)">Tunisia</a>, <a href="/ybio?memb_en_fm=Uganda" title="Uganda (click to perform a search)">Uganda</a>, <a href="/ybio?memb_en_fm=Zambia" title="Zambia (click to perform a search)">Zambia</a>, <a href="/ybio?memb_en_fm=Zimbabwe" title="Zimbabwe (click to perform a search)">Zimbabwe</a>.<p> Non RMCs (24):<p>&nbsp;&bull; <u>Americas</u>: <a href="/ybio?memb_en_fm=Argentina" title="Argentina (click to perform a search)">Argentina</a>, <a href="/ybio?memb_en_fm=Brazil" title="Brazil (click to perform a search)">Brazil</a>, <a href="/ybio?memb_en_fm=Canada" title="Canada (click to perform a search)">Canada</a>, <a href="/ybio?memb_en_fm=Chile" title="Chile (click to perform a search)">Chile</a>, <a href="/ybio?memb_en_fm=USA" title="USA (click to perform a search)">USA</a>. <p>&nbsp;&bull; <u>Asia</u>: <a href="/ybio?memb_en_fm=China" title="China (click to perform a search)">China</a>, <a href="/ybio?memb_en_fm=India" title="India (click to perform a search)">India</a>, <a href="/ybio?memb_en_fm=Japan" title="Japan (click to perform a search)">Japan</a>, <a href="/ybio?memb_en_fm=Korea Rep" title="Korea Rep (click to perform a search)">Korea Rep</a>, <a href="/ybio?memb_en_fm=Kuwait" title="Kuwait (click to perform a search)">Kuwait</a>, <a href="/ybio?memb_en_fm=Saudi Arabia" title="Saudi Arabia (click to perform a search)">Saudi Arabia</a>. <p>&nbsp;&bull; <u>Europe</u>: <a href="/ybio?memb_en_fm=Austria" title="Austria (click to perform a search)">Austria</a>, <a href="/ybio?memb_en_fm=Denmark" title="Denmark (click to perform a search)">Denmark</a>, <a href="/ybio?memb_en_fm=Finland" title="Finland (click to perform a search)">Finland</a>, <a href="/ybio?memb_en_fm=France" title="France (click to perform a search)">France</a>, <a href="/ybio?memb_en_fm=Germany" title="Germany (click to perform a search)">Germany</a>, <a href="/ybio?memb_en_fm=Italy" title="Italy (click to perform a search)">Italy</a>, <a href="/ybio?memb_en_fm=Netherlands" title="Netherlands (click to perform a search)">Netherlands</a>, <a href="/ybio?memb_en_fm=Norway" title="Norway (click to perform a search)">Norway</a>, <a href="/ybio?memb_en_fm=Portugal" title="Portugal (click to perform a search)">Portugal</a>, <a href="/ybio?memb_en_fm=Spain" title="Spain (click to perform a search)">Spain</a>, <a href="/ybio?memb_en_fm=Sweden" title="Sweden (click to perform a search)">Sweden</a>, <a href="/ybio?memb_en_fm=Switzerland" title="Switzerland (click to perform a search)">Switzerland</a>, <a href="/ybio?memb_en_fm=UK" title="UK (click to perform a search)">UK</a>.</div><p>Members in 77 countries<br /></p>
+ <h2 style="margin-top:20px;">Type I Classification</h2>
+<p>F: Organizations having a special form, including foundations and funds</p>
+ <h2 style="margin-top:20px;">Type II Classification</h2>
+<div>g: Intergovernmental<br /></div>
+
+
+ <h2 style="margin-top:20px;clear:left;">Subjects <sup>*</sup></h2><ul><li><a href="/ybio?wcodes=Society" title="Society:  (click to perform a search)">Society</a></li><ul><li><a href="/ybio?wcodes=Disadvantaged" title="Disadvantaged:  (click to perform a search)">Disadvantaged</a></li></ul><li><a href="/ybio?wcodes=Commerce" title="Commerce:  (click to perform a search)">Commerce</a></li><ul><li><a href="/ybio?wcodes=Banking" title="Banking:  (click to perform a search)">Banking</a></li></ul><li><a href="/ybio?wcodes=Development" title="Development:  (click to perform a search)">Development</a></li><ul><li><a href="/ybio?wcodes=Development" title="Development:  (click to perform a search)">Development</a></li></ul></ul> 
+ 
+ 	<h2 style="margin-top:20px;">UN Sustainable Development Goals <sup>**</sup></h2><p><a href="/s/sdg/en/UN01" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-01.png" class="sdgimg" alt="GOAL 1: No Poverty" /></a><a href="/s/sdg/en/UN08" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-08.png" class="sdgimg" alt="GOAL 8: Decent Work and Economic Growth" /></a><a href="/s/sdg/en/UN10" style="border:none;"><img src="https://uia.org/sites/uia.org/files/img/sdgs/E_SDG goals_icons-individual-rgb-10.png" class="sdgimg" alt="GOAL 10: Reduced Inequality" /></a></p> 
+<h2 style="margin-top:20px;">UIA Org ID</h2>
+<p>F0121</p>
+<!--  -->
+
+<h2 style="margin-top:20px;">Last News Received</h2><div> 8. Dec 2011</div><div style="color:#999;margin-top:20px;"><sup>*</sup> Subject classification is derived from the organization names and aims.  <br />
+  <sup>**</sup> UN SDGs are linked to the subject classification.<br /><br />
+
+
+
+
+<div style="clear:both;color:#999;margin-top:30px;line-height:140%;"><div style="float:right;width:250px;text-align:right;margin-left:30px;"><a class="btn btw-med" href="https://www.uia.org/node/add/new-org-submission" target="_blank"><i class="icon-th-list"></i> Add A New Organization</a></div>You are viewing an organization profile from the <span style="color:#333;"><a href="/ybio/">Yearbook of International Organizations Online</a></span>. <br /><a href="javascript: history.go(-1)">&larr; return to your search page</a> to see additional profiles.</div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+                
+    
+<div style="clear:both;height:10px;"> </div>
+
+
+
+
+<div style="clear:both;">
+    <footer id="footer" class="region region-footer">
+    <!-- .block -->
+<div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div id="copy-footer">
+<div id="logout" style="width:100px;float:right;"><form action="/LOGOUT" method="post">
+    <input type="submit" value="Logout" /></form></div>
+© 2020 <a href="https://www.uia.org" style="color:#bfccd9;">Union of International Associations</a> &amp; <a href="https://www.brill.com" style="color:#bfccd9;">Koninklijke Brill NV</a>.<br /> 
+For more information please visit <a href="http://www.brill.com/ybio" style="color:#bfccd9;">brill.com</a> | <a href="http://www.brill.com/standard-conditions-sale" style="color:#bfccd9;">Terms and Conditions</a> | <a href="http://www.brill.com/about/policies/privacy-statement" style="color:#bfccd9;">Privacy Statement</a> | <a href="http://www.brill.com/about/policies/rights-permissions" style="color:#bfccd9;">Copyright &amp; Permissions</a></div>
+</div><!-- /.block -->
+  </footer>
+</div>  
+
+</div><!-- /#container -->
+
+</div><!-- /#page -->
+
+<div id="devel">
+</div>  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/libraries/jquery-ui-multiselect-widget/src/jquery.multiselect.filter.js?q4261c"></script>
+<script src="https://brill.uia.org/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.js?q4261c"></script>
+<script>jQuery(document).ready(function () 
+{   
+	
+	
+	
+	var x = document.getElementsByTagName("META");
+	    var txt = "";
+	    var i;
+	    for (i = 0; i < x.length; i++) {
+	        if (x[i].name=="ST.PlatformAPIKey")
+	        {
+	          var platformKey = x[i].content;
+	         }
+ 	        if (x[i].name=="ST.customerId")
+ 	        {
+ 	          var customerKey = x[i].content;
+ 	         }
+	    }
+	
+	var substatus = "valid";
+	if(customerKey == "") 
+	{
+		substatus = "not subscribed";
+	}
+	
+
+
+	var refer = document.referrer;
+	 var refcheck = refer.indexOf("name");
+	 
+
+ 	if(refcheck > 10) {
+ 	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RESULT_CLICK'}]);
+ 	}
+	 
+	 if(substatus == "valid") {
+	_$tarQ.push(['track', {datatype: 'DATABASE', title: 'YBIO', itemtype: 'RECORD_VIEW'}]);
+	}
+
+
+});</script>
+  
+  <script type="text/javascript">
+    (function () {
+      var stars = document.createElement('script');
+      stars.type = 'text/javascript';
+      stars.async = true;
+      stars.src = 'https://receiver.star.saas.semcs.net/star.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(stars, s);
+  })();
+  </script>
+  
+</body>
+
+</html>

@@ -48,13 +48,14 @@ class PagesParser
     {
         echo $title = $pageInfo->title . " (" . $pageInfo->acronym . ") \n";
         $contactDetails = $pageInfo->contactDetails[address];
-        echo $websiteURL = $pageInfo->contactDetails[url];
+        $websiteURL = $pageInfo->contactDetails[url];
         var_dump($pageInfo->events);
-        var_dump($pageInfo->goals);
-        var_dump($pageInfo->subjects);
-        var_dump($pageInfo->activities);
-        var_dump($contactDetails);
-        var_dump($pageInfo->members);
+        var_dump($pageInfo->contactDetails);
+        //var_dump($pageInfo->goals);
+        //var_dump($pageInfo->subjects);
+        //var_dump($pageInfo->activities);
+        //var_dump($contactDetails);
+        //var_dump($pageInfo->members);
 
         $servername = "localhost";
         $username = "root";
@@ -69,7 +70,7 @@ class PagesParser
         echo "Connected successfully" . "<br>";
 
 
-        $sql =  $conn->prepare( "INSERT INTO assocs (name, contact_det, websiteURL, aims, history, events, 
+        /*$sql =  $conn->prepare( "INSERT INTO assocs (name, contact_det, websiteURL, aims, history, events,
             financing, consultative_status, ngo_relations, members, type1, type2, activities, structure, 
             languages, staff, igo_relations, subjects, last_news_received, other)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
@@ -80,7 +81,7 @@ class PagesParser
             $pageInfo->structure, $pageInfo->languages, $pageInfo->staff, $pageInfo->igoRelations, $pageInfo->subjects,
             $pageInfo->lastNewsReceived, $pageInfo->goals );
 
-        $sql->execute();
+        $sql->execute();*/
 
         /*if (mysqli_query($conn, $sql)) {
             echo "New record created successfully";
