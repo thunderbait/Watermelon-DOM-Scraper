@@ -3,23 +3,16 @@
 
 class PageInfo
 {
-    public $name;
-    public $organization;
-    public $venue;
-    public $location;
-    public $startDateTime;
-    public $endDateTime;
+    public $carehomeName;
 
     private static $nameMappings = [
-        'UN Sustainable Development Goals **' => 'goals',
-        'UIA Org ID' => 'orgId',
-        'Relations with Non-Governmental Organizations' => 'ngoRelations',
-        'Relations with Inter-Governmental Organizations' => 'igoRelations',
-        'Type I Classification' => 'type1',
-        'Type II Classification' => 'type2',
-        'Subjects *' => 'subjects',
-        'Last News Received' => 'lastNewsReceived',
-        'Contact Details' => 'contactDetails'
+        'Address:' => 'location',
+        'Telephone:' => 'phone',
+        'Service types:' => 'types',
+        'Provider:' => 'group',
+        'Responsible individual:' => 'contactName',
+        'Maximum number of places:' => 'beds',
+        'Local authority:' => 'localAuthority'
     ];
 
     public static function getPropertyFromHeading($headingText)

@@ -15,7 +15,7 @@ class PagesParser
 
     public function __construct()
     {
-        $this->pagesContentProvider = new DirectoryPageContentProvider('pages');
+        $this->pagesContentProvider = new DirectoryPageContentProvider('pages/Wales');
     }
 
     public function parsePages()
@@ -46,20 +46,19 @@ class PagesParser
      */
     private function handlePageInfo($pageInfo)
     {
-        echo $title = $pageInfo->title . " (" . $pageInfo->acronym . ") \n";
-        $contactDetails = $pageInfo->contactDetails[address];
-        echo $websiteURL = $pageInfo->contactDetails[url];
-        var_dump($pageInfo->events);
-        var_dump($pageInfo->goals);
-        var_dump($pageInfo->subjects);
-        var_dump($pageInfo->activities);
-        var_dump($contactDetails);
-        var_dump($pageInfo->members);
+        echo $pageInfo->title . "\n";
+        //var_dump($pageInfo->types);
+        echo $pageInfo->city . "\n";
+        echo $pageInfo->phone . "\n";
+        echo $pageInfo->group . "\n";
+        echo $pageInfo->localAuthority . "\n";
+        echo $pageInfo->contactName . "\n";
+        echo $pageInfo->beds . "\n";
 
         $servername = "localhost";
         $username = "root";
         $password = "";
-        $database = "uia_research";
+        $database = "carehomes";
         // Create connection
         $conn = new mysqli($servername, $username, $password, $database);
         // Check connection
@@ -69,18 +68,36 @@ class PagesParser
         echo "Connected successfully" . "<br>";
 
 
-        $sql =  $conn->prepare( "INSERT INTO assocs (name, contact_det, websiteURL, aims, history, events, 
-            financing, consultative_status, ngo_relations, members, type1, type2, activities, structure, 
-            languages, staff, igo_relations, subjects, last_news_received, other)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+        $location =  $conn->prepare( "INSERT INTO locations (name, location_authority) VALUES (?, ?)");
+        $location->bind_param('s, s',$pageInfo->city, $pageInfo->localAuthority);
+        $location->execute();
 
-        $sql->bind_param('ssssssssssssssssssss',$title,$contactDetails, $websiteURL,
-            $pageInfo->aims, $pageInfo->history, $pageInfo->events, $pageInfo->financing, $pageInfo->consultativeStatus,
-            $pageInfo->ngoRelations, $pageInfo->members, $pageInfo->type1, $pageInfo->type2, $pageInfo->activities,
-            $pageInfo->structure, $pageInfo->languages, $pageInfo->staff, $pageInfo->igoRelations, $pageInfo->subjects,
-            $pageInfo->lastNewsReceived, $pageInfo->goals );
+        $group = $conn->prepare( "INSERT INTO groups (name) VALUES (?)");
+        $group->bind_param('s',$pageInfo->group);
+        $group->execute();
 
-        $sql->execute();
+        foreach ($pageInfo->types as $type) {
+            $type = $conn->prepare( "INSERT INTO types (name) VALUES ($type)");
+            $type->bind_param('s',$type);
+            $type->execute();
+        }
+
+        $carehome =  $conn->prepare( "INSERT INTO care_homes (name, number_beds, location_id, group_id, type_id, notes)
+            VALUES (?, ?, ( SELECT location_id FROM locations WHERE locations.id = ? ), 
+            ( SELECT group_id FROM groups WHERE groups.id = ? ), ( SELECT type_id FROM types WHERE types.id = ? ), NULL)");
+        $carehome->bind_param('s, i, i, i, i, s',$pageInfo->title, $pageInfo->beds,
+            $locationId, $groupId, $typeId, $pageInfo->notes);
+        $carehome->execute();
+
+        $contact = $conn->prepare( "INSERT INTO contacts (name, role, email, phone, linkedin, carehome_id)
+            VALUES (?, NULL, NULL, ?, NULL, ( SELECT carehome_id FROM care_homes WHERE care_homes.id = ? ))");
+        $contact->bind_param('s, s, s, s, s, i',$pageInfo->contactName, $pageInfo->role, $pageInfo->email,
+            $pageInfo->phone, $pageInfo->linkedin, $carehomeId);
+        $contact->execute();
+
+        $specialism = $conn->prepare( "INSERT INTO specialisms (name) VALUES (?)");
+        $specialism->bind_param('s',$pageInfo->specialismName);
+        $specialism->execute();
 
         /*if (mysqli_query($conn, $sql)) {
             echo "New record created successfully";

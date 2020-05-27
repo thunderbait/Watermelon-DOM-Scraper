@@ -26,7 +26,52 @@ class PageParser
     {
         if (!static::$EXTRACTORS)
             static::$EXTRACTORS = [
-                'goals' => function ($contentElement) {
+
+                'location' => function ($contentElement) {
+                    $city = $contentElement->find('.address-line2');
+                    return trim($city->plaintext);
+                },
+
+                'phone' => function ($contentElement) {
+                    $listElement = $contentElement->find('li', 0);
+                    $phone = $listElement->find('span', 0);
+                    return trim($phone->plaintext);
+                },
+
+                'types' => function ($contentElement) {
+                    $elements = $contentElement->find('div');
+                    $types = [];
+
+                    foreach ($elements as $element) {
+                        if (!$element->hasChildNodes()) {
+                            $types = trim($element->plaintext);
+                        }
+                    }
+                    return $types;
+                },
+
+                'group' => function ($contentElement) {
+                    $group = $contentElement->find('span', 0);
+                    return trim($group->plaintext);
+                },
+
+                'contactName' => function ($contentElement) {
+                    $contactName = $contentElement->nextSibling();
+                    return trim($contactName->plaintext);
+                },
+
+                'beds' => function ($contentElement) {
+                    $beds = $contentElement->nextSibling();
+                    return trim($beds->plaintext);
+                },
+
+                'localAuthority' => function ($contentElement) {
+                    $localAuthority = $contentElement->nextSibling();
+                    return trim($localAuthority->plaintext);
+                },
+
+                /*
+                    'goals' => function ($contentElement) {
                     $links = $contentElement->find('a');
                     $goals = [];
                     foreach ($links as $link) {
@@ -92,7 +137,6 @@ class PageParser
                     return $subjects;
                 },
 
-                // TODO: Works except for 1100000028
                 'activities' => function ($contentElement) {
                     $activitiesContent = $contentElement->innertext;
                     $activities = [];
@@ -168,6 +212,7 @@ class PageParser
                     }
                     return $members;
                 },
+                */
 
                 // the generic simple extractor
                 '_default' => function ($contentElement) {
@@ -204,10 +249,10 @@ class PageParser
 
         /** @var simple_html_dom $dom */
         $dom = str_get_html($this->html);
+
         /** @var simple_html_dom_node $content */
         if ($content = $this->getContentNode($dom)) {
             $this->pageInfo->title = $this->getTitle($content);
-            $this->splitTitleForAcronym($this->pageInfo);
 
             $sections = $this->buildSections($content);
             $this->loadSectionData($sections, $this->pageInfo);
@@ -221,13 +266,14 @@ class PageParser
 
     private function getContentNode($dom)
     {
-        return $dom->find('#layoutContent', 0);
+        return $dom->find('.layout-content', 0);
     }
 
     private function getTitle($content)
     {
-        $titleDiv = $content->find('.conferenceBold', 0);
-        $titleElement = $titleDiv->find('h1', 0);
+        // Get title element
+        $titleDiv = $content->find('.content__title', 0);
+        $titleElement = $titleDiv->find('span', 0);
         return $titleElement
             ? trim($titleElement->plaintext)
             : null;
@@ -260,9 +306,12 @@ class PageParser
     private function buildSections($content)
     {
         $sections = [];
-        $sectionHeadings = $content->find('h2');
+        // Find data fields html elements
+        $sectionHeadings = $content->find('h3[.col-md-12 col-lg-5], div[.col-xs-12 col-lg-5 pl-0 type]');
+
         /** @var simple_html_dom_node $sectionHeading */
         foreach ($sectionHeadings as $sectionHeading) {
+
             /** @var simple_html_dom_node $sectionContent */
             $sectionContent = $sectionHeading->nextSibling();
             if ($sectionContent && $this->tagCanHoldContent($sectionContent->tag)) {
