@@ -3,8 +3,6 @@
 
 class PageInfo
 {
-    public $carehomeName;
-
     private static $nameMappings = [
         'Address:' => 'location',
         'Telephone:' => 'phone',

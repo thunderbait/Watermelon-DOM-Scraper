@@ -28,14 +28,18 @@ class PageParser
             static::$EXTRACTORS = [
 
                 'location' => function ($contentElement) {
-                    $city = $contentElement->find('.address-line2');
-                    return trim($city->plaintext);
+                    $location = $contentElement->find('.address-line2');
+                    return $location
+                        ? trim($location->plaintext)
+                        : null;
                 },
 
                 'phone' => function ($contentElement) {
                     $listElement = $contentElement->find('li', 0);
                     $phone = $listElement->find('span', 0);
-                    return trim($phone->plaintext);
+                    return $phone
+                        ? trim($phone->plaintext)
+                        : null;
                 },
 
                 'types' => function ($contentElement) {
@@ -52,167 +56,31 @@ class PageParser
 
                 'group' => function ($contentElement) {
                     $group = $contentElement->find('span', 0);
-                    return trim($group->plaintext);
+                    return $group
+                        ? trim($group->plaintext)
+                        : null;
                 },
 
                 'contactName' => function ($contentElement) {
                     $contactName = $contentElement->nextSibling();
-                    return trim($contactName->plaintext);
+                    return $contactName
+                        ? trim($contactName->plaintext)
+                        : null;
                 },
 
                 'beds' => function ($contentElement) {
                     $beds = $contentElement->nextSibling();
-                    return trim($beds->plaintext);
+                    return $beds
+                        ? trim($beds->plaintext)
+                        : null;
                 },
 
                 'localAuthority' => function ($contentElement) {
                     $localAuthority = $contentElement->nextSibling();
-                    return trim($localAuthority->plaintext);
+                    return $localAuthority
+                        ? trim($localAuthority->plaintext)
+                        : null;
                 },
-
-                /*
-                    'goals' => function ($contentElement) {
-                    $links = $contentElement->find('a');
-                    $goals = [];
-                    foreach ($links as $link) {
-                        $href = $link->href;
-                        $token = 'UN';
-                        if ($pos = strrpos($href, $token)) {
-                            $numString = substr($href, $pos + strlen($token));
-                            $num = intval($numString);
-                            if ($num)
-                                $goals[] = $num;
-                        }
-                    }
-                    return $goals;
-                },
-
-                'subjects' => function ($contentElement) {
-
-                    if( !function_exists('findCategoryNodes') ) {
-                        function findCategoryNodes($element)
-                        {
-                            $categoryNodes = [];
-
-                            foreach ($element->children as $child)
-                                if ($child->tag == 'li')
-                                    $categoryNodes[] = $child;
-
-                            return $categoryNodes;
-                        };
-                    }
-
-                    if( !function_exists('buildSubCategories') ) {
-                        function buildSubCategories($categoryElement)
-                        {
-                            $subCategories = [];
-                            $subCatUl = $categoryElement->nextSibling();
-                            if ($subCatUl && $subCatUl->tag == 'ul') {
-                                foreach ($subCatUl->find('li') as $subCatLi)
-                                    $subCategories[] = trim($subCatLi->plaintext);
-                            }
-
-                            return $subCategories;
-                        }
-                    }
-
-                    if( !function_exists('buildSubjectCategoryHierachy') ) {
-                        function buildSubjectCategoryHierachy(array $categoryElements)
-                        {
-                            $categories = [];
-                            foreach ($categoryElements as $category) {
-                                $catName = trim($category->plaintext);
-                                $subcategories = buildSubCategories($category);
-
-                                $categories[$catName] = $subcategories;
-                            }
-
-                            return $categories;
-                        }
-                    }
-
-                    $categories = findCategoryNodes($contentElement);
-                    $subjects = buildSubjectCategoryHierachy($categories);
-
-                    return $subjects;
-                },
-
-                'activities' => function ($contentElement) {
-                    $activitiesContent = $contentElement->innertext;
-                    $activities = [];
-                    $delimiters = [";", ",", "."];
-
-                    if ($activitiesContent) {
-                        for ($i = 0; $i <= 2; $i++) {
-                            $activityItems = explode($delimiters[$i], $activitiesContent);
-                            if (count($activityItems) >= 2) {
-                                for ($i = 0; $i < count($activityItems); $i++)
-                                    $activities[] = trim($activityItems[$i]);
-                            }
-                        }
-                    }
-                    return $activities;
-                },
-
-                'contactDetails' => function ($contentElement)
-                {
-                    $address = [];
-                    $contactContent = $contentElement->innertext;
-                    if ($contactContent)
-                    {
-                        $contactItems = explode('<br />', $contactContent);
-                        for ($i = 0; $i < count($contactItems) - 1; $i++)
-                        {
-                            $address[] = trim(strip_tags($contactItems[$i]));
-                        }
-                    }
-
-                    $url = null;
-                    $urlContainer = $contentElement->nextSibling();
-                    if ($urlContainer && $urlContainer->tag == 'p')
-                    {
-                        $linkElem = $urlContainer->find('a', 0);
-                        if ($linkElem)
-                            $url = trim ($linkElem->href);
-                    }
-
-                    return [
-                        'address' => $address,
-                        'url' => $url
-                    ];
-                },
-
-                'events' => function ($contentElement)
-                {
-                    $events = [];
-                    $eventsContent = $contentElement->innertext;
-                    if ($eventsContent)
-                    {
-                        $eventItems = explode('<br />', $eventsContent);
-                        for ($i = 0; $i < count($eventItems) - 1; $i++)
-                        {
-                            $eventItem = $eventItems[$i];
-                            $eventItem = str_replace('<em>', '', $eventItem);
-                            $eventItem = str_replace('</em>', '', $eventItem);
-                            $events[] = trim($eventItem);
-                        }
-                    }
-                    return $events;
-                },
-
-                'members' => function ($contentElement) {
-                    $members = [];
-                    $membersContent = $contentElement->find('p', 0);
-                    if ($membersContent){
-                        $membersItems = $membersContent->find('a');
-                        foreach ($membersItems as $membersItem) {
-
-                            $members[] = trim($membersItem->plaintext);
-                        }
-                    }
-                    return $members;
-                },
-                */
 
                 // the generic simple extractor
                 '_default' => function ($contentElement) {
