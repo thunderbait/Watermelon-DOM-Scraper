@@ -75,7 +75,6 @@ class PagesParser
         $this->insertIntoCarehomesTable($this->initConnection(), $pageInfo);
         $this->insertIntoContactsTable($this->initConnection(), $pageInfo);
         $this->insertTypesRelationIntoPivotTable($this->initConnection(), $pageInfo);
-
         /*
         // Add Care home specialism to Specialisms table
         $specialism = $conn->prepare( "INSERT INTO specialisms (name) VALUES (?)");
@@ -225,7 +224,5 @@ class PagesParser
             $prepareStatement->bind_param('ii', $carehomeForeignKey, $typeForeignKey);
             $prepareStatement->execute();
         }
-
-
     }
 }
