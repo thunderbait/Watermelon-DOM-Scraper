@@ -57,60 +57,24 @@ class PagesParser
      */
     private function handlePageInfo($pageInfo)
     {
-        echo $pageInfo->title . "<br>";
-        var_dump($pageInfo->types);
-        echo $pageInfo->location . "<br>";
-        echo $pageInfo->phone . "<br>";
-        echo $pageInfo->group . "<br>";
-        echo $pageInfo->localAuthority . "<br>";
-        echo $pageInfo->contactName . "<br>";
-        echo $pageInfo->beds . "<br>";
-
-        $servername = "localhost";
-        $username = "root";
-        $password = "";
-        $database = "carehomes";
-        // Create connection
-        $conn = new mysqli($servername, $username, $password, $database);
-        // Check connection
-        if ($conn->connect_error) {
-            die("Connection failed: " . $conn->connect_error);
+        echo "Care home: " . $pageInfo->title . "<br>";
+        foreach ($pageInfo->types as $type)
+        {
+            echo "Type: " . $type . "<br>";
         }
-        echo "Connected successfully" . "<br>";
+        //var_dump($pageInfo->types);
+        echo "Location: " . $pageInfo->location . "<br>";
+        echo "Phone: " . $pageInfo->phone . "<br>";
+        echo "Provider: " . $pageInfo->group . "<br>";
+        echo "Local Authority: " . $pageInfo->localAuthority . "<br>";
+        echo "Contact Name: " . $pageInfo->contactName . "<br>";
+        echo "Number of beds: " . $pageInfo->beds . "<br>";
+        echo "<hr>";
 
-        // Add Care home location to Locations table
-        $location =  $conn->prepare( "INSERT INTO locations (name, location_authority) VALUES (?, ?)");
-        $location->bind_param('ss',$pageInfo->location, $pageInfo->localAuthority);
-        $location->execute();
-
-        // Add Care home provider to Groups table
-        //$group = $conn->prepare( "INSERT INTO groups (name) VALUES (?)");
-        //$group->bind_param('s',$pageInfo->group);
-       // $group->execute();
-
-        // Add Care home service types to Types table
-        foreach ((array) $pageInfo->types as $type) {
-            $type = $conn->prepare("INSERT INTO types (name) VALUES (?)");
-            $type->bind_param('s', $type);
-            $type->execute();
-        }
-
-        // Add Care home to Carehomes table with foreign keys
-        $locationForeignKey = 'SELECT MAX id FROM locations';
-        $groupForeignKey = 'SELECT MAX id FROM groups';
-        $typeForeignKey = 'SELECT MAX id FROM types';
-        $carehome =  $conn->prepare( "INSERT INTO care_homes (name, number_beds, location_id, group_id, type_id, notes)
-            VALUES (?, ?, ($locationForeignKey ), ( $groupForeignKey ), ( $typeForeignKey ), NULL)");
-        $carehome->bind_param('siiiis',$pageInfo->title, $pageInfo->beds, $location_id, $group_id,
-            $type_id, $pageInfo->notes);
-        $carehome->execute();
-
-        // Add Care home contact to the Contacts table with care home foreign key
-        $contact = $conn->prepare( "INSERT INTO contacts (name, role, email, phone, linkedin, carehome_id)
-            VALUES (?, NULL, NULL, ?, NULL, ( SELECT MAX id FROM care_homes ))");
-        $contact->bind_param('sssssi',$pageInfo->contactName, $pageInfo->role, $pageInfo->email,
-            $pageInfo->phone, $pageInfo->linkedin, $carehome_id);
-        $contact->execute();
+        $this->insertIntoLocationsTable($this->initConnection(), $pageInfo);
+        $this->insertIntoCarehomesTable($this->initConnection(), $pageInfo);
+        $this->insertIntoContactsTable($this->initConnection(), $pageInfo);
+        $this->insertTypesRelationIntoPivotTable($this->initConnection(), $pageInfo);
 
         /*
         // Add Care home specialism to Specialisms table
@@ -119,18 +83,19 @@ class PagesParser
         $specialism->execute();
 
         // Add foreign keys to Carehomes Specialisms pivot table
+        $carehomeForeignKey = 'SELECT id FROM care_homes WHERE care_homes.name = $pageInfo->title';
+        $specialismForeignKey = 'SELECT id FROM specialisms WHERE specialisms.name = $pageInfo->specialism'
         $carehomeSpecialism = $conn->prepare( "INSERT INTO carehome_specialism (carehome_id, specialism_id) 
-            VALUES ((SELECT MAX id FROM care_homes), (SELECT MAX id FROM specialisms))");
-        $carehomeSpecialism->bind_param('ii',$carehome_id, $specialism_id);
+            VALUES (?, ?)");
+        $carehomeSpecialism->bind_param('ii',$carehomeForeignKey, $specialismForeignKey);
         $carehomeSpecialism->execute();
          */
-
-        mysqli_close($conn);
     }
 
     private function handleAllInfo(array $pageInfos)
     {
         $this->ensureAllTypesExist($pageInfos);
+        $this->ensureAllGroupsExist($pageInfos);
 
         foreach($pageInfos as $pageInfo)
         {
@@ -139,12 +104,13 @@ class PagesParser
             // loop over pageInfo->types as  $type
             // locate the type ID that relates to the current type
         }
+        $this->closeConnection($this->initConnection());
     }
 
     private function ensureAllTypesExist(array $pageInfos)
     {
         $uniqueTypes = $this->getUniqueTypes($pageInfos);
-        $this->insertIntoTable('types', $uniqueTypes);
+        $this->insertUniqueItemsIntoTable($uniqueTypes, $this->initConnection(), 'types', 'name');
     }
 
     private function getUniqueTypes(array $pageInfos)
@@ -161,9 +127,105 @@ class PagesParser
         return array_keys($types);
     }
 
-    private function insertIntoTable($string, array $uniqueTypes)
+    private function ensureAllGroupsExist(array $pageInfos)
     {
-//        $sql = "INSERT into types values (?)";
-//        $prepareStatement = $conn->
+        $uniqueGroups = $this->getUniqueGroups($pageInfos);
+        $this->insertUniqueItemsIntoTable($uniqueGroups, $this->initConnection(), 'groups', 'name');
+    }
+
+    private function getUniqueGroups(array $pageInfos)
+    {
+        $groups = [];
+        foreach($pageInfos as $pageInfo)
+        {
+            if ($pageInfo->group)
+            {
+                $groups[$pageInfo->group] = true;
+            }
+        }
+        return array_keys($groups);
+    }
+
+    private function insertUniqueItemsIntoTable(array $uniqueItems, $connection, $table, $field)
+    {
+        $sql = "INSERT INTO $table ($field) VALUES (?)";
+        foreach ($uniqueItems as $item)
+        {
+            $prepareStatement = $connection->prepare($sql);
+            $prepareStatement->bind_param('s', $item);
+            $prepareStatement->execute();
+        }
+    }
+
+    private function initConnection()
+    {
+        $servername = "localhost";
+        $username = "root";
+        $password = "";
+        $database = "carehomes";
+
+        // Create connection
+        $conn = new mysqli($servername, $username, $password, $database);
+
+        // Check connection
+        if ($conn->connect_error) {
+            die("Connection failed: " . $conn->connect_error);
+        }
+        echo "Connected successfully" . "<br>";
+
+        return $conn;
+    }
+
+    private function closeConnection($conn)
+    {
+        mysqli_close($conn);
+    }
+
+    // Add Care home location data to Locations table
+    private function insertIntoLocationsTable($connection, $pageInfo)
+    {
+        $sql = "INSERT INTO locations (name, location_authority) VALUES (?, ?)";
+        $prepareStatement = $connection->prepare($sql);
+        $prepareStatement->bind_param('ss', $pageInfo->location, $pageInfo->localAuthority);
+        $prepareStatement->execute();
+    }
+
+    // Add Care home to Carehomes table with foreign keys
+    private function insertIntoCarehomesTable($connection, $pageInfo)
+    {
+        $sql = "INSERT INTO care_homes (name, number_beds, location_id, group_id) VALUES (?, ?, ?, ?)";
+
+        $locationForeignKey = 'SELECT id FROM locations WHERE name = $pageInfo->location';
+        $groupForeignKey = 'SELECT id FROM groups WHERE name = $pageInfo->group';
+        $prepareStatement = $connection->prepare($sql);
+        $prepareStatement->bind_param('siii', $pageInfo->title, $pageInfo->beds, $locationForeignKey, $groupForeignKey);
+        $prepareStatement->execute();
+    }
+
+    // Add Care home contact to the Contacts table with care home foreign key
+    private function insertIntoContactsTable($connection, $pageInfo)
+    {
+        $sql = "INSERT INTO contacts (name, phone, carehome_id) VALUES (?, ?, ?)";
+
+        $carehomeForeignKey = 'SELECT id FROM care_homes WHERE name = $pageInfo->title';
+
+        $prepareStatement = $connection->prepare($sql);
+        $prepareStatement->bind_param('ssi', $pageInfo->contactName, $pageInfo->phone, $carehomeForeignKey);
+        $prepareStatement->execute();
+    }
+
+    private function insertTypesRelationIntoPivotTable($connection, $pageInfo)
+    {
+        $sql = "INSERT INTO carehome_type (carehome_id, type_id) VALUES (?, ?)";
+
+        $carehomeForeignKey = 'SELECT id FROM care_homes WHERE name = $pageInfo->title';
+        foreach ($pageInfo->types as $type) {
+            $typeForeignKey = 'SELECT id FROM types WHERE name = $type';
+            $prepareStatement = $connection->prepare($sql);
+            $prepareStatement->bind_param('ii', $carehomeForeignKey, $typeForeignKey);
+            $prepareStatement->execute();
+        }
+
+
     }
 }

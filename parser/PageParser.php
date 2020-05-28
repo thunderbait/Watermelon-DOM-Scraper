@@ -26,30 +26,29 @@ class PageParser
             static::$EXTRACTORS = [
 
                 'location' => function ($contentElement) {
-                    $address = $contentElement->find('.address-line1', 0);
-                    $city = $contentElement->find('.address-line2', 0);
-                    $postcode = $contentElement->find('li', 3);
+                    $address = $contentElement->find('.address-line1', 0)->plaintext;
+                    $city = $contentElement->find('.address-line2', 0)->plaintext;
+                    $postcode = $contentElement->find('li', 3)->plaintext;
                     $location = $address . ", " . $city . ", " . $postcode;
                     return $location
-                        ? trim($location->plaintext)
+                        ? $location
                         : null;
                 },
 
                 'phone' => function ($contentElement) {
-                    $listElement = $contentElement->find('li', 0);
-                    $phone = $listElement->find('span', 0);
+                    $phone = $contentElement->find('span', 0);
                     return $phone
                         ? trim($phone->plaintext)
                         : null;
                 },
 
                 'types' => function ($contentElement) {
-                    $elements = $contentElement->find('div');
+                    $element = $contentElement->find('div');
                     $types = [];
 
-                    foreach ($elements as $element) {
-                        if (!$element->hasChildNodes()) {
-                            $types = trim($element->plaintext);
+                    if (count($element[0]->children()) != 0) {
+                        for ($i = 0; $i < count($element[0]->children()); $i++) {
+                            $types[] = trim($element[0]->children($i)->plaintext);
                         }
                     }
                     return $types;
@@ -63,23 +62,23 @@ class PageParser
                 },
 
                 'contactName' => function ($contentElement) {
-                    $contactName = $contentElement->nextSibling();
+                    $contactName = trim($contentElement->plaintext);
                     return $contactName
-                        ? trim($contactName->plaintext)
+                        ? $contactName
                         : null;
                 },
 
                 'beds' => function ($contentElement) {
-                    $beds = $contentElement->nextSibling();
+                    $beds = trim($contentElement->plaintext);
                     return $beds
-                        ? trim($beds->plaintext)
+                        ? $beds
                         : null;
                 },
 
                 'localAuthority' => function ($contentElement) {
-                    $localAuthority = $contentElement->nextSibling();
+                    $localAuthority = trim($contentElement->plaintext);
                     return $localAuthority
-                        ? trim($localAuthority->plaintext)
+                        ? $localAuthority
                         : null;
                 },
 
@@ -173,7 +172,6 @@ class PageParser
             $content = $section->find('.col-lg-7');
 
             if (count($heading) && count($content)) {
-
 
                 $headingString = $heading[0]->plaintext;
                 $contentData = $this->extractContent($headingString, $content[0]);
