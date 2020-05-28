@@ -6,8 +6,6 @@ include_once 'PageInfo.php';
 /**
  * Responsible for parsing a single page
  *
- * TODO Some content paragraphs have a 'view more'.
- *
  * Class PageParser
  */
 class PageParser
@@ -28,7 +26,10 @@ class PageParser
             static::$EXTRACTORS = [
 
                 'location' => function ($contentElement) {
-                    $location = $contentElement->find('.address-line2');
+                    $address = $contentElement->find('.address-line1', 0);
+                    $city = $contentElement->find('.address-line2', 0);
+                    $postcode = $contentElement->find('li', 3);
+                    $location = $address . ", " . $city . ", " . $postcode;
                     return $location
                         ? trim($location->plaintext)
                         : null;
@@ -152,21 +153,6 @@ class PageParser
         return $pageInfo->title;
     }
 
-    private function splitTitleForAcronym(PageInfo $pageInfo)
-    {
-        if ($pageInfo->title) {
-            $startPos = strrpos($pageInfo->title, '(');
-            if ($startPos) {
-                $startPos = $startPos + 1;
-                $endPos = strpos($pageInfo->title, ')', $startPos);
-                if ($endPos) {
-                    $pageInfo->acronym = substr($pageInfo->title, $startPos, $endPos - $startPos);
-                    $pageInfo->title = trim(substr($pageInfo->title, 0, $startPos - 1));
-                }
-            }
-        }
-    }
-
     /**
      * @param simple_html_dom_node $content
      * @return array
@@ -175,20 +161,26 @@ class PageParser
     {
         $sections = [];
         // Find data fields html elements
-        $sectionHeadings = $content->find('h3[.col-md-12 col-lg-5], div[.col-xs-12 col-lg-5 pl-0 type]');
+        $sectionElems = $content->find("[class^='info-']");
+        //$sectionHeadings = $content->find('.info-location', 0, '.info-tel', 0, 'info-services');
+        //$sectionHeadings = $content->find('.info-')
 
         /** @var simple_html_dom_node $sectionHeading */
-        foreach ($sectionHeadings as $sectionHeading) {
+        foreach ($sectionElems as $section) {
 
             /** @var simple_html_dom_node $sectionContent */
-            $sectionContent = $sectionHeading->nextSibling();
-            if ($sectionContent && $this->tagCanHoldContent($sectionContent->tag)) {
-                $heading = trim($sectionHeading->plaintext);
-                $content = $this->extractContent($heading, $sectionContent);
+            $heading = $section->find('h1, h2, h3, h4, h5, .type');
+            $content = $section->find('.col-lg-7');
+
+            if (count($heading) && count($content)) {
+
+
+                $headingString = $heading[0]->plaintext;
+                $contentData = $this->extractContent($headingString, $content[0]);
 
                 $sections[] = [
-                    'heading' => $heading,
-                    'content' => $content
+                    'heading' => $headingString,
+                    'content' => $contentData
                 ];
             }
         }

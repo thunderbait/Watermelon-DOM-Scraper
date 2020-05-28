@@ -20,15 +20,26 @@ class PagesParser
 
     public function parsePages()
     {
+        $pageInfos = [];
+        $errors = [];
         while ($html = $this->pagesContentProvider->getNextPageContent())
         {
             $pageParser = new PageParser($html);
             $pageInfo = $pageParser->parse();
-
             if ($pageInfo)
-                $this->handlePageInfo($pageInfo);
+                $pageInfos[] = $pageInfo;
             else
-                $this->handleError($html);
+                $errors[] = 'Failed to parse: ' . $html;
+        }
+
+        if (!count($errors))
+        {
+            // all parsed ok!
+            $this->handleAllInfo($pageInfos);
+        }
+        else
+        {
+            print_r($errors);
         }
     }
 
@@ -48,12 +59,12 @@ class PagesParser
     {
         echo $pageInfo->title . "<br>";
         var_dump($pageInfo->types);
-        echo $pageInfo->location . "\n";
-        echo $pageInfo->phone . "\n";
-        echo $pageInfo->group . "\n";
-        echo $pageInfo->localAuthority . "\n";
-        echo $pageInfo->contactName . "\n";
-        echo $pageInfo->beds . "\n";
+        echo $pageInfo->location . "<br>";
+        echo $pageInfo->phone . "<br>";
+        echo $pageInfo->group . "<br>";
+        echo $pageInfo->localAuthority . "<br>";
+        echo $pageInfo->contactName . "<br>";
+        echo $pageInfo->beds . "<br>";
 
         $servername = "localhost";
         $username = "root";
@@ -73,13 +84,13 @@ class PagesParser
         $location->execute();
 
         // Add Care home provider to Groups table
-        $group = $conn->prepare( "INSERT INTO groups (name) VALUES (?)");
-        $group->bind_param('s',$pageInfo->group);
-        $group->execute();
+        //$group = $conn->prepare( "INSERT INTO groups (name) VALUES (?)");
+        //$group->bind_param('s',$pageInfo->group);
+       // $group->execute();
 
         // Add Care home service types to Types table
         foreach ((array) $pageInfo->types as $type) {
-            $type = $conn->prepare("INSERT INTO types (name) VALUES ($type)");
+            $type = $conn->prepare("INSERT INTO types (name) VALUES (?)");
             $type->bind_param('s', $type);
             $type->execute();
         }
@@ -101,6 +112,7 @@ class PagesParser
             $pageInfo->phone, $pageInfo->linkedin, $carehome_id);
         $contact->execute();
 
+        /*
         // Add Care home specialism to Specialisms table
         $specialism = $conn->prepare( "INSERT INTO specialisms (name) VALUES (?)");
         $specialism->bind_param('s',$pageInfo->specialismName);
@@ -111,14 +123,47 @@ class PagesParser
             VALUES ((SELECT MAX id FROM care_homes), (SELECT MAX id FROM specialisms))");
         $carehomeSpecialism->bind_param('ii',$carehome_id, $specialism_id);
         $carehomeSpecialism->execute();
+         */
 
-        /*if (mysqli_query($conn, $sql)) {
-            echo "New record created successfully";
-        } else {
-            echo "Error: " . $sql . "<br>" . mysqli_error($conn);
-        }*/
         mysqli_close($conn);
+    }
 
+    private function handleAllInfo(array $pageInfos)
+    {
+        $this->ensureAllTypesExist($pageInfos);
 
+        foreach($pageInfos as $pageInfo)
+        {
+            $this->handlePageInfo($pageInfo);
+
+            // loop over pageInfo->types as  $type
+            // locate the type ID that relates to the current type
+        }
+    }
+
+    private function ensureAllTypesExist(array $pageInfos)
+    {
+        $uniqueTypes = $this->getUniqueTypes($pageInfos);
+        $this->insertIntoTable('types', $uniqueTypes);
+    }
+
+    private function getUniqueTypes(array $pageInfos)
+    {
+        $types = [];
+        foreach($pageInfos as $pageInfo)
+        {
+            if ($pageInfo->types)
+            {
+                foreach($pageInfo->types as $type)
+                    $types[$type] = true;
+            }
+        }
+        return array_keys($types);
+    }
+
+    private function insertIntoTable($string, array $uniqueTypes)
+    {
+//        $sql = "INSERT into types values (?)";
+//        $prepareStatement = $conn->
     }
 }

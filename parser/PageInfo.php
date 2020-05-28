@@ -13,6 +13,14 @@ class PageInfo
         'Local authority:' => 'localAuthority'
     ];
 
+    public $location;
+    public $phone;
+    public $types;
+    public $group;
+    public $contactName;
+    public $beds;
+    public $localAuthority;
+
     public static function getPropertyFromHeading($headingText)
     {
         $propName = null;
