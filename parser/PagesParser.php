@@ -36,7 +36,7 @@ class PagesParser
             if ($pageInfo)
                 $pageInfos[] = $pageInfo;
             else
-                $errors[] = 'Failed to parse: ' . $html;
+                $errors[] = 'Failed to parse: ' . $html . '<br>';
         }
 
         if (!count($errors))
@@ -65,9 +65,12 @@ class PagesParser
     private function handlePageInfo($pageInfo)
     {
         echo "Care home: " . $pageInfo->title . "<br>";
-        foreach ($pageInfo->types as $type)
+        if ($pageInfo->types)
         {
-            echo "Type: " . $type . "<br>";
+            foreach ($pageInfo->types as $type)
+            {
+                echo "Type: " . $type . "<br>";
+            }
         }
         //var_dump($pageInfo->types);
         echo "Location: " . $pageInfo->location . "<br>";
@@ -192,8 +195,8 @@ class PagesParser
     {
         $sql = "INSERT INTO care_homes (name, number_beds, location_id, group_id) VALUES (?, ?, ?, ?)";
 
-        $locationForeignKey = 'SELECT id FROM locations WHERE name = $pageInfo->location';
-        $groupForeignKey = 'SELECT id FROM groups WHERE name = $pageInfo->group';
+        $locationForeignKey = $connection->query("SELECT id FROM locations WHERE name = '$pageInfo->location'")->fetch_assoc()['id'];
+        $groupForeignKey = $connection->query("SELECT id FROM groups WHERE name = '$pageInfo->group'")->fetch_assoc()['id'];
         $prepareStatement = $connection->prepare($sql);
         $prepareStatement->bind_param('siii', $pageInfo->title, $pageInfo->beds, $locationForeignKey, $groupForeignKey);
         $prepareStatement->execute();
@@ -204,7 +207,7 @@ class PagesParser
     {
         $sql = "INSERT INTO contacts (name, phone, carehome_id) VALUES (?, ?, ?)";
 
-        $carehomeForeignKey = 'SELECT id FROM care_homes WHERE name = $pageInfo->title';
+        $carehomeForeignKey = $connection->query("SELECT id FROM care_homes WHERE name = '$pageInfo->title'")->fetch_assoc()['id'];
 
         $prepareStatement = $connection->prepare($sql);
         $prepareStatement->bind_param('ssi', $pageInfo->contactName, $pageInfo->phone, $carehomeForeignKey);
@@ -215,9 +218,9 @@ class PagesParser
     {
         $sql = "INSERT INTO carehome_type (carehome_id, type_id) VALUES (?, ?)";
 
-        $carehomeForeignKey = 'SELECT id FROM care_homes WHERE name = $pageInfo->title';
+        $carehomeForeignKey = $connection->query("SELECT id FROM care_homes WHERE name = '$pageInfo->title'")->fetch_assoc()['id'];
         foreach ($pageInfo->types as $type) {
-            $typeForeignKey = 'SELECT id FROM types WHERE name = $type';
+            $typeForeignKey = $connection->query("SELECT id FROM types WHERE name = '$type'")->fetch_assoc()['id'];
             $prepareStatement = $connection->prepare($sql);
             $prepareStatement->bind_param('ii', $carehomeForeignKey, $typeForeignKey);
             $prepareStatement->execute();
