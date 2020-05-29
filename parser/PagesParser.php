@@ -15,7 +15,14 @@ class PagesParser
 
     public function __construct()
     {
+        $servername = "localhost";
+        $username = "root";
+        $password = "";
+        $database = "carehomes";
+
         $this->pagesContentProvider = new DirectoryPageContentProvider('pages/Wales');
+        $this->conn = new mysqli($servername, $username, $password, $database);
+        $this->checkConnection($this->conn);
     }
 
     public function parsePages()
@@ -71,10 +78,10 @@ class PagesParser
         echo "Number of beds: " . $pageInfo->beds . "<br>";
         echo "<hr>";
 
-        $this->insertIntoLocationsTable($this->initConnection(), $pageInfo);
-        $this->insertIntoCarehomesTable($this->initConnection(), $pageInfo);
-        $this->insertIntoContactsTable($this->initConnection(), $pageInfo);
-        $this->insertTypesRelationIntoPivotTable($this->initConnection(), $pageInfo);
+        $this->insertIntoLocationsTable($this->conn, $pageInfo);
+        $this->insertIntoCarehomesTable($this->conn, $pageInfo);
+        $this->insertIntoContactsTable($this->conn, $pageInfo);
+        $this->insertTypesRelationIntoPivotTable($this->conn, $pageInfo);
         /*
         // Add Care home specialism to Specialisms table
         $specialism = $conn->prepare( "INSERT INTO specialisms (name) VALUES (?)");
@@ -103,13 +110,13 @@ class PagesParser
             // loop over pageInfo->types as  $type
             // locate the type ID that relates to the current type
         }
-        $this->closeConnection($this->initConnection());
+        $this->closeConnection($this->conn);
     }
 
     private function ensureAllTypesExist(array $pageInfos)
     {
         $uniqueTypes = $this->getUniqueTypes($pageInfos);
-        $this->insertUniqueItemsIntoTable($uniqueTypes, $this->initConnection(), 'types', 'name');
+        $this->insertUniqueItemsIntoTable($uniqueTypes, $this->conn, 'types', 'name');
     }
 
     private function getUniqueTypes(array $pageInfos)
@@ -129,7 +136,7 @@ class PagesParser
     private function ensureAllGroupsExist(array $pageInfos)
     {
         $uniqueGroups = $this->getUniqueGroups($pageInfos);
-        $this->insertUniqueItemsIntoTable($uniqueGroups, $this->initConnection(), 'groups', 'name');
+        $this->insertUniqueItemsIntoTable($uniqueGroups, $this->conn, 'groups', 'name');
     }
 
     private function getUniqueGroups(array $pageInfos)
@@ -156,28 +163,19 @@ class PagesParser
         }
     }
 
-    private function initConnection()
+    private function checkConnection($connection)
     {
-        $servername = "localhost";
-        $username = "root";
-        $password = "";
-        $database = "carehomes";
-
-        // Create connection
-        $conn = new mysqli($servername, $username, $password, $database);
-
         // Check connection
-        if ($conn->connect_error) {
-            die("Connection failed: " . $conn->connect_error);
+        if ($connection->connect_error) {
+            die("Connection failed: " . $connection->connect_error);
         }
         echo "Connected successfully" . "<br>";
-
-        return $conn;
     }
 
     private function closeConnection($conn)
     {
         mysqli_close($conn);
+        echo "Connection closed";
     }
 
     // Add Care home location data to Locations table
